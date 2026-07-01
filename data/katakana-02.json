@@ -1,802 +1,5002 @@
 [
   {
-    "id": "katakana02-001",
-    "kana": "アイス",
-    "romaji": [
-      "aisu"
-    ],
-    "translation": "ice cream"
-  },
-  {
-    "id": "katakana02-002",
-    "kana": "アジア",
-    "romaji": [
-      "ajia"
-    ],
-    "translation": "Asia"
-  },
-  {
-    "id": "katakana02-003",
-    "kana": "アニメ",
-    "romaji": [
-      "anime"
-    ],
-    "translation": "anime"
-  },
-  {
-    "id": "katakana02-004",
-    "kana": "アロエ",
-    "romaji": [
-      "aroe"
-    ],
-    "translation": "aloe"
-  },
-  {
-    "id": "katakana02-005",
-    "kana": "イタリア",
-    "romaji": [
-      "itaria"
-    ],
-    "translation": "Italy"
-  },
-  {
-    "id": "katakana02-006",
-    "kana": "インク",
-    "romaji": [
-      "inku"
-    ],
-    "translation": "ink"
-  },
-  {
-    "id": "katakana02-007",
-    "kana": "ウイルス",
-    "romaji": [
-      "uirusu"
-    ],
-    "translation": "virus"
-  },
-  {
-    "id": "katakana02-008",
-    "kana": "エアコン",
-    "romaji": [
-      "eakon"
-    ],
-    "translation": "air conditioner"
-  },
-  {
-    "id": "katakana02-009",
-    "kana": "エコ",
-    "romaji": [
-      "eko"
-    ],
-    "translation": "eco-friendly"
-  },
-  {
-    "id": "katakana02-010",
-    "kana": "エプロン",
-    "romaji": [
-      "epuron"
-    ],
-    "translation": "apron"
-  },
-  {
-    "id": "katakana02-011",
-    "kana": "オイル",
-    "romaji": [
-      "oiru"
-    ],
-    "translation": "oil"
-  },
-  {
-    "id": "katakana02-012",
-    "kana": "オペラ",
-    "romaji": [
-      "opera"
-    ],
-    "translation": "opera"
-  },
-  {
-    "id": "katakana02-013",
-    "kana": "カカオ",
-    "romaji": [
-      "kakao"
-    ],
-    "translation": "cacao"
-  },
-  {
-    "id": "katakana02-014",
-    "kana": "カメラ",
-    "romaji": [
-      "kamera"
-    ],
-    "translation": "camera"
-  },
-  {
-    "id": "katakana02-015",
-    "kana": "アクセル",
-    "romaji": [
-      "akuseru"
-    ],
-    "translation": "accelerator"
-  },
-  {
-    "id": "katakana02-016",
-    "kana": "アプリ",
-    "romaji": [
-      "apuri"
-    ],
-    "translation": "app"
-  },
-  {
-    "id": "katakana02-017",
-    "kana": "アルミ",
-    "romaji": [
-      "arumi"
-    ],
-    "translation": "aluminum"
-  },
-  {
-    "id": "katakana02-018",
-    "kana": "ガイド",
-    "romaji": [
-      "gaido"
-    ],
-    "translation": "guide"
-  },
-  {
-    "id": "katakana02-019",
-    "kana": "ガラス",
-    "romaji": [
-      "garasu"
-    ],
-    "translation": "glass"
-  },
-  {
-    "id": "katakana02-020",
-    "kana": "キウイ",
-    "romaji": [
-      "kiui"
-    ],
-    "translation": "kiwi fruit"
-  },
-  {
-    "id": "katakana02-021",
-    "kana": "キロ",
-    "romaji": [
-      "kiro"
-    ],
-    "translation": "kilogram"
-  },
-  {
-    "id": "katakana02-022",
-    "kana": "クイズ",
-    "romaji": [
-      "kuizu"
-    ],
-    "translation": "quiz"
-  },
-  {
-    "id": "katakana02-023",
+    "id": "jmdict-1243910-643d3c85",
     "kana": "クラブ",
     "romaji": [
       "kurabu"
     ],
-    "translation": "club"
+    "translation": "club",
+    "source": "JMdict",
+    "sourceId": 1243910
   },
   {
-    "id": "katakana02-024",
-    "kana": "グラス",
+    "id": "jmdict-1013970-e48a1795",
+    "kana": "アイス",
     "romaji": [
-      "gurasu"
+      "aisu"
     ],
-    "translation": "drinking glass"
+    "translation": "ice",
+    "source": "JMdict",
+    "sourceId": 1013970
   },
   {
-    "id": "katakana02-025",
-    "kana": "イベント",
+    "id": "jmdict-1022210-c69ce7c2",
+    "kana": "インク",
     "romaji": [
-      "ibento"
+      "inku"
     ],
-    "translation": "event"
+    "translation": "ink",
+    "source": "JMdict",
+    "sourceId": 1022210
   },
   {
-    "id": "katakana02-026",
-    "kana": "エリア",
-    "romaji": [
-      "eria"
-    ],
-    "translation": "area"
-  },
-  {
-    "id": "katakana02-027",
-    "kana": "コアラ",
-    "romaji": [
-      "koara"
-    ],
-    "translation": "koala"
-  },
-  {
-    "id": "katakana02-028",
-    "kana": "コイン",
-    "romaji": [
-      "koin"
-    ],
-    "translation": "coin"
-  },
-  {
-    "id": "katakana02-029",
-    "kana": "ココア",
-    "romaji": [
-      "kokoa"
-    ],
-    "translation": "cocoa"
-  },
-  {
-    "id": "katakana02-030",
-    "kana": "オアシス",
-    "romaji": [
-      "oashisu"
-    ],
-    "translation": "oasis"
-  },
-  {
-    "id": "katakana02-031",
-    "kana": "ゴム",
-    "romaji": [
-      "gomu"
-    ],
-    "translation": "rubber"
-  },
-  {
-    "id": "katakana02-032",
-    "kana": "サイン",
-    "romaji": [
-      "sain"
-    ],
-    "translation": "sign"
-  },
-  {
-    "id": "katakana02-033",
-    "kana": "サラダ",
-    "romaji": [
-      "sarada"
-    ],
-    "translation": "salad"
-  },
-  {
-    "id": "katakana02-034",
-    "kana": "オクラ",
-    "romaji": [
-      "okura"
-    ],
-    "translation": "okra"
-  },
-  {
-    "id": "katakana02-035",
+    "id": "jmdict-1065680-c8a10bab",
     "kana": "ジャム",
     "romaji": [
-      "jyamu"
+      "jamu"
     ],
-    "translation": "jam"
+    "translation": "jam",
+    "source": "JMdict",
+    "sourceId": 1065680
   },
   {
-    "id": "katakana02-036",
-    "kana": "オルガン",
+    "id": "jmdict-1071940-cc3fa48c",
+    "kana": "スパイ",
     "romaji": [
-      "orugan"
+      "supai"
     ],
-    "translation": "organ"
+    "translation": "spy",
+    "source": "JMdict",
+    "sourceId": 1071940
   },
   {
-    "id": "katakana02-037",
-    "kana": "カナダ",
+    "id": "jmdict-1077140-7271fdbb",
+    "kana": "ダム",
     "romaji": [
-      "kanada"
+      "damu"
     ],
-    "translation": "Canada"
+    "translation": "dam",
+    "source": "JMdict",
+    "sourceId": 1077140
   },
   {
-    "id": "katakana02-038",
-    "kana": "カルテ",
+    "id": "jmdict-1088450-0e3241e1",
+    "kana": "ドライ",
     "romaji": [
-      "karute"
+      "dorai"
     ],
-    "translation": "medical chart"
+    "translation": "dry",
+    "source": "JMdict",
+    "sourceId": 1088450
   },
   {
-    "id": "katakana02-039",
-    "kana": "ガム",
+    "id": "jmdict-1092820-8d4ce161",
+    "kana": "ネクタイ",
     "romaji": [
-      "gamu"
+      "nekutai"
     ],
-    "translation": "chewing gum"
+    "translation": "tie",
+    "source": "JMdict",
+    "sourceId": 1092820
   },
   {
-    "id": "katakana02-040",
-    "kana": "キムチ",
-    "romaji": [
-      "kimuchi"
-    ],
-    "translation": "kimchi"
-  },
-  {
-    "id": "katakana02-041",
-    "kana": "クラゲ",
-    "romaji": [
-      "kurage"
-    ],
-    "translation": "jellyfish"
-  },
-  {
-    "id": "katakana02-042",
-    "kana": "ソファ",
-    "romaji": [
-      "sofa"
-    ],
-    "translation": "sofa"
-  },
-  {
-    "id": "katakana02-043",
-    "kana": "タイプ",
-    "romaji": [
-      "taipu"
-    ],
-    "translation": "type"
-  },
-  {
-    "id": "katakana02-044",
-    "kana": "タオル",
-    "romaji": [
-      "taoru"
-    ],
-    "translation": "towel"
-  },
-  {
-    "id": "katakana02-045",
-    "kana": "ケバブ",
-    "romaji": [
-      "kebabu"
-    ],
-    "translation": "kebab"
-  },
-  {
-    "id": "katakana02-046",
-    "kana": "ゴリラ",
-    "romaji": [
-      "gorira"
-    ],
-    "translation": "gorilla"
-  },
-  {
-    "id": "katakana02-047",
-    "kana": "テスト",
-    "romaji": [
-      "tesuto"
-    ],
-    "translation": "test"
-  },
-  {
-    "id": "katakana02-048",
-    "kana": "テレビ",
-    "romaji": [
-      "terebi"
-    ],
-    "translation": "television"
-  },
-  {
-    "id": "katakana02-049",
-    "kana": "テント",
-    "romaji": [
-      "tento"
-    ],
-    "translation": "tent"
-  },
-  {
-    "id": "katakana02-050",
-    "kana": "ドア",
-    "romaji": [
-      "doa"
-    ],
-    "translation": "door"
-  },
-  {
-    "id": "katakana02-051",
-    "kana": "トマト",
-    "romaji": [
-      "tomato"
-    ],
-    "translation": "tomato"
-  },
-  {
-    "id": "katakana02-052",
-    "kana": "ドレス",
-    "romaji": [
-      "doresu"
-    ],
-    "translation": "dress"
-  },
-  {
-    "id": "katakana02-053",
-    "kana": "ナイフ",
-    "romaji": [
-      "naifu"
-    ],
-    "translation": "knife"
-  },
-  {
-    "id": "katakana02-054",
-    "kana": "サウナ",
-    "romaji": [
-      "sauna"
-    ],
-    "translation": "sauna"
-  },
-  {
-    "id": "katakana02-055",
-    "kana": "サドル",
-    "romaji": [
-      "sadoru"
-    ],
-    "translation": "saddle"
-  },
-  {
-    "id": "katakana02-056",
-    "kana": "バイク",
-    "romaji": [
-      "baiku"
-    ],
-    "translation": "motorcycle"
-  },
-  {
-    "id": "katakana02-057",
+    "id": "jmdict-1098390-4018296b",
     "kana": "バス",
     "romaji": [
       "basu"
     ],
-    "translation": "bus"
+    "translation": "bus",
+    "source": "JMdict",
+    "sourceId": 1098390
   },
   {
-    "id": "katakana02-058",
-    "kana": "パスタ",
+    "id": "jmdict-1102140-cbf0cb2a",
+    "kana": "パパ",
     "romaji": [
-      "pasuta"
+      "papa"
     ],
-    "translation": "pasta"
+    "translation": "dad",
+    "source": "JMdict",
+    "sourceId": 1102140
   },
   {
-    "id": "katakana02-059",
-    "kana": "パン",
+    "id": "jmdict-1108540-7d0dc595",
+    "kana": "ファン",
     "romaji": [
-      "pan"
+      "fan"
     ],
-    "translation": "bread"
+    "translation": "fan",
+    "source": "JMdict",
+    "sourceId": 1108540
   },
   {
-    "id": "katakana02-060",
-    "kana": "パンダ",
-    "romaji": [
-      "panda"
-    ],
-    "translation": "panda"
-  },
-  {
-    "id": "katakana02-061",
-    "kana": "ジム",
-    "romaji": [
-      "jimu"
-    ],
-    "translation": "gym"
-  },
-  {
-    "id": "katakana02-062",
-    "kana": "ピアノ",
-    "romaji": [
-      "piano"
-    ],
-    "translation": "piano"
-  },
-  {
-    "id": "katakana02-063",
-    "kana": "ビデオ",
-    "romaji": [
-      "bideo"
-    ],
-    "translation": "video"
-  },
-  {
-    "id": "katakana02-064",
-    "kana": "ビル",
-    "romaji": [
-      "biru"
-    ],
-    "translation": "building"
-  },
-  {
-    "id": "katakana02-065",
-    "kana": "セダン",
-    "romaji": [
-      "sedan"
-    ],
-    "translation": "sedan"
-  },
-  {
-    "id": "katakana02-066",
-    "kana": "ベルト",
-    "romaji": [
-      "beruto"
-    ],
-    "translation": "belt"
-  },
-  {
-    "id": "katakana02-067",
+    "id": "jmdict-1121380-93943573",
     "kana": "ペン",
     "romaji": [
       "pen"
     ],
-    "translation": "pen"
+    "translation": "pen",
+    "source": "JMdict",
+    "sourceId": 1121380
   },
   {
-    "id": "katakana02-068",
-    "kana": "ホテル",
+    "id": "jmdict-1129240-14f1f19e",
+    "kana": "ママ",
     "romaji": [
-      "hoteru"
+      "mama"
     ],
-    "translation": "hotel"
+    "translation": "mom",
+    "source": "JMdict",
+    "sourceId": 1129240
   },
   {
-    "id": "katakana02-069",
-    "kana": "ボタン",
+    "id": "jmdict-1130880-5b3d1302",
+    "kana": "ミセス",
     "romaji": [
-      "botan"
+      "misesu"
     ],
-    "translation": "button"
+    "translation": "Mrs",
+    "source": "JMdict",
+    "sourceId": 1130880
   },
   {
-    "id": "katakana02-070",
-    "kana": "ポスト",
+    "id": "jmdict-1014210-73575c64",
+    "kana": "アイデア",
     "romaji": [
-      "posuto"
+      "aidea"
     ],
-    "translation": "mailbox"
+    "translation": "idea",
+    "source": "JMdict",
+    "sourceId": 1014210
   },
   {
-    "id": "katakana02-071",
-    "kana": "マスク",
+    "id": "jmdict-1041030-38e8334f",
+    "kana": "キス",
     "romaji": [
-      "masuku"
+      "kisu"
     ],
-    "translation": "mask"
+    "translation": "kiss",
+    "source": "JMdict",
+    "sourceId": 1041030
   },
   {
-    "id": "katakana02-072",
-    "kana": "ミルク",
-    "romaji": [
-      "miruku"
-    ],
-    "translation": "milk"
-  },
-  {
-    "id": "katakana02-073",
-    "kana": "メモ",
-    "romaji": [
-      "memo"
-    ],
-    "translation": "memo"
-  },
-  {
-    "id": "katakana02-074",
-    "kana": "メロン",
-    "romaji": [
-      "meron"
-    ],
-    "translation": "melon"
-  },
-  {
-    "id": "katakana02-075",
-    "kana": "ラジオ",
-    "romaji": [
-      "rajio"
-    ],
-    "translation": "radio"
-  },
-  {
-    "id": "katakana02-076",
-    "kana": "リボン",
-    "romaji": [
-      "ribon"
-    ],
-    "translation": "ribbon"
-  },
-  {
-    "id": "katakana02-077",
-    "kana": "レモン",
-    "romaji": [
-      "remon"
-    ],
-    "translation": "lemon"
-  },
-  {
-    "id": "katakana02-078",
-    "kana": "ワイン",
-    "romaji": [
-      "wain"
-    ],
-    "translation": "wine"
-  },
-  {
-    "id": "katakana02-079",
-    "kana": "タイヤ",
-    "romaji": [
-      "taiya"
-    ],
-    "translation": "tire"
-  },
-  {
-    "id": "katakana02-080",
-    "kana": "キャベツ",
-    "romaji": [
-      "kyabetsu"
-    ],
-    "translation": "cabbage"
-  },
-  {
-    "id": "katakana02-081",
+    "id": "jmdict-1042200-9d73266c",
     "kana": "キャンプ",
     "romaji": [
       "kyanpu"
     ],
-    "translation": "camping"
+    "translation": "camp",
+    "source": "JMdict",
+    "sourceId": 1042200
   },
   {
-    "id": "katakana02-082",
-    "kana": "ダンス",
+    "id": "jmdict-1043470-93a7dd55",
+    "kana": "クイズ",
     "romaji": [
-      "dansu"
+      "kuizu"
     ],
-    "translation": "dance"
+    "translation": "quiz",
+    "source": "JMdict",
+    "sourceId": 1043470
   },
   {
-    "id": "katakana02-083",
-    "kana": "クラス",
+    "id": "jmdict-1049870-19a6922d",
+    "kana": "コイン",
     "romaji": [
-      "kurasu"
+      "koin"
     ],
-    "translation": "class"
+    "translation": "coin",
+    "source": "JMdict",
+    "sourceId": 1049870
   },
   {
-    "id": "katakana02-084",
-    "kana": "チリ",
+    "id": "jmdict-1054620-56fd6f27",
+    "kana": "ゴルフ",
     "romaji": [
-      "chiri"
+      "gorufu"
     ],
-    "translation": "Chile"
+    "translation": "golf",
+    "source": "JMdict",
+    "sourceId": 1054620
   },
   {
-    "id": "katakana02-085",
-    "kana": "デニム",
+    "id": "jmdict-1055780-cd336112",
+    "kana": "サイズ",
     "romaji": [
-      "denimu"
+      "saizu"
     ],
-    "translation": "denim"
+    "translation": "size",
+    "source": "JMdict",
+    "sourceId": 1055780
   },
   {
-    "id": "katakana02-086",
-    "kana": "ドラマ",
+    "id": "jmdict-1065290-1ea1a3b3",
+    "kana": "ジャズ",
     "romaji": [
-      "dorama"
+      "jazu"
     ],
-    "translation": "television drama"
+    "translation": "jazz",
+    "source": "JMdict",
+    "sourceId": 1065290
   },
   {
-    "id": "katakana02-087",
-    "kana": "ナイロン",
+    "id": "jmdict-1065860-72846f25",
+    "kana": "ジャンプ",
     "romaji": [
-      "nairon"
+      "janpu"
     ],
-    "translation": "nylon"
+    "translation": "jump",
+    "source": "JMdict",
+    "sourceId": 1065860
   },
   {
-    "id": "katakana02-088",
-    "kana": "ハム",
+    "id": "jmdict-1075500-31a32890",
+    "kana": "ソフト",
     "romaji": [
-      "hamu"
+      "sofuto"
     ],
-    "translation": "ham"
+    "translation": "soft",
+    "source": "JMdict",
+    "sourceId": 1075500
   },
   {
-    "id": "katakana02-089",
-    "kana": "バナナ",
+    "id": "jmdict-1075940-3fc53d51",
+    "kana": "タイプ",
     "romaji": [
-      "banana"
+      "taipu"
     ],
-    "translation": "banana"
+    "translation": "type",
+    "source": "JMdict",
+    "sourceId": 1075940
   },
   {
-    "id": "katakana02-090",
-    "kana": "パイ",
+    "id": "jmdict-1076120-dfcefda8",
+    "kana": "タイヤ",
     "romaji": [
-      "pai"
+      "taiya"
     ],
-    "translation": "pie"
+    "translation": "tire",
+    "source": "JMdict",
+    "sourceId": 1076120
   },
   {
-    "id": "katakana02-091",
-    "kana": "パネル",
+    "id": "jmdict-1076160-3d3d0d93",
+    "kana": "タウン",
     "romaji": [
-      "paneru"
+      "taun"
     ],
-    "translation": "panel"
+    "translation": "town",
+    "source": "JMdict",
+    "sourceId": 1076160
   },
   {
-    "id": "katakana02-092",
-    "kana": "ビキニ",
+    "id": "jmdict-1076980-9799a80d",
+    "kana": "ダウン",
     "romaji": [
-      "bikini"
+      "daun"
     ],
-    "translation": "bikini"
+    "translation": "fall",
+    "source": "JMdict",
+    "sourceId": 1076980
   },
   {
-    "id": "katakana02-093",
+    "id": "jmdict-1079290-eab6741c",
+    "kana": "テキスト",
+    "romaji": [
+      "tekisuto"
+    ],
+    "translation": "text",
+    "source": "JMdict",
+    "sourceId": 1079290
+  },
+  {
+    "id": "jmdict-1081040-d2ba985c",
+    "kana": "テント",
+    "romaji": [
+      "tento"
+    ],
+    "translation": "tent",
+    "source": "JMdict",
+    "sourceId": 1081040
+  },
+  {
+    "id": "jmdict-1087820-50b943d0",
+    "kana": "ドア",
+    "romaji": [
+      "doa"
+    ],
+    "translation": "door",
+    "source": "JMdict",
+    "sourceId": 1087820
+  },
+  {
+    "id": "jmdict-1101120-78131ef8",
+    "kana": "パイプ",
+    "romaji": [
+      "paipu"
+    ],
+    "translation": "pipe",
+    "source": "JMdict",
+    "sourceId": 1101120
+  },
+  {
+    "id": "jmdict-1104300-faa6e701",
+    "kana": "ヒント",
+    "romaji": [
+      "hinto"
+    ],
+    "translation": "hint",
+    "source": "JMdict",
+    "sourceId": 1104300
+  },
+  {
+    "id": "jmdict-1104720-507f75dd",
     "kana": "ビザ",
     "romaji": [
       "biza"
     ],
-    "translation": "visa"
+    "translation": "visa",
+    "source": "JMdict",
+    "sourceId": 1104720
   },
   {
-    "id": "katakana02-094",
-    "kana": "ピザ",
+    "id": "jmdict-1107140-caaf2acd",
+    "kana": "ピンク",
     "romaji": [
-      "piza"
+      "pinku"
     ],
-    "translation": "pizza"
+    "translation": "pink",
+    "source": "JMdict",
+    "sourceId": 1107140
   },
   {
-    "id": "katakana02-095",
+    "id": "jmdict-1109380-929226ba",
     "kana": "フィルム",
     "romaji": [
       "firumu"
     ],
-    "translation": "film"
+    "translation": "film",
+    "source": "JMdict",
+    "sourceId": 1109380
   },
   {
-    "id": "katakana02-096",
+    "id": "jmdict-1114300-1ab5d31b",
+    "kana": "ブル",
+    "romaji": [
+      "buru"
+    ],
+    "translation": "bull",
+    "source": "JMdict",
+    "sourceId": 1114300
+  },
+  {
+    "id": "jmdict-1115630-7751d5a1",
+    "kana": "プラス",
+    "romaji": [
+      "purasu"
+    ],
+    "translation": "plus",
+    "source": "JMdict",
+    "sourceId": 1115630
+  },
+  {
+    "id": "jmdict-1115900-8eec3c60",
     "kana": "プラン",
     "romaji": [
       "puran"
     ],
-    "translation": "plan"
+    "translation": "plan",
+    "source": "JMdict",
+    "sourceId": 1115900
   },
   {
-    "id": "katakana02-097",
+    "id": "jmdict-1119530-00d516cd",
+    "kana": "ベスト",
+    "romaji": [
+      "besuto"
+    ],
+    "translation": "best",
+    "source": "JMdict",
+    "sourceId": 1119530
+  },
+  {
+    "id": "jmdict-1120010-dac1de01",
+    "kana": "ベル",
+    "romaji": [
+      "beru"
+    ],
+    "translation": "bell",
+    "source": "JMdict",
+    "sourceId": 1120010
+  },
+  {
+    "id": "jmdict-1126590-29594d9c",
+    "kana": "マイク",
+    "romaji": [
+      "maiku"
+    ],
+    "translation": "mike",
+    "source": "JMdict",
+    "sourceId": 1126590
+  },
+  {
+    "id": "jmdict-1131990-ad3aa4bf",
+    "kana": "ミルク",
+    "romaji": [
+      "miruku"
+    ],
+    "translation": "milk",
+    "source": "JMdict",
+    "sourceId": 1131990
+  },
+  {
+    "id": "jmdict-1133830-9060a06d",
+    "kana": "メモ",
+    "romaji": [
+      "memo"
+    ],
+    "translation": "note",
+    "source": "JMdict",
+    "sourceId": 1133830
+  },
+  {
+    "id": "jmdict-1135480-9aeb0add",
+    "kana": "モノ",
+    "romaji": [
+      "mono"
+    ],
+    "translation": "mono",
+    "source": "JMdict",
+    "sourceId": 1135480
+  },
+  {
+    "id": "jmdict-1141500-b096d140",
+    "kana": "リスト",
+    "romaji": [
+      "risuto"
+    ],
+    "translation": "list",
+    "source": "JMdict",
+    "sourceId": 1141500
+  },
+  {
+    "id": "jmdict-1146140-e7e7e13f",
+    "kana": "レンズ",
+    "romaji": [
+      "renzu"
+    ],
+    "translation": "lens",
+    "source": "JMdict",
+    "sourceId": 1146140
+  },
+  {
+    "id": "jmdict-1148850-176987c8",
+    "kana": "ワイン",
+    "romaji": [
+      "wain"
+    ],
+    "translation": "wine",
+    "source": "JMdict",
+    "sourceId": 1148850
+  },
+  {
+    "id": "jmdict-2839962-d3a4ab7b",
+    "kana": "ゼロ",
+    "romaji": [
+      "zero"
+    ],
+    "translation": "zero",
+    "source": "JMdict",
+    "sourceId": 2839962
+  },
+  {
+    "id": "jmdict-1019160-5e5e4756",
+    "kana": "アリバイ",
+    "romaji": [
+      "aribai"
+    ],
+    "translation": "alibi",
+    "source": "JMdict",
+    "sourceId": 1019160
+  },
+  {
+    "id": "jmdict-1019450-d720ac11",
+    "kana": "アルバム",
+    "romaji": [
+      "arubamu"
+    ],
+    "translation": "album",
+    "source": "JMdict",
+    "sourceId": 1019450
+  },
+  {
+    "id": "jmdict-1025450-fcd7a140",
+    "kana": "ウイルス",
+    "romaji": [
+      "uirusu"
+    ],
+    "translation": "virus",
+    "source": "JMdict",
+    "sourceId": 1025450
+  },
+  {
+    "id": "jmdict-1026070-a25b68f2",
+    "kana": "ウエスト",
+    "romaji": [
+      "uesuto"
+    ],
+    "translation": "waist",
+    "source": "JMdict",
+    "sourceId": 1026070
+  },
+  {
+    "id": "jmdict-1039900-c25ce8ea",
+    "kana": "ガイド",
+    "romaji": [
+      "gaido"
+    ],
+    "translation": "guide",
+    "source": "JMdict",
+    "sourceId": 1039900
+  },
+  {
+    "id": "jmdict-1040380-d3ca8a81",
+    "kana": "ガラス",
+    "romaji": [
+      "garasu"
+    ],
+    "translation": "glass",
+    "source": "JMdict",
+    "sourceId": 1040380
+  },
+  {
+    "id": "jmdict-1042610-b3af9a7d",
+    "kana": "キロ",
+    "romaji": [
+      "kiro"
+    ],
+    "translation": "kilo-",
+    "source": "JMdict",
+    "sourceId": 1042610
+  },
+  {
+    "id": "jmdict-1044070-8b27332e",
+    "kana": "クラス",
+    "romaji": [
+      "kurasu"
+    ],
+    "translation": "class",
+    "source": "JMdict",
+    "sourceId": 1044070
+  },
+  {
+    "id": "jmdict-1046610-8f32fcf6",
+    "kana": "グラフ",
+    "romaji": [
+      "gurafu"
+    ],
+    "translation": "graph",
+    "source": "JMdict",
+    "sourceId": 1046610
+  },
+  {
+    "id": "jmdict-1056150-229a9284",
+    "kana": "サイレン",
+    "romaji": [
+      "sairen"
+    ],
+    "translation": "siren",
+    "source": "JMdict",
+    "sourceId": 1056150
+  },
+  {
+    "id": "jmdict-1057850-88b9442e",
+    "kana": "サラダ",
+    "romaji": [
+      "sarada"
+    ],
+    "translation": "salad",
+    "source": "JMdict",
+    "sourceId": 1057850
+  },
+  {
+    "id": "jmdict-1065560-a4d9ee79",
+    "kana": "ジャパン",
+    "romaji": [
+      "japan"
+    ],
+    "translation": "Japan",
+    "source": "JMdict",
+    "sourceId": 1065560
+  },
+  {
+    "id": "jmdict-1076170-ab3ea82f",
+    "kana": "タオル",
+    "romaji": [
+      "taoru"
+    ],
+    "translation": "towel",
+    "source": "JMdict",
+    "sourceId": 1076170
+  },
+  {
+    "id": "jmdict-1077250-795d25e7",
+    "kana": "ダンス",
+    "romaji": [
+      "dansu"
+    ],
+    "translation": "dance",
+    "source": "JMdict",
+    "sourceId": 1077250
+  },
+  {
+    "id": "jmdict-1081120-7061bee1",
+    "kana": "テンポ",
+    "romaji": [
+      "tenpo"
+    ],
+    "translation": "tempo",
+    "source": "JMdict",
+    "sourceId": 1081120
+  },
+  {
+    "id": "jmdict-1081840-6935e4ed",
+    "kana": "ディスコ",
+    "romaji": [
+      "disuko"
+    ],
+    "translation": "disco",
+    "source": "JMdict",
+    "sourceId": 1081840
+  },
+  {
+    "id": "jmdict-1088580-3aa6571a",
+    "kana": "ドライブ",
+    "romaji": [
+      "doraibu"
+    ],
+    "translation": "drive",
+    "source": "JMdict",
+    "sourceId": 1088580
+  },
+  {
+    "id": "jmdict-1089280-aee79e06",
+    "kana": "ドレス",
+    "romaji": [
+      "doresu"
+    ],
+    "translation": "dress",
+    "source": "JMdict",
+    "sourceId": 1089280
+  },
+  {
+    "id": "jmdict-1089890-051e8f93",
+    "kana": "ナイフ",
+    "romaji": [
+      "naifu"
+    ],
+    "translation": "knife",
+    "source": "JMdict",
+    "sourceId": 1089890
+  },
+  {
+    "id": "jmdict-1089930-81ca1b6c",
+    "kana": "ナイロン",
+    "romaji": [
+      "nairon"
+    ],
+    "translation": "nylon",
+    "source": "JMdict",
+    "sourceId": 1089930
+  },
+  {
+    "id": "jmdict-1095670-290ce3db",
+    "kana": "ハウス",
+    "romaji": [
+      "hausu"
+    ],
+    "translation": "house",
+    "source": "JMdict",
+    "sourceId": 1095670
+  },
+  {
+    "id": "jmdict-1097970-b7ed59f6",
+    "kana": "バイブル",
+    "romaji": [
+      "baiburu"
+    ],
+    "translation": "Bible",
+    "source": "JMdict",
+    "sourceId": 1097970
+  },
+  {
+    "id": "jmdict-1103090-7fc267f6",
+    "kana": "パン",
+    "romaji": [
+      "pan"
+    ],
+    "translation": "bread",
+    "source": "JMdict",
+    "sourceId": 1103090
+  },
+  {
+    "id": "jmdict-1103210-672d8437",
+    "kana": "パンダ",
+    "romaji": [
+      "panda"
+    ],
+    "translation": "panda",
+    "source": "JMdict",
+    "sourceId": 1103210
+  },
+  {
+    "id": "jmdict-1115390-dc27982e",
+    "kana": "プライド",
+    "romaji": [
+      "puraido"
+    ],
+    "translation": "pride",
+    "source": "JMdict",
+    "sourceId": 1115390
+  },
+  {
+    "id": "jmdict-1116300-0087f712",
+    "kana": "プリント",
+    "romaji": [
+      "purinto"
+    ],
+    "translation": "print",
+    "source": "JMdict",
+    "sourceId": 1116300
+  },
+  {
+    "id": "jmdict-1120280-3fa80568",
     "kana": "ベンチ",
     "romaji": [
       "benchi"
     ],
-    "translation": "bench"
+    "translation": "bench",
+    "source": "JMdict",
+    "sourceId": 1120280
   },
   {
-    "id": "katakana02-098",
-    "kana": "ミシン",
+    "id": "jmdict-1122650-6f0b069f",
+    "kana": "ホテル",
     "romaji": [
-      "mishin"
+      "hoteru"
     ],
-    "translation": "sewing machine"
+    "translation": "hotel",
+    "source": "JMdict",
+    "sourceId": 1122650
   },
   {
-    "id": "katakana02-099",
+    "id": "jmdict-1126980-83e205e1",
+    "kana": "マイナス",
+    "romaji": [
+      "mainasu"
+    ],
+    "translation": "minus",
+    "source": "JMdict",
+    "sourceId": 1126980
+  },
+  {
+    "id": "jmdict-1127370-cb4ab324",
+    "kana": "マクロ",
+    "romaji": [
+      "makuro"
+    ],
+    "translation": "macro",
+    "source": "JMdict",
+    "sourceId": 1127370
+  },
+  {
+    "id": "jmdict-1130490-6dcb28d6",
+    "kana": "ミクロ",
+    "romaji": [
+      "mikuro"
+    ],
+    "translation": "micro",
+    "source": "JMdict",
+    "sourceId": 1130490
+  },
+  {
+    "id": "jmdict-1131240-609354b1",
+    "kana": "ミニ",
+    "romaji": [
+      "mini"
+    ],
+    "translation": "mini-",
+    "source": "JMdict",
+    "sourceId": 1131240
+  },
+  {
+    "id": "jmdict-1133620-4f48dbef",
     "kana": "メディア",
     "romaji": [
       "media"
     ],
-    "translation": "media"
+    "translation": "media",
+    "source": "JMdict",
+    "sourceId": 1133620
   },
   {
-    "id": "katakana02-100",
+    "id": "jmdict-1135270-1e20dd67",
+    "kana": "モデル",
+    "romaji": [
+      "moderu"
+    ],
+    "translation": "model",
+    "source": "JMdict",
+    "sourceId": 1135270
+  },
+  {
+    "id": "jmdict-1138860-d4729409",
+    "kana": "ラジオ",
+    "romaji": [
+      "rajio"
+    ],
+    "translation": "radio",
+    "source": "JMdict",
+    "sourceId": 1138860
+  },
+  {
+    "id": "jmdict-1140100-86ae0d89",
+    "kana": "ランチ",
+    "romaji": [
+      "ranchi"
+    ],
+    "translation": "lunch",
+    "source": "JMdict",
+    "sourceId": 1140100
+  },
+  {
+    "id": "jmdict-1145910-001bb779",
+    "kana": "レベル",
+    "romaji": [
+      "reberu"
+    ],
+    "translation": "level",
+    "source": "JMdict",
+    "sourceId": 1145910
+  },
+  {
+    "id": "jmdict-1146020-c26fc8c7",
+    "kana": "レモン",
+    "romaji": [
+      "remon"
+    ],
+    "translation": "lemon",
+    "source": "JMdict",
+    "sourceId": 1146020
+  },
+  {
+    "id": "jmdict-1611450-8fd3f301",
+    "kana": "ブラシ",
+    "romaji": [
+      "burashi"
+    ],
+    "translation": "brush",
+    "source": "JMdict",
+    "sourceId": 1611450
+  },
+  {
+    "id": "jmdict-1030950-b3174388",
+    "kana": "エンジン",
+    "romaji": [
+      "enjin"
+    ],
+    "translation": "engine",
+    "source": "JMdict",
+    "sourceId": 1030950
+  },
+  {
+    "id": "jmdict-1038350-fb6e4872",
+    "kana": "カメラ",
+    "romaji": [
+      "kamera"
+    ],
+    "translation": "camera",
+    "source": "JMdict",
+    "sourceId": 1038350
+  },
+  {
+    "id": "jmdict-1060300-b3d83cd9",
+    "kana": "システム",
+    "romaji": [
+      "shisutemu"
+    ],
+    "translation": "system",
+    "source": "JMdict",
+    "sourceId": 1060300
+  },
+  {
+    "id": "jmdict-1060830-ac940b15",
+    "kana": "シナリオ",
+    "romaji": [
+      "shinario"
+    ],
+    "translation": "script",
+    "source": "JMdict",
+    "sourceId": 1060830
+  },
+  {
+    "id": "jmdict-1063530-e1767a27",
+    "kana": "シングル",
+    "romaji": [
+      "shinguru"
+    ],
+    "translation": "single",
+    "source": "JMdict",
+    "sourceId": 1063530
+  },
+  {
+    "id": "jmdict-1063940-154f5d8c",
+    "kana": "シンボル",
+    "romaji": [
+      "shinboru"
+    ],
+    "translation": "symbol",
+    "source": "JMdict",
+    "sourceId": 1063940
+  },
+  {
+    "id": "jmdict-1069590-fc8540ea",
+    "kana": "スタジオ",
+    "romaji": [
+      "sutajio"
+    ],
+    "translation": "studio",
+    "source": "JMdict",
+    "sourceId": 1069590
+  },
+  {
+    "id": "jmdict-1069930-eaad970e",
+    "kana": "スタンド",
+    "romaji": [
+      "sutando"
+    ],
+    "translation": "stands",
+    "source": "JMdict",
+    "sourceId": 1069930
+  },
+  {
+    "id": "jmdict-1071490-056302b7",
+    "kana": "ストレス",
+    "romaji": [
+      "sutoresu"
+    ],
+    "translation": "stress",
+    "source": "JMdict",
+    "sourceId": 1071490
+  },
+  {
+    "id": "jmdict-1073960-acee94c5",
+    "kana": "スリル",
+    "romaji": [
+      "suriru"
+    ],
+    "translation": "thrill",
+    "source": "JMdict",
+    "sourceId": 1073960
+  },
+  {
+    "id": "jmdict-1074740-94a3dd2e",
+    "kana": "セメント",
+    "romaji": [
+      "semento"
+    ],
+    "translation": "cement",
+    "source": "JMdict",
+    "sourceId": 1074740
+  },
+  {
+    "id": "jmdict-1077110-0d0fa531",
+    "kana": "ダブル",
+    "romaji": [
+      "daburu"
+    ],
+    "translation": "double",
+    "source": "JMdict",
+    "sourceId": 1077110
+  },
+  {
+    "id": "jmdict-1077650-f5cef52a",
+    "kana": "チェンジ",
+    "romaji": [
+      "chenji"
+    ],
+    "translation": "change",
+    "source": "JMdict",
+    "sourceId": 1077650
+  },
+  {
+    "id": "jmdict-1078040-fd395d8b",
+    "kana": "チャンス",
+    "romaji": [
+      "chansu"
+    ],
+    "translation": "chance",
+    "source": "JMdict",
+    "sourceId": 1078040
+  },
+  {
+    "id": "jmdict-1080000-5f420bb5",
+    "kana": "テニス",
+    "romaji": [
+      "tenisu"
+    ],
+    "translation": "tennis",
+    "source": "JMdict",
+    "sourceId": 1080000
+  },
+  {
+    "id": "jmdict-1082900-02f17fee",
+    "kana": "デザイン",
+    "romaji": [
+      "dezain"
+    ],
+    "translation": "design",
+    "source": "JMdict",
+    "sourceId": 1082900
+  },
+  {
+    "id": "jmdict-1084810-4bdd080a",
+    "kana": "トイレ",
+    "romaji": [
+      "toire"
+    ],
+    "translation": "toilet",
+    "source": "JMdict",
+    "sourceId": 1084810
+  },
+  {
+    "id": "jmdict-1087630-7bb6a33f",
+    "kana": "トンネル",
+    "romaji": [
+      "tonneru"
+    ],
+    "translation": "tunnel",
+    "source": "JMdict",
+    "sourceId": 1087630
+  },
+  {
+    "id": "jmdict-1096830-cf75f240",
+    "kana": "ハンドル",
+    "romaji": [
+      "handoru"
+    ],
+    "translation": "handle",
+    "source": "JMdict",
+    "sourceId": 1096830
+  },
+  {
+    "id": "jmdict-1099420-5a57ba84",
+    "kana": "バナナ",
+    "romaji": [
+      "banana"
+    ],
+    "translation": "banana",
+    "source": "JMdict",
+    "sourceId": 1099420
+  },
+  {
+    "id": "jmdict-1099970-6532a9a9",
+    "kana": "バレエ",
+    "romaji": [
+      "baree"
+    ],
+    "translation": "ballet",
+    "source": "JMdict",
+    "sourceId": 1099970
+  },
+  {
+    "id": "jmdict-1106660-c17d7604",
+    "kana": "ピストル",
+    "romaji": [
+      "pisutoru"
+    ],
+    "translation": "pistol",
+    "source": "JMdict",
+    "sourceId": 1106660
+  },
+  {
+    "id": "jmdict-1113650-e273e340",
+    "kana": "ブラウス",
+    "romaji": [
+      "burausu"
+    ],
+    "translation": "blouse",
+    "source": "JMdict",
+    "sourceId": 1113650
+  },
+  {
+    "id": "jmdict-1131830-abca398f",
+    "kana": "ミリ",
+    "romaji": [
+      "miri"
+    ],
+    "translation": "milli-",
+    "source": "JMdict",
+    "sourceId": 1131830
+  },
+  {
+    "id": "jmdict-1134990-6118469c",
+    "kana": "モダン",
+    "romaji": [
+      "modan"
+    ],
+    "translation": "modern",
+    "source": "JMdict",
+    "sourceId": 1134990
+  },
+  {
+    "id": "jmdict-1141620-3829134f",
+    "kana": "リズム",
+    "romaji": [
+      "rizumu"
+    ],
+    "translation": "rhythm",
+    "source": "JMdict",
+    "sourceId": 1141620
+  },
+  {
+    "id": "jmdict-1142880-e988ec9e",
+    "kana": "リボン",
+    "romaji": [
+      "ribon"
+    ],
+    "translation": "ribbon",
+    "source": "JMdict",
+    "sourceId": 1142880
+  },
+  {
+    "id": "jmdict-1146180-1f78b7e3",
+    "kana": "レンタル",
+    "romaji": [
+      "rentaru"
+    ],
+    "translation": "rental",
+    "source": "JMdict",
+    "sourceId": 1146180
+  },
+  {
+    "id": "jmdict-1020410-621ee677",
+    "kana": "アンテナ",
+    "romaji": [
+      "antena"
+    ],
+    "translation": "antenna",
+    "source": "JMdict",
+    "sourceId": 1020410
+  },
+  {
+    "id": "jmdict-1038660-c4559ddb",
+    "kana": "カラオケ",
+    "romaji": [
+      "karaoke"
+    ],
+    "translation": "karaoke",
+    "source": "JMdict",
+    "sourceId": 1038660
+  },
+  {
+    "id": "jmdict-1076860-9ca7c272",
+    "kana": "ダイヤ",
+    "romaji": [
+      "daiya"
+    ],
+    "translation": "diamond",
+    "source": "JMdict",
+    "sourceId": 1076860
+  },
+  {
+    "id": "jmdict-1077680-41c3decf",
+    "kana": "チキン",
+    "romaji": [
+      "chikin"
+    ],
+    "translation": "chicken",
+    "source": "JMdict",
+    "sourceId": 1077680
+  },
+  {
+    "id": "jmdict-1085920-6971c1ee",
+    "kana": "トラブル",
+    "romaji": [
+      "toraburu"
+    ],
+    "translation": "trouble",
+    "source": "JMdict",
+    "sourceId": 1085920
+  },
+  {
+    "id": "jmdict-1099690-b53db1ea",
+    "kana": "バランス",
+    "romaji": [
+      "baransu"
+    ],
+    "translation": "balance",
+    "source": "JMdict",
+    "sourceId": 1099690
+  },
+  {
+    "id": "jmdict-1101430-64c5c255",
+    "kana": "パジャマ",
+    "romaji": [
+      "pajama"
+    ],
+    "translation": "pajamas",
+    "source": "JMdict",
+    "sourceId": 1101430
+  },
+  {
+    "id": "jmdict-1105160-51f39fb4",
+    "kana": "ビタミン",
+    "romaji": [
+      "bitamin"
+    ],
+    "translation": "vitamin",
+    "source": "JMdict",
+    "sourceId": 1105160
+  },
+  {
+    "id": "jmdict-1119940-c397f77d",
+    "kana": "ベランダ",
+    "romaji": [
+      "beranda"
+    ],
+    "translation": "balcony",
+    "source": "JMdict",
+    "sourceId": 1119940
+  },
+  {
+    "id": "jmdict-1125150-9eb7a5c4",
+    "kana": "ポスト",
+    "romaji": [
+      "posuto"
+    ],
+    "translation": "postbox",
+    "source": "JMdict",
+    "sourceId": 1125150
+  },
+  {
+    "id": "jmdict-1130570-8a7227af",
+    "kana": "ミサイル",
+    "romaji": [
+      "misairu"
+    ],
+    "translation": "missile",
+    "source": "JMdict",
+    "sourceId": 1130570
+  },
+  {
+    "id": "jmdict-1130650-edfe868e",
+    "kana": "ミス",
+    "romaji": [
+      "misu"
+    ],
+    "translation": "mistake",
+    "source": "JMdict",
+    "sourceId": 1130650
+  },
+  {
+    "id": "jmdict-1019620-bee80872",
+    "kana": "アルミ",
+    "romaji": [
+      "arumi"
+    ],
+    "translation": "aluminum",
+    "source": "JMdict",
+    "sourceId": 1019620
+  },
+  {
+    "id": "jmdict-1040250-179165b1",
+    "kana": "ガソリン",
+    "romaji": [
+      "gasorin"
+    ],
+    "translation": "gasoline",
+    "source": "JMdict",
+    "sourceId": 1040250
+  },
+  {
+    "id": "jmdict-1096560-efd2f621",
+    "kana": "ハンサム",
+    "romaji": [
+      "hansamu"
+    ],
+    "translation": "handsome",
+    "source": "JMdict",
+    "sourceId": 1096560
+  },
+  {
+    "id": "jmdict-1101660-e7de0a8e",
+    "kana": "パチンコ",
+    "romaji": [
+      "pachinko"
+    ],
+    "translation": "pachinko",
+    "source": "JMdict",
+    "sourceId": 1101660
+  },
+  {
+    "id": "jmdict-1103110-a64b1428",
+    "kana": "パンク",
+    "romaji": [
+      "panku"
+    ],
+    "translation": "puncture",
+    "source": "JMdict",
+    "sourceId": 1103110
+  },
+  {
+    "id": "jmdict-1104780-5b070f57",
+    "kana": "ビジネス",
+    "romaji": [
+      "bijinesu"
+    ],
+    "translation": "business",
+    "source": "JMdict",
+    "sourceId": 1104780
+  },
+  {
+    "id": "jmdict-1129290-bc3cb2a8",
+    "kana": "マラソン",
+    "romaji": [
+      "marason"
+    ],
+    "translation": "marathon",
+    "source": "JMdict",
+    "sourceId": 1129290
+  },
+  {
+    "id": "jmdict-1024430-97052a51",
+    "kana": "インフレ",
+    "romaji": [
+      "infure"
+    ],
+    "translation": "inflation",
+    "source": "JMdict",
+    "sourceId": 1024430
+  },
+  {
+    "id": "jmdict-1056230-818e2731",
+    "kana": "サイン",
+    "romaji": [
+      "sain"
+    ],
+    "translation": "autograph",
+    "source": "JMdict",
+    "sourceId": 1056230
+  },
+  {
+    "id": "jmdict-1089070-6ebbcd9d",
+    "kana": "ドリル",
+    "romaji": [
+      "doriru"
+    ],
+    "translation": "drill bit",
+    "source": "JMdict",
+    "sourceId": 1089070
+  },
+  {
+    "id": "jmdict-1092740-dfdb2f16",
+    "kana": "ネオン",
+    "romaji": [
+      "neon"
+    ],
+    "translation": "neon (Ne)",
+    "source": "JMdict",
+    "sourceId": 1092740
+  },
+  {
+    "id": "jmdict-1101650-3cd6a57b",
+    "kana": "パチパチ",
+    "romaji": [
+      "pachipachi"
+    ],
+    "translation": "crackling",
+    "source": "JMdict",
+    "sourceId": 1101650
+  },
+  {
+    "id": "jmdict-1107320-34d0c785",
+    "kana": "ピンポン",
+    "romaji": [
+      "pinpon"
+    ],
+    "translation": "ping-pong",
+    "source": "JMdict",
+    "sourceId": 1107320
+  },
+  {
+    "id": "jmdict-1075060-ef16635b",
+    "kana": "センチ",
+    "romaji": [
+      "senchi"
+    ],
+    "translation": "centimeter",
+    "source": "JMdict",
+    "sourceId": 1075060
+  },
+  {
+    "id": "jmdict-1080510-3e5b7413",
+    "kana": "テレビ",
+    "romaji": [
+      "terebi"
+    ],
+    "translation": "television",
+    "source": "JMdict",
+    "sourceId": 1080510
+  },
+  {
+    "id": "jmdict-1097810-62754c6b",
+    "kana": "バイク",
+    "romaji": [
+      "baiku"
+    ],
+    "translation": "motorcycle",
+    "source": "JMdict",
+    "sourceId": 1097810
+  },
+  {
+    "id": "jmdict-1103270-fe643b80",
+    "kana": "パンツ",
+    "romaji": [
+      "pantsu"
+    ],
+    "translation": "underpants",
+    "source": "JMdict",
+    "sourceId": 1103270
+  },
+  {
+    "id": "jmdict-1127870-2691c20d",
+    "kana": "マスク",
+    "romaji": [
+      "masuku"
+    ],
+    "translation": "(face) mask",
+    "source": "JMdict",
+    "sourceId": 1127870
+  },
+  {
+    "id": "jmdict-1023410-1e653ef0",
+    "kana": "インテリ",
+    "romaji": [
+      "interi"
+    ],
+    "translation": "intellectual",
+    "source": "JMdict",
+    "sourceId": 1023410
+  },
+  {
+    "id": "jmdict-1096420-a1737936",
+    "kana": "ハンカチ",
+    "romaji": [
+      "hankachi"
+    ],
+    "translation": "handkerchief",
+    "source": "JMdict",
+    "sourceId": 1096420
+  },
+  {
+    "id": "jmdict-1117030-af693cf1",
+    "kana": "プロ",
+    "romaji": [
+      "puro"
+    ],
+    "translation": "professional",
+    "source": "JMdict",
+    "sourceId": 1117030
+  },
+  {
+    "id": "jmdict-1084000-d864b647",
+    "kana": "デモ",
+    "romaji": [
+      "demo"
+    ],
+    "translation": "demonstration",
+    "source": "JMdict",
+    "sourceId": 1084000
+  },
+  {
+    "id": "jmdict-1097870-ce82a962",
+    "kana": "バイト",
+    "romaji": [
+      "baito"
+    ],
+    "translation": "part-time job",
+    "source": "JMdict",
+    "sourceId": 1097870
+  },
+  {
+    "id": "jmdict-1069520-ccc33c63",
+    "kana": "スタイル",
+    "romaji": [
+      "sutairu"
+    ],
+    "translation": "(one's) figure",
+    "source": "JMdict",
+    "sourceId": 1069520
+  },
+  {
+    "id": "jmdict-1070650-c77f009d",
+    "kana": "ステレオ",
+    "romaji": [
+      "sutereo"
+    ],
+    "translation": "stereo (sound)",
+    "source": "JMdict",
+    "sourceId": 1070650
+  },
+  {
+    "id": "jmdict-1094900-fe532292",
+    "kana": "ハイ",
+    "romaji": [
+      "hai"
+    ],
+    "translation": "high (spirits)",
+    "source": "JMdict",
+    "sourceId": 1094900
+  },
+  {
+    "id": "jmdict-1130640-6ba9b7bf",
+    "kana": "ミシン",
+    "romaji": [
+      "mishin"
+    ],
+    "translation": "sewing machine",
+    "source": "JMdict",
+    "sourceId": 1130640
+  },
+  {
+    "id": "jmdict-1143120-fc2497f0",
+    "kana": "リモコン",
+    "romaji": [
+      "rimokon"
+    ],
+    "translation": "remote control",
+    "source": "JMdict",
+    "sourceId": 1143120
+  },
+  {
+    "id": "jmdict-1027180-53f2d6a0",
+    "kana": "エアコン",
+    "romaji": [
+      "eakon"
+    ],
+    "translation": "air conditioner",
+    "source": "JMdict",
+    "sourceId": 1027180
+  },
+  {
+    "id": "jmdict-1096260-e70e6f54",
+    "kana": "ハラハラ",
+    "romaji": [
+      "harahara"
+    ],
+    "translation": "to feel anxious",
+    "source": "JMdict",
+    "sourceId": 1096260
+  },
+  {
+    "id": "jmdict-1076010-e03dc363",
+    "kana": "タイム",
+    "romaji": [
+      "taimu"
+    ],
+    "translation": "time (for, to do)",
+    "source": "JMdict",
+    "sourceId": 1076010
+  },
+  {
+    "id": "jmdict-1101570-8082c61f",
+    "kana": "パソコン",
+    "romaji": [
+      "pasokon"
+    ],
+    "translation": "personal computer",
+    "source": "JMdict",
+    "sourceId": 1101570
+  },
+  {
+    "id": "jmdict-1107250-a83081c6",
+    "kana": "ピント",
+    "romaji": [
+      "pinto"
+    ],
+    "translation": "focus (of a lens)",
+    "source": "JMdict",
+    "sourceId": 1107250
+  },
+  {
+    "id": "jmdict-1106400-64c02412",
+    "kana": "ピアノ",
+    "romaji": [
+      "piano"
+    ],
+    "translation": "piano (instrument)",
+    "source": "JMdict",
+    "sourceId": 1106400
+  },
+  {
+    "id": "jmdict-1127900-38407e1b",
+    "kana": "マスコミ",
+    "romaji": [
+      "masukomi"
+    ],
+    "translation": "mass communication",
+    "source": "JMdict",
+    "sourceId": 1127900
+  },
+  {
+    "id": "jmdict-1061520-b0b79149",
+    "kana": "シャツ",
+    "romaji": [
+      "shatsu"
+    ],
+    "translation": "shirt (undergarment)",
+    "source": "JMdict",
+    "sourceId": 1061520
+  },
+  {
+    "id": "jmdict-1083910-7786631e",
+    "kana": "デマ",
+    "romaji": [
+      "dema"
+    ],
+    "translation": "false rumor (rumour)",
+    "source": "JMdict",
+    "sourceId": 1083910
+  },
+  {
+    "id": "jmdict-1096180-a489c43f",
+    "kana": "ハム",
+    "romaji": [
+      "hamu"
+    ],
+    "translation": "ham (cured pig meat)",
+    "source": "JMdict",
+    "sourceId": 1096180
+  },
+  {
+    "id": "jmdict-1106010-203b1c40",
+    "kana": "ビル",
+    "romaji": [
+      "biru"
+    ],
+    "translation": "multi-floor building",
+    "source": "JMdict",
+    "sourceId": 1106010
+  },
+  {
+    "id": "jmdict-1035860-831166ef",
+    "kana": "オレンジ",
+    "romaji": [
+      "orenji"
+    ],
+    "translation": "orange (fruit, colour)",
+    "source": "JMdict",
+    "sourceId": 1035860
+  },
+  {
+    "id": "jmdict-1073760-188ee1a7",
+    "kana": "スライド",
+    "romaji": [
+      "suraido"
+    ],
+    "translation": "slide (for projection)",
+    "source": "JMdict",
+    "sourceId": 1073760
+  },
+  {
+    "id": "jmdict-1046430-62aeb8d2",
+    "kana": "グラス",
+    "romaji": [
+      "gurasu"
+    ],
+    "translation": "glass (drinking vessel)",
+    "source": "JMdict",
+    "sourceId": 1046430
+  },
+  {
+    "id": "jmdict-1086410-0a3f1396",
+    "kana": "トランプ",
+    "romaji": [
+      "toranpu"
+    ],
+    "translation": "(Western) playing cards",
+    "source": "JMdict",
+    "sourceId": 1086410
+  },
+  {
+    "id": "jmdict-1097430-468447bd",
+    "kana": "バレル",
+    "romaji": [
+      "bareru"
+    ],
+    "translation": "barrel (unit of volume)",
+    "source": "JMdict",
+    "sourceId": 1097430
+  },
+  {
+    "id": "jmdict-1076460-b6dcfdb8",
+    "kana": "タレント",
+    "romaji": [
+      "tarento"
+    ],
+    "translation": "(TV or radio) entertainer",
+    "source": "JMdict",
+    "sourceId": 1076460
+  },
+  {
+    "id": "jmdict-1035780-bd1cc5db",
+    "kana": "オルガン",
+    "romaji": [
+      "orugan"
+    ],
+    "translation": "organ (musical instrument)",
+    "source": "JMdict",
+    "sourceId": 1035780
+  },
+  {
+    "id": "jmdict-1014590-eeadc2e1",
+    "kana": "アイロン",
+    "romaji": [
+      "airon"
+    ],
+    "translation": "iron (for pressing clothes)",
+    "source": "JMdict",
+    "sourceId": 1014590
+  },
+  {
+    "id": "jmdict-1041870-0639aa3c",
+    "kana": "キャベツ",
+    "romaji": [
+      "kyabetsu"
+    ],
+    "translation": "cabbage (Brassica oleracea)",
+    "source": "JMdict",
+    "sourceId": 1041870
+  },
+  {
+    "id": "jmdict-1120070-d3735840",
+    "kana": "ベルト",
+    "romaji": [
+      "beruto"
+    ],
+    "translation": "belt (worn around the waist)",
+    "source": "JMdict",
+    "sourceId": 1120070
+  },
+  {
+    "id": "jmdict-1085420-88f91799",
+    "kana": "トマト",
+    "romaji": [
+      "tomato"
+    ],
+    "translation": "tomato (Solanum lycopersicum)",
+    "source": "JMdict",
+    "sourceId": 1085420
+  },
+  {
+    "id": "jmdict-1105360-6f08bb70",
+    "kana": "ビデオ",
+    "romaji": [
+      "bideo"
+    ],
+    "translation": "video (esp. a televised image)",
+    "source": "JMdict",
+    "sourceId": 1105360
+  },
+  {
+    "id": "jmdict-1107060-7711ed0d",
+    "kana": "ピン",
+    "romaji": [
+      "pin"
+    ],
+    "translation": "pin (e.g. hairpin, safety pin)",
+    "source": "JMdict",
+    "sourceId": 1107060
+  },
+  {
+    "id": "jmdict-1070780-9c2c608f",
+    "kana": "スト",
+    "romaji": [
+      "suto"
+    ],
+    "translation": "strike (i.e. industrial action)",
+    "source": "JMdict",
+    "sourceId": 1070780
+  },
+  {
+    "id": "jmdict-1075000-8e5e7fe8",
+    "kana": "センス",
+    "romaji": [
+      "sensu"
+    ],
+    "translation": "taste (in fashion, music, etc.)",
+    "source": "JMdict",
+    "sourceId": 1075000
+  },
+  {
+    "id": "jmdict-1119700-50e74849",
+    "kana": "ベテラン",
+    "romaji": [
+      "beteran"
+    ],
+    "translation": "veteran (in a particular field)",
+    "source": "JMdict",
+    "sourceId": 1119700
+  },
+  {
+    "id": "jmdict-1014680-44c47a6b",
+    "kana": "アウト",
+    "romaji": [
+      "auto"
+    ],
+    "translation": "out (of a ball; in tennis, etc.)",
+    "source": "JMdict",
+    "sourceId": 1014680
+  },
+  {
+    "id": "jmdict-1079760-63b560db",
+    "kana": "テスト",
+    "romaji": [
+      "tesuto"
+    ],
+    "translation": "test (of ability, knowledge, etc.)",
+    "source": "JMdict",
+    "sourceId": 1079760
+  },
+  {
+    "id": "jmdict-1027610-5bcd39cf",
+    "kana": "エイズ",
+    "romaji": [
+      "eizu"
+    ],
+    "translation": "acquired immune deficiency syndrome",
+    "source": "JMdict",
+    "sourceId": 1027610
+  },
+  {
+    "id": "jmdict-1088830-77bf3dd7",
+    "kana": "ドラマ",
+    "romaji": [
+      "dorama"
+    ],
+    "translation": "(non-documentary) television series",
+    "source": "JMdict",
+    "sourceId": 1088830
+  },
+  {
+    "id": "jmdict-1107000-d1df5902",
+    "kana": "ピリオド",
+    "romaji": [
+      "piriodo"
+    ],
+    "translation": "period (esp. in European languages)",
+    "source": "JMdict",
+    "sourceId": 1107000
+  },
+  {
+    "id": "jmdict-1112990-6cb81e50",
+    "kana": "フロント",
+    "romaji": [
+      "furonto"
+    ],
+    "translation": "front (aspect, weather, war-front, etc.)",
+    "source": "JMdict",
+    "sourceId": 1112990
+  },
+  {
+    "id": "jmdict-1076900-73489f30",
+    "kana": "ダイヤル",
+    "romaji": [
+      "daiyaru"
+    ],
+    "translation": "dial (e.g. telephone, radio, clock, gauge)",
+    "source": "JMdict",
+    "sourceId": 1076900
+  },
+  {
+    "id": "jmdict-1511600-937f1f51",
+    "kana": "カタカナ",
+    "romaji": [
+      "katakana"
+    ],
+    "translation": "katakana",
+    "source": "JMdict",
+    "sourceId": 1511600
+  },
+  {
+    "id": "jmdict-1520860-d5a7c6a8",
+    "kana": "ペキン",
+    "romaji": [
+      "pekin"
+    ],
+    "translation": "Beijing (China)",
+    "source": "JMdict",
+    "sourceId": 1520860
+  },
+  {
+    "id": "jmdict-1283030-e3fd8972",
+    "kana": "ホンコン",
+    "romaji": [
+      "honkon"
+    ],
+    "translation": "Hong Kong",
+    "source": "JMdict",
+    "sourceId": 1283030
+  },
+  {
+    "id": "jmdict-2005380-d9b6ded5",
+    "kana": "タイ",
+    "romaji": [
+      "tai"
+    ],
+    "translation": "Thailand",
+    "source": "JMdict",
+    "sourceId": 2005380
+  },
+  {
+    "id": "jmdict-1273750-59bec683",
+    "kana": "コンス",
+    "romaji": [
+      "konsu"
+    ],
+    "translation": "company (in China)",
+    "source": "JMdict",
+    "sourceId": 1273750
+  },
+  {
+    "id": "jmdict-1278620-1f9197fa",
+    "kana": "カントン",
+    "romaji": [
+      "kanton"
+    ],
+    "translation": "Guangdong (China)",
+    "source": "JMdict",
+    "sourceId": 1278620
+  },
+  {
+    "id": "jmdict-1028510-dcfb92de",
+    "kana": "エス",
+    "romaji": [
+      "esu"
+    ],
+    "translation": "S",
+    "source": "JMdict",
+    "sourceId": 1028510
+  },
+  {
+    "id": "jmdict-1016980-ebbc0307",
+    "kana": "アド",
+    "romaji": [
+      "ado"
+    ],
+    "translation": "ad",
+    "source": "JMdict",
+    "sourceId": 1016980
+  },
+  {
+    "id": "jmdict-1126560-53cd0145",
+    "kana": "マイ",
+    "romaji": [
+      "mai"
+    ],
+    "translation": "my",
+    "source": "JMdict",
+    "sourceId": 1126560
+  },
+  {
+    "id": "jmdict-1130860-b2108d96",
+    "kana": "ミズ",
+    "romaji": [
+      "mizu"
+    ],
+    "translation": "Ms",
+    "source": "JMdict",
+    "sourceId": 1130860
+  },
+  {
+    "id": "jmdict-1001120-3f163139",
+    "kana": "ウンチ",
+    "romaji": [
+      "unchi"
+    ],
+    "translation": "poo",
+    "source": "JMdict",
+    "sourceId": 1001120
+  },
+  {
+    "id": "jmdict-1018190-c6ae2b3d",
+    "kana": "アプリ",
+    "romaji": [
+      "apuri"
+    ],
+    "translation": "app",
+    "source": "JMdict",
+    "sourceId": 1018190
+  },
+  {
+    "id": "jmdict-1020470-0d4e32c2",
+    "kana": "アンド",
+    "romaji": [
+      "ando"
+    ],
+    "translation": "and",
+    "source": "JMdict",
+    "sourceId": 1020470
+  },
+  {
+    "id": "jmdict-1020650-2dd1f7a7",
+    "kana": "アンプ",
+    "romaji": [
+      "anpu"
+    ],
+    "translation": "amp",
+    "source": "JMdict",
+    "sourceId": 1020650
+  },
+  {
+    "id": "jmdict-1021120-90d4718c",
+    "kana": "イオン",
+    "romaji": [
+      "ion"
+    ],
+    "translation": "ion",
+    "source": "JMdict",
+    "sourceId": 1021120
+  },
+  {
+    "id": "jmdict-1021350-52e3f5c5",
+    "kana": "イズム",
+    "romaji": [
+      "izumu"
+    ],
+    "translation": "ism",
+    "source": "JMdict",
+    "sourceId": 1021350
+  },
+  {
+    "id": "jmdict-1025740-8a89026a",
+    "kana": "ウェイ",
+    "romaji": [
+      "wei"
+    ],
+    "translation": "way",
+    "source": "JMdict",
+    "sourceId": 1025740
+  },
+  {
+    "id": "jmdict-1025850-1d81f828",
+    "kana": "ウェブ",
+    "romaji": [
+      "webu"
+    ],
+    "translation": "web",
+    "source": "JMdict",
+    "sourceId": 1025850
+  },
+  {
+    "id": "jmdict-1027090-538f046d",
+    "kana": "エア",
+    "romaji": [
+      "ea"
+    ],
+    "translation": "air",
+    "source": "JMdict",
+    "sourceId": 1027090
+  },
+  {
+    "id": "jmdict-1028420-6dd747d1",
+    "kana": "エゴ",
+    "romaji": [
+      "ego"
+    ],
+    "translation": "ego",
+    "source": "JMdict",
+    "sourceId": 1028420
+  },
+  {
+    "id": "jmdict-1031210-dea91296",
+    "kana": "エンド",
+    "romaji": [
+      "endo"
+    ],
+    "translation": "end",
+    "source": "JMdict",
+    "sourceId": 1031210
+  },
+  {
+    "id": "jmdict-1033900-3c468e13",
+    "kana": "オイル",
+    "romaji": [
+      "oiru"
+    ],
+    "translation": "oil",
+    "source": "JMdict",
+    "sourceId": 1033900
+  },
+  {
+    "id": "jmdict-1038190-6395eac3",
+    "kana": "カブ",
+    "romaji": [
+      "kabu"
+    ],
+    "translation": "cub",
+    "source": "JMdict",
+    "sourceId": 1038190
+  },
+  {
+    "id": "jmdict-1038310-3d1f286b",
+    "kana": "カム",
+    "romaji": [
+      "kamu"
+    ],
+    "translation": "cam",
+    "source": "JMdict",
+    "sourceId": 1038310
+  },
+  {
+    "id": "jmdict-1039860-cae822e1",
+    "kana": "ガイ",
+    "romaji": [
+      "gai"
+    ],
+    "translation": "guy",
+    "source": "JMdict",
+    "sourceId": 1039860
+  },
+  {
+    "id": "jmdict-1040560-2836da54",
+    "kana": "ガン",
+    "romaji": [
+      "gan"
+    ],
+    "translation": "gun",
+    "source": "JMdict",
+    "sourceId": 1040560
+  },
+  {
+    "id": "jmdict-1048690-77624a86",
+    "kana": "ゲル",
+    "romaji": [
+      "geru"
+    ],
+    "translation": "gel",
+    "source": "JMdict",
+    "sourceId": 1048690
+  },
+  {
+    "id": "jmdict-1057190-20f1356b",
+    "kana": "サブ",
+    "romaji": [
+      "sabu"
+    ],
+    "translation": "sub",
+    "source": "JMdict",
+    "sourceId": 1057190
+  },
+  {
+    "id": "jmdict-1061370-4884f743",
+    "kana": "シャイ",
+    "romaji": [
+      "shai"
+    ],
+    "translation": "shy",
+    "source": "JMdict",
+    "sourceId": 1061370
+  },
+  {
+    "id": "jmdict-1064880-4099fd91",
+    "kana": "ジム",
+    "romaji": [
+      "jimu"
+    ],
+    "translation": "gym",
+    "source": "JMdict",
+    "sourceId": 1064880
+  },
+  {
+    "id": "jmdict-1065630-b027a820",
+    "kana": "ジャブ",
+    "romaji": [
+      "jabu"
+    ],
+    "translation": "jab",
+    "source": "JMdict",
+    "sourceId": 1065630
+  },
+  {
+    "id": "jmdict-1066290-b1d5a167",
+    "kana": "ジョイ",
+    "romaji": [
+      "joi"
+    ],
+    "translation": "joy",
+    "source": "JMdict",
+    "sourceId": 1066290
+  },
+  {
+    "id": "jmdict-1066580-2eec9454",
+    "kana": "ジン",
+    "romaji": [
+      "jin"
+    ],
+    "translation": "gin",
+    "source": "JMdict",
+    "sourceId": 1066580
+  },
+  {
+    "id": "jmdict-1067500-adf6f196",
+    "kana": "スカイ",
+    "romaji": [
+      "sukai"
+    ],
+    "translation": "sky",
+    "source": "JMdict",
+    "sourceId": 1067500
+  },
+  {
+    "id": "jmdict-1076240-26fff73d",
+    "kana": "タグ",
+    "romaji": [
+      "tagu"
+    ],
+    "translation": "tag",
+    "source": "JMdict",
+    "sourceId": 1076240
+  },
+  {
+    "id": "jmdict-1084190-0e52509a",
+    "kana": "デュオ",
+    "romaji": [
+      "dyuo"
+    ],
+    "translation": "duo",
+    "source": "JMdict",
+    "sourceId": 1084190
+  },
+  {
+    "id": "jmdict-1085500-f6e45c82",
+    "kana": "トライ",
+    "romaji": [
+      "torai"
+    ],
+    "translation": "try",
+    "source": "JMdict",
+    "sourceId": 1085500
+  },
+  {
+    "id": "jmdict-1092580-5f36b63f",
+    "kana": "ネオ",
+    "romaji": [
+      "neo"
+    ],
+    "translation": "neo",
+    "source": "JMdict",
+    "sourceId": 1092580
+  },
+  {
+    "id": "jmdict-1095650-89c54595",
+    "kana": "ハウ",
+    "romaji": [
+      "hau"
+    ],
+    "translation": "how",
+    "source": "JMdict",
+    "sourceId": 1095650
+  },
+  {
+    "id": "jmdict-1101070-3d41c7aa",
+    "kana": "パイ",
+    "romaji": [
+      "pai"
+    ],
+    "translation": "pie",
+    "source": "JMdict",
+    "sourceId": 1101070
+  },
+  {
+    "id": "jmdict-1102260-dac6e70d",
+    "kana": "パブ",
+    "romaji": [
+      "pabu"
+    ],
+    "translation": "pub",
+    "source": "JMdict",
+    "sourceId": 1102260
+  },
+  {
+    "id": "jmdict-1108180-1def900c",
+    "kana": "ファクス",
+    "romaji": [
+      "fakusu"
+    ],
+    "translation": "fax",
+    "source": "JMdict",
+    "sourceId": 1108180
+  },
+  {
+    "id": "jmdict-1118670-4946dd78",
+    "kana": "ヘム",
+    "romaji": [
+      "hemu"
+    ],
+    "translation": "hem",
+    "source": "JMdict",
+    "sourceId": 1118670
+  },
+  {
+    "id": "jmdict-1120770-afed932e",
+    "kana": "ペイ",
+    "romaji": [
+      "pei"
+    ],
+    "translation": "pay",
+    "source": "JMdict",
+    "sourceId": 1120770
+  },
+  {
+    "id": "jmdict-1129970-42c5de2f",
+    "kana": "マン",
+    "romaji": [
+      "man"
+    ],
+    "translation": "man",
+    "source": "JMdict",
+    "sourceId": 1129970
+  },
+  {
+    "id": "jmdict-1138670-de4c92f6",
+    "kana": "ラグ",
+    "romaji": [
+      "ragu"
+    ],
+    "translation": "rug",
+    "source": "JMdict",
+    "sourceId": 1138670
+  },
+  {
+    "id": "jmdict-1139750-761da439",
+    "kana": "ラボ",
+    "romaji": [
+      "rabo"
+    ],
+    "translation": "lab",
+    "source": "JMdict",
+    "sourceId": 1139750
+  },
+  {
+    "id": "jmdict-1139940-f5ae0896",
+    "kana": "ラン",
+    "romaji": [
+      "ran"
+    ],
+    "translation": "run",
+    "source": "JMdict",
+    "sourceId": 1139940
+  },
+  {
+    "id": "jmdict-1143010-220d46f1",
+    "kana": "リム",
+    "romaji": [
+      "rimu"
+    ],
+    "translation": "rim",
+    "source": "JMdict",
+    "sourceId": 1143010
+  },
+  {
+    "id": "jmdict-1147090-0b8d576a",
+    "kana": "ログ",
+    "romaji": [
+      "rogu"
+    ],
+    "translation": "log",
+    "source": "JMdict",
+    "sourceId": 1147090
+  },
+  {
+    "id": "jmdict-1149130-1c78de45",
+    "kana": "ワン",
+    "romaji": [
+      "wan"
+    ],
+    "translation": "one",
+    "source": "JMdict",
+    "sourceId": 1149130
+  },
+  {
+    "id": "jmdict-1172400-d17a6218",
+    "kana": "ウソ",
+    "romaji": [
+      "uso"
+    ],
+    "translation": "lie",
+    "source": "JMdict",
+    "sourceId": 1172400
+  },
+  {
+    "id": "jmdict-2560520-eb7f4e3f",
+    "kana": "ワンコ",
+    "romaji": [
+      "wanko"
+    ],
+    "translation": "dog",
+    "source": "JMdict",
+    "sourceId": 2560520
+  },
+  {
+    "id": "jmdict-2842178-4ef74c1f",
+    "kana": "ラム",
+    "romaji": [
+      "ramu"
+    ],
+    "translation": "rum",
+    "source": "JMdict",
+    "sourceId": 2842178
+  },
+  {
+    "id": "jmdict-1013920-84b393b4",
+    "kana": "アイコン",
+    "romaji": [
+      "aikon"
+    ],
+    "translation": "icon",
+    "source": "JMdict",
+    "sourceId": 1013920
+  },
+  {
+    "id": "jmdict-1014200-e9b1131f",
+    "kana": "アイテム",
+    "romaji": [
+      "aitemu"
+    ],
+    "translation": "item",
+    "source": "JMdict",
+    "sourceId": 1014200
+  },
+  {
+    "id": "jmdict-1014390-a3d41e37",
+    "kana": "アイヌ",
+    "romaji": [
+      "ainu"
+    ],
+    "translation": "Ainu",
+    "source": "JMdict",
+    "sourceId": 1014390
+  },
+  {
+    "id": "jmdict-1014550-6e973362",
+    "kana": "アイリス",
+    "romaji": [
+      "airisu"
+    ],
+    "translation": "iris",
+    "source": "JMdict",
+    "sourceId": 1014550
+  },
+  {
+    "id": "jmdict-1016860-06cc603d",
+    "kana": "アトム",
+    "romaji": [
+      "atomu"
+    ],
+    "translation": "atom",
+    "source": "JMdict",
+    "sourceId": 1016860
+  },
+  {
+    "id": "jmdict-1019060-c47659b9",
+    "kana": "アラブ",
+    "romaji": [
+      "arabu"
+    ],
+    "translation": "Arab",
+    "source": "JMdict",
+    "sourceId": 1019060
+  },
+  {
+    "id": "jmdict-1019100-2852442e",
+    "kana": "アリア",
+    "romaji": [
+      "aria"
+    ],
+    "translation": "aria",
+    "source": "JMdict",
+    "sourceId": 1019100
+  },
+  {
+    "id": "jmdict-1019400-cbb88b9a",
+    "kana": "アルト",
+    "romaji": [
+      "aruto"
+    ],
+    "translation": "alto",
+    "source": "JMdict",
+    "sourceId": 1019400
+  },
+  {
+    "id": "jmdict-1025225-95b52b30",
+    "kana": "ウインド",
+    "romaji": [
+      "uindo"
+    ],
+    "translation": "wind",
+    "source": "JMdict",
+    "sourceId": 1025225
+  },
+  {
+    "id": "jmdict-1025225-3bcb7c6b",
+    "kana": "ウィンド",
+    "romaji": [
+      "windo"
+    ],
+    "translation": "wind",
+    "source": "JMdict",
+    "sourceId": 1025225
+  },
+  {
+    "id": "jmdict-1025470-051b178e",
+    "kana": "ウインク",
+    "romaji": [
+      "uinku"
+    ],
+    "translation": "wink",
+    "source": "JMdict",
+    "sourceId": 1025470
+  },
+  {
+    "id": "jmdict-1025730-6e30c9f9",
+    "kana": "ウェア",
+    "romaji": [
+      "wea"
+    ],
+    "translation": "wear",
+    "source": "JMdict",
+    "sourceId": 1025730
+  },
+  {
+    "id": "jmdict-1025730-d929337d",
+    "kana": "ウエア",
+    "romaji": [
+      "uea"
+    ],
+    "translation": "wear",
+    "source": "JMdict",
+    "sourceId": 1025730
+  },
+  {
+    "id": "jmdict-1027840-b0fdeaaf",
+    "kana": "エキスポ",
+    "romaji": [
+      "ekisupo"
+    ],
+    "translation": "expo",
+    "source": "JMdict",
+    "sourceId": 1027840
+  },
+  {
+    "id": "jmdict-1029280-84d58bff",
+    "kana": "エデン",
+    "romaji": [
+      "eden"
+    ],
+    "translation": "Eden",
+    "source": "JMdict",
+    "sourceId": 1029280
+  },
+  {
+    "id": "jmdict-1030100-e61e1290",
+    "kana": "エリア",
+    "romaji": [
+      "eria"
+    ],
+    "translation": "area",
+    "source": "JMdict",
+    "sourceId": 1030100
+  },
+  {
+    "id": "jmdict-1030730-9e4c7fd1",
+    "kana": "エロス",
+    "romaji": [
+      "erosu"
+    ],
+    "translation": "eros",
+    "source": "JMdict",
+    "sourceId": 1030730
+  },
+  {
+    "id": "jmdict-1034560-1ff6ed81",
+    "kana": "オハイオ",
+    "romaji": [
+      "ohaio"
+    ],
+    "translation": "Ohio",
+    "source": "JMdict",
+    "sourceId": 1034560
+  },
+  {
+    "id": "jmdict-1036800-3bee5f27",
+    "kana": "カイト",
+    "romaji": [
+      "kaito"
+    ],
+    "translation": "kite",
+    "source": "JMdict",
+    "sourceId": 1036800
+  },
+  {
+    "id": "jmdict-1038050-8de76f0a",
+    "kana": "カフェ",
+    "romaji": [
+      "kafe"
+    ],
+    "translation": "café",
+    "source": "JMdict",
+    "sourceId": 1038050
+  },
+  {
+    "id": "jmdict-1039050-4b4c9c97",
+    "kana": "カルト",
+    "romaji": [
+      "karuto"
+    ],
+    "translation": "cult",
+    "source": "JMdict",
+    "sourceId": 1039050
+  },
+  {
+    "id": "jmdict-1039420-faffa819",
+    "kana": "カント",
+    "romaji": [
+      "kanto"
+    ],
+    "translation": "cant",
+    "source": "JMdict",
+    "sourceId": 1039420
+  },
+  {
+    "id": "jmdict-1040020-04328e50",
+    "kana": "ガウン",
+    "romaji": [
+      "gaun"
+    ],
+    "translation": "gown",
+    "source": "JMdict",
+    "sourceId": 1040020
+  },
+  {
+    "id": "jmdict-1042570-2af6f21b",
+    "kana": "キル",
+    "romaji": [
+      "kiru"
+    ],
+    "translation": "kill",
+    "source": "JMdict",
+    "sourceId": 1042570
+  },
+  {
+    "id": "jmdict-1042700-e5459684",
+    "kana": "キング",
+    "romaji": [
+      "kingu"
+    ],
+    "translation": "king",
+    "source": "JMdict",
+    "sourceId": 1042700
+  },
+  {
+    "id": "jmdict-1042770-77efb9c0",
+    "kana": "ギア",
+    "romaji": [
+      "gia"
+    ],
+    "translation": "gear",
+    "source": "JMdict",
+    "sourceId": 1042770
+  },
+  {
+    "id": "jmdict-1042900-de771d35",
+    "kana": "ギフト",
+    "romaji": [
+      "gifuto"
+    ],
+    "translation": "gift",
+    "source": "JMdict",
+    "sourceId": 1042900
+  },
+  {
+    "id": "jmdict-1043020-3bfe2266",
+    "kana": "ギャグ",
+    "romaji": [
+      "gyagu"
+    ],
+    "translation": "joke",
+    "source": "JMdict",
+    "sourceId": 1043020
+  },
+  {
+    "id": "jmdict-1043150-b4d46be1",
+    "kana": "ギャング",
+    "romaji": [
+      "gyangu"
+    ],
+    "translation": "gang",
+    "source": "JMdict",
+    "sourceId": 1043150
+  },
+  {
+    "id": "jmdict-1044360-a3464c4b",
+    "kana": "クラン",
+    "romaji": [
+      "kuran"
+    ],
+    "translation": "clan",
+    "source": "JMdict",
+    "sourceId": 1044360
+  },
+  {
+    "id": "jmdict-1045170-e5569d27",
+    "kana": "クルド",
+    "romaji": [
+      "kurudo"
+    ],
+    "translation": "Kurd",
+    "source": "JMdict",
+    "sourceId": 1045170
+  },
+  {
+    "id": "jmdict-1045200-055ad336",
+    "kana": "クレイ",
+    "romaji": [
+      "kurei"
+    ],
+    "translation": "clay",
+    "source": "JMdict",
+    "sourceId": 1045200
+  },
+  {
+    "id": "jmdict-1046160-62d2a8b6",
+    "kana": "グアム",
+    "romaji": [
+      "guamu"
+    ],
+    "translation": "Guam",
+    "source": "JMdict",
+    "sourceId": 1046160
+  },
+  {
+    "id": "jmdict-1048510-37b9d776",
+    "kana": "ゲイン",
+    "romaji": [
+      "gein"
+    ],
+    "translation": "gain",
+    "source": "JMdict",
+    "sourceId": 1048510
+  },
+  {
+    "id": "jmdict-1049750-76da306d",
+    "kana": "コア",
+    "romaji": [
+      "koa"
+    ],
+    "translation": "core",
+    "source": "JMdict",
+    "sourceId": 1049750
+  },
+  {
+    "id": "jmdict-1049850-8424715f",
+    "kana": "コイル",
+    "romaji": [
+      "koiru"
+    ],
+    "translation": "coil",
+    "source": "JMdict",
+    "sourceId": 1049850
+  },
+  {
+    "id": "jmdict-1050080-2e4db15e",
+    "kana": "コスト",
+    "romaji": [
+      "kosuto"
+    ],
+    "translation": "cost",
+    "source": "JMdict",
+    "sourceId": 1050080
+  },
+  {
+    "id": "jmdict-1051450-caacaa94",
+    "kana": "コルク",
+    "romaji": [
+      "koruku"
+    ],
+    "translation": "cork",
+    "source": "JMdict",
+    "sourceId": 1051450
+  },
+  {
+    "id": "jmdict-1055810-5df07921",
+    "kana": "サイト",
+    "romaji": [
+      "saito"
+    ],
+    "translation": "site",
+    "source": "JMdict",
+    "sourceId": 1055810
+  },
+  {
+    "id": "jmdict-1055840-db0bc4b6",
+    "kana": "サイド",
+    "romaji": [
+      "saido"
+    ],
+    "translation": "side",
+    "source": "JMdict",
+    "sourceId": 1055840
+  },
+  {
+    "id": "jmdict-1056210-89c48306",
+    "kana": "サイロ",
+    "romaji": [
+      "sairo"
+    ],
+    "translation": "silo",
+    "source": "JMdict",
+    "sourceId": 1056210
+  },
+  {
+    "id": "jmdict-1059760-55018581",
+    "kana": "シアン",
+    "romaji": [
+      "shian"
+    ],
+    "translation": "cyan",
+    "source": "JMdict",
+    "sourceId": 1059760
+  },
+  {
+    "id": "jmdict-1060000-3a16d72e",
+    "kana": "シェフ",
+    "romaji": [
+      "shefu"
+    ],
+    "translation": "chef",
+    "source": "JMdict",
+    "sourceId": 1060000
+  },
+  {
+    "id": "jmdict-1060700-c7b2fcd1",
+    "kana": "シティ",
+    "romaji": [
+      "shiti"
+    ],
+    "translation": "city",
+    "source": "JMdict",
+    "sourceId": 1060700
+  },
+  {
+    "id": "jmdict-1063150-9fcf66bc",
+    "kana": "シルク",
+    "romaji": [
+      "shiruku"
+    ],
+    "translation": "silk",
+    "source": "JMdict",
+    "sourceId": 1063150
+  },
+  {
+    "id": "jmdict-1063370-731d9388",
+    "kana": "シン",
+    "romaji": [
+      "shin"
+    ],
+    "translation": "thin",
+    "source": "JMdict",
+    "sourceId": 1063370
+  },
+  {
+    "id": "jmdict-1063430-74fc7f69",
+    "kana": "シンク",
+    "romaji": [
+      "shinku"
+    ],
+    "translation": "sink",
+    "source": "JMdict",
+    "sourceId": 1063430
+  },
+  {
+    "id": "jmdict-1065240-d2dfffb8",
+    "kana": "ジャスト",
+    "romaji": [
+      "jasuto"
+    ],
+    "translation": "just",
+    "source": "JMdict",
+    "sourceId": 1065240
+  },
+  {
+    "id": "jmdict-1067990-1ba514ad",
+    "kana": "スキャン",
+    "romaji": [
+      "sukyan"
+    ],
+    "translation": "scan",
+    "source": "JMdict",
+    "sourceId": 1067990
+  },
+  {
+    "id": "jmdict-1068100-5f418378",
+    "kana": "スキン",
+    "romaji": [
+      "sukin"
+    ],
+    "translation": "skin",
+    "source": "JMdict",
+    "sourceId": 1068100
+  },
+  {
+    "id": "jmdict-1069800-b1a99fd2",
+    "kana": "スタブ",
+    "romaji": [
+      "sutabu"
+    ],
+    "translation": "stub",
+    "source": "JMdict",
+    "sourceId": 1069800
+  },
+  {
+    "id": "jmdict-1072190-836e7cb2",
+    "kana": "スパン",
+    "romaji": [
+      "supan"
+    ],
+    "translation": "span",
+    "source": "JMdict",
+    "sourceId": 1072190
+  },
+  {
+    "id": "jmdict-1072500-e6e7b352",
+    "kana": "スピン",
+    "romaji": [
+      "supin"
+    ],
+    "translation": "spin",
+    "source": "JMdict",
+    "sourceId": 1072500
+  },
+  {
+    "id": "jmdict-1073920-561ee052",
+    "kana": "スリム",
+    "romaji": [
+      "surimu"
+    ],
+    "translation": "slim",
+    "source": "JMdict",
+    "sourceId": 1073920
+  },
+  {
+    "id": "jmdict-1074170-b1e1fa4f",
+    "kana": "スワン",
+    "romaji": [
+      "suwan"
+    ],
+    "translation": "swan",
+    "source": "JMdict",
+    "sourceId": 1074170
+  },
+  {
+    "id": "jmdict-1074810-029fc85c",
+    "kana": "セル",
+    "romaji": [
+      "seru"
+    ],
+    "translation": "cell",
+    "source": "JMdict",
+    "sourceId": 1074810
+  },
+  {
+    "id": "jmdict-1075480-2344234a",
+    "kana": "ソファ",
+    "romaji": [
+      "sofa"
+    ],
+    "translation": "sofa",
+    "source": "JMdict",
+    "sourceId": 1075480
+  },
+  {
+    "id": "jmdict-1075630-c599b21c",
+    "kana": "ソロ",
+    "romaji": [
+      "soro"
+    ],
+    "translation": "solo",
+    "source": "JMdict",
+    "sourceId": 1075630
+  },
+  {
+    "id": "jmdict-1075660-5553e06b",
+    "kana": "ソング",
+    "romaji": [
+      "songu"
+    ],
+    "translation": "song",
+    "source": "JMdict",
+    "sourceId": 1075660
+  },
+  {
+    "id": "jmdict-1076130-f21dbd97",
+    "kana": "タイル",
+    "romaji": [
+      "tairu"
+    ],
+    "translation": "tile",
+    "source": "JMdict",
+    "sourceId": 1076130
+  },
+  {
+    "id": "jmdict-1076270-2b79c0b9",
+    "kana": "タスク",
+    "romaji": [
+      "tasuku"
+    ],
+    "translation": "task",
+    "source": "JMdict",
+    "sourceId": 1076270
+  },
+  {
+    "id": "jmdict-1076450-c64dc6bf",
+    "kana": "タルク",
+    "romaji": [
+      "taruku"
+    ],
+    "translation": "talc",
+    "source": "JMdict",
+    "sourceId": 1076450
+  },
+  {
+    "id": "jmdict-1077040-07959574",
+    "kana": "ダクト",
+    "romaji": [
+      "dakuto"
+    ],
+    "translation": "duct",
+    "source": "JMdict",
+    "sourceId": 1077040
+  },
+  {
+    "id": "jmdict-1077220-c45de0bc",
+    "kana": "ダンク",
+    "romaji": [
+      "danku"
+    ],
+    "translation": "dunk",
+    "source": "JMdict",
+    "sourceId": 1077220
+  },
+  {
+    "id": "jmdict-1077290-d45555ff",
+    "kana": "ダンプ",
+    "romaji": [
+      "danpu"
+    ],
+    "translation": "dump",
+    "source": "JMdict",
+    "sourceId": 1077290
+  },
+  {
+    "id": "jmdict-1078440-461c3388",
+    "kana": "ツイン",
+    "romaji": [
+      "tsuin"
+    ],
+    "translation": "twin",
+    "source": "JMdict",
+    "sourceId": 1078440
+  },
+  {
+    "id": "jmdict-1081740-67ef1c2f",
+    "kana": "ディスク",
+    "romaji": [
+      "disuku"
+    ],
+    "translation": "disk",
+    "source": "JMdict",
+    "sourceId": 1081740
+  },
+  {
+    "id": "jmdict-1083120-5f7a0296",
+    "kana": "デスク",
+    "romaji": [
+      "desuku"
+    ],
+    "translation": "desk",
+    "source": "JMdict",
+    "sourceId": 1083120
+  },
+  {
+    "id": "jmdict-1086510-a2e1d3c5",
+    "kana": "トリオ",
+    "romaji": [
+      "torio"
+    ],
+    "translation": "trio",
+    "source": "JMdict",
+    "sourceId": 1086510
+  },
+  {
+    "id": "jmdict-1087380-e2c7bfa8",
+    "kana": "トロイ",
+    "romaji": [
+      "toroi"
+    ],
+    "translation": "troy",
+    "source": "JMdict",
+    "sourceId": 1087380
+  },
+  {
+    "id": "jmdict-1088890-753f76e8",
+    "kana": "ドラム",
+    "romaji": [
+      "doramu"
+    ],
+    "translation": "drum",
+    "source": "JMdict",
+    "sourceId": 1088890
+  },
+  {
+    "id": "jmdict-1089700-5fab82bf",
+    "kana": "ナイス",
+    "romaji": [
+      "naisu"
+    ],
+    "translation": "nice",
+    "source": "JMdict",
+    "sourceId": 1089700
+  },
+  {
+    "id": "jmdict-1089940-befdd2a3",
+    "kana": "ナイン",
+    "romaji": [
+      "nain"
+    ],
+    "translation": "nine",
+    "source": "JMdict",
+    "sourceId": 1089940
+  },
+  {
+    "id": "jmdict-1092920-a84687fb",
+    "kana": "ネスト",
+    "romaji": [
+      "nesuto"
+    ],
+    "translation": "nest",
+    "source": "JMdict",
+    "sourceId": 1092920
+  },
+  {
+    "id": "jmdict-1093830-f2ac0a91",
+    "kana": "ノエル",
+    "romaji": [
+      "noeru"
+    ],
+    "translation": "Noel",
+    "source": "JMdict",
+    "sourceId": 1093830
+  },
+  {
+    "id": "jmdict-1094040-cf58f7a4",
+    "kana": "ノブ",
+    "romaji": [
+      "nobu"
+    ],
+    "translation": "knob",
+    "source": "JMdict",
+    "sourceId": 1094040
+  },
+  {
+    "id": "jmdict-1094180-c379f872",
+    "kana": "ノン",
+    "romaji": [
+      "non"
+    ],
+    "translation": "non-",
+    "source": "JMdict",
+    "sourceId": 1094180
+  },
+  {
+    "id": "jmdict-1095050-56f3d53d",
+    "kana": "ハイク",
+    "romaji": [
+      "haiku"
+    ],
+    "translation": "hike",
+    "source": "JMdict",
+    "sourceId": 1095050
+  },
+  {
+    "id": "jmdict-1095550-17e10f38",
+    "kana": "ハイム",
+    "romaji": [
+      "haimu"
+    ],
+    "translation": "home",
+    "source": "JMdict",
+    "sourceId": 1095550
+  },
+  {
+    "id": "jmdict-1096720-c3a19206",
+    "kana": "ハンド",
+    "romaji": [
+      "hando"
+    ],
+    "translation": "hand",
+    "source": "JMdict",
+    "sourceId": 1096720
+  },
+  {
+    "id": "jmdict-1097500-5d642cd2",
+    "kana": "バイオ",
+    "romaji": [
+      "baio"
+    ],
+    "translation": "bio-",
+    "source": "JMdict",
+    "sourceId": 1097500
+  },
+  {
+    "id": "jmdict-1098680-bfded9c6",
+    "kana": "バタン",
+    "romaji": [
+      "batan"
+    ],
+    "translation": "bang",
+    "source": "JMdict",
+    "sourceId": 1098680
+  },
+  {
+    "id": "jmdict-1100220-16445d91",
+    "kana": "バント",
+    "romaji": [
+      "banto"
+    ],
+    "translation": "bunt",
+    "source": "JMdict",
+    "sourceId": 1100220
+  },
+  {
+    "id": "jmdict-1102890-73772f0d",
+    "kana": "パルプ",
+    "romaji": [
+      "parupu"
+    ],
+    "translation": "pulp",
+    "source": "JMdict",
+    "sourceId": 1102890
+  },
+  {
+    "id": "jmdict-1103630-1cb33c11",
+    "kana": "ヒア",
+    "romaji": [
+      "hia"
+    ],
+    "translation": "hear",
+    "source": "JMdict",
+    "sourceId": 1103630
+  },
+  {
+    "id": "jmdict-1106910-fa701e96",
+    "kana": "ピュア",
+    "romaji": [
+      "pyua"
+    ],
+    "translation": "pure",
+    "source": "JMdict",
+    "sourceId": 1106910
+  },
+  {
+    "id": "jmdict-1107030-e5985bd7",
+    "kana": "ピル",
+    "romaji": [
+      "piru"
+    ],
+    "translation": "pill",
+    "source": "JMdict",
+    "sourceId": 1107030
+  },
+  {
+    "id": "jmdict-1107620-6db0d0b8",
+    "kana": "ファイア",
+    "romaji": [
+      "faia"
+    ],
+    "translation": "fire",
+    "source": "JMdict",
+    "sourceId": 1107620
+  },
+  {
+    "id": "jmdict-1107920-33563f86",
+    "kana": "ファウル",
+    "romaji": [
+      "fauru"
+    ],
+    "translation": "foul",
+    "source": "JMdict",
+    "sourceId": 1107920
+  },
+  {
+    "id": "jmdict-1108570-ecc4dc1a",
+    "kana": "ファンク",
+    "romaji": [
+      "fanku"
+    ],
+    "translation": "funk",
+    "source": "JMdict",
+    "sourceId": 1108570
+  },
+  {
+    "id": "jmdict-1108750-8e942f62",
+    "kana": "ファンド",
+    "romaji": [
+      "fando"
+    ],
+    "translation": "fund",
+    "source": "JMdict",
+    "sourceId": 1108750
+  },
+  {
+    "id": "jmdict-1109380-3b632b21",
+    "kana": "フイルム",
+    "romaji": [
+      "fuirumu"
+    ],
+    "translation": "film",
+    "source": "JMdict",
+    "sourceId": 1109380
+  },
+  {
+    "id": "jmdict-1109580-7d685743",
+    "kana": "フェア",
+    "romaji": [
+      "fea"
+    ],
+    "translation": "fair",
+    "source": "JMdict",
+    "sourceId": 1109580
+  },
+  {
+    "id": "jmdict-1109690-433c3378",
+    "kana": "フェイク",
+    "romaji": [
+      "feiku"
+    ],
+    "translation": "fake",
+    "source": "JMdict",
+    "sourceId": 1109690
+  },
+  {
+    "id": "jmdict-1109710-50dd05d1",
+    "kana": "フェイス",
+    "romaji": [
+      "feisu"
+    ],
+    "translation": "face",
+    "source": "JMdict",
+    "sourceId": 1109710
+  },
+  {
+    "id": "jmdict-1110010-ba3e9424",
+    "kana": "フェルト",
+    "romaji": [
+      "feruto"
+    ],
+    "translation": "felt",
+    "source": "JMdict",
+    "sourceId": 1110010
+  },
+  {
+    "id": "jmdict-1110420-c0084059",
+    "kana": "フォア",
+    "romaji": [
+      "foa"
+    ],
+    "translation": "four",
+    "source": "JMdict",
+    "sourceId": 1110420
+  },
+  {
+    "id": "jmdict-1112030-698e9aca",
+    "kana": "フル",
+    "romaji": [
+      "furu"
+    ],
+    "translation": "full",
+    "source": "JMdict",
+    "sourceId": 1112030
+  },
+  {
+    "id": "jmdict-1113220-07f015f5",
+    "kana": "ブイ",
+    "romaji": [
+      "bui"
+    ],
+    "translation": "buoy",
+    "source": "JMdict",
+    "sourceId": 1113220
+  },
+  {
+    "id": "jmdict-1115580-4e0472e2",
+    "kana": "プラグ",
+    "romaji": [
+      "puragu"
+    ],
+    "translation": "plug",
+    "source": "JMdict",
+    "sourceId": 1115580
+  },
+  {
+    "id": "jmdict-1116000-d3422cfd",
+    "kana": "プリ",
+    "romaji": [
+      "puri"
+    ],
+    "translation": "pre-",
+    "source": "JMdict",
+    "sourceId": 1116000
+  },
+  {
+    "id": "jmdict-1116400-4b346b94",
+    "kana": "プレイ",
+    "romaji": [
+      "purei"
+    ],
+    "translation": "play",
+    "source": "JMdict",
+    "sourceId": 1116400
+  },
+  {
+    "id": "jmdict-1118820-4aa65ea4",
+    "kana": "ヘル",
+    "romaji": [
+      "heru"
+    ],
+    "translation": "hell",
+    "source": "JMdict",
+    "sourceId": 1118820
+  },
+  {
+    "id": "jmdict-1120690-161e0299",
+    "kana": "ペア",
+    "romaji": [
+      "pea"
+    ],
+    "translation": "pair",
+    "source": "JMdict",
+    "sourceId": 1120690
+  },
+  {
+    "id": "jmdict-1123750-715fd3a4",
+    "kana": "ボウル",
+    "romaji": [
+      "bouru"
+    ],
+    "translation": "bowl",
+    "source": "JMdict",
+    "sourceId": 1123750
+  },
+  {
+    "id": "jmdict-1123840-cab5ef80",
+    "kana": "ボス",
+    "romaji": [
+      "bosu"
+    ],
+    "translation": "boss",
+    "source": "JMdict",
+    "sourceId": 1123840
+  },
+  {
+    "id": "jmdict-1123990-2fd92b0e",
+    "kana": "ボディ",
+    "romaji": [
+      "bodi"
+    ],
+    "translation": "body",
+    "source": "JMdict",
+    "sourceId": 1123990
+  },
+  {
+    "id": "jmdict-1124390-bf50e946",
+    "kana": "ボルト",
+    "romaji": [
+      "boruto"
+    ],
+    "translation": "volt",
+    "source": "JMdict",
+    "sourceId": 1124390
+  },
+  {
+    "id": "jmdict-1124460-b4e99118",
+    "kana": "ボン",
+    "romaji": [
+      "bon"
+    ],
+    "translation": "good",
+    "source": "JMdict",
+    "sourceId": 1124460
+  },
+  {
+    "id": "jmdict-1124510-80acea82",
+    "kana": "ボンド",
+    "romaji": [
+      "bondo"
+    ],
+    "translation": "bond",
+    "source": "JMdict",
+    "sourceId": 1124510
+  },
+  {
+    "id": "jmdict-1124950-85cf49ec",
+    "kana": "ポエム",
+    "romaji": [
+      "poemu"
+    ],
+    "translation": "poem",
+    "source": "JMdict",
+    "sourceId": 1124950
+  },
+  {
+    "id": "jmdict-1125990-275224d2",
+    "kana": "ポロ",
+    "romaji": [
+      "poro"
+    ],
+    "translation": "polo",
+    "source": "JMdict",
+    "sourceId": 1125990
+  },
+  {
+    "id": "jmdict-1126040-66d29744",
+    "kana": "ポンプ",
+    "romaji": [
+      "ponpu"
+    ],
+    "translation": "pump",
+    "source": "JMdict",
+    "sourceId": 1126040
+  },
+  {
+    "id": "jmdict-1127050-96af28a0",
+    "kana": "マイム",
+    "romaji": [
+      "maimu"
+    ],
+    "translation": "mime",
+    "source": "JMdict",
+    "sourceId": 1127050
+  },
+  {
+    "id": "jmdict-1127100-99bd0c3f",
+    "kana": "マイルド",
+    "romaji": [
+      "mairudo"
+    ],
+    "translation": "mild",
+    "source": "JMdict",
+    "sourceId": 1127100
+  },
+  {
+    "id": "jmdict-1127120-bbb3d5d6",
+    "kana": "マインド",
+    "romaji": [
+      "maindo"
+    ],
+    "translation": "mind",
+    "source": "JMdict",
+    "sourceId": 1127120
+  },
+  {
+    "id": "jmdict-1127800-797a48eb",
+    "kana": "マス",
+    "romaji": [
+      "masu"
+    ],
+    "translation": "mass",
+    "source": "JMdict",
+    "sourceId": 1127800
+  },
+  {
+    "id": "jmdict-1132050-04c26da3",
+    "kana": "ミンク",
+    "romaji": [
+      "minku"
+    ],
+    "translation": "mink",
+    "source": "JMdict",
+    "sourceId": 1132050
+  },
+  {
+    "id": "jmdict-1132110-0cb5599c",
+    "kana": "ミント",
+    "romaji": [
+      "minto"
+    ],
+    "translation": "mint",
+    "source": "JMdict",
+    "sourceId": 1132110
+  },
+  {
+    "id": "jmdict-1132560-79ac702e",
+    "kana": "メイト",
+    "romaji": [
+      "meito"
+    ],
+    "translation": "mate",
+    "source": "JMdict",
+    "sourceId": 1132560
+  },
+  {
+    "id": "jmdict-1132580-9c3aa8ee",
+    "kana": "メイド",
+    "romaji": [
+      "meido"
+    ],
+    "translation": "maid",
+    "source": "JMdict",
+    "sourceId": 1132580
+  },
+  {
+    "id": "jmdict-1132680-2a865a63",
+    "kana": "メイン",
+    "romaji": [
+      "mein"
+    ],
+    "translation": "main",
+    "source": "JMdict",
+    "sourceId": 1132680
+  },
+  {
+    "id": "jmdict-1137070-0cae404b",
+    "kana": "ユタ",
+    "romaji": [
+      "yuta"
+    ],
+    "translation": "Utah",
+    "source": "JMdict",
+    "sourceId": 1137070
+  },
+  {
+    "id": "jmdict-1137470-134abec2",
+    "kana": "ユリア",
+    "romaji": [
+      "yuria"
+    ],
+    "translation": "urea",
+    "source": "JMdict",
+    "sourceId": 1137470
+  },
+  {
+    "id": "jmdict-1137490-cf353832",
+    "kana": "ヨガ",
+    "romaji": [
+      "yoga"
+    ],
+    "translation": "yoga",
+    "source": "JMdict",
+    "sourceId": 1137490
+  },
+  {
+    "id": "jmdict-1138080-c0180897",
+    "kana": "ライド",
+    "romaji": [
+      "raido"
+    ],
+    "translation": "ride",
+    "source": "JMdict",
+    "sourceId": 1138080
+  },
+  {
+    "id": "jmdict-1138140-69500b32",
+    "kana": "ライフ",
+    "romaji": [
+      "raifu"
+    ],
+    "translation": "life",
+    "source": "JMdict",
+    "sourceId": 1138140
+  },
+  {
+    "id": "jmdict-1138390-d66208e5",
+    "kana": "ライン",
+    "romaji": [
+      "rain"
+    ],
+    "translation": "line",
+    "source": "JMdict",
+    "sourceId": 1138390
+  },
+  {
+    "id": "jmdict-1138610-62a28368",
+    "kana": "ラオス",
+    "romaji": [
+      "raosu"
+    ],
+    "translation": "Laos",
+    "source": "JMdict",
+    "sourceId": 1138610
+  },
+  {
+    "id": "jmdict-1139050-74996387",
+    "kana": "ラスト",
+    "romaji": [
+      "rasuto"
+    ],
+    "translation": "last",
+    "source": "JMdict",
+    "sourceId": 1139050
+  },
+  {
+    "id": "jmdict-1139520-06fdc013",
+    "kana": "ラフト",
+    "romaji": [
+      "rafuto"
+    ],
+    "translation": "raft",
+    "source": "JMdict",
+    "sourceId": 1139520
+  },
+  {
+    "id": "jmdict-1139550-354decc5",
+    "kana": "ラブ",
+    "romaji": [
+      "rabu"
+    ],
+    "translation": "love",
+    "source": "JMdict",
+    "sourceId": 1139550
+  },
+  {
+    "id": "jmdict-1139550-592ab1f5",
+    "kana": "ラヴ",
+    "romaji": [
+      "ravu"
+    ],
+    "translation": "love",
+    "source": "JMdict",
+    "sourceId": 1139550
+  },
+  {
+    "id": "jmdict-1139960-e6724c7a",
+    "kana": "ランク",
+    "romaji": [
+      "ranku"
+    ],
+    "translation": "rank",
+    "source": "JMdict",
+    "sourceId": 1139960
+  },
+  {
+    "id": "jmdict-1140190-1fd4c2a6",
+    "kana": "ランド",
+    "romaji": [
+      "rando"
+    ],
+    "translation": "land",
+    "source": "JMdict",
+    "sourceId": 1140190
+  },
+  {
+    "id": "jmdict-1140360-9ba1ed3d",
+    "kana": "ランプ",
+    "romaji": [
+      "ranpu"
+    ],
+    "translation": "lamp",
+    "source": "JMdict",
+    "sourceId": 1140360
+  },
+  {
+    "id": "jmdict-1140850-7df4a530",
+    "kana": "リア",
+    "romaji": [
+      "ria"
+    ],
+    "translation": "rear",
+    "source": "JMdict",
+    "sourceId": 1140850
+  },
+  {
+    "id": "jmdict-1140990-81f68fd1",
+    "kana": "リアル",
+    "romaji": [
+      "riaru"
+    ],
+    "translation": "real",
+    "source": "JMdict",
+    "sourceId": 1140990
+  },
+  {
+    "id": "jmdict-1141440-27fef4cf",
     "kana": "リスク",
     "romaji": [
       "risuku"
     ],
-    "translation": "risk"
+    "translation": "risk",
+    "source": "JMdict",
+    "sourceId": 1141440
+  },
+  {
+    "id": "jmdict-1143400-8fe750a5",
+    "kana": "リンク",
+    "romaji": [
+      "rinku"
+    ],
+    "translation": "link",
+    "source": "JMdict",
+    "sourceId": 1143400
+  },
+  {
+    "id": "jmdict-1143430-a4280e46",
+    "kana": "リング",
+    "romaji": [
+      "ringu"
+    ],
+    "translation": "ring",
+    "source": "JMdict",
+    "sourceId": 1143430
+  },
+  {
+    "id": "jmdict-1144130-05b48b06",
+    "kana": "ルビ",
+    "romaji": [
+      "rubi"
+    ],
+    "translation": "ruby",
+    "source": "JMdict",
+    "sourceId": 1144130
+  },
+  {
+    "id": "jmdict-1144510-7eea85e0",
+    "kana": "レア",
+    "romaji": [
+      "rea"
+    ],
+    "translation": "rare",
+    "source": "JMdict",
+    "sourceId": 1144510
+  },
+  {
+    "id": "jmdict-1145290-cf001c40",
+    "kana": "レスト",
+    "romaji": [
+      "resuto"
+    ],
+    "translation": "rest",
+    "source": "JMdict",
+    "sourceId": 1145290
+  },
+  {
+    "id": "jmdict-1145590-7768fa9c",
+    "kana": "レディ",
+    "romaji": [
+      "redi"
+    ],
+    "translation": "lady",
+    "source": "JMdict",
+    "sourceId": 1145590
+  },
+  {
+    "id": "jmdict-1145840-dd5a1fba",
+    "kana": "レフト",
+    "romaji": [
+      "refuto"
+    ],
+    "translation": "left",
+    "source": "JMdict",
+    "sourceId": 1145840
+  },
+  {
+    "id": "jmdict-1147280-36d2aa1d",
+    "kana": "ロゴ",
+    "romaji": [
+      "rogo"
+    ],
+    "translation": "logo",
+    "source": "JMdict",
+    "sourceId": 1147280
+  },
+  {
+    "id": "jmdict-1147430-6272a272",
+    "kana": "ロス",
+    "romaji": [
+      "rosu"
+    ],
+    "translation": "loss",
+    "source": "JMdict",
+    "sourceId": 1147430
+  },
+  {
+    "id": "jmdict-1147840-61c89dc9",
+    "kana": "ロフト",
+    "romaji": [
+      "rofuto"
+    ],
+    "translation": "loft",
+    "source": "JMdict",
+    "sourceId": 1147840
+  },
+  {
+    "id": "jmdict-1148120-d71db03e",
+    "kana": "ロング",
+    "romaji": [
+      "rongu"
+    ],
+    "translation": "long",
+    "source": "JMdict",
+    "sourceId": 1148120
+  },
+  {
+    "id": "jmdict-1148650-8d787e53",
+    "kana": "ワイズ",
+    "romaji": [
+      "waizu"
+    ],
+    "translation": "wise",
+    "source": "JMdict",
+    "sourceId": 1148650
+  },
+  {
+    "id": "jmdict-1148660-8f939591",
+    "kana": "ワイド",
+    "romaji": [
+      "waido"
+    ],
+    "translation": "wide",
+    "source": "JMdict",
+    "sourceId": 1148660
+  },
+  {
+    "id": "jmdict-1148760-7a5d83d7",
+    "kana": "ワイヤ",
+    "romaji": [
+      "waiya"
+    ],
+    "translation": "wire",
+    "source": "JMdict",
+    "sourceId": 1148760
+  },
+  {
+    "id": "jmdict-1148760-ecde4c27",
+    "kana": "ワイア",
+    "romaji": [
+      "waia"
+    ],
+    "translation": "wire",
+    "source": "JMdict",
+    "sourceId": 1148760
+  },
+  {
+    "id": "jmdict-1148830-6ff5d6b0",
+    "kana": "ワイルド",
+    "romaji": [
+      "wairudo"
+    ],
+    "translation": "wild",
+    "source": "JMdict",
+    "sourceId": 1148830
+  },
+  {
+    "id": "jmdict-1411030-45b8cab1",
+    "kana": "コケ",
+    "romaji": [
+      "koke"
+    ],
+    "translation": "moss",
+    "source": "JMdict",
+    "sourceId": 1411030
+  },
+  {
+    "id": "jmdict-1533460-47308faa",
+    "kana": "メンツ",
+    "romaji": [
+      "mentsu"
+    ],
+    "translation": "face",
+    "source": "JMdict",
+    "sourceId": 1533460
+  },
+  {
+    "id": "jmdict-1575380-2593f744",
+    "kana": "カビ",
+    "romaji": [
+      "kabi"
+    ],
+    "translation": "mold",
+    "source": "JMdict",
+    "sourceId": 1575380
+  },
+  {
+    "id": "jmdict-1577460-e30cceba",
+    "kana": "カエル",
+    "romaji": [
+      "kaeru"
+    ],
+    "translation": "frog",
+    "source": "JMdict",
+    "sourceId": 1577460
+  },
+  {
+    "id": "jmdict-1649140-f1be44ed",
+    "kana": "スタン",
+    "romaji": [
+      "sutan"
+    ],
+    "translation": "stun",
+    "source": "JMdict",
+    "sourceId": 1649140
+  },
+  {
+    "id": "jmdict-2037270-48716572",
+    "kana": "ブログ",
+    "romaji": [
+      "burogu"
+    ],
+    "translation": "blog",
+    "source": "JMdict",
+    "sourceId": 2037270
+  },
+  {
+    "id": "jmdict-2112430-3e978ec3",
+    "kana": "ネイル",
+    "romaji": [
+      "neiru"
+    ],
+    "translation": "nail",
+    "source": "JMdict",
+    "sourceId": 2112430
+  },
+  {
+    "id": "jmdict-2852741-0247f64c",
+    "kana": "ビア",
+    "romaji": [
+      "bia"
+    ],
+    "translation": "beer",
+    "source": "JMdict",
+    "sourceId": 2852741
+  },
+  {
+    "id": "jmdict-2860800-648dcd73",
+    "kana": "ビバ",
+    "romaji": [
+      "biba"
+    ],
+    "translation": "viva",
+    "source": "JMdict",
+    "sourceId": 2860800
+  },
+  {
+    "id": "jmdict-1009870-c9b2c204",
+    "kana": "ヌルヌル",
+    "romaji": [
+      "nurunuru"
+    ],
+    "translation": "slimy",
+    "source": "JMdict",
+    "sourceId": 1009870
+  },
+  {
+    "id": "jmdict-1016490-ab242717",
+    "kana": "アダルト",
+    "romaji": [
+      "adaruto"
+    ],
+    "translation": "adult",
+    "source": "JMdict",
+    "sourceId": 1016490
+  },
+  {
+    "id": "jmdict-1019520-0c45b785",
+    "kana": "アルファ",
+    "romaji": [
+      "arufa"
+    ],
+    "translation": "alpha",
+    "source": "JMdict",
+    "sourceId": 1019520
+  },
+  {
+    "id": "jmdict-1019820-68add79d",
+    "kana": "アロハ",
+    "romaji": [
+      "aroha"
+    ],
+    "translation": "aloha",
+    "source": "JMdict",
+    "sourceId": 1019820
+  },
+  {
+    "id": "jmdict-1019900-fd5c61ff",
+    "kana": "アングル",
+    "romaji": [
+      "anguru"
+    ],
+    "translation": "angle",
+    "source": "JMdict",
+    "sourceId": 1019900
+  },
+  {
+    "id": "jmdict-1020240-9555aeaf",
+    "kana": "アンチ",
+    "romaji": [
+      "anchi"
+    ],
+    "translation": "anti-",
+    "source": "JMdict",
+    "sourceId": 1020240
+  },
+  {
+    "id": "jmdict-1021310-7d9f3382",
+    "kana": "イスラム",
+    "romaji": [
+      "isuramu"
+    ],
+    "translation": "Islam",
+    "source": "JMdict",
+    "sourceId": 1021310
+  },
+  {
+    "id": "jmdict-1021680-e18b1ea1",
+    "kana": "イベント",
+    "romaji": [
+      "ibento"
+    ],
+    "translation": "event",
+    "source": "JMdict",
+    "sourceId": 1021680
+  },
+  {
+    "id": "jmdict-1023820-54b4aeb0",
+    "kana": "イントロ",
+    "romaji": [
+      "intoro"
+    ],
+    "translation": "intro",
+    "source": "JMdict",
+    "sourceId": 1023820
+  },
+  {
+    "id": "jmdict-1025450-8c7d360f",
+    "kana": "ウィルス",
+    "romaji": [
+      "wirusu"
+    ],
+    "translation": "virus",
+    "source": "JMdict",
+    "sourceId": 1025450
+  },
+  {
+    "id": "jmdict-1026070-5a42b8b8",
+    "kana": "ウェスト",
+    "romaji": [
+      "wesuto"
+    ],
+    "translation": "waist",
+    "source": "JMdict",
+    "sourceId": 1026070
+  },
+  {
+    "id": "jmdict-1026850-36379f6a",
+    "kana": "ウルトラ",
+    "romaji": [
+      "urutora"
+    ],
+    "translation": "ultra",
+    "source": "JMdict",
+    "sourceId": 1026850
+  },
+  {
+    "id": "jmdict-1027630-f8b3398a",
+    "kana": "エイト",
+    "romaji": [
+      "eito"
+    ],
+    "translation": "eight",
+    "source": "JMdict",
+    "sourceId": 1027630
+  },
+  {
+    "id": "jmdict-1028750-7c7c8156",
+    "kana": "エステル",
+    "romaji": [
+      "esuteru"
+    ],
+    "translation": "ester",
+    "source": "JMdict",
+    "sourceId": 1028750
+  },
+  {
+    "id": "jmdict-1029760-16288155",
+    "kana": "エプロン",
+    "romaji": [
+      "epuron"
+    ],
+    "translation": "apron",
+    "source": "JMdict",
+    "sourceId": 1029760
+  },
+  {
+    "id": "jmdict-1031010-be4a9147",
+    "kana": "エンゼル",
+    "romaji": [
+      "enzeru"
+    ],
+    "translation": "angel",
+    "source": "JMdict",
+    "sourceId": 1031010
+  },
+  {
+    "id": "jmdict-1033850-2083a354",
+    "kana": "オアシス",
+    "romaji": [
+      "oashisu"
+    ],
+    "translation": "oasis",
+    "source": "JMdict",
+    "sourceId": 1033850
+  },
+  {
+    "id": "jmdict-1034400-306026d7",
+    "kana": "オゾン",
+    "romaji": [
+      "ozon"
+    ],
+    "translation": "ozone",
+    "source": "JMdict",
+    "sourceId": 1034400
+  },
+  {
+    "id": "jmdict-1034420-e8ceaa8f",
+    "kana": "オタク",
+    "romaji": [
+      "otaku"
+    ],
+    "translation": "otaku",
+    "source": "JMdict",
+    "sourceId": 1034420
+  },
+  {
+    "id": "jmdict-1035200-396503b7",
+    "kana": "オペラ",
+    "romaji": [
+      "opera"
+    ],
+    "translation": "opera",
+    "source": "JMdict",
+    "sourceId": 1035200
+  },
+  {
+    "id": "jmdict-1035600-354f261f",
+    "kana": "オリオン",
+    "romaji": [
+      "orion"
+    ],
+    "translation": "Orion",
+    "source": "JMdict",
+    "sourceId": 1035600
+  },
+  {
+    "id": "jmdict-1036000-d7a689ce",
+    "kana": "オンス",
+    "romaji": [
+      "onsu"
+    ],
+    "translation": "ounce",
+    "source": "JMdict",
+    "sourceId": 1036000
+  },
+  {
+    "id": "jmdict-1037000-8f688997",
+    "kana": "カウント",
+    "romaji": [
+      "kaunto"
+    ],
+    "translation": "count",
+    "source": "JMdict",
+    "sourceId": 1037000
+  },
+  {
+    "id": "jmdict-1037040-3bc3b528",
+    "kana": "カオス",
+    "romaji": [
+      "kaosu"
+    ],
+    "translation": "chaos",
+    "source": "JMdict",
+    "sourceId": 1037040
+  },
+  {
+    "id": "jmdict-1038170-b1c08797",
+    "kana": "カフス",
+    "romaji": [
+      "kafusu"
+    ],
+    "translation": "cuffs",
+    "source": "JMdict",
+    "sourceId": 1038170
+  },
+  {
+    "id": "jmdict-1040640-0634d4d4",
+    "kana": "ガンマ",
+    "romaji": [
+      "ganma"
+    ],
+    "translation": "gamma",
+    "source": "JMdict",
+    "sourceId": 1040640
+  },
+  {
+    "id": "jmdict-1041010-3c5c0474",
+    "kana": "キオスク",
+    "romaji": [
+      "kiosuku"
+    ],
+    "translation": "kiosk",
+    "source": "JMdict",
+    "sourceId": 1041010
+  },
+  {
+    "id": "jmdict-1041010-5f240fea",
+    "kana": "キヨスク",
+    "romaji": [
+      "kiyosuku"
+    ],
+    "translation": "kiosk",
+    "source": "JMdict",
+    "sourceId": 1041010
+  },
+  {
+    "id": "jmdict-1041770-0537312a",
+    "kana": "キャビン",
+    "romaji": [
+      "kyabin"
+    ],
+    "translation": "cabin",
+    "source": "JMdict",
+    "sourceId": 1041770
+  },
+  {
+    "id": "jmdict-1041890-3b815b89",
+    "kana": "キャメル",
+    "romaji": [
+      "kyameru"
+    ],
+    "translation": "camel",
+    "source": "JMdict",
+    "sourceId": 1041890
+  },
+  {
+    "id": "jmdict-1042030-2797fdab",
+    "kana": "キャロル",
+    "romaji": [
+      "kyaroru"
+    ],
+    "translation": "carol",
+    "source": "JMdict",
+    "sourceId": 1042030
+  },
+  {
+    "id": "jmdict-1042800-e08663aa",
+    "kana": "ギガ",
+    "romaji": [
+      "giga"
+    ],
+    "translation": "giga-",
+    "source": "JMdict",
+    "sourceId": 1042800
+  },
+  {
+    "id": "jmdict-1043110-dc4380d5",
+    "kana": "ギャル",
+    "romaji": [
+      "gyaru"
+    ],
+    "translation": "gyaru",
+    "source": "JMdict",
+    "sourceId": 1043110
+  },
+  {
+    "id": "jmdict-1043230-727d89e2",
+    "kana": "ギルド",
+    "romaji": [
+      "girudo"
+    ],
+    "translation": "guild",
+    "source": "JMdict",
+    "sourceId": 1043230
+  },
+  {
+    "id": "jmdict-1044270-6cf0ac32",
+    "kana": "クラフト",
+    "romaji": [
+      "kurafuto"
+    ],
+    "translation": "craft",
+    "source": "JMdict",
+    "sourceId": 1044270
+  },
+  {
+    "id": "jmdict-1045630-1cca5259",
+    "kana": "クロス",
+    "romaji": [
+      "kurosu"
+    ],
+    "translation": "cross",
+    "source": "JMdict",
+    "sourceId": 1045630
+  },
+  {
+    "id": "jmdict-1046020-fc880518",
+    "kana": "クワイア",
+    "romaji": [
+      "kuwaia"
+    ],
+    "translation": "choir",
+    "source": "JMdict",
+    "sourceId": 1046020
+  },
+  {
+    "id": "jmdict-1046830-295f9db5",
+    "kana": "グランデ",
+    "romaji": [
+      "gurande"
+    ],
+    "translation": "grand",
+    "source": "JMdict",
+    "sourceId": 1046830
+  },
+  {
+    "id": "jmdict-1046840-445e9c12",
+    "kana": "グランド",
+    "romaji": [
+      "gurando"
+    ],
+    "translation": "grand",
+    "source": "JMdict",
+    "sourceId": 1046840
+  },
+  {
+    "id": "jmdict-1048550-896be4bc",
+    "kana": "ゲスト",
+    "romaji": [
+      "gesuto"
+    ],
+    "translation": "guest",
+    "source": "JMdict",
+    "sourceId": 1048550
+  },
+  {
+    "id": "jmdict-1049830-c44109bd",
+    "kana": "コアラ",
+    "romaji": [
+      "koara"
+    ],
+    "translation": "koala",
+    "source": "JMdict",
+    "sourceId": 1049830
+  },
+  {
+    "id": "jmdict-1050620-4d373900",
+    "kana": "コブラ",
+    "romaji": [
+      "kobura"
+    ],
+    "translation": "cobra",
+    "source": "JMdict",
+    "sourceId": 1050620
+  },
+  {
+    "id": "jmdict-1051400-5e5ec42f",
+    "kana": "コリア",
+    "romaji": [
+      "koria"
+    ],
+    "translation": "Korea",
+    "source": "JMdict",
+    "sourceId": 1051400
+  },
+  {
+    "id": "jmdict-1051960-e5f4ab7f",
+    "kana": "コンゴ",
+    "romaji": [
+      "kongo"
+    ],
+    "translation": "Congo",
+    "source": "JMdict",
+    "sourceId": 1051960
+  },
+  {
+    "id": "jmdict-1052740-08b6c88b",
+    "kana": "コント",
+    "romaji": [
+      "konto"
+    ],
+    "translation": "conte",
+    "source": "JMdict",
+    "sourceId": 1052740
+  },
+  {
+    "id": "jmdict-1053020-e6f4ebf9",
+    "kana": "コンパ",
+    "romaji": [
+      "konpa"
+    ],
+    "translation": "party",
+    "source": "JMdict",
+    "sourceId": 1053020
+  },
+  {
+    "id": "jmdict-1054610-814b2751",
+    "kana": "ゴルジュ",
+    "romaji": [
+      "goruju"
+    ],
+    "translation": "gorge",
+    "source": "JMdict",
+    "sourceId": 1054610
+  },
+  {
+    "id": "jmdict-1055520-420745a0",
+    "kana": "サイクル",
+    "romaji": [
+      "saikuru"
+    ],
+    "translation": "cycle",
+    "source": "JMdict",
+    "sourceId": 1055520
+  },
+  {
+    "id": "jmdict-1056360-9062b51c",
+    "kana": "サウナ",
+    "romaji": [
+      "sauna"
+    ],
+    "translation": "sauna",
+    "source": "JMdict",
+    "sourceId": 1056360
+  },
+  {
+    "id": "jmdict-1056370-389775ae",
+    "kana": "サウンド",
+    "romaji": [
+      "saundo"
+    ],
+    "translation": "sound",
+    "source": "JMdict",
+    "sourceId": 1056370
+  },
+  {
+    "id": "jmdict-1056850-e864a9c1",
+    "kana": "サテン",
+    "romaji": [
+      "saten"
+    ],
+    "translation": "satin",
+    "source": "JMdict",
+    "sourceId": 1056850
+  },
+  {
+    "id": "jmdict-1058160-885d4c99",
+    "kana": "サロン",
+    "romaji": [
+      "saron"
+    ],
+    "translation": "salon",
+    "source": "JMdict",
+    "sourceId": 1058160
+  },
+  {
+    "id": "jmdict-1058670-c66da568",
+    "kana": "サンバ",
+    "romaji": [
+      "sanba"
+    ],
+    "translation": "samba",
+    "source": "JMdict",
+    "sourceId": 1058670
+  },
+  {
+    "id": "jmdict-1060040-8ed89b2f",
+    "kana": "シェル",
+    "romaji": [
+      "sheru"
+    ],
+    "translation": "shell",
+    "source": "JMdict",
+    "sourceId": 1060040
+  },
+  {
+    "id": "jmdict-1061100-e850fa4f",
+    "kana": "シフト",
+    "romaji": [
+      "shifuto"
+    ],
+    "translation": "shift",
+    "source": "JMdict",
+    "sourceId": 1061100
+  },
+  {
+    "id": "jmdict-1065880-e1b01bc0",
+    "kana": "ジャンボ",
+    "romaji": [
+      "janbo"
+    ],
+    "translation": "jumbo",
+    "source": "JMdict",
+    "sourceId": 1065880
+  },
+  {
+    "id": "jmdict-1065920-e38ec79f",
+    "kana": "ジャンル",
+    "romaji": [
+      "janru"
+    ],
+    "translation": "genre",
+    "source": "JMdict",
+    "sourceId": 1065920
+  },
+  {
+    "id": "jmdict-1067710-b36b1226",
+    "kana": "スカル",
+    "romaji": [
+      "sukaru"
+    ],
+    "translation": "scull",
+    "source": "JMdict",
+    "sourceId": 1067710
+  },
+  {
+    "id": "jmdict-1070030-79a93454",
+    "kana": "スタンプ",
+    "romaji": [
+      "sutanpu"
+    ],
+    "translation": "stamp",
+    "source": "JMdict",
+    "sourceId": 1070030
+  },
+  {
+    "id": "jmdict-1070930-e718d186",
+    "kana": "ストア",
+    "romaji": [
+      "sutoa"
+    ],
+    "translation": "store",
+    "source": "JMdict",
+    "sourceId": 1070930
+  },
+  {
+    "id": "jmdict-1072010-8f984f40",
+    "kana": "スパイス",
+    "romaji": [
+      "supaisu"
+    ],
+    "translation": "spice",
+    "source": "JMdict",
+    "sourceId": 1072010
+  },
+  {
+    "id": "jmdict-1073590-a78773d3",
+    "kana": "スマイル",
+    "romaji": [
+      "sumairu"
+    ],
+    "translation": "smile",
+    "source": "JMdict",
+    "sourceId": 1073590
+  },
+  {
+    "id": "jmdict-1073720-4dc946ad",
+    "kana": "スライス",
+    "romaji": [
+      "suraisu"
+    ],
+    "translation": "slice",
+    "source": "JMdict",
+    "sourceId": 1073720
+  },
+  {
+    "id": "jmdict-1073830-fe85e2db",
+    "kana": "スランプ",
+    "romaji": [
+      "suranpu"
+    ],
+    "translation": "slump",
+    "source": "JMdict",
+    "sourceId": 1073830
+  },
+  {
+    "id": "jmdict-1074560-9b465fed",
+    "kana": "セダン",
+    "romaji": [
+      "sedan"
+    ],
+    "translation": "sedan",
+    "source": "JMdict",
+    "sourceId": 1074560
+  },
+  {
+    "id": "jmdict-1074620-a792a4b5",
+    "kana": "セピア",
+    "romaji": [
+      "sepia"
+    ],
+    "translation": "sepia",
+    "source": "JMdict",
+    "sourceId": 1074620
+  },
+  {
+    "id": "jmdict-1074630-f1536913",
+    "kana": "セブン",
+    "romaji": [
+      "sebun"
+    ],
+    "translation": "seven",
+    "source": "JMdict",
+    "sourceId": 1074630
+  },
+  {
+    "id": "jmdict-1075880-745d6d74",
+    "kana": "タイト",
+    "romaji": [
+      "taito"
+    ],
+    "translation": "tight",
+    "source": "JMdict",
+    "sourceId": 1075880
+  },
+  {
+    "id": "jmdict-1075900-47b4753f",
+    "kana": "タイトル",
+    "romaji": [
+      "taitoru"
+    ],
+    "translation": "title",
+    "source": "JMdict",
+    "sourceId": 1075900
+  },
+  {
+    "id": "jmdict-1076060-88391f11",
+    "kana": "タイムズ",
+    "romaji": [
+      "taimuzu"
+    ],
+    "translation": "times",
+    "source": "JMdict",
+    "sourceId": 1076060
+  },
+  {
+    "id": "jmdict-1076370-b350f437",
+    "kana": "タフ",
+    "romaji": [
+      "tafu"
+    ],
+    "translation": "tough",
+    "source": "JMdict",
+    "sourceId": 1076370
+  },
+  {
+    "id": "jmdict-1077030-b19254fa",
+    "kana": "ダカ",
+    "romaji": [
+      "daka"
+    ],
+    "translation": "daka-",
+    "source": "JMdict",
+    "sourceId": 1077030
+  },
+  {
+    "id": "jmdict-1077390-6b0fabf7",
+    "kana": "チア",
+    "romaji": [
+      "chia"
+    ],
+    "translation": "cheer",
+    "source": "JMdict",
+    "sourceId": 1077390
+  },
+  {
+    "id": "jmdict-1077440-2c8fae69",
+    "kana": "チェア",
+    "romaji": [
+      "chea"
+    ],
+    "translation": "chair",
+    "source": "JMdict",
+    "sourceId": 1077440
+  },
+  {
+    "id": "jmdict-1077480-782e2e5d",
+    "kana": "チェス",
+    "romaji": [
+      "chesu"
+    ],
+    "translation": "chess",
+    "source": "JMdict",
+    "sourceId": 1077480
+  },
+  {
+    "id": "jmdict-1077640-13fc4da5",
+    "kana": "チェロ",
+    "romaji": [
+      "chero"
+    ],
+    "translation": "cello",
+    "source": "JMdict",
+    "sourceId": 1077640
+  },
+  {
+    "id": "jmdict-1077870-7c45b88d",
+    "kana": "チャイナ",
+    "romaji": [
+      "chaina"
+    ],
+    "translation": "China",
+    "source": "JMdict",
+    "sourceId": 1077870
+  },
+  {
+    "id": "jmdict-1077890-879973b6",
+    "kana": "チャイム",
+    "romaji": [
+      "chaimu"
+    ],
+    "translation": "chime",
+    "source": "JMdict",
+    "sourceId": 1077890
+  },
+  {
+    "id": "jmdict-1078320-10509f91",
+    "kana": "チリ",
+    "romaji": [
+      "chiri"
+    ],
+    "translation": "Chile",
+    "source": "JMdict",
+    "sourceId": 1078320
+  },
+  {
+    "id": "jmdict-1078330-113bf40a",
+    "kana": "チルダ",
+    "romaji": [
+      "chiruda"
+    ],
+    "translation": "tilde",
+    "source": "JMdict",
+    "sourceId": 1078330
+  },
+  {
+    "id": "jmdict-1079190-70e9edfb",
+    "kana": "テイスト",
+    "romaji": [
+      "teisuto"
+    ],
+    "translation": "taste",
+    "source": "JMdict",
+    "sourceId": 1079190
+  },
+  {
+    "id": "jmdict-1079240-c5c84486",
+    "kana": "テキサス",
+    "romaji": [
+      "tekisasu"
+    ],
+    "translation": "Texas",
+    "source": "JMdict",
+    "sourceId": 1079240
+  },
+  {
+    "id": "jmdict-1082930-3a7244cc",
+    "kana": "デシ",
+    "romaji": [
+      "deshi"
+    ],
+    "translation": "deci-",
+    "source": "JMdict",
+    "sourceId": 1082930
+  },
+  {
+    "id": "jmdict-1083450-cbac2971",
+    "kana": "デニム",
+    "romaji": [
+      "denimu"
+    ],
+    "translation": "denim",
+    "source": "JMdict",
+    "sourceId": 1083450
+  },
+  {
+    "id": "jmdict-1084380-c7f38e87",
+    "kana": "デルタ",
+    "romaji": [
+      "deruta"
+    ],
+    "translation": "delta",
+    "source": "JMdict",
+    "sourceId": 1084380
+  },
+  {
+    "id": "jmdict-1085730-00c56f64",
+    "kana": "トラスト",
+    "romaji": [
+      "torasuto"
+    ],
+    "translation": "trust",
+    "source": "JMdict",
+    "sourceId": 1085730
+  },
+  {
+    "id": "jmdict-1087340-f14e5e3b",
+    "kana": "トレンド",
+    "romaji": [
+      "torendo"
+    ],
+    "translation": "trend",
+    "source": "JMdict",
+    "sourceId": 1087340
+  },
+  {
+    "id": "jmdict-1089080-c5dc3aa7",
+    "kana": "ドリンク",
+    "romaji": [
+      "dorinku"
+    ],
+    "translation": "drink",
+    "source": "JMdict",
+    "sourceId": 1089080
+  },
+  {
+    "id": "jmdict-1090530-ef6f4512",
+    "kana": "ナノ",
+    "romaji": [
+      "nano"
+    ],
+    "translation": "nano-",
+    "source": "JMdict",
+    "sourceId": 1090530
+  },
+  {
+    "id": "jmdict-1092890-30e5a919",
+    "kana": "ネス",
+    "romaji": [
+      "nesu"
+    ],
+    "translation": "-ness",
+    "source": "JMdict",
+    "sourceId": 1092890
+  },
+  {
+    "id": "jmdict-1093720-1d8fdcff",
+    "kana": "ノイズ",
+    "romaji": [
+      "noizu"
+    ],
+    "translation": "noise",
+    "source": "JMdict",
+    "sourceId": 1093720
+  },
+  {
+    "id": "jmdict-1096390-9e79b5aa",
+    "kana": "ハロン",
+    "romaji": [
+      "haron"
+    ],
+    "translation": "halon",
+    "source": "JMdict",
+    "sourceId": 1096390
   }
 ]

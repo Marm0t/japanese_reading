@@ -3,6 +3,7 @@
 
 import json
 from pathlib import Path
+import re
 
 ROOT = Path(__file__).resolve().parents[1]
 files = sorted((ROOT / "data").glob("*.json"))
@@ -14,7 +15,7 @@ for path in files:
     level = int(level_text)
     rows = json.loads(path.read_text(encoding="utf-8"))
     assert rows and isinstance(rows, list), f"{path}: expected a non-empty array"
-    if level > 1: assert len(rows) >= 100, f"{path}: expected at least 100 entries"
+    if level > 1: assert len(rows) >= 500, f"{path}: expected at least 500 entries"
     seen_questions = set()
     for index, row in enumerate(rows):
         where = f"{path.name}[{index}]"
@@ -24,11 +25,13 @@ for path in files:
         assert row.get("kana") and row["kana"] not in seen_questions, f"{where}: duplicate or missing kana"
         seen_questions.add(row["kana"])
         assert isinstance(row.get("romaji"), list) and all(row["romaji"]), f"{where}: invalid romaji"
+        assert all(re.fullmatch(r"[A-Za-z '\-]+", value) for value in row["romaji"]), f"{where}: romaji must be Latin"
         compact = row["kana"].replace(" ", "")
         if level == 1:
             assert "translation" not in row and "kanji" not in row, f"{where}: level 1 has hints"
         else:
             assert row.get("translation"), f"{where}: translation required"
+            assert row.get("source") in {"JMdict", "Tatoeba"} and row.get("sourceId"), f"{where}: source metadata required"
         if level == 2:
             assert 2 <= len(compact) <= 4, f"{where}: level 2 length"
             assert "っ" not in compact and "ッ" not in compact and "ー" not in compact, f"{where}: advanced mark in level 2"

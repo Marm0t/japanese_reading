@@ -20,6 +20,7 @@ The eight JSON datasets live in `data/`. To rebuild and validate them:
 
 ```bash
 python3 tools/generate_data.py
+python3 tools/build_large_corpus.py
 python3 tools/validate_data.py
 ```
 

@@ -22,14 +22,14 @@ SMALL = {"ゃ":"ya", "ゅ":"yu", "ょ":"yo", "ぁ":"a", "ぃ":"i", "ぅ":"u", "�
 def hira(text):
     return "".join(chr(ord(c) - 0x60) if "ァ" <= c <= "ヶ" else c for c in text)
 
-def romaji(text):
+def romaji(text, particles=False):
     text = hira(text)
     out, i = [], 0
-    foreign = {"ふぁ":"fa", "ふぃ":"fi", "ふぇ":"fe", "ふぉ":"fo", "てぃ":"ti", "でぃ":"di", "うぃ":"wi", "うぇ":"we", "うぉ":"wo", "しぇ":"she", "じぇ":"je", "ちぇ":"che"}
+    foreign = {"ふぁ":"fa", "ふぃ":"fi", "ふぇ":"fe", "ふぉ":"fo", "てぃ":"ti", "でぃ":"di", "てゅ":"tyu", "でゅ":"dyu", "うぃ":"wi", "うぇ":"we", "うぉ":"wo", "しぇ":"she", "じぇ":"je", "ちぇ":"che", "ゔぁ":"va", "ゔぃ":"vi", "ゔぇ":"ve", "ゔぉ":"vo"}
     while i < len(text):
         c = text[i]
         if c == " ": out.append(" "); i += 1; continue
-        if c in "。、！？": i += 1; continue
+        if c in "。、！？・「」『』〜～…": i += 1; continue
         if c == "っ":
             if i + 1 < len(text):
                 nxt = BASE.get(text[i + 1], "")
@@ -45,20 +45,21 @@ def romaji(text):
         sound = BASE.get(c, "")
         if i + 1 < len(text) and text[i + 1] in SMALL and sound:
             glide = SMALL[text[i + 1]]
-            if sound.endswith("i"):
-                sound = sound[:-1] + glide
-            elif c in "しじちぢ":
+            if c in "しじちぢ":
                 sound = {"し":"sh", "じ":"j", "ち":"ch", "ぢ":"j"}[c] + glide[1:]
+            elif sound.endswith("i"):
+                sound = sound[:-1] + glide
             i += 1
         out.append(sound or c); i += 1
     value = "".join(out)
     # Particles are written as kana but pronounced differently.
     words = value.split(" ")
     source_words = hira(text).split(" ")
-    for n, source in enumerate(source_words):
-        if source == "は": words[n] = "wa"
-        elif source == "へ": words[n] = "e"
-        elif source == "を": words[n] = "o"
+    if particles:
+        for n, source in enumerate(source_words):
+            if source == "は": words[n] = "wa"
+            elif source == "へ": words[n] = "e"
+            elif source == "を": words[n] = "o"
     return " ".join(words)
 
 def parse(block):
@@ -74,7 +75,7 @@ def entry(prefix, number, kana, kanji=None, translation=None, custom_romaji=None
     # Accept the common IME spelling and Hepburn n-apostrophe distinction alike.
     if "n'" in reading: variants.append(reading.replace("n'", "n"))
     if "ー" in kana:
-        variants.extend([reading.replace("oo", "ou"), reading.replace("aa", "a").replace("ii", "i").replace("uu", "u").replace("ee", "e").replace("oo", "o")])
+        variants.append(reading.replace("oo", "ou"))
         variants = list(dict.fromkeys(variants))
     return {k: v for k, v in {
         "id": f"{prefix}-{number:03d}", "kana": kana, "romaji": variants,
@@ -526,13 +527,8 @@ def main():
     DATA.mkdir(exist_ok=True)
     datasets = {
         "hiragana-01": level_one("hiragana"), "katakana-01": level_one("katakana"),
-        "hiragana-02": HIRA_2, "katakana-02": KATA_2,
-        "hiragana-03": hira_level3(), "katakana-03": KATA_3,
-        "hiragana-04": sentences(HIRA_SUBJECTS, HIRA_PREDICATES),
-        "katakana-04": sentences(KATA_SUBJECTS, KATA_PREDICATES),
     }
     for name, rows in datasets.items():
-        if name.endswith(("02", "03", "04")): assert len(rows) == 100, (name, len(rows))
         validate(name, rows); write(name, rows)
         print(f"{name}: {len(rows)} entries")
 

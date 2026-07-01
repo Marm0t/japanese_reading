@@ -1,953 +1,5557 @@
 [
   {
-    "id": "katakana04-001",
-    "kana": "アンナ は コーヒー を のみます。",
+    "id": "tatoeba-75433",
+    "kana": "タイ ポ みる と こたえるき なくす。",
     "romaji": [
-      "anna wa koohii o nomimasu",
-      "anna wa kouhii o nomimasu",
-      "anna wa kohi o nomimasu"
+      "tai po miru to kotaeruki nakusu"
     ],
-    "kanji": "アンナはコーヒーを飲みます。",
-    "translation": "Anna drinks coffee."
+    "kanji": "タイポみると答える気なくす。",
+    "translation": "When I see typos I lose interest in answering.",
+    "source": "Tatoeba",
+    "sourceId": 75433
   },
   {
-    "id": "katakana04-002",
-    "kana": "アンナ は テレビ を みます。",
+    "id": "tatoeba-162959",
+    "kana": "わたし の とくせい うさぎ シチューです。",
     "romaji": [
-      "anna wa terebi o mimasu"
+      "watashi no tokusei usagi shichuudesu"
     ],
-    "kanji": "アンナはテレビを見ます。",
-    "translation": "Anna watches television."
+    "kanji": "私の特製うさぎシチューです。",
+    "translation": "It's my special recipe, rabbit stew.",
+    "source": "Tatoeba",
+    "sourceId": 162959
   },
   {
-    "id": "katakana04-003",
-    "kana": "アンナ は メール を かきます。",
+    "id": "tatoeba-9528709",
+    "kana": "かのじょ は まいあさ、 ランニング を し に いきます。",
     "romaji": [
-      "anna wa meeru o kakimasu",
-      "anna wa meru o kakimasu"
+      "kanojo wa maiasa ranningu o shi ni ikimasu"
     ],
-    "kanji": "アンナはメールを書きます。",
-    "translation": "Anna writes an email."
+    "kanji": "彼女は毎朝、ランニングをしに行きます。",
+    "translation": "She goes running every morning.",
+    "source": "Tatoeba",
+    "sourceId": 9528709
   },
   {
-    "id": "katakana04-004",
-    "kana": "アンナ は ホテル へ いきます。",
+    "id": "tatoeba-9365813",
+    "kana": "トム は こくばん が すき じゃない。",
     "romaji": [
-      "anna wa hoteru e ikimasu"
+      "tomu wa kokuban ga suki janai"
     ],
-    "kanji": "アンナはホテルへ行きます。",
-    "translation": "Anna goes to the hotel."
+    "kanji": "トムは黒板が好きじゃない。",
+    "translation": "Tom doesn't like chalkboards.",
+    "source": "Tatoeba",
+    "sourceId": 9365813
   },
   {
-    "id": "katakana04-005",
-    "kana": "アンナ は バス で かえります。",
+    "id": "tatoeba-8805641",
+    "kana": "かれ は じょうし と ウマ が あわない。",
     "romaji": [
-      "anna wa basu de kaerimasu"
+      "kare wa joushi to uma ga awanai"
     ],
-    "kanji": "アンナはバスで帰ります。",
-    "translation": "Anna returns by bus."
+    "kanji": "彼は上司とウマが合わない。",
+    "translation": "He gets along badly with his boss.",
+    "source": "Tatoeba",
+    "sourceId": 8805641
   },
   {
-    "id": "katakana04-006",
-    "kana": "アンナ は テニス を します。",
+    "id": "tatoeba-3698222",
+    "kana": "トム は そんなこと いってなかった よ。",
     "romaji": [
-      "anna wa tenisu o shimasu"
+      "tomu wa sonnakoto itenakata yo"
     ],
-    "kanji": "アンナはテニスをします。",
-    "translation": "Anna plays tennis."
+    "kanji": "トムはそんなこと言ってなかったよ。",
+    "translation": "Tom didn't say that.",
+    "source": "Tatoeba",
+    "sourceId": 3698222
   },
   {
-    "id": "katakana04-007",
-    "kana": "アンナ は ピアノ を ひきます。",
+    "id": "tatoeba-11029558",
+    "kana": "ドア を あけろ。 いるの は わかってるんだ。",
     "romaji": [
-      "anna wa piano o hikimasu"
+      "doa o akero iruno wa wakaterunda"
     ],
-    "kanji": "アンナはピアノを弾きます。",
-    "translation": "Anna plays the piano."
+    "kanji": "ドアを開けろ。居るのは分かってるんだ。",
+    "translation": "Open the door. I know you're in there.",
+    "source": "Tatoeba",
+    "sourceId": 11029558
   },
   {
-    "id": "katakana04-008",
-    "kana": "アンナ は レストラン で たべます。",
+    "id": "tatoeba-9930579",
+    "kana": "トム が ケーブル タイ を ワン パック かった よ。",
     "romaji": [
-      "anna wa resutoran de tabemasu"
+      "tomu ga keeburu tai o wan pakku kata yo"
     ],
-    "kanji": "アンナはレストランで食べます。",
-    "translation": "Anna eats at a restaurant."
+    "kanji": "トムがケーブルタイをワンパック買ったよ。",
+    "translation": "Tom bought a pack of cable ties.",
+    "source": "Tatoeba",
+    "sourceId": 9930579
   },
   {
-    "id": "katakana04-009",
-    "kana": "マリア は コーヒー を のみます。",
+    "id": "tatoeba-12700779",
+    "kana": "おとこ の ひと と キスしたこと なんて、 ない わ。",
     "romaji": [
-      "maria wa koohii o nomimasu",
-      "maria wa kouhii o nomimasu",
-      "maria wa kohi o nomimasu"
+      "otoko no hito to kisushitakoto nante nai wa"
     ],
-    "kanji": "マリアはコーヒーを飲みます。",
-    "translation": "Maria drinks coffee."
+    "kanji": "男の人とキスしたことなんて、ないわ。",
+    "translation": "I have never kissed a guy before.",
+    "source": "Tatoeba",
+    "sourceId": 12700779
   },
   {
-    "id": "katakana04-010",
-    "kana": "マリア は テレビ を みます。",
+    "id": "tatoeba-165432",
+    "kana": "わたしたち は ちょうしょく に サンドイッチ を たべた。",
     "romaji": [
-      "maria wa terebi o mimasu"
+      "watashitachi wa choushoku ni sandoitchi o tabeta"
     ],
-    "kanji": "マリアはテレビを見ます。",
-    "translation": "Maria watches television."
+    "kanji": "私たちは朝食にサンドイッチを食べた。",
+    "translation": "We ate sandwiches for breakfast.",
+    "source": "Tatoeba",
+    "sourceId": 165432
   },
   {
-    "id": "katakana04-011",
-    "kana": "マリア は メール を かきます。",
+    "id": "tatoeba-9884895",
+    "kana": "トムなら、 あなた の しつもん に こたえてくれる よ。",
     "romaji": [
-      "maria wa meeru o kakimasu",
-      "maria wa meru o kakimasu"
+      "tomunara anata no shitsumon ni kotaetekureru yo"
     ],
-    "kanji": "マリアはメールを書きます。",
-    "translation": "Maria writes an email."
+    "kanji": "トムなら、あなたの質問に答えてくれるよ。",
+    "translation": "Tom will answer your questions.",
+    "source": "Tatoeba",
+    "sourceId": 9884895
   },
   {
-    "id": "katakana04-012",
-    "kana": "マリア は ホテル へ いきます。",
+    "id": "tatoeba-11683397",
+    "kana": "チケット が ほしい ひと は、 て を あげてください。",
     "romaji": [
-      "maria wa hoteru e ikimasu"
+      "chiketto ga hoshii hito wa te o agetekudasai"
     ],
-    "kanji": "マリアはホテルへ行きます。",
-    "translation": "Maria goes to the hotel."
+    "kanji": "チケットが欲しい人は、手を挙げてください。",
+    "translation": "If you want a ticket, please raise your hand.",
+    "source": "Tatoeba",
+    "sourceId": 11683397
   },
   {
-    "id": "katakana04-013",
-    "kana": "マリア は バス で かえります。",
+    "id": "tatoeba-10528323",
+    "kana": "この クラス は もう まんいんです。",
     "romaji": [
-      "maria wa basu de kaerimasu"
+      "kono kurasu wa mou manindesu"
     ],
-    "kanji": "マリアはバスで帰ります。",
-    "translation": "Maria returns by bus."
+    "kanji": "このクラスはもう満員です。",
+    "translation": "This class is already full.",
+    "source": "Tatoeba",
+    "sourceId": 10528323
   },
   {
-    "id": "katakana04-014",
-    "kana": "マリア は テニス を します。",
+    "id": "tatoeba-8657811",
+    "kana": "けいさつ は したい を シート で おおった。",
     "romaji": [
-      "maria wa tenisu o shimasu"
+      "keisatsu wa shitai o shiito de oota",
+      "keisatsu wa shitai o shiito de outa"
     ],
-    "kanji": "マリアはテニスをします。",
-    "translation": "Maria plays tennis."
+    "kanji": "警察は死体をシートで覆った。",
+    "translation": "The police covered the body with a sheet.",
+    "source": "Tatoeba",
+    "sourceId": 8657811
   },
   {
-    "id": "katakana04-015",
-    "kana": "マリア は ピアノ を ひきます。",
+    "id": "tatoeba-94533",
+    "kana": "かのじょ の きぼう は デザイナー に なることだ。",
     "romaji": [
-      "maria wa piano o hikimasu"
+      "kanojo no kibou wa dezainaa ni narukotoda"
     ],
-    "kanji": "マリアはピアノを弾きます。",
-    "translation": "Maria plays the piano."
+    "kanji": "彼女の希望はデザイナーになることだ。",
+    "translation": "She hopes to become a designer.",
+    "source": "Tatoeba",
+    "sourceId": 94533
   },
   {
-    "id": "katakana04-016",
-    "kana": "マリア は レストラン で たべます。",
+    "id": "tatoeba-200512",
+    "kana": "トニーくん が それ を こわしました。",
     "romaji": [
-      "maria wa resutoran de tabemasu"
+      "toniikun ga sore o kowashimashita"
     ],
-    "kanji": "マリアはレストランで食べます。",
-    "translation": "Maria eats at a restaurant."
+    "kanji": "トニー君がそれを壊しました。",
+    "translation": "Tony broke it.",
+    "source": "Tatoeba",
+    "sourceId": 200512
   },
   {
-    "id": "katakana04-017",
-    "kana": "ケン は コーヒー を のみます。",
+    "id": "tatoeba-11029592",
+    "kana": "その スタイル、 こせいてきでいい と おもう よ。",
     "romaji": [
-      "ken wa koohii o nomimasu",
-      "ken wa kouhii o nomimasu",
-      "ken wa kohi o nomimasu"
+      "sono sutairu koseitekideii to omou yo"
     ],
-    "kanji": "ケンはコーヒーを飲みます。",
-    "translation": "Ken drinks coffee."
+    "kanji": "そのスタイル、個性的でいいと思うよ。",
+    "translation": "I like your style. It's unique.",
+    "source": "Tatoeba",
+    "sourceId": 11029592
   },
   {
-    "id": "katakana04-018",
-    "kana": "ケン は テレビ を みます。",
+    "id": "tatoeba-9814321",
+    "kana": "わたし のこと、 バカだ と おもってる わけ？",
     "romaji": [
-      "ken wa terebi o mimasu"
+      "watashi nokoto bakada to omoteru wake"
     ],
-    "kanji": "ケンはテレビを見ます。",
-    "translation": "Ken watches television."
+    "kanji": "私のこと、バカだと思ってるわけ？",
+    "translation": "Do you take me for a fool?",
+    "source": "Tatoeba",
+    "sourceId": 9814321
   },
   {
-    "id": "katakana04-019",
-    "kana": "ケン は メール を かきます。",
+    "id": "tatoeba-3362206",
+    "kana": "トム が ドイツ に いったって、 ほんとう？",
     "romaji": [
-      "ken wa meeru o kakimasu",
-      "ken wa meru o kakimasu"
+      "tomu ga doitsu ni itatte hontou"
     ],
-    "kanji": "ケンはメールを書きます。",
-    "translation": "Ken writes an email."
+    "kanji": "トムがドイツに行ったって、本当？",
+    "translation": "Is it true that Tom went to Germany?",
+    "source": "Tatoeba",
+    "sourceId": 3362206
   },
   {
-    "id": "katakana04-020",
-    "kana": "ケン は ホテル へ いきます。",
+    "id": "tatoeba-11559029",
+    "kana": "トム が サンドイッチ を つくってくれた よ。",
     "romaji": [
-      "ken wa hoteru e ikimasu"
+      "tomu ga sandoitchi o tsukutekureta yo"
     ],
-    "kanji": "ケンはホテルへ行きます。",
-    "translation": "Ken goes to the hotel."
+    "kanji": "トムがサンドイッチを作ってくれたよ。",
+    "translation": "Tom made some sandwiches for us.",
+    "source": "Tatoeba",
+    "sourceId": 11559029
   },
   {
-    "id": "katakana04-021",
-    "kana": "ケン は バス で かえります。",
+    "id": "tatoeba-11958096",
+    "kana": "その なまえ に、 ピン と きた。",
     "romaji": [
-      "ken wa basu de kaerimasu"
+      "sono namae ni pin to kita"
     ],
-    "kanji": "ケンはバスで帰ります。",
-    "translation": "Ken returns by bus."
+    "kanji": "その名前に、ピンときた。",
+    "translation": "That name rung a bell.",
+    "source": "Tatoeba",
+    "sourceId": 11958096
   },
   {
-    "id": "katakana04-022",
-    "kana": "ケン は テニス を します。",
+    "id": "tatoeba-8728696",
+    "kana": "ほんとうに ここ が トム の しょくばな の？",
     "romaji": [
-      "ken wa tenisu o shimasu"
+      "hontouni koko ga tomu no shokubana no"
     ],
-    "kanji": "ケンはテニスをします。",
-    "translation": "Ken plays tennis."
+    "kanji": "本当にここがトムの職場なの？",
+    "translation": "Are you sure this is Tom's office?",
+    "source": "Tatoeba",
+    "sourceId": 8728696
   },
   {
-    "id": "katakana04-023",
-    "kana": "ケン は ピアノ を ひきます。",
+    "id": "tatoeba-9019123",
+    "kana": "この キルト、 めっちゃ あたたかい よ。",
     "romaji": [
-      "ken wa piano o hikimasu"
+      "kono kiruto metcha atatakai yo"
     ],
-    "kanji": "ケンはピアノを弾きます。",
-    "translation": "Ken plays the piano."
+    "kanji": "このキルト、めっちゃ暖かいよ。",
+    "translation": "This quilt is very warm.",
+    "source": "Tatoeba",
+    "sourceId": 9019123
   },
   {
-    "id": "katakana04-024",
-    "kana": "ケン は レストラン で たべます。",
+    "id": "tatoeba-8665408",
+    "kana": "トム は ソファ で ねるつもりだ。",
     "romaji": [
-      "ken wa resutoran de tabemasu"
+      "tomu wa sofa de nerutsumorida"
     ],
-    "kanji": "ケンはレストランで食べます。",
-    "translation": "Ken eats at a restaurant."
+    "kanji": "トムはソファで寝るつもりだ。",
+    "translation": "Tom is going to sleep on the sofa.",
+    "source": "Tatoeba",
+    "sourceId": 8665408
   },
   {
-    "id": "katakana04-025",
-    "kana": "ジョン は コーヒー を のみます。",
+    "id": "tatoeba-9963850",
+    "kana": "トム は メアリー ほど やく に は たたない よ。",
     "romaji": [
-      "jyon wa koohii o nomimasu",
-      "jyon wa kouhii o nomimasu",
-      "jyon wa kohi o nomimasu"
+      "tomu wa mearii hodo yaku ni wa tatanai yo"
     ],
-    "kanji": "ジョンはコーヒーを飲みます。",
-    "translation": "John drinks coffee."
+    "kanji": "トムはメアリーほど役には立たないよ。",
+    "translation": "Tom isn't as helpful as Mary.",
+    "source": "Tatoeba",
+    "sourceId": 9963850
   },
   {
-    "id": "katakana04-026",
-    "kana": "ジョン は テレビ を みます。",
+    "id": "tatoeba-9840088",
+    "kana": "トム が それ を やる ひつよう はない。",
     "romaji": [
-      "jyon wa terebi o mimasu"
+      "tomu ga sore o yaru hitsuyou wanai"
     ],
-    "kanji": "ジョンはテレビを見ます。",
-    "translation": "John watches television."
+    "kanji": "トムがそれをやる必要はない。",
+    "translation": "Tom doesn't need to do that.",
+    "source": "Tatoeba",
+    "sourceId": 9840088
   },
   {
-    "id": "katakana04-027",
-    "kana": "ジョン は メール を かきます。",
+    "id": "tatoeba-11299679",
+    "kana": "トム は マンション に すんでいます。",
     "romaji": [
-      "jyon wa meeru o kakimasu",
-      "jyon wa meru o kakimasu"
+      "tomu wa manshon ni sundeimasu"
     ],
-    "kanji": "ジョンはメールを書きます。",
-    "translation": "John writes an email."
+    "kanji": "トムはマンションに住んでいます。",
+    "translation": "Tom lives in an apartment.",
+    "source": "Tatoeba",
+    "sourceId": 11299679
   },
   {
-    "id": "katakana04-028",
-    "kana": "ジョン は ホテル へ いきます。",
+    "id": "tatoeba-992866",
+    "kana": "かのじょ は スキー が できない。",
     "romaji": [
-      "jyon wa hoteru e ikimasu"
+      "kanojo wa sukii ga dekinai"
     ],
-    "kanji": "ジョンはホテルへ行きます。",
-    "translation": "John goes to the hotel."
+    "kanji": "彼女はスキーが出来ない。",
+    "translation": "She can't ski.",
+    "source": "Tatoeba",
+    "sourceId": 992866
   },
   {
-    "id": "katakana04-029",
-    "kana": "ジョン は バス で かえります。",
+    "id": "tatoeba-10387663",
+    "kana": "かれ の なまえ は トムで、 ジョン じゃない よ。",
     "romaji": [
-      "jyon wa basu de kaerimasu"
+      "kare no namae wa tomude jon janai yo"
     ],
-    "kanji": "ジョンはバスで帰ります。",
-    "translation": "John returns by bus."
+    "kanji": "彼の名前はトムで、ジョンじゃないよ。",
+    "translation": "His name is Tom, not John.",
+    "source": "Tatoeba",
+    "sourceId": 10387663
   },
   {
-    "id": "katakana04-030",
-    "kana": "ジョン は テニス を します。",
+    "id": "tatoeba-9995083",
+    "kana": "かれ ね、 ウサギ を かってる の よ。",
     "romaji": [
-      "jyon wa tenisu o shimasu"
+      "kare ne usagi o kateru no yo"
     ],
-    "kanji": "ジョンはテニスをします。",
-    "translation": "John plays tennis."
+    "kanji": "彼ね、ウサギを飼ってるのよ。",
+    "translation": "He has rabbits.",
+    "source": "Tatoeba",
+    "sourceId": 9995083
   },
   {
-    "id": "katakana04-031",
-    "kana": "ジョン は ピアノ を ひきます。",
+    "id": "tatoeba-11572901",
+    "kana": "タバコ は、 ご えんりょ いただけます か？",
     "romaji": [
-      "jyon wa piano o hikimasu"
+      "tabako wa go enryo itadakemasu ka"
     ],
-    "kanji": "ジョンはピアノを弾きます。",
-    "translation": "John plays the piano."
+    "kanji": "タバコは、ご遠慮いただけますか？",
+    "translation": "Would you mind not smoking?",
+    "source": "Tatoeba",
+    "sourceId": 11572901
   },
   {
-    "id": "katakana04-032",
-    "kana": "ジョン は レストラン で たべます。",
+    "id": "tatoeba-8973577",
+    "kana": "あなた は プロ で、 わたし は アマチュア。",
     "romaji": [
-      "jyon wa resutoran de tabemasu"
+      "anata wa puro de watashi wa amachua"
     ],
-    "kanji": "ジョンはレストランで食べます。",
-    "translation": "John eats at a restaurant."
+    "kanji": "あなたはプロで、私はアマチュア。",
+    "translation": "You're a professional, and I'm an amateur.",
+    "source": "Tatoeba",
+    "sourceId": 8973577
   },
   {
-    "id": "katakana04-033",
-    "kana": "エミ は コーヒー を のみます。",
+    "id": "tatoeba-111335",
+    "kana": "かれ は パーティー に いかないこと に きめた。",
     "romaji": [
-      "emi wa koohii o nomimasu",
-      "emi wa kouhii o nomimasu",
-      "emi wa kohi o nomimasu"
+      "kare wa paatii ni ikanaikoto ni kimeta"
     ],
-    "kanji": "エミはコーヒーを飲みます。",
-    "translation": "Emi drinks coffee."
+    "kanji": "彼はパーティーに行かないことに決めた。",
+    "translation": "He decided not to go to the party.",
+    "source": "Tatoeba",
+    "sourceId": 111335
   },
   {
-    "id": "katakana04-034",
-    "kana": "エミ は テレビ を みます。",
+    "id": "tatoeba-9392787",
+    "kana": "きょう の コーヒー、 へんな あじ が する なぁ。",
     "romaji": [
-      "emi wa terebi o mimasu"
+      "kyou no koohii henna aji ga suru na",
+      "kyou no kouhii henna aji ga suru na"
     ],
-    "kanji": "エミはテレビを見ます。",
-    "translation": "Emi watches television."
+    "kanji": "今日のコーヒー、変な味がするなぁ。",
+    "translation": "The coffee tastes strange today.",
+    "source": "Tatoeba",
+    "sourceId": 9392787
   },
   {
-    "id": "katakana04-035",
-    "kana": "エミ は メール を かきます。",
+    "id": "tatoeba-196373",
+    "kana": "ぼく は、 テニス が だいすきです。",
     "romaji": [
-      "emi wa meeru o kakimasu",
-      "emi wa meru o kakimasu"
+      "boku wa tenisu ga daisukidesu"
     ],
-    "kanji": "エミはメールを書きます。",
-    "translation": "Emi writes an email."
+    "kanji": "ぼくは、テニスが大好きです。",
+    "translation": "I like tennis very much.",
+    "source": "Tatoeba",
+    "sourceId": 196373
   },
   {
-    "id": "katakana04-036",
-    "kana": "エミ は ホテル へ いきます。",
+    "id": "tatoeba-192607",
+    "kana": "ラジオ は マルコーニ によって はつめいされた。",
     "romaji": [
-      "emi wa hoteru e ikimasu"
+      "rajio wa marukooni niyotte hatsumeisareta",
+      "rajio wa marukouni niyotte hatsumeisareta"
     ],
-    "kanji": "エミはホテルへ行きます。",
-    "translation": "Emi goes to the hotel."
+    "kanji": "ラジオはマルコーニによって発明された。",
+    "translation": "The radio was invented by Marconi.",
+    "source": "Tatoeba",
+    "sourceId": 192607
   },
   {
-    "id": "katakana04-037",
-    "kana": "エミ は バス で かえります。",
+    "id": "tatoeba-9966158",
+    "kana": "ジョン は ぞうへいきょく で はたらいています。",
     "romaji": [
-      "emi wa basu de kaerimasu"
+      "jon wa zouheikyoku de hataraiteimasu"
     ],
-    "kanji": "エミはバスで帰ります。",
-    "translation": "Emi returns by bus."
+    "kanji": "ジョンは造幣局で働いています。",
+    "translation": "John works at the mint.",
+    "source": "Tatoeba",
+    "sourceId": 9966158
   },
   {
-    "id": "katakana04-038",
-    "kana": "エミ は テニス を します。",
+    "id": "tatoeba-216810",
+    "kana": "サッカー は テニス より にんき が あるんだ。",
     "romaji": [
-      "emi wa tenisu o shimasu"
+      "sakkaa wa tenisu yori ninki ga arunda"
     ],
-    "kanji": "エミはテニスをします。",
-    "translation": "Emi plays tennis."
+    "kanji": "サッカーはテニスより人気があるんだ。",
+    "translation": "Soccer is more popular than tennis.",
+    "source": "Tatoeba",
+    "sourceId": 216810
   },
   {
-    "id": "katakana04-039",
-    "kana": "エミ は ピアノ を ひきます。",
+    "id": "tatoeba-187365",
+    "kana": "なんせき か の ボート が みずうみ に うかんでいる。",
     "romaji": [
-      "emi wa piano o hikimasu"
+      "nanseki ka no booto ga mizuumi ni ukandeiru",
+      "nanseki ka no bouto ga mizuumi ni ukandeiru"
     ],
-    "kanji": "エミはピアノを弾きます。",
-    "translation": "Emi plays the piano."
+    "kanji": "何隻かのボートが湖に浮かんでいる。",
+    "translation": "Some boats are on the lake.",
+    "source": "Tatoeba",
+    "sourceId": 187365
   },
   {
-    "id": "katakana04-040",
-    "kana": "エミ は レストラン で たべます。",
+    "id": "tatoeba-196520",
+    "kana": "ポーラ は きんきゅう の ようじ で よびだされた。",
     "romaji": [
-      "emi wa resutoran de tabemasu"
+      "poora wa kinkyuu no youji de yobidasareta",
+      "poura wa kinkyuu no youji de yobidasareta"
     ],
-    "kanji": "エミはレストランで食べます。",
-    "translation": "Emi eats at a restaurant."
+    "kanji": "ポーラは緊急の用事で呼び出された。",
+    "translation": "Paula was called away on urgent business.",
+    "source": "Tatoeba",
+    "sourceId": 196520
   },
   {
-    "id": "katakana04-041",
-    "kana": "トム は コーヒー を のみます。",
+    "id": "tatoeba-10212582",
+    "kana": "あの コメント に は おおわらいした よ。 ありがとさん。",
     "romaji": [
-      "tomu wa koohii o nomimasu",
-      "tomu wa kouhii o nomimasu",
-      "tomu wa kohi o nomimasu"
+      "ano komento ni wa oowaraishita yo arigatosan"
     ],
-    "kanji": "トムはコーヒーを飲みます。",
-    "translation": "Tom drinks coffee."
+    "kanji": "あのコメントには大笑いしたよ。ありがとさん。",
+    "translation": "That comment made me laugh really hard. Thank you.",
+    "source": "Tatoeba",
+    "sourceId": 10212582
   },
   {
-    "id": "katakana04-042",
-    "kana": "トム は テレビ を みます。",
+    "id": "tatoeba-881518",
+    "kana": "しょうねん が パン を たべています。",
     "romaji": [
-      "tomu wa terebi o mimasu"
+      "shounen ga pan o tabeteimasu"
     ],
-    "kanji": "トムはテレビを見ます。",
-    "translation": "Tom watches television."
+    "kanji": "少年がパンを食べています。",
+    "translation": "The boy is eating bread.",
+    "source": "Tatoeba",
+    "sourceId": 881518
   },
   {
-    "id": "katakana04-043",
-    "kana": "トム は メール を かきます。",
+    "id": "tatoeba-917778",
+    "kana": "チンピラ が コンビニ の てんいん を ぶちのめした。",
     "romaji": [
-      "tomu wa meeru o kakimasu",
-      "tomu wa meru o kakimasu"
+      "chinpira ga konbini no tenin o buchinomeshita"
     ],
-    "kanji": "トムはメールを書きます。",
-    "translation": "Tom writes an email."
+    "kanji": "チンピラがコンビニの店員をぶちのめした。",
+    "translation": "The small thug beat up the convenience store employee.",
+    "source": "Tatoeba",
+    "sourceId": 917778
   },
   {
-    "id": "katakana04-044",
-    "kana": "トム は ホテル へ いきます。",
+    "id": "tatoeba-9279620",
+    "kana": "メアリー は ほんとうに かっこいい じょせいである。",
     "romaji": [
-      "tomu wa hoteru e ikimasu"
+      "mearii wa hontouni kakkoii joseidearu"
     ],
-    "kanji": "トムはホテルへ行きます。",
-    "translation": "Tom goes to the hotel."
+    "kanji": "メアリーは本当にかっこいい女性である。",
+    "translation": "Mary is a really good-looking woman.",
+    "source": "Tatoeba",
+    "sourceId": 9279620
   },
   {
-    "id": "katakana04-045",
-    "kana": "トム は バス で かえります。",
+    "id": "tatoeba-11821542",
+    "kana": "へや に ピアノ が おいてあります。",
     "romaji": [
-      "tomu wa basu de kaerimasu"
+      "heya ni piano ga oitearimasu"
     ],
-    "kanji": "トムはバスで帰ります。",
-    "translation": "Tom returns by bus."
+    "kanji": "部屋にピアノが置いてあります。",
+    "translation": "There's a piano in the room.",
+    "source": "Tatoeba",
+    "sourceId": 11821542
   },
   {
-    "id": "katakana04-046",
-    "kana": "トム は テニス を します。",
+    "id": "tatoeba-12018776",
+    "kana": "でんわ で はなす より メール のほう が いいです。",
     "romaji": [
-      "tomu wa tenisu o shimasu"
+      "denwa de hanasu yori meeru nohou ga iidesu"
     ],
-    "kanji": "トムはテニスをします。",
-    "translation": "Tom plays tennis."
+    "kanji": "電話で話すよりメールの方がいいです。",
+    "translation": "I prefer to text than to talk on the phone.",
+    "source": "Tatoeba",
+    "sourceId": 12018776
   },
   {
-    "id": "katakana04-047",
-    "kana": "トム は ピアノ を ひきます。",
+    "id": "tatoeba-2054386",
+    "kana": "わたし は いま、 ローマ に います。",
     "romaji": [
-      "tomu wa piano o hikimasu"
+      "watashi wa ima rooma ni imasu",
+      "watashi wa ima rouma ni imasu"
     ],
-    "kanji": "トムはピアノを弾きます。",
-    "translation": "Tom plays the piano."
+    "kanji": "私は今、ローマにいます。",
+    "translation": "I am in Rome now.",
+    "source": "Tatoeba",
+    "sourceId": 2054386
   },
   {
-    "id": "katakana04-048",
-    "kana": "トム は レストラン で たべます。",
+    "id": "tatoeba-187526",
+    "kana": "なんかい ヨーロッパ に いったこと が あるのです か？",
     "romaji": [
-      "tomu wa resutoran de tabemasu"
+      "nankai yooroppa ni itakoto ga arunodesu ka",
+      "nankai youroppa ni itakoto ga arunodesu ka"
     ],
-    "kanji": "トムはレストランで食べます。",
-    "translation": "Tom eats at a restaurant."
+    "kanji": "何回ヨーロッパに行ったことがあるのですか？",
+    "translation": "How many times have you been to Europe?",
+    "source": "Tatoeba",
+    "sourceId": 187526
   },
   {
-    "id": "katakana04-049",
-    "kana": "スタッフ は コーヒー を のみます。",
+    "id": "tatoeba-4481195",
+    "kana": "ボストン の てんき は どう？",
     "romaji": [
-      "sutaffu wa koohii o nomimasu",
-      "sutaffu wa kouhii o nomimasu",
-      "sutaffu wa kohi o nomimasu"
+      "bosuton no tenki wa dou"
     ],
-    "kanji": "スタッフはコーヒーを飲みます。",
-    "translation": "The staff member drinks coffee."
+    "kanji": "ボストンの天気はどう？",
+    "translation": "How's the weather in Boston?",
+    "source": "Tatoeba",
+    "sourceId": 4481195
   },
   {
-    "id": "katakana04-050",
-    "kana": "スタッフ は テレビ を みます。",
+    "id": "tatoeba-111232",
+    "kana": "かれ は ハンカチ で て を ふいた。",
     "romaji": [
-      "sutaffu wa terebi o mimasu"
+      "kare wa hankachi de te o fuita"
     ],
-    "kanji": "スタッフはテレビを見ます。",
-    "translation": "The staff member watches television."
+    "kanji": "彼はハンカチで手をふいた。",
+    "translation": "He wiped his hands on a handkerchief.",
+    "source": "Tatoeba",
+    "sourceId": 111232
   },
   {
-    "id": "katakana04-051",
-    "kana": "スタッフ は メール を かきます。",
+    "id": "tatoeba-13624408",
+    "kana": "ハルキウ から ともだち に でんわ を している。",
     "romaji": [
-      "sutaffu wa meeru o kakimasu",
-      "sutaffu wa meru o kakimasu"
+      "harukiu kara tomodachi ni denwa o shiteiru"
     ],
-    "kanji": "スタッフはメールを書きます。",
-    "translation": "The staff member writes an email."
+    "kanji": "ハルキウから友達に電話をしている。",
+    "translation": "I'm calling my friend from Kharkiv.",
+    "source": "Tatoeba",
+    "sourceId": 13624408
   },
   {
-    "id": "katakana04-052",
-    "kana": "スタッフ は ホテル へ いきます。",
+    "id": "tatoeba-9636273",
+    "kana": "ジョン は メアリー が すきなんだ と おもう よ。",
     "romaji": [
-      "sutaffu wa hoteru e ikimasu"
+      "jon wa mearii ga sukinanda to omou yo"
     ],
-    "kanji": "スタッフはホテルへ行きます。",
-    "translation": "The staff member goes to the hotel."
+    "kanji": "ジョンはメアリーが好きなんだと思うよ。",
+    "translation": "I think John likes Mary.",
+    "source": "Tatoeba",
+    "sourceId": 9636273
   },
   {
-    "id": "katakana04-053",
-    "kana": "スタッフ は バス で かえります。",
+    "id": "tatoeba-11763469",
+    "kana": "いま、 ボストン の てんき は どんな かんじ？",
     "romaji": [
-      "sutaffu wa basu de kaerimasu"
+      "ima bosuton no tenki wa donna kanji"
     ],
-    "kanji": "スタッフはバスで帰ります。",
-    "translation": "The staff member returns by bus."
+    "kanji": "今、ボストンの天気はどんな感じ？",
+    "translation": "What's the weather like in Boston now?",
+    "source": "Tatoeba",
+    "sourceId": 11763469
   },
   {
-    "id": "katakana04-054",
-    "kana": "スタッフ は テニス を します。",
+    "id": "tatoeba-216182",
+    "kana": "システム が さどうしない ばあい が ある。",
     "romaji": [
-      "sutaffu wa tenisu o shimasu"
+      "shisutemu ga sadoushinai baai ga aru"
     ],
-    "kanji": "スタッフはテニスをします。",
-    "translation": "The staff member plays tennis."
+    "kanji": "システムが作動しない場合がある。",
+    "translation": "There are cases where the system doesn't go.",
+    "source": "Tatoeba",
+    "sourceId": 216182
   },
   {
-    "id": "katakana04-055",
-    "kana": "スタッフ は ピアノ を ひきます。",
+    "id": "tatoeba-196385",
+    "kana": "ぼく の カメラ に さわらないでくれ。",
     "romaji": [
-      "sutaffu wa piano o hikimasu"
+      "boku no kamera ni sawaranaidekure"
     ],
-    "kanji": "スタッフはピアノを弾きます。",
-    "translation": "The staff member plays the piano."
+    "kanji": "ぼくのカメラに触らないでくれ。",
+    "translation": "Leave my camera alone.",
+    "source": "Tatoeba",
+    "sourceId": 196385
   },
   {
-    "id": "katakana04-056",
-    "kana": "スタッフ は レストラン で たべます。",
+    "id": "tatoeba-2772834",
+    "kana": "ボストン で は なに を なさったんです か？",
     "romaji": [
-      "sutaffu wa resutoran de tabemasu"
+      "bosuton de wa nani o nasatandesu ka"
     ],
-    "kanji": "スタッフはレストランで食べます。",
-    "translation": "The staff member eats at a restaurant."
+    "kanji": "ボストンでは何をなさったんですか？",
+    "translation": "What did you do in Boston?",
+    "source": "Tatoeba",
+    "sourceId": 2772834
   },
   {
-    "id": "katakana04-057",
-    "kana": "シェフ は コーヒー を のみます。",
+    "id": "tatoeba-2063413",
+    "kana": "テレビ で いま なに が やってる か みたい。",
     "romaji": [
-      "shefu wa koohii o nomimasu",
-      "shefu wa kouhii o nomimasu",
-      "shefu wa kohi o nomimasu"
+      "terebi de ima nani ga yateru ka mitai"
     ],
-    "kanji": "シェフはコーヒーを飲みます。",
-    "translation": "The chef drinks coffee."
+    "kanji": "テレビで今何がやってるか見たい。",
+    "translation": "I want to watch what's on TV right now.",
+    "source": "Tatoeba",
+    "sourceId": 2063413
   },
   {
-    "id": "katakana04-058",
-    "kana": "シェフ は テレビ を みます。",
+    "id": "tatoeba-141022",
+    "kana": "せんしゅ は すべて ルール を まもる ぎむ が ある。",
     "romaji": [
-      "shefu wa terebi o mimasu"
+      "senshu wa subete ruuru o mamoru gimu ga aru"
     ],
-    "kanji": "シェフはテレビを見ます。",
-    "translation": "The chef watches television."
+    "kanji": "選手はすべてルールを守る義務がある。",
+    "translation": "Every player is under obligation to keep the rules.",
+    "source": "Tatoeba",
+    "sourceId": 141022
   },
   {
-    "id": "katakana04-059",
-    "kana": "シェフ は メール を かきます。",
+    "id": "tatoeba-3366923",
+    "kana": "サラダ の お あじ は いかがです か？",
     "romaji": [
-      "shefu wa meeru o kakimasu",
-      "shefu wa meru o kakimasu"
+      "sarada no o aji wa ikagadesu ka"
     ],
-    "kanji": "シェフはメールを書きます。",
-    "translation": "The chef writes an email."
+    "kanji": "サラダのお味はいかがですか？",
+    "translation": "How is the salad?",
+    "source": "Tatoeba",
+    "sourceId": 3366923
   },
   {
-    "id": "katakana04-060",
-    "kana": "シェフ は ホテル へ いきます。",
+    "id": "tatoeba-2724969",
+    "kana": "アメリカ に いったこと は あります か？",
     "romaji": [
-      "shefu wa hoteru e ikimasu"
+      "amerika ni itakoto wa arimasu ka"
     ],
-    "kanji": "シェフはホテルへ行きます。",
-    "translation": "The chef goes to the hotel."
+    "kanji": "アメリカに行ったことはありますか？",
+    "translation": "Have you ever been to America?",
+    "source": "Tatoeba",
+    "sourceId": 2724969
   },
   {
-    "id": "katakana04-061",
-    "kana": "シェフ は バス で かえります。",
+    "id": "tatoeba-235429",
+    "kana": "にだい の オートバイ を ひかくするべきだ。",
     "romaji": [
-      "shefu wa basu de kaerimasu"
+      "nidai no ootobai o hikakusurubekida",
+      "nidai no outobai o hikakusurubekida"
     ],
-    "kanji": "シェフはバスで帰ります。",
-    "translation": "The chef returns by bus."
+    "kanji": "２台のオートバイを比較するべきだ。",
+    "translation": "You should compare the two motorcycles.",
+    "source": "Tatoeba",
+    "sourceId": 235429
   },
   {
-    "id": "katakana04-062",
-    "kana": "シェフ は テニス を します。",
+    "id": "tatoeba-223511",
+    "kana": "この テキスト は やさしい えいご で かかれている。",
     "romaji": [
-      "shefu wa tenisu o shimasu"
+      "kono tekisuto wa yasashii eigo de kakareteiru"
     ],
-    "kanji": "シェフはテニスをします。",
-    "translation": "The chef plays tennis."
+    "kanji": "このテキストは易しい英語で書かれている。",
+    "translation": "This textbook is written in simple English.",
+    "source": "Tatoeba",
+    "sourceId": 223511
   },
   {
-    "id": "katakana04-063",
-    "kana": "シェフ は ピアノ を ひきます。",
+    "id": "tatoeba-225091",
+    "kana": "ケンくん は いま なに を しています か。",
     "romaji": [
-      "shefu wa piano o hikimasu"
+      "kenkun wa ima nani o shiteimasu ka"
     ],
-    "kanji": "シェフはピアノを弾きます。",
-    "translation": "The chef plays the piano."
+    "kanji": "ケン君は今何をしていますか。",
+    "translation": "What's Ken doing now?",
+    "source": "Tatoeba",
+    "sourceId": 225091
   },
   {
-    "id": "katakana04-064",
-    "kana": "シェフ は レストラン で たべます。",
+    "id": "tatoeba-91559",
+    "kana": "かのじょ は ヘビ を とても こわがっている。",
     "romaji": [
-      "shefu wa resutoran de tabemasu"
+      "kanojo wa hebi o totemo kowagateiru"
     ],
-    "kanji": "シェフはレストランで食べます。",
-    "translation": "The chef eats at a restaurant."
+    "kanji": "彼女はヘビをとてもこわがっている。",
+    "translation": "She has a great fear of snakes.",
+    "source": "Tatoeba",
+    "sourceId": 91559
   },
   {
-    "id": "katakana04-065",
-    "kana": "ガイド は コーヒー を のみます。",
+    "id": "tatoeba-13231576",
+    "kana": "ロンドン は イギリス の しゅとです。",
     "romaji": [
-      "gaido wa koohii o nomimasu",
-      "gaido wa kouhii o nomimasu",
-      "gaido wa kohi o nomimasu"
+      "rondon wa igirisu no shutodesu"
     ],
-    "kanji": "ガイドはコーヒーを飲みます。",
-    "translation": "The guide drinks coffee."
+    "kanji": "ロンドンはイギリスの首都です。",
+    "translation": "London is the capital of the United Kingdom.",
+    "source": "Tatoeba",
+    "sourceId": 13231576
   },
   {
-    "id": "katakana04-066",
-    "kana": "ガイド は テレビ を みます。",
+    "id": "tatoeba-10914833",
+    "kana": "リオ に きたら、 まち を あんないするから ね。",
     "romaji": [
-      "gaido wa terebi o mimasu"
+      "rio ni kitara machi o annaisurukara ne"
     ],
-    "kanji": "ガイドはテレビを見ます。",
-    "translation": "The guide watches television."
+    "kanji": "リオに来たら、街を案内するからね。",
+    "translation": "When you come to Rio, I will show you the whole city.",
+    "source": "Tatoeba",
+    "sourceId": 10914833
   },
   {
-    "id": "katakana04-067",
-    "kana": "ガイド は メール を かきます。",
+    "id": "tatoeba-226215",
+    "kana": "カメラ を もっていくの を わすれないでください。",
     "romaji": [
-      "gaido wa meeru o kakimasu",
-      "gaido wa meru o kakimasu"
+      "kamera o moteikuno o wasurenaidekudasai"
     ],
-    "kanji": "ガイドはメールを書きます。",
-    "translation": "The guide writes an email."
+    "kanji": "カメラを持っていくのを忘れないでください。",
+    "translation": "Don't forget to take a camera with you.",
+    "source": "Tatoeba",
+    "sourceId": 226215
   },
   {
-    "id": "katakana04-068",
-    "kana": "ガイド は ホテル へ いきます。",
+    "id": "tatoeba-111811",
+    "kana": "かれ は テニス の せんしゅ に なりたいんだ よ。",
     "romaji": [
-      "gaido wa hoteru e ikimasu"
+      "kare wa tenisu no senshu ni naritainda yo"
     ],
-    "kanji": "ガイドはホテルへ行きます。",
-    "translation": "The guide goes to the hotel."
+    "kanji": "彼はテニスの選手になりたいんだよ。",
+    "translation": "He wants to be a tennis player.",
+    "source": "Tatoeba",
+    "sourceId": 111811
   },
   {
-    "id": "katakana04-069",
-    "kana": "ガイド は バス で かえります。",
+    "id": "tatoeba-8587386",
+    "kana": "この ドア は じどうてき に ロックされます。",
     "romaji": [
-      "gaido wa basu de kaerimasu"
+      "kono doa wa jidouteki ni rokkusaremasu"
     ],
-    "kanji": "ガイドはバスで帰ります。",
-    "translation": "The guide returns by bus."
+    "kanji": "このドアは自動的にロックされます。",
+    "translation": "This door locks by itself.",
+    "source": "Tatoeba",
+    "sourceId": 8587386
   },
   {
-    "id": "katakana04-070",
-    "kana": "ガイド は テニス を します。",
+    "id": "tatoeba-9943039",
+    "kana": "イタリアじん て ね、 コーヒー は のまないんだ よ。",
     "romaji": [
-      "gaido wa tenisu o shimasu"
+      "itariajin te ne koohii wa nomanainda yo",
+      "itariajin te ne kouhii wa nomanainda yo"
     ],
-    "kanji": "ガイドはテニスをします。",
-    "translation": "The guide plays tennis."
+    "kanji": "イタリア人てね、コーヒーは飲まないんだよ。",
+    "translation": "The Italians never drink coffee.",
+    "source": "Tatoeba",
+    "sourceId": 9943039
   },
   {
-    "id": "katakana04-071",
-    "kana": "ガイド は ピアノ を ひきます。",
+    "id": "tatoeba-11467645",
+    "kana": "この レストラン は、 だい の おきにいりです。",
     "romaji": [
-      "gaido wa piano o hikimasu"
+      "kono resutoran wa dai no okiniiridesu"
     ],
-    "kanji": "ガイドはピアノを弾きます。",
-    "translation": "The guide plays the piano."
+    "kanji": "このレストランは、大のお気に入りです。",
+    "translation": "I love this restaurant.",
+    "source": "Tatoeba",
+    "sourceId": 11467645
   },
   {
-    "id": "katakana04-072",
-    "kana": "ガイド は レストラン で たべます。",
+    "id": "tatoeba-114275",
+    "kana": "かれ は オオカミ のよう に やせている。",
     "romaji": [
-      "gaido wa resutoran de tabemasu"
+      "kare wa ookami noyou ni yaseteiru"
     ],
-    "kanji": "ガイドはレストランで食べます。",
-    "translation": "The guide eats at a restaurant."
+    "kanji": "彼はオオカミのように痩せている。",
+    "translation": "He is as lean as a wolf.",
+    "source": "Tatoeba",
+    "sourceId": 114275
   },
   {
-    "id": "katakana04-073",
-    "kana": "ドライバー は コーヒー を のみます。",
+    "id": "tatoeba-10273894",
+    "kana": "くろ の バン を うんてんする よ。",
     "romaji": [
-      "doraibaa wa koohii o nomimasu",
-      "doraibaa wa kouhii o nomimasu",
-      "doraiba wa kohi o nomimasu"
+      "kuro no ban o untensuru yo"
     ],
-    "kanji": "ドライバーはコーヒーを飲みます。",
-    "translation": "The driver drinks coffee."
+    "kanji": "黒のバンを運転するよ。",
+    "translation": "I drive a black van.",
+    "source": "Tatoeba",
+    "sourceId": 10273894
   },
   {
-    "id": "katakana04-074",
-    "kana": "ドライバー は テレビ を みます。",
+    "id": "tatoeba-3133234",
+    "kana": "どうして そんなに ボストン が すきな の？",
     "romaji": [
-      "doraibaa wa terebi o mimasu",
-      "doraiba wa terebi o mimasu"
+      "doushite sonnani bosuton ga sukina no"
     ],
-    "kanji": "ドライバーはテレビを見ます。",
-    "translation": "The driver watches television."
+    "kanji": "どうしてそんなにボストンが好きなの？",
+    "translation": "Why do you like Boston so much?",
+    "source": "Tatoeba",
+    "sourceId": 3133234
   },
   {
-    "id": "katakana04-075",
-    "kana": "ドライバー は メール を かきます。",
+    "id": "tatoeba-9858994",
+    "kana": "この ベルト のせい で こし まわり が くるしい わ。",
     "romaji": [
-      "doraibaa wa meeru o kakimasu",
-      "doraiba wa meru o kakimasu"
+      "kono beruto nosei de koshi mawari ga kurushii wa"
     ],
-    "kanji": "ドライバーはメールを書きます。",
-    "translation": "The driver writes an email."
+    "kanji": "このベルトのせいで腰回りが苦しいわ。",
+    "translation": "This belt is squishing my waist.",
+    "source": "Tatoeba",
+    "sourceId": 9858994
   },
   {
-    "id": "katakana04-076",
-    "kana": "ドライバー は ホテル へ いきます。",
+    "id": "tatoeba-201757",
+    "kana": "ドイツ の じんこう は べいこく の はんぶんいかである。",
     "romaji": [
-      "doraibaa wa hoteru e ikimasu",
-      "doraiba wa hoteru e ikimasu"
+      "doitsu no jinkou wa beikoku no hanbunikadearu"
     ],
-    "kanji": "ドライバーはホテルへ行きます。",
-    "translation": "The driver goes to the hotel."
+    "kanji": "ドイツの人口は米国の半分以下である。",
+    "translation": "The population of Germany is less than half that of the United States.",
+    "source": "Tatoeba",
+    "sourceId": 201757
   },
   {
-    "id": "katakana04-077",
-    "kana": "ドライバー は バス で かえります。",
+    "id": "tatoeba-10654625",
+    "kana": "テレビ は わたしたち の ちしき を ひろげてくれます。",
     "romaji": [
-      "doraibaa wa basu de kaerimasu",
-      "doraiba wa basu de kaerimasu"
+      "terebi wa watashitachi no chishiki o hirogetekuremasu"
     ],
-    "kanji": "ドライバーはバスで帰ります。",
-    "translation": "The driver returns by bus."
+    "kanji": "テレビは私たちの知識を広げてくれます。",
+    "translation": "Television helps us widen our knowledge.",
+    "source": "Tatoeba",
+    "sourceId": 10654625
   },
   {
-    "id": "katakana04-078",
-    "kana": "ドライバー は テニス を します。",
+    "id": "tatoeba-75019",
+    "kana": "オフかい で は お あいできて うれしかったです。",
     "romaji": [
-      "doraibaa wa tenisu o shimasu",
-      "doraiba wa tenisu o shimasu"
+      "ofukai de wa o aidekite ureshikatadesu"
     ],
-    "kanji": "ドライバーはテニスをします。",
-    "translation": "The driver plays tennis."
+    "kanji": "オフ会ではお会いできて嬉しかったです。",
+    "translation": "I was very happy to see you at the offline-party.",
+    "source": "Tatoeba",
+    "sourceId": 75019
   },
   {
-    "id": "katakana04-079",
-    "kana": "ドライバー は ピアノ を ひきます。",
+    "id": "tatoeba-9808366",
+    "kana": "いえ に ついたとき は、 クタクタだったんだ よ。",
     "romaji": [
-      "doraibaa wa piano o hikimasu",
-      "doraiba wa piano o hikimasu"
+      "ie ni tsuitatoki wa kutakutadatanda yo"
     ],
-    "kanji": "ドライバーはピアノを弾きます。",
-    "translation": "The driver plays the piano."
+    "kanji": "家に着いたときは、クタクタだったんだよ。",
+    "translation": "When I got home, I was very tired.",
+    "source": "Tatoeba",
+    "sourceId": 9808366
   },
   {
-    "id": "katakana04-080",
-    "kana": "ドライバー は レストラン で たべます。",
+    "id": "tatoeba-198724",
+    "kana": "ニューヨーク の お てんき は どうです か。",
     "romaji": [
-      "doraibaa wa resutoran de tabemasu",
-      "doraiba wa resutoran de tabemasu"
+      "nyuuyooku no o tenki wa doudesu ka",
+      "nyuuyouku no o tenki wa doudesu ka"
     ],
-    "kanji": "ドライバーはレストランで食べます。",
-    "translation": "The driver eats at a restaurant."
+    "kanji": "ニューヨークのお天気はどうですか。",
+    "translation": "How's the weather in New York?",
+    "source": "Tatoeba",
+    "sourceId": 198724
   },
   {
-    "id": "katakana04-081",
-    "kana": "チーム は コーヒー を のみます。",
+    "id": "tatoeba-161173",
+    "kana": "わたし は カメラ を かのじょ に むけた。",
     "romaji": [
-      "chiimu wa koohii o nomimasu",
-      "chiimu wa kouhii o nomimasu",
-      "chimu wa kohi o nomimasu"
+      "watashi wa kamera o kanojo ni muketa"
     ],
-    "kanji": "チームはコーヒーを飲みます。",
-    "translation": "The team drinks coffee."
+    "kanji": "私はカメラを彼女に向けた。",
+    "translation": "I pointed my camera at her.",
+    "source": "Tatoeba",
+    "sourceId": 161173
   },
   {
-    "id": "katakana04-082",
-    "kana": "チーム は テレビ を みます。",
+    "id": "tatoeba-3059318",
+    "kana": "この ドレス、 ふとって みえる か な？",
     "romaji": [
-      "chiimu wa terebi o mimasu",
-      "chimu wa terebi o mimasu"
+      "kono doresu futote mieru ka na"
     ],
-    "kanji": "チームはテレビを見ます。",
-    "translation": "The team watches television."
+    "kanji": "このドレス、太って見えるかな？",
+    "translation": "Does this dress make me look fat?",
+    "source": "Tatoeba",
+    "sourceId": 3059318
   },
   {
-    "id": "katakana04-083",
-    "kana": "チーム は メール を かきます。",
+    "id": "tatoeba-12883872",
+    "kana": "なくした と おもってた クレカ、 あった よ。",
     "romaji": [
-      "chiimu wa meeru o kakimasu",
-      "chimu wa meru o kakimasu"
+      "nakushita to omoteta kureka ata yo"
     ],
-    "kanji": "チームはメールを書きます。",
-    "translation": "The team writes an email."
+    "kanji": "なくしたと思ってたクレカ、あったよ。",
+    "translation": "I found my credit card that I thought I'd lost.",
+    "source": "Tatoeba",
+    "sourceId": 12883872
   },
   {
-    "id": "katakana04-084",
-    "kana": "チーム は ホテル へ いきます。",
+    "id": "tatoeba-194451",
+    "kana": "もう じき クリスマス が くる。",
     "romaji": [
-      "chiimu wa hoteru e ikimasu",
-      "chimu wa hoteru e ikimasu"
+      "mou jiki kurisumasu ga kuru"
     ],
-    "kanji": "チームはホテルへ行きます。",
-    "translation": "The team goes to the hotel."
+    "kanji": "もうじきクリスマスが来る。",
+    "translation": "Christmas is coming soon.",
+    "source": "Tatoeba",
+    "sourceId": 194451
   },
   {
-    "id": "katakana04-085",
-    "kana": "チーム は バス で かえります。",
+    "id": "tatoeba-10623165",
+    "kana": "たべすぎると デブ に なっちゃう よ。",
     "romaji": [
-      "chiimu wa basu de kaerimasu",
-      "chimu wa basu de kaerimasu"
+      "tabesugiruto debu ni nachau yo"
     ],
-    "kanji": "チームはバスで帰ります。",
-    "translation": "The team returns by bus."
+    "kanji": "食べすぎるとデブになっちゃうよ。",
+    "translation": "Don't eat so much, or you'll get really fat.",
+    "source": "Tatoeba",
+    "sourceId": 10623165
   },
   {
-    "id": "katakana04-086",
-    "kana": "チーム は テニス を します。",
+    "id": "tatoeba-11851870",
+    "kana": "この くに は ロシア と いいます。",
     "romaji": [
-      "chiimu wa tenisu o shimasu",
-      "chimu wa tenisu o shimasu"
+      "kono kuni wa roshia to iimasu"
     ],
-    "kanji": "チームはテニスをします。",
-    "translation": "The team plays tennis."
+    "kanji": "この国はロシアといいます。",
+    "translation": "The name of this country is Russia.",
+    "source": "Tatoeba",
+    "sourceId": 11851870
   },
   {
-    "id": "katakana04-087",
-    "kana": "チーム は ピアノ を ひきます。",
+    "id": "tatoeba-10629046",
+    "kana": "ぼく の ランドセル、 めっちゃ おもいんだ。",
     "romaji": [
-      "chiimu wa piano o hikimasu",
-      "chimu wa piano o hikimasu"
+      "boku no randoseru metcha omoinda"
     ],
-    "kanji": "チームはピアノを弾きます。",
-    "translation": "The team plays the piano."
+    "kanji": "僕のランドセル、めっちゃ重いんだ。",
+    "translation": "My schoolbag is heavy as hell.",
+    "source": "Tatoeba",
+    "sourceId": 10629046
   },
   {
-    "id": "katakana04-088",
-    "kana": "チーム は レストラン で たべます。",
+    "id": "tatoeba-9694324",
+    "kana": "ふらんすご を ならうの は かんたんだ よ。",
     "romaji": [
-      "chiimu wa resutoran de tabemasu",
-      "chimu wa resutoran de tabemasu"
+      "furansugo o narauno wa kantanda yo"
     ],
-    "kanji": "チームはレストランで食べます。",
-    "translation": "The team eats at a restaurant."
+    "kanji": "フランス語を習うのは簡単だよ。",
+    "translation": "Learning French is easy.",
+    "source": "Tatoeba",
+    "sourceId": 9694324
   },
   {
-    "id": "katakana04-089",
-    "kana": "バンド は コーヒー を のみます。",
+    "id": "tatoeba-9965909",
+    "kana": "ヤニー は スクーラー が すき じゃなかった の よ。",
     "romaji": [
-      "bando wa koohii o nomimasu",
-      "bando wa kouhii o nomimasu",
-      "bando wa kohi o nomimasu"
+      "yanii wa sukuuraa ga suki janakata no yo"
     ],
-    "kanji": "バンドはコーヒーを飲みます。",
-    "translation": "The band drinks coffee."
+    "kanji": "ヤニーはスクーラーが好きじゃなかったのよ。",
+    "translation": "Yanni didn't like Skura.",
+    "source": "Tatoeba",
+    "sourceId": 9965909
   },
   {
-    "id": "katakana04-090",
-    "kana": "バンド は テレビ を みます。",
+    "id": "tatoeba-2183191",
+    "kana": "あなた は まだ ギター を ひいているのです か。",
     "romaji": [
-      "bando wa terebi o mimasu"
+      "anata wa mada gitaa o hiiteirunodesu ka"
     ],
-    "kanji": "バンドはテレビを見ます。",
-    "translation": "The band watches television."
+    "kanji": "あなたはまだギターを弾いているのですか。",
+    "translation": "Are you still playing the guitar?",
+    "source": "Tatoeba",
+    "sourceId": 2183191
   },
   {
-    "id": "katakana04-091",
-    "kana": "バンド は メール を かきます。",
+    "id": "tatoeba-194657",
+    "kana": "メキシコ と いえば、 やっぱ タコスでしょ。",
     "romaji": [
-      "bando wa meeru o kakimasu",
-      "bando wa meru o kakimasu"
+      "mekishiko to ieba yappa takosudesho"
     ],
-    "kanji": "バンドはメールを書きます。",
-    "translation": "The band writes an email."
+    "kanji": "メキシコと言えば、やっぱタコスでしょ。",
+    "translation": "Mention Mexico, and tacos come to mind.",
+    "source": "Tatoeba",
+    "sourceId": 194657
   },
   {
-    "id": "katakana04-092",
-    "kana": "バンド は ホテル へ いきます。",
+    "id": "tatoeba-12146497",
+    "kana": "こんな テスト、 ごうかく できない って。 ムズ すぎる。",
     "romaji": [
-      "bando wa hoteru e ikimasu"
+      "konna tesuto goukaku dekinai tte muzu sugiru"
     ],
-    "kanji": "バンドはホテルへ行きます。",
-    "translation": "The band goes to the hotel."
+    "kanji": "こんなテスト、合格できないって。ムズすぎる。",
+    "translation": "I can't pass this exam. It's too hard.",
+    "source": "Tatoeba",
+    "sourceId": 12146497
   },
   {
-    "id": "katakana04-093",
-    "kana": "バンド は バス で かえります。",
+    "id": "tatoeba-148135",
+    "kana": "しゅうまつ に ハイキング に いこう よ。",
     "romaji": [
-      "bando wa basu de kaerimasu"
+      "shuumatsu ni haikingu ni ikou yo"
     ],
-    "kanji": "バンドはバスで帰ります。",
-    "translation": "The band returns by bus."
+    "kanji": "週末にハイキングに行こうよ。",
+    "translation": "Let's go hiking this weekend.",
+    "source": "Tatoeba",
+    "sourceId": 148135
   },
   {
-    "id": "katakana04-094",
-    "kana": "バンド は テニス を します。",
+    "id": "tatoeba-10465717",
+    "kana": "ボストン に いく よてい は ない よ。",
     "romaji": [
-      "bando wa tenisu o shimasu"
+      "bosuton ni iku yotei wa nai yo"
     ],
-    "kanji": "バンドはテニスをします。",
-    "translation": "The band plays tennis."
+    "kanji": "ボストンに行く予定はないよ。",
+    "translation": "I'm not planning to visit Boston.",
+    "source": "Tatoeba",
+    "sourceId": 10465717
   },
   {
-    "id": "katakana04-095",
-    "kana": "バンド は ピアノ を ひきます。",
+    "id": "tatoeba-11529750",
+    "kana": "フランス が あき のとき、 ウルグアイ は はるです。",
     "romaji": [
-      "bando wa piano o hikimasu"
+      "furansu ga aki notoki uruguai wa harudesu"
     ],
-    "kanji": "バンドはピアノを弾きます。",
-    "translation": "The band plays the piano."
+    "kanji": "フランスが秋の時、ウルグアイは春です。",
+    "translation": "When it's fall in France, it's spring in Uruguay.",
+    "source": "Tatoeba",
+    "sourceId": 11529750
   },
   {
-    "id": "katakana04-096",
-    "kana": "バンド は レストラン で たべます。",
+    "id": "tatoeba-197906",
+    "kana": "ハムレット は だれ が かいたのです か。",
     "romaji": [
-      "bando wa resutoran de tabemasu"
+      "hamuretto wa dare ga kaitanodesu ka"
     ],
-    "kanji": "バンドはレストランで食べます。",
-    "translation": "The band eats at a restaurant."
+    "kanji": "ハムレットは誰が書いたのですか。",
+    "translation": "Who wrote Hamlet?",
+    "source": "Tatoeba",
+    "sourceId": 197906
   },
   {
-    "id": "katakana04-097",
-    "kana": "ロボット は コーヒー を のみます。",
+    "id": "tatoeba-10550456",
+    "kana": "この カップ、 すごく きにいってる の。",
     "romaji": [
-      "robotto wa koohii o nomimasu",
-      "robotto wa kouhii o nomimasu",
-      "robotto wa kohi o nomimasu"
+      "kono kappu sugoku kiniiteru no"
     ],
-    "kanji": "ロボットはコーヒーを飲みます。",
-    "translation": "The robot drinks coffee."
+    "kanji": "このカップ、すごく気に入ってるの。",
+    "translation": "I love this cup.",
+    "source": "Tatoeba",
+    "sourceId": 10550456
   },
   {
-    "id": "katakana04-098",
-    "kana": "ロボット は テレビ を みます。",
+    "id": "tatoeba-9034861",
+    "kana": "わたし の ペン を さがしてる の。",
     "romaji": [
-      "robotto wa terebi o mimasu"
+      "watashi no pen o sagashiteru no"
     ],
-    "kanji": "ロボットはテレビを見ます。",
-    "translation": "The robot watches television."
+    "kanji": "私のペンを捜してるの。",
+    "translation": "I'm looking for my pen.",
+    "source": "Tatoeba",
+    "sourceId": 9034861
   },
   {
-    "id": "katakana04-099",
-    "kana": "ロボット は メール を かきます。",
+    "id": "tatoeba-214937",
+    "kana": "すぐ に ドア を しめなさい。",
     "romaji": [
-      "robotto wa meeru o kakimasu",
-      "robotto wa meru o kakimasu"
+      "sugu ni doa o shimenasai"
     ],
-    "kanji": "ロボットはメールを書きます。",
-    "translation": "The robot writes an email."
+    "kanji": "すぐにドアを閉めなさい。",
+    "translation": "Let the door be closed at once.",
+    "source": "Tatoeba",
+    "sourceId": 214937
   },
   {
-    "id": "katakana04-100",
-    "kana": "ロボット は ホテル へ いきます。",
+    "id": "tatoeba-226878",
+    "kana": "おちゃ か コーヒー でも いかがです か。",
     "romaji": [
-      "robotto wa hoteru e ikimasu"
+      "ocha ka koohii demo ikagadesu ka",
+      "ocha ka kouhii demo ikagadesu ka"
     ],
-    "kanji": "ロボットはホテルへ行きます。",
-    "translation": "The robot goes to the hotel."
+    "kanji": "お茶かコーヒーでもいかがですか。",
+    "translation": "Would you like tea or coffee?",
+    "source": "Tatoeba",
+    "sourceId": 226878
+  },
+  {
+    "id": "tatoeba-11023053",
+    "kana": "チリ ダニ は、 ひと の フケ や、 アカ を このむ。",
+    "romaji": [
+      "chiri dani wa hito no fuke ya aka o konomu"
+    ],
+    "kanji": "チリダニは、人のフケや、アカを好む。",
+    "translation": "Dust mites love things like dandruff and dead skin cells.",
+    "source": "Tatoeba",
+    "sourceId": 11023053
+  },
+  {
+    "id": "tatoeba-227948",
+    "kana": "エベレスト は せかい で もっとも たかい やまです。",
+    "romaji": [
+      "eberesuto wa sekai de mottomo takai yamadesu"
+    ],
+    "kanji": "エベレストは世界で最も高い山です。",
+    "translation": "Mt. Everest is the highest mountain in the world.",
+    "source": "Tatoeba",
+    "sourceId": 227948
+  },
+  {
+    "id": "tatoeba-194140",
+    "kana": "もうすこし コーヒー は いかがです か。",
+    "romaji": [
+      "mousukoshi koohii wa ikagadesu ka",
+      "mousukoshi kouhii wa ikagadesu ka"
+    ],
+    "kanji": "もう少しコーヒーはいかがですか。",
+    "translation": "Won't you have some more coffee?",
+    "source": "Tatoeba",
+    "sourceId": 194140
+  },
+  {
+    "id": "tatoeba-10655991",
+    "kana": "その どうぶつえん に は、 キリン が いるんだ。",
+    "romaji": [
+      "sono doubutsuen ni wa kirin ga irunda"
+    ],
+    "kanji": "その動物園には、キリンがいるんだ。",
+    "translation": "There are giraffes in the zoo.",
+    "source": "Tatoeba",
+    "sourceId": 10655991
+  },
+  {
+    "id": "tatoeba-9116086",
+    "kana": "この スープ、 ほんとうに おいしい ね。",
+    "romaji": [
+      "kono suupu hontouni oishii ne"
+    ],
+    "kanji": "このスープ、本当に美味しいね。",
+    "translation": "This soup is really delicious, isn't it?",
+    "source": "Tatoeba",
+    "sourceId": 9116086
+  },
+  {
+    "id": "tatoeba-111783",
+    "kana": "かれ は ドア から のぞきこんだ。",
+    "romaji": [
+      "kare wa doa kara nozokikonda"
+    ],
+    "kanji": "彼はドアからのぞきこんだ。",
+    "translation": "He looked in at the door.",
+    "source": "Tatoeba",
+    "sourceId": 111783
+  },
+  {
+    "id": "tatoeba-9029064",
+    "kana": "わたし の パソコン、 めっちゃ とろい の。",
+    "romaji": [
+      "watashi no pasokon metcha toroi no"
+    ],
+    "kanji": "私のパソコン、めっちゃとろいの。",
+    "translation": "My computer is very slow.",
+    "source": "Tatoeba",
+    "sourceId": 9029064
+  },
+  {
+    "id": "tatoeba-12047499",
+    "kana": "スーツケース は どこ に おいたら いい？",
+    "romaji": [
+      "suutsukeesu wa doko ni oitara ii"
+    ],
+    "kanji": "スーツケースはどこに置いたらいい？",
+    "translation": "Where should I put these suitcases?",
+    "source": "Tatoeba",
+    "sourceId": 12047499
+  },
+  {
+    "id": "tatoeba-5348235",
+    "kana": "カメラ について なに か ごぞんじです か。",
+    "romaji": [
+      "kamera nitsuite nani ka gozonjidesu ka"
+    ],
+    "kanji": "カメラについて何かご存知ですか。",
+    "translation": "Do you know anything about cameras?",
+    "source": "Tatoeba",
+    "sourceId": 5348235
+  },
+  {
+    "id": "tatoeba-8282115",
+    "kana": "コーヒー より おちゃ のほう が いい。",
+    "romaji": [
+      "koohii yori ocha nohou ga ii",
+      "kouhii yori ocha nohou ga ii"
+    ],
+    "kanji": "コーヒーよりお茶の方がいい。",
+    "translation": "I'd rather have tea instead of coffee.",
+    "source": "Tatoeba",
+    "sourceId": 8282115
+  },
+  {
+    "id": "tatoeba-11086806",
+    "kana": "わたしたち は おいしい チェリー を たべます よ。",
+    "romaji": [
+      "watashitachi wa oishii cherii o tabemasu yo"
+    ],
+    "kanji": "私たちは美味しいチェリーを食べますよ。",
+    "translation": "We will eat a delicious cherry.",
+    "source": "Tatoeba",
+    "sourceId": 11086806
+  },
+  {
+    "id": "tatoeba-80471",
+    "kana": "あした は サッカー の しあいだ。",
+    "romaji": [
+      "ashita wa sakkaa no shiaida"
+    ],
+    "kanji": "明日はサッカーの試合だ。",
+    "translation": "It's the soccer match tomorrow.",
+    "source": "Tatoeba",
+    "sourceId": 80471
+  },
+  {
+    "id": "tatoeba-1078970",
+    "kana": "フルーツ ジュース が ほしいです か？",
+    "romaji": [
+      "furuutsu juusu ga hoshiidesu ka"
+    ],
+    "kanji": "フルーツジュースが欲しいですか？",
+    "translation": "Do you want fruit juice?",
+    "source": "Tatoeba",
+    "sourceId": 1078970
+  },
+  {
+    "id": "tatoeba-7094645",
+    "kana": "わたし の ペン は どこです か？",
+    "romaji": [
+      "watashi no pen wa dokodesu ka"
+    ],
+    "kanji": "私のペンはどこですか？",
+    "translation": "Where is my pen?",
+    "source": "Tatoeba",
+    "sourceId": 7094645
+  },
+  {
+    "id": "tatoeba-84999",
+    "kana": "おっと は いつも ベッド で ほん を よむんです。",
+    "romaji": [
+      "otto wa itsumo beddo de hon o yomundesu"
+    ],
+    "kanji": "夫はいつもベッドで本を読むんです。",
+    "translation": "My husband is always reading in bed.",
+    "source": "Tatoeba",
+    "sourceId": 84999
+  },
+  {
+    "id": "tatoeba-225486",
+    "kana": "クリス は りか の じゅぎょう で おちこぼれそうです。",
+    "romaji": [
+      "kurisu wa rika no jugyou de ochikoboresoudesu"
+    ],
+    "kanji": "クリスは理科の授業で落ちこぼれそうです。",
+    "translation": "Chris is in a risky situation in science class.",
+    "source": "Tatoeba",
+    "sourceId": 225486
+  },
+  {
+    "id": "tatoeba-234395",
+    "kana": "あそこ の スポーツカー を みなさい。",
+    "romaji": [
+      "asoko no supootsukaa o minasai",
+      "asoko no supoutsukaa o minasai"
+    ],
+    "kanji": "あそこのスポーツカーを見なさい。",
+    "translation": "Look at the sports car over there.",
+    "source": "Tatoeba",
+    "sourceId": 234395
+  },
+  {
+    "id": "tatoeba-139333",
+    "kana": "そんがい は ひゃく まんドル に のぼる。",
+    "romaji": [
+      "songai wa hyaku mandoru ni noboru"
+    ],
+    "kanji": "損害は百万ドルにのぼる。",
+    "translation": "The loss amounts to a million dollars.",
+    "source": "Tatoeba",
+    "sourceId": 139333
+  },
+  {
+    "id": "tatoeba-9534572",
+    "kana": "かれ に は ペン を あげよう。",
+    "romaji": [
+      "kare ni wa pen o ageyou"
+    ],
+    "kanji": "彼にはペンをあげよう。",
+    "translation": "I'll give him a pen.",
+    "source": "Tatoeba",
+    "sourceId": 9534572
+  },
+  {
+    "id": "tatoeba-9035208",
+    "kana": "あんなに たくさん アイス たべちゃ だめだったんだ よ。",
+    "romaji": [
+      "annani takusan aisu tabecha damedatanda yo"
+    ],
+    "kanji": "あんなにたくさんアイス食べちゃ駄目だったんだよ。",
+    "translation": "You shouldn't have eaten so much ice cream.",
+    "source": "Tatoeba",
+    "sourceId": 9035208
+  },
+  {
+    "id": "tatoeba-10655928",
+    "kana": "バードウォッチング は すてきな しゅみです よ。",
+    "romaji": [
+      "baadowotchingu wa sutekina shumidesu yo"
+    ],
+    "kanji": "バードウォッチングは素敵な趣味ですよ。",
+    "translation": "Bird watching is a nice hobby.",
+    "source": "Tatoeba",
+    "sourceId": 10655928
+  },
+  {
+    "id": "tatoeba-170077",
+    "kana": "きのう トラック が この へい に ぶつかった。",
+    "romaji": [
+      "kinou torakku ga kono hei ni butsukata"
+    ],
+    "kanji": "昨日トラックがこの塀にぶつかった。",
+    "translation": "Yesterday a truck hit this wall.",
+    "source": "Tatoeba",
+    "sourceId": 170077
+  },
+  {
+    "id": "tatoeba-13259041",
+    "kana": "わたし の チャンネル へ ようこそ。",
+    "romaji": [
+      "watashi no channeru e youkoso"
+    ],
+    "kanji": "私のチャンネルへようこそ。",
+    "translation": "Welcome to my channel.",
+    "source": "Tatoeba",
+    "sourceId": 13259041
+  },
+  {
+    "id": "tatoeba-213692",
+    "kana": "そこ に ジョーンズさん が たてた もん が みえます。",
+    "romaji": [
+      "soko ni joonzusan ga tateta mon ga miemasu",
+      "soko ni jounzusan ga tateta mon ga miemasu"
+    ],
+    "kanji": "そこにジョーンズさんが建てた門が見えます。",
+    "translation": "There you see the gate which Mr Jones built.",
+    "source": "Tatoeba",
+    "sourceId": 213692
+  },
+  {
+    "id": "tatoeba-3496838",
+    "kana": "ドア に かぎ を かけて。",
+    "romaji": [
+      "doa ni kagi o kakete"
+    ],
+    "kanji": "ドアに鍵をかけて。",
+    "translation": "Lock the door.",
+    "source": "Tatoeba",
+    "sourceId": 3496838
+  },
+  {
+    "id": "tatoeba-2786655",
+    "kana": "いつ でも オフィス に あそび に きてください。",
+    "romaji": [
+      "itsu demo ofisu ni asobi ni kitekudasai"
+    ],
+    "kanji": "いつでもオフィスに遊びに来てください。",
+    "translation": "Come to my office any time.",
+    "source": "Tatoeba",
+    "sourceId": 2786655
+  },
+  {
+    "id": "tatoeba-213978",
+    "kana": "ソアレズし は わたし の ながねん の しんゆうです。",
+    "romaji": [
+      "soarezushi wa watashi no naganen no shinyuudesu"
+    ],
+    "kanji": "ソアレズ氏は私の長年の親友です。",
+    "translation": "Mr Soarez has been my close friend for years.",
+    "source": "Tatoeba",
+    "sourceId": 213978
+  },
+  {
+    "id": "tatoeba-83956",
+    "kana": "かぜ を ひかないよう に セーター を もっていきなさい。",
+    "romaji": [
+      "kaze o hikanaiyou ni seetaa o moteikinasai"
+    ],
+    "kanji": "風邪をひかないようにセーターを持って行きなさい。",
+    "translation": "Take your sweater so that you may not catch cold.",
+    "source": "Tatoeba",
+    "sourceId": 83956
+  },
+  {
+    "id": "tatoeba-11038988",
+    "kana": "ちがう コンビニ に なったけど オーナー は おなじ。",
+    "romaji": [
+      "chigau konbini ni natakedo oonaa wa onaji",
+      "chigau konbini ni natakedo ounaa wa onaji"
+    ],
+    "kanji": "違うコンビニになったけどオーナーは同じ。",
+    "translation": "The convenience store changed but the owner is the same.",
+    "source": "Tatoeba",
+    "sourceId": 11038988
+  },
+  {
+    "id": "tatoeba-8532685",
+    "kana": "この チケット、 ほしい ひと に さしあげて。",
+    "romaji": [
+      "kono chiketto hoshii hito ni sashiagete"
+    ],
+    "kanji": "このチケット、欲しい人に差し上げて。",
+    "translation": "You may give this ticket to whoever wants it.",
+    "source": "Tatoeba",
+    "sourceId": 8532685
+  },
+  {
+    "id": "tatoeba-11331933",
+    "kana": "ボール は フェンス に あたった。",
+    "romaji": [
+      "booru wa fensu ni atata",
+      "bouru wa fensu ni atata"
+    ],
+    "kanji": "ボールはフェンスに当たった。",
+    "translation": "The ball hit the fence.",
+    "source": "Tatoeba",
+    "sourceId": 11331933
+  },
+  {
+    "id": "tatoeba-11527047",
+    "kana": "メアリー は ネイルサロン で はたらいてる の よ。",
+    "romaji": [
+      "mearii wa neirusaron de hataraiteru no yo"
+    ],
+    "kanji": "メアリーはネイルサロンで働いてるのよ。",
+    "translation": "Mary works at a nail salon.",
+    "source": "Tatoeba",
+    "sourceId": 11527047
+  },
+  {
+    "id": "tatoeba-1046160",
+    "kana": "きょう の ごご、 えいご の テスト が あります。",
+    "romaji": [
+      "kyou no gogo eigo no tesuto ga arimasu"
+    ],
+    "kanji": "今日の午後、英語のテストがあります。",
+    "translation": "We will have an English test this afternoon.",
+    "source": "Tatoeba",
+    "sourceId": 1046160
+  },
+  {
+    "id": "tatoeba-714276",
+    "kana": "イタリアご で も かぞえること が できます か。",
+    "romaji": [
+      "itariago de mo kazoerukoto ga dekimasu ka"
+    ],
+    "kanji": "イタリア語でも数えることができますか。",
+    "translation": "Can you also count in Italian?",
+    "source": "Tatoeba",
+    "sourceId": 714276
+  },
+  {
+    "id": "tatoeba-229693",
+    "kana": "あれ は わたし の いもうと の カメラです。",
+    "romaji": [
+      "are wa watashi no imouto no kameradesu"
+    ],
+    "kanji": "あれは私の妹のカメラです。",
+    "translation": "That is my sister's camera.",
+    "source": "Tatoeba",
+    "sourceId": 229693
+  },
+  {
+    "id": "tatoeba-113166",
+    "kana": "かれ は その チーム の しょぞくだ。",
+    "romaji": [
+      "kare wa sono chiimu no shozokuda"
+    ],
+    "kanji": "彼はそのチームの所属だ。",
+    "translation": "He is on the team.",
+    "source": "Tatoeba",
+    "sourceId": 113166
+  },
+  {
+    "id": "tatoeba-3549484",
+    "kana": "えいご の メニュー は あります か？",
+    "romaji": [
+      "eigo no menyuu wa arimasu ka"
+    ],
+    "kanji": "英語のメニューはありますか？",
+    "translation": "Do you have a menu in English?",
+    "source": "Tatoeba",
+    "sourceId": 3549484
+  },
+  {
+    "id": "tatoeba-8837289",
+    "kana": "きょう の レインボー ブリッジ は、 あか じゃない。",
+    "romaji": [
+      "kyou no reinboo burijji wa aka janai",
+      "kyou no reinbou burijji wa aka janai"
+    ],
+    "kanji": "今日のレインボーブリッジは、赤じゃない。",
+    "translation": "Rainbow bridge is not red today.",
+    "source": "Tatoeba",
+    "sourceId": 8837289
+  },
+  {
+    "id": "tatoeba-195982",
+    "kana": "ボブ は ほんとうに ごま すりだ。",
+    "romaji": [
+      "bobu wa hontouni goma surida"
+    ],
+    "kanji": "ボブは本当にごますりだ。",
+    "translation": "Bob is really a brown noser.",
+    "source": "Tatoeba",
+    "sourceId": 195982
+  },
+  {
+    "id": "tatoeba-12140886",
+    "kana": "かれ は いぬ に ポ パイ という なまえ を つけた。",
+    "romaji": [
+      "kare wa inu ni po pai toiu namae o tsuketa"
+    ],
+    "kanji": "彼は犬にポパイという名前をつけた。",
+    "translation": "He named his dog Popeye.",
+    "source": "Tatoeba",
+    "sourceId": 12140886
+  },
+  {
+    "id": "tatoeba-13681862",
+    "kana": "サミ は とても ぼうりょくてきな ひとだった。",
+    "romaji": [
+      "sami wa totemo bouryokutekina hitodata"
+    ],
+    "kanji": "サミはとても暴力的な人だった。",
+    "translation": "Sami was a very violent person.",
+    "source": "Tatoeba",
+    "sourceId": 13681862
+  },
+  {
+    "id": "tatoeba-10568249",
+    "kana": "かくれんぼ の ルール が わからない。",
+    "romaji": [
+      "kakurenbo no ruuru ga wakaranai"
+    ],
+    "kanji": "かくれんぼのルールが分からない。",
+    "translation": "I don't know how to play hide-and-seek.",
+    "source": "Tatoeba",
+    "sourceId": 10568249
+  },
+  {
+    "id": "tatoeba-82993",
+    "kana": "はは は マーケット へ かいもの に いきました。",
+    "romaji": [
+      "haha wa maaketto e kaimono ni ikimashita"
+    ],
+    "kanji": "母はマーケットへ買い物に行きました。",
+    "translation": "Mother has gone to the market.",
+    "source": "Tatoeba",
+    "sourceId": 82993
+  },
+  {
+    "id": "tatoeba-9041986",
+    "kana": "ぼく は ポーカー が あまり すきで は ありません。",
+    "romaji": [
+      "boku wa pookaa ga amari sukide wa arimasen",
+      "boku wa poukaa ga amari sukide wa arimasen"
+    ],
+    "kanji": "僕はポーカーがあまり好きではありません。",
+    "translation": "I don't like poker very much.",
+    "source": "Tatoeba",
+    "sourceId": 9041986
+  },
+  {
+    "id": "tatoeba-4617849",
+    "kana": "わたし は フェイジョアーダ が すき。",
+    "romaji": [
+      "watashi wa feijoaada ga suki"
+    ],
+    "kanji": "私はフェイジョアーダが好き。",
+    "translation": "I like Feijoada.",
+    "source": "Tatoeba",
+    "sourceId": 4617849
+  },
+  {
+    "id": "tatoeba-212590",
+    "kana": "その ボトル に ワイン は はいってない よ。",
+    "romaji": [
+      "sono botoru ni wain wa haitenai yo"
+    ],
+    "kanji": "そのボトルにワインは入ってないよ。",
+    "translation": "There is no wine in that bottle.",
+    "source": "Tatoeba",
+    "sourceId": 212590
+  },
+  {
+    "id": "tatoeba-159097",
+    "kana": "わたし は バラ や ユリ のような はな が すきです。",
+    "romaji": [
+      "watashi wa bara ya yuri noyouna hana ga sukidesu"
+    ],
+    "kanji": "私はバラやユリのような花が好きです。",
+    "translation": "I like flowers such as roses and lilies.",
+    "source": "Tatoeba",
+    "sourceId": 159097
+  },
+  {
+    "id": "tatoeba-8983468",
+    "kana": "あれ、 ふらんすご へ やくすの てつだってくれません か？",
+    "romaji": [
+      "are furansugo e yakusuno tetsudatekuremasen ka"
+    ],
+    "kanji": "あれ、フランス語へ訳すの手伝ってくれませんか？",
+    "translation": "Can you help me translate that into French?",
+    "source": "Tatoeba",
+    "sourceId": 8983468
+  },
+  {
+    "id": "tatoeba-9116102",
+    "kana": "サミ は かねもち に なったんだ。",
+    "romaji": [
+      "sami wa kanemochi ni natanda"
+    ],
+    "kanji": "サミは金持ちになったんだ。",
+    "translation": "Sami became rich.",
+    "source": "Tatoeba",
+    "sourceId": 9116102
+  },
+  {
+    "id": "tatoeba-11532919",
+    "kana": "わたし の なまえ は マリーナです。",
+    "romaji": [
+      "watashi no namae wa mariinadesu"
+    ],
+    "kanji": "私の名前はマリーナです。",
+    "translation": "My name is Marina.",
+    "source": "Tatoeba",
+    "sourceId": 11532919
+  },
+  {
+    "id": "tatoeba-10899827",
+    "kana": "せんげつ となり の まち に デパート が できました。",
+    "romaji": [
+      "sengetsu tonari no machi ni depaato ga dekimashita"
+    ],
+    "kanji": "先月隣の町にデパートができました。",
+    "translation": "Last month, a department store was built in the town nextdoor.",
+    "source": "Tatoeba",
+    "sourceId": 10899827
+  },
+  {
+    "id": "tatoeba-196359",
+    "kana": "ぼく は コーヒー が きらいだ よ。",
+    "romaji": [
+      "boku wa koohii ga kiraida yo",
+      "boku wa kouhii ga kiraida yo"
+    ],
+    "kanji": "僕はコーヒーが嫌いだよ。",
+    "translation": "I don't like coffee.",
+    "source": "Tatoeba",
+    "sourceId": 196359
+  },
+  {
+    "id": "tatoeba-12039550",
+    "kana": "つくえ のうえ に は ペン は ありません。",
+    "romaji": [
+      "tsukue noue ni wa pen wa arimasen"
+    ],
+    "kanji": "机の上にはペンはありません。",
+    "translation": "There are no pens on the desk.",
+    "source": "Tatoeba",
+    "sourceId": 12039550
+  },
+  {
+    "id": "tatoeba-198464",
+    "kana": "パーティー の じゅんび を てつだってくれません か。",
+    "romaji": [
+      "paatii no junbi o tetsudatekuremasen ka"
+    ],
+    "kanji": "パーティーの準備を手伝ってくれませんか。",
+    "translation": "Will you help me prepare for the party?",
+    "source": "Tatoeba",
+    "sourceId": 198464
+  },
+  {
+    "id": "tatoeba-182471",
+    "kana": "きゅう に ブレーキ を かける な。",
+    "romaji": [
+      "kyuu ni bureeki o kakeru na"
+    ],
+    "kanji": "急にブレーキをかけるな。",
+    "translation": "Don't brake suddenly.",
+    "source": "Tatoeba",
+    "sourceId": 182471
+  },
+  {
+    "id": "tatoeba-91552",
+    "kana": "かのじょ は ボーイフレンド と わかれるつもりだ。",
+    "romaji": [
+      "kanojo wa booifurendo to wakarerutsumorida",
+      "kanojo wa bouifurendo to wakarerutsumorida"
+    ],
+    "kanji": "彼女はボーイフレンドと別れるつもりだ。",
+    "translation": "She is going to part from her boyfriend.",
+    "source": "Tatoeba",
+    "sourceId": 91552
+  },
+  {
+    "id": "tatoeba-9936146",
+    "kana": "ねん のため レントゲン を とりましょう。",
+    "romaji": [
+      "nen notame rentogen o torimashou"
+    ],
+    "kanji": "念のためレントゲンを撮りましょう。",
+    "translation": "Let's take an X-ray just in case.",
+    "source": "Tatoeba",
+    "sourceId": 9936146
+  },
+  {
+    "id": "tatoeba-11809252",
+    "kana": "たべたかったら、 のこってる ケーキ も たべていい よ。",
+    "romaji": [
+      "tabetakatara nokoteru keeki mo tabeteii yo"
+    ],
+    "kanji": "食べたかったら、残ってるケーキも食べていいよ。",
+    "translation": "You can eat the rest of the cake too, if you want.",
+    "source": "Tatoeba",
+    "sourceId": 11809252
+  },
+  {
+    "id": "tatoeba-11450336",
+    "kana": "かわ の ベルト を かいたいんです。",
+    "romaji": [
+      "kawa no beruto o kaitaindesu"
+    ],
+    "kanji": "革のベルトを買いたいんです。",
+    "translation": "I want to buy a leather belt.",
+    "source": "Tatoeba",
+    "sourceId": 11450336
+  },
+  {
+    "id": "tatoeba-198963",
+    "kana": "ナンシー は ひざ のうえ に りょう ひじ を ついた。",
+    "romaji": [
+      "nanshii wa hiza noue ni ryou hiji o tsuita"
+    ],
+    "kanji": "ナンシーは膝の上に両肘をついた。",
+    "translation": "Nancy put her elbows on her knees.",
+    "source": "Tatoeba",
+    "sourceId": 198963
+  },
+  {
+    "id": "tatoeba-192845",
+    "kana": "ヨーロッパ へ たつ まえ に きみ に あいたいモノだ。",
+    "romaji": [
+      "yooroppa e tatsu mae ni kimi ni aitaimonoda",
+      "youroppa e tatsu mae ni kimi ni aitaimonoda"
+    ],
+    "kanji": "ヨーロッパへ発つ前に君に会いたいモノだ。",
+    "translation": "I'd like to see you before I leave for Europe.",
+    "source": "Tatoeba",
+    "sourceId": 192845
+  },
+  {
+    "id": "tatoeba-11013937",
+    "kana": "あさ ごはん は いつも パン を たべます。",
+    "romaji": [
+      "asa gohan wa itsumo pan o tabemasu"
+    ],
+    "kanji": "朝ごはんはいつもパンを食べます。",
+    "translation": "I always eat bread for breakfast.",
+    "source": "Tatoeba",
+    "sourceId": 11013937
+  },
+  {
+    "id": "tatoeba-194590",
+    "kana": "メアリー は せいじ に きょうみ が ある。",
+    "romaji": [
+      "mearii wa seiji ni kyoumi ga aru"
+    ],
+    "kanji": "メアリーは政治に興味がある。",
+    "translation": "Mary is interested in politics.",
+    "source": "Tatoeba",
+    "sourceId": 194590
+  },
+  {
+    "id": "tatoeba-12529298",
+    "kana": "あまり ふらんすご を はなす きかい は ないんです よ。",
+    "romaji": [
+      "amari furansugo o hanasu kikai wa naindesu yo"
+    ],
+    "kanji": "あまりフランス語を話す機会はないんですよ。",
+    "translation": "We don't often get the chance to speak French.",
+    "source": "Tatoeba",
+    "sourceId": 12529298
+  },
+  {
+    "id": "tatoeba-11754852",
+    "kana": "インターンシップ は きょう で おわりです。",
+    "romaji": [
+      "intaanshippu wa kyou de owaridesu"
+    ],
+    "kanji": "インターンシップは今日で終わりです。",
+    "translation": "My internship ends today.",
+    "source": "Tatoeba",
+    "sourceId": 11754852
+  },
+  {
+    "id": "tatoeba-8584078",
+    "kana": "メアリー は それ について ともだち と はなした。",
+    "romaji": [
+      "mearii wa sore nitsuite tomodachi to hanashita"
+    ],
+    "kanji": "メアリーはそれについて友達と話した。",
+    "translation": "Mary talked with her friends about it.",
+    "source": "Tatoeba",
+    "sourceId": 8584078
+  },
+  {
+    "id": "tatoeba-12121016",
+    "kana": "ベートーベン の おとうさん は、 かしゅでした。",
+    "romaji": [
+      "beetooben no otousan wa kashudeshita",
+      "beetouben no otousan wa kashudeshita"
+    ],
+    "kanji": "ベートーベンのお父さんは、歌手でした。",
+    "translation": "Beethoven's father was a singer.",
+    "source": "Tatoeba",
+    "sourceId": 12121016
+  },
+  {
+    "id": "tatoeba-197645",
+    "kana": "ピカソ のような がか は まれだ。",
+    "romaji": [
+      "pikaso noyouna gaka wa mareda"
+    ],
+    "kanji": "ピカソのような画家は稀だ。",
+    "translation": "Such painters as Picasso are rare.",
+    "source": "Tatoeba",
+    "sourceId": 197645
+  },
+  {
+    "id": "tatoeba-9817100",
+    "kana": "だんぼーるばこ が に・ さんこ ひつような の よ。",
+    "romaji": [
+      "danboorubako ga ni sanko hitsuyouna no yo",
+      "danbourubako ga ni sanko hitsuyouna no yo"
+    ],
+    "kanji": "段ボール箱が２・３個必要なのよ。",
+    "translation": "I need a couple of empty cardboard boxes.",
+    "source": "Tatoeba",
+    "sourceId": 9817100
+  },
+  {
+    "id": "tatoeba-11240582",
+    "kana": "つぎ の バス って、 いつ くる か わかる？",
+    "romaji": [
+      "tsugi no basu tte itsu kuru ka wakaru"
+    ],
+    "kanji": "次のバスって、いつ来るかわかる？",
+    "translation": "Do you know when the next bus is coming?",
+    "source": "Tatoeba",
+    "sourceId": 11240582
+  },
+  {
+    "id": "tatoeba-190722",
+    "kana": "いのうえさん は コンピューター が きらいです。",
+    "romaji": [
+      "inouesan wa konpyuutaa ga kiraidesu"
+    ],
+    "kanji": "井上さんはコンピューターが嫌いです。",
+    "translation": "Inoue doesn't like computers.",
+    "source": "Tatoeba",
+    "sourceId": 190722
+  },
+  {
+    "id": "tatoeba-84720",
+    "kana": "ちち は その ゲーム に むちゅうでした。",
+    "romaji": [
+      "chichi wa sono geemu ni muchuudeshita"
+    ],
+    "kanji": "父はそのゲームに夢中でした。",
+    "translation": "Father was crazy about the game.",
+    "source": "Tatoeba",
+    "sourceId": 84720
+  },
+  {
+    "id": "tatoeba-9065895",
+    "kana": "ポルトガルご と えいご と ロシアご を しってる よ。",
+    "romaji": [
+      "porutogarugo to eigo to roshiago o shiteru yo"
+    ],
+    "kanji": "ポルトガル語と英語とロシア語を知ってるよ。",
+    "translation": "I know Portuguese, English, and Russian.",
+    "source": "Tatoeba",
+    "sourceId": 9065895
+  },
+  {
+    "id": "tatoeba-10247000",
+    "kana": "とつぜん、 いい アイデア が あたま に うかんできた。",
+    "romaji": [
+      "totsuzen ii aidea ga atama ni ukandekita"
+    ],
+    "kanji": "突然、いいアイデアが頭に浮かんできた。",
+    "translation": "A good idea suddenly struck me.",
+    "source": "Tatoeba",
+    "sourceId": 10247000
+  },
+  {
+    "id": "tatoeba-3635282",
+    "kana": "アイス か かきごおり が たべたい。",
+    "romaji": [
+      "aisu ka kakigoori ga tabetai"
+    ],
+    "kanji": "アイスかかき氷が食べたい。",
+    "translation": "I want to eat either ice cream or shaved ice.",
+    "source": "Tatoeba",
+    "sourceId": 3635282
+  },
+  {
+    "id": "tatoeba-3402139",
+    "kana": "りりく に そなえ、 シートベルト を お しめください。",
+    "romaji": [
+      "ririku ni sonae shiitoberuto o o shimekudasai"
+    ],
+    "kanji": "離陸に備え、シートベルトをお締めください。",
+    "translation": "Please fasten your seat belts and prepare for departure.",
+    "source": "Tatoeba",
+    "sourceId": 3402139
+  },
+  {
+    "id": "tatoeba-196594",
+    "kana": "ペン を かして いただけます か。",
+    "romaji": [
+      "pen o kashite itadakemasu ka"
+    ],
+    "kanji": "ペンを貸していただけますか。",
+    "translation": "Would you lend me your pen?",
+    "source": "Tatoeba",
+    "sourceId": 196594
+  },
+  {
+    "id": "tatoeba-11009593",
+    "kana": "まるで ゲーム の せかい から でてきたみたいだ。",
+    "romaji": [
+      "marude geemu no sekai kara detekitamitaida"
+    ],
+    "kanji": "まるでゲームの世界から出てきたみたいだ。",
+    "translation": "In a way, it's like it came out of the game world.",
+    "source": "Tatoeba",
+    "sourceId": 11009593
+  },
+  {
+    "id": "tatoeba-10183677",
+    "kana": "ふらんすご は かんたん じゃないけど、 おもしろい。",
+    "romaji": [
+      "furansugo wa kantan janaikedo omoshiroi"
+    ],
+    "kanji": "フランス語は簡単じゃないけど、面白い。",
+    "translation": "French isn't easy, but it's interesting.",
+    "source": "Tatoeba",
+    "sourceId": 10183677
+  },
+  {
+    "id": "tatoeba-9506305",
+    "kana": "かれ はね、 ワイン が すきな の よ。",
+    "romaji": [
+      "kare hane wain ga sukina no yo"
+    ],
+    "kanji": "彼はね、ワインが好きなのよ。",
+    "translation": "He likes wine.",
+    "source": "Tatoeba",
+    "sourceId": 9506305
+  },
+  {
+    "id": "tatoeba-227817",
+    "kana": "オウム は ひと の こえ を まねること が できる。",
+    "romaji": [
+      "oumu wa hito no koe o manerukoto ga dekiru"
+    ],
+    "kanji": "オウムは人の声を真似ることができる。",
+    "translation": "A parrot can mimic a person's voice.",
+    "source": "Tatoeba",
+    "sourceId": 227817
+  },
+  {
+    "id": "tatoeba-137848",
+    "kana": "だいきん は レジ で お はらいください。",
+    "romaji": [
+      "daikin wa reji de o haraikudasai"
+    ],
+    "kanji": "代金はレジでお払い下さい。",
+    "translation": "Please pay the cashier.",
+    "source": "Tatoeba",
+    "sourceId": 137848
+  },
+  {
+    "id": "tatoeba-9670942",
+    "kana": "パン の みみ が きらいな の。",
+    "romaji": [
+      "pan no mimi ga kiraina no"
+    ],
+    "kanji": "パンの耳が嫌いなの。",
+    "translation": "I don't like bread crust.",
+    "source": "Tatoeba",
+    "sourceId": 9670942
+  },
+  {
+    "id": "tatoeba-11320535",
+    "kana": "アザラシ は さかな を たべるんです よ。",
+    "romaji": [
+      "azarashi wa sakana o taberundesu yo"
+    ],
+    "kanji": "アザラシは魚を食べるんですよ。",
+    "translation": "Seals eat fish.",
+    "source": "Tatoeba",
+    "sourceId": 11320535
+  },
+  {
+    "id": "tatoeba-12461969",
+    "kana": "すきな ピザ の トッピング は なに？",
+    "romaji": [
+      "sukina piza no toppingu wa nani"
+    ],
+    "kanji": "好きなピザのトッピングは何？",
+    "translation": "What are your favorite pizza toppings?",
+    "source": "Tatoeba",
+    "sourceId": 12461969
+  },
+  {
+    "id": "tatoeba-10798121",
+    "kana": "コーヒー を のむ まえ に はなしかけるの は やめて。",
+    "romaji": [
+      "koohii o nomu mae ni hanashikakeruno wa yamete",
+      "kouhii o nomu mae ni hanashikakeruno wa yamete"
+    ],
+    "kanji": "コーヒーを飲む前に話しかけるのはやめて。",
+    "translation": "Don't talk to me before I've had my coffee.",
+    "source": "Tatoeba",
+    "sourceId": 10798121
+  },
+  {
+    "id": "tatoeba-10807077",
+    "kana": "コスト を さいしょうげん に おさえなければいけません。",
+    "romaji": [
+      "kosuto o saishougen ni osaenakerebaikemasen"
+    ],
+    "kanji": "コストを最小限に抑えなければいけません。",
+    "translation": "We have to reduce the cost to a minimum.",
+    "source": "Tatoeba",
+    "sourceId": 10807077
+  },
+  {
+    "id": "tatoeba-3577254",
+    "kana": "なんで ふらんすご やろう と おもった の？",
+    "romaji": [
+      "nande furansugo yarou to omota no"
+    ],
+    "kanji": "なんでフランス語やろうと思ったの？",
+    "translation": "Why did you decide to study French?",
+    "source": "Tatoeba",
+    "sourceId": 3577254
+  },
+  {
+    "id": "tatoeba-7947518",
+    "kana": "ピアノ を じょうず に ひけます か？",
+    "romaji": [
+      "piano o jouzu ni hikemasu ka"
+    ],
+    "kanji": "ピアノを上手に弾けますか？",
+    "translation": "Can you play the piano well?",
+    "source": "Tatoeba",
+    "sourceId": 7947518
+  },
+  {
+    "id": "tatoeba-11930873",
+    "kana": "ハンガリーさん の くだもの や やさい が すきです。",
+    "romaji": [
+      "hangariisan no kudamono ya yasai ga sukidesu"
+    ],
+    "kanji": "ハンガリー産の果物や野菜が好きです。",
+    "translation": "I like fruit and vegetables from Hungary.",
+    "source": "Tatoeba",
+    "sourceId": 11930873
+  },
+  {
+    "id": "tatoeba-11147289",
+    "kana": "できるだけ ハッキリ しゃべったほう が いい よ。",
+    "romaji": [
+      "dekirudake hakkiri shabetahou ga ii yo"
+    ],
+    "kanji": "できるだけハッキリしゃべった方がいいよ。",
+    "translation": "You should speak as clearly as possible.",
+    "source": "Tatoeba",
+    "sourceId": 11147289
+  },
+  {
+    "id": "tatoeba-11171540",
+    "kana": "バタフライ ノット は、 じょうず に できる？",
+    "romaji": [
+      "batafurai notto wa jouzu ni dekiru"
+    ],
+    "kanji": "バタフライノットは、上手にできる？",
+    "translation": "Can you tie a good butterfly knot?",
+    "source": "Tatoeba",
+    "sourceId": 11171540
+  },
+  {
+    "id": "tatoeba-10899531",
+    "kana": "こういう アイデア を まって たんだ よ。",
+    "romaji": [
+      "kouiu aidea o mate tanda yo"
+    ],
+    "kanji": "こういうアイデアを待ってたんだよ。",
+    "translation": "Just being hard-working and diligent is a blessing.",
+    "source": "Tatoeba",
+    "sourceId": 10899531
+  },
+  {
+    "id": "tatoeba-9784596",
+    "kana": "きょう は サーバー が すごく おもい なぁ。",
+    "romaji": [
+      "kyou wa saabaa ga sugoku omoi na"
+    ],
+    "kanji": "今日はサーバーがすごく重いなぁ。",
+    "translation": "The servers are super laggy today.",
+    "source": "Tatoeba",
+    "sourceId": 9784596
+  },
+  {
+    "id": "tatoeba-226168",
+    "kana": "カリフォルニア は くだもの で ゆうめいです。",
+    "romaji": [
+      "kariforunia wa kudamono de yuumeidesu"
+    ],
+    "kanji": "カリフォルニアは果物で有名です。",
+    "translation": "California is famous for its fruit.",
+    "source": "Tatoeba",
+    "sourceId": 226168
+  },
+  {
+    "id": "tatoeba-1160429",
+    "kana": "コーヒー、 さとう が はいりすぎだ よ。",
+    "romaji": [
+      "koohii satou ga hairisugida yo",
+      "kouhii satou ga hairisugida yo"
+    ],
+    "kanji": "コーヒー、砂糖が入りすぎだよ。",
+    "translation": "There's too much sugar in the coffee.",
+    "source": "Tatoeba",
+    "sourceId": 1160429
+  },
+  {
+    "id": "tatoeba-9183089",
+    "kana": "サミ の いえ ん なか は、 もぬけのからだった。",
+    "romaji": [
+      "sami no ie n naka wa monukenokaradata"
+    ],
+    "kanji": "サミの家ん中は、もぬけの殻だった。",
+    "translation": "Sami's house was completely empty.",
+    "source": "Tatoeba",
+    "sourceId": 9183089
+  },
+  {
+    "id": "tatoeba-11753184",
+    "kana": "かんりしゃ から、 なぞ の メッセージ が とどいた。",
+    "romaji": [
+      "kanrisha kara nazo no messeeji ga todoita"
+    ],
+    "kanji": "管理者から、謎のメッセージが届いた。",
+    "translation": "A mysterious message came from the administrator.",
+    "source": "Tatoeba",
+    "sourceId": 11753184
+  },
+  {
+    "id": "tatoeba-2135628",
+    "kana": "おまえ は、 オレ に は ぜったい かてないだろう。",
+    "romaji": [
+      "omae wa ore ni wa zettai katenaidarou"
+    ],
+    "kanji": "お前は、オレには絶対勝てないだろう。",
+    "translation": "You will never defeat me!",
+    "source": "Tatoeba",
+    "sourceId": 2135628
+  },
+  {
+    "id": "tatoeba-9546825",
+    "kana": "オレンジ の はな って、 きれいなんだ。",
+    "romaji": [
+      "orenji no hana tte kireinanda"
+    ],
+    "kanji": "オレンジの花って、きれいなんだ。",
+    "translation": "The orange blossoms are pretty.",
+    "source": "Tatoeba",
+    "sourceId": 9546825
+  },
+  {
+    "id": "tatoeba-1000134",
+    "kana": "わたし は コーヒー を のみます。",
+    "romaji": [
+      "watashi wa koohii o nomimasu",
+      "watashi wa kouhii o nomimasu"
+    ],
+    "kanji": "私はコーヒーを飲みます。",
+    "translation": "I drink coffee.",
+    "source": "Tatoeba",
+    "sourceId": 1000134
+  },
+  {
+    "id": "tatoeba-202003",
+    "kana": "テレビ の がぞう は ぼやけて みえた。",
+    "romaji": [
+      "terebi no gazou wa boyakete mieta"
+    ],
+    "kanji": "テレビの画像はぼやけて見えた。",
+    "translation": "The TV picture was blurred.",
+    "source": "Tatoeba",
+    "sourceId": 202003
+  },
+  {
+    "id": "tatoeba-2140533",
+    "kana": "あなた の コーヒーだい、 わたし に はらわせてください。",
+    "romaji": [
+      "anata no koohiidai watashi ni harawasetekudasai",
+      "anata no kouhiidai watashi ni harawasetekudasai"
+    ],
+    "kanji": "あなたのコーヒー代、私に払わせてください。",
+    "translation": "Let me pay for your coffee.",
+    "source": "Tatoeba",
+    "sourceId": 2140533
+  },
+  {
+    "id": "tatoeba-111059",
+    "kana": "かれ は ふらんすご を じょうず に はなせる。",
+    "romaji": [
+      "kare wa furansugo o jouzu ni hanaseru"
+    ],
+    "kanji": "彼はフランス語を上手に話せる。",
+    "translation": "He can speak French well.",
+    "source": "Tatoeba",
+    "sourceId": 111059
+  },
+  {
+    "id": "tatoeba-9116104",
+    "kana": "かれ は ホテル に とまった。",
+    "romaji": [
+      "kare wa hoteru ni tomata"
+    ],
+    "kanji": "彼はホテルに泊まった。",
+    "translation": "He stayed at a hotel.",
+    "source": "Tatoeba",
+    "sourceId": 9116104
+  },
+  {
+    "id": "tatoeba-9496037",
+    "kana": "こんご は、 ふらんすご で はなします。",
+    "romaji": [
+      "kongo wa furansugo de hanashimasu"
+    ],
+    "kanji": "今後は、フランス語で話します。",
+    "translation": "I'll speak in French from now on.",
+    "source": "Tatoeba",
+    "sourceId": 9496037
+  },
+  {
+    "id": "tatoeba-9084772",
+    "kana": "わたし の おいっこ、 たまご アレルギーなんだ。",
+    "romaji": [
+      "watashi no oikko tamago arerugiinanda"
+    ],
+    "kanji": "私の甥っ子、卵アレルギーなんだ。",
+    "translation": "My nephew is allergic to eggs.",
+    "source": "Tatoeba",
+    "sourceId": 9084772
+  },
+  {
+    "id": "tatoeba-11005063",
+    "kana": "ソシャゲ の イベント で きゅうじつ を つぶした。",
+    "romaji": [
+      "soshage no ibento de kyuujitsu o tsubushita"
+    ],
+    "kanji": "ソシャゲのイベントで休日をつぶした。",
+    "translation": "I wasted my day off on a social gaming event.",
+    "source": "Tatoeba",
+    "sourceId": 11005063
+  },
+  {
+    "id": "tatoeba-227763",
+    "kana": "オーロラ は きょくち に とくゆう の げんしょうです。",
+    "romaji": [
+      "oorora wa kyokuchi ni tokuyuu no genshoudesu",
+      "ourora wa kyokuchi ni tokuyuu no genshoudesu"
+    ],
+    "kanji": "オーロラは極地に特有の現象です。",
+    "translation": "The aurora is a phenomenon characteristic of the polar regions.",
+    "source": "Tatoeba",
+    "sourceId": 227763
+  },
+  {
+    "id": "tatoeba-202467",
+    "kana": "ディナー を たべ に かいか に いこう。",
+    "romaji": [
+      "dinaa o tabe ni kaika ni ikou"
+    ],
+    "kanji": "ディナーを食べに階下に行こう。",
+    "translation": "Let's go downstairs for dinner.",
+    "source": "Tatoeba",
+    "sourceId": 202467
+  },
+  {
+    "id": "tatoeba-8384598",
+    "kana": "バッテリー の でんあつ が ひくく なってきた。",
+    "romaji": [
+      "batterii no denatsu ga hikuku natekita"
+    ],
+    "kanji": "バッテリーの電圧が低くなってきた。",
+    "translation": "The battery voltage is low.",
+    "source": "Tatoeba",
+    "sourceId": 8384598
+  },
+  {
+    "id": "tatoeba-8504264",
+    "kana": "メアリー は き を つけないと いのち が あぶない。",
+    "romaji": [
+      "mearii wa ki o tsukenaito inochi ga abunai"
+    ],
+    "kanji": "メアリーは気をつけないと命が危ない。",
+    "translation": "Mary is going to get herself killed if she's not careful.",
+    "source": "Tatoeba",
+    "sourceId": 8504264
+  },
+  {
+    "id": "tatoeba-147309",
+    "kana": "おんな は テーブル の ナイフ に て を のばした。",
+    "romaji": [
+      "onna wa teeburu no naifu ni te o nobashita"
+    ],
+    "kanji": "女はテーブルのナイフに手を伸ばした。",
+    "translation": "The woman reached for the knife on the table.",
+    "source": "Tatoeba",
+    "sourceId": 147309
+  },
+  {
+    "id": "tatoeba-1782450",
+    "kana": "アルメニア に は うみ が ない。",
+    "romaji": [
+      "arumenia ni wa umi ga nai"
+    ],
+    "kanji": "アルメニアには海がない。",
+    "translation": "There is no sea in Armenia.",
+    "source": "Tatoeba",
+    "sourceId": 1782450
+  },
+  {
+    "id": "tatoeba-9930573",
+    "kana": "きのう は、 ぼくら の チーム が かった よ。",
+    "romaji": [
+      "kinou wa bokura no chiimu ga kata yo"
+    ],
+    "kanji": "昨日は、僕らのチームが勝ったよ。",
+    "translation": "Our team won yesterday.",
+    "source": "Tatoeba",
+    "sourceId": 9930573
+  },
+  {
+    "id": "tatoeba-10002352",
+    "kana": "アスピリン を へや まで もってきてもらえません か？",
+    "romaji": [
+      "asupirin o heya made motekitemoraemasen ka"
+    ],
+    "kanji": "アスピリンを部屋まで持ってきてもらえませんか？",
+    "translation": "Could you send up some aspirin?",
+    "source": "Tatoeba",
+    "sourceId": 10002352
+  },
+  {
+    "id": "tatoeba-11193211",
+    "kana": "もうこ の ニュース は きいてます か？",
+    "romaji": [
+      "mouko no nyuusu wa kiitemasu ka"
+    ],
+    "kanji": "もうこのニュースは聞いてますか？",
+    "translation": "Have you heard the news yet?",
+    "source": "Tatoeba",
+    "sourceId": 11193211
+  },
+  {
+    "id": "tatoeba-80247",
+    "kana": "あした、 ともだち が パーティー を ひらいてくれる の。",
+    "romaji": [
+      "ashita tomodachi ga paatii o hiraitekureru no"
+    ],
+    "kanji": "明日、友達がパーティーを開いてくれるの。",
+    "translation": "My friends will give me a party tomorrow.",
+    "source": "Tatoeba",
+    "sourceId": 80247
+  },
+  {
+    "id": "tatoeba-13569143",
+    "kana": "ミント は ざっそう のよう に そだちます。",
+    "romaji": [
+      "minto wa zassou noyou ni sodachimasu"
+    ],
+    "kanji": "ミントは雑草のように育ちます。",
+    "translation": "Mint grows like a weed.",
+    "source": "Tatoeba",
+    "sourceId": 13569143
+  },
+  {
+    "id": "tatoeba-78220",
+    "kana": "るすばん でんわ に メッセージ を いれてください。",
+    "romaji": [
+      "rusuban denwa ni messeeji o iretekudasai"
+    ],
+    "kanji": "留守番電話にメッセージを入れてください。",
+    "translation": "Please leave your message on my answering machine.",
+    "source": "Tatoeba",
+    "sourceId": 78220
+  },
+  {
+    "id": "tatoeba-10284653",
+    "kana": "チェス で あいつ に かったんだ よ。",
+    "romaji": [
+      "chesu de aitsu ni katanda yo"
+    ],
+    "kanji": "チェスであいつに勝ったんだよ。",
+    "translation": "I beat him at chess.",
+    "source": "Tatoeba",
+    "sourceId": 10284653
+  },
+  {
+    "id": "tatoeba-158985",
+    "kana": "わたし は ふらんすご を すこし も はなせません。",
+    "romaji": [
+      "watashi wa furansugo o sukoshi mo hanasemasen"
+    ],
+    "kanji": "私はフランス語を少しも話せません。",
+    "translation": "I can't speak French at all.",
+    "source": "Tatoeba",
+    "sourceId": 158985
+  },
+  {
+    "id": "tatoeba-197607",
+    "kana": "ピザ は わたし の だいすきな たべものです。",
+    "romaji": [
+      "piza wa watashi no daisukina tabemonodesu"
+    ],
+    "kanji": "ピザは私の大好きな食べ物です。",
+    "translation": "Pizza is my favorite food.",
+    "source": "Tatoeba",
+    "sourceId": 197607
+  },
+  {
+    "id": "tatoeba-216671",
+    "kana": "さらに さんにん の じょうきゃく が バス に のった。",
+    "romaji": [
+      "sarani sannin no joukyaku ga basu ni nota"
+    ],
+    "kanji": "さらに三人の乗客がバスに乗った。",
+    "translation": "Three more passengers got on the bus.",
+    "source": "Tatoeba",
+    "sourceId": 216671
+  },
+  {
+    "id": "tatoeba-1057221",
+    "kana": "ジョン は アメリカ の おとこのこです。",
+    "romaji": [
+      "jon wa amerika no otokonokodesu"
+    ],
+    "kanji": "ジョンはアメリカの男の子です。",
+    "translation": "John is an American boy.",
+    "source": "Tatoeba",
+    "sourceId": 1057221
+  },
+  {
+    "id": "tatoeba-11554922",
+    "kana": "オンライン で もうしこむほう が はやい かも よ。",
+    "romaji": [
+      "onrain de moushikomuhou ga hayai kamo yo"
+    ],
+    "kanji": "オンラインで申し込む方が早いかもよ。",
+    "translation": "It may be faster if you apply online.",
+    "source": "Tatoeba",
+    "sourceId": 11554922
+  },
+  {
+    "id": "tatoeba-10140580",
+    "kana": "イヌ のよう に みえるけど、 ちがう と おもう。",
+    "romaji": [
+      "inu noyou ni mierukedo chigau to omou"
+    ],
+    "kanji": "イヌのように見えるけど、違うと思う。",
+    "translation": "It looks like a dog, but I don't think it is.",
+    "source": "Tatoeba",
+    "sourceId": 10140580
+  },
+  {
+    "id": "tatoeba-236908",
+    "kana": "ジョン は いわれた とおり に いえ に いた。",
+    "romaji": [
+      "jon wa iwareta toori ni ie ni ita"
+    ],
+    "kanji": "ジョンは言われた通りに家に居た。",
+    "translation": "John stayed at home as he was told.",
+    "source": "Tatoeba",
+    "sourceId": 236908
+  },
+  {
+    "id": "tatoeba-10914870",
+    "kana": "オリンピック で、 リオ に くる の？",
+    "romaji": [
+      "orinpikku de rio ni kuru no"
+    ],
+    "kanji": "オリンピックで、リオに来るの？",
+    "translation": "Are you coming to Rio for the Olympics?",
+    "source": "Tatoeba",
+    "sourceId": 10914870
+  },
+  {
+    "id": "tatoeba-215269",
+    "kana": "ジョン は くるま の エンジン を かけた。",
+    "romaji": [
+      "jon wa kuruma no enjin o kaketa"
+    ],
+    "kanji": "ジョンは車のエンジンをかけた。",
+    "translation": "John started the car.",
+    "source": "Tatoeba",
+    "sourceId": 215269
+  },
+  {
+    "id": "tatoeba-10581640",
+    "kana": "コート を ぬいで もいいです か？",
+    "romaji": [
+      "kooto o nuide moiidesu ka",
+      "kouto o nuide moiidesu ka"
+    ],
+    "kanji": "コートを脱いでもいいですか？",
+    "translation": "May I take off my coat?",
+    "source": "Tatoeba",
+    "sourceId": 10581640
+  },
+  {
+    "id": "tatoeba-8216007",
+    "kana": "もし それ が ウソなら、 かのじょ は ウソつきだ。",
+    "romaji": [
+      "moshi sore ga usonara kanojo wa usotsukida"
+    ],
+    "kanji": "もしそれがウソなら、彼女はウソつきだ。",
+    "translation": "If that was really a lie, then she's a liar.",
+    "source": "Tatoeba",
+    "sourceId": 8216007
+  },
+  {
+    "id": "tatoeba-8983533",
+    "kana": "これ を ふらんすご に やくしてください。",
+    "romaji": [
+      "kore o furansugo ni yakushitekudasai"
+    ],
+    "kanji": "これをフランス語に訳してください。",
+    "translation": "Translate this into French, please.",
+    "source": "Tatoeba",
+    "sourceId": 8983533
+  },
+  {
+    "id": "tatoeba-6458286",
+    "kana": "ねこ は パン を たべる。",
+    "romaji": [
+      "neko wa pan o taberu"
+    ],
+    "kanji": "猫はパンを食べる。",
+    "translation": "The cat eats bread.",
+    "source": "Tatoeba",
+    "sourceId": 6458286
+  },
+  {
+    "id": "tatoeba-159489",
+    "kana": "わたし は チョコレート が すきです。",
+    "romaji": [
+      "watashi wa chokoreeto ga sukidesu"
+    ],
+    "kanji": "私はチョコレートが好きです。",
+    "translation": "I like chocolate.",
+    "source": "Tatoeba",
+    "sourceId": 159489
+  },
+  {
+    "id": "tatoeba-210465",
+    "kana": "その やま で なんにん か の ハイカー に あった。",
+    "romaji": [
+      "sono yama de nannin ka no haikaa ni ata"
+    ],
+    "kanji": "その山で何人かのハイカーに会った。",
+    "translation": "I met some hikers on the mountain.",
+    "source": "Tatoeba",
+    "sourceId": 210465
+  },
+  {
+    "id": "tatoeba-10016987",
+    "kana": "だれ が カップ を わっちゃった の？",
+    "romaji": [
+      "dare ga kappu o wachata no"
+    ],
+    "kanji": "誰がカップを割っちゃったの？",
+    "translation": "Who broke the cup?",
+    "source": "Tatoeba",
+    "sourceId": 10016987
+  },
+  {
+    "id": "tatoeba-197917",
+    "kana": "ビュッフェ の ないよう を みせて いただけます か。",
+    "romaji": [
+      "byuffe no naiyou o misete itadakemasu ka"
+    ],
+    "kanji": "ビュッフェの内容を見せていただけますか。",
+    "translation": "Could you show me what you're serving in the buffet?",
+    "source": "Tatoeba",
+    "sourceId": 197917
+  },
+  {
+    "id": "tatoeba-203005",
+    "kana": "チェックイン まで にもつ を あずかってもらえます か。",
+    "romaji": [
+      "chekkuin made nimotsu o azukatemoraemasu ka"
+    ],
+    "kanji": "チェックインまで荷物を預かってもらえますか。",
+    "translation": "Can I leave my bags with you until I come to check in?",
+    "source": "Tatoeba",
+    "sourceId": 203005
+  },
+  {
+    "id": "tatoeba-9959544",
+    "kana": "ヤニー は そこ に すわった。",
+    "romaji": [
+      "yanii wa soko ni suwata"
+    ],
+    "kanji": "ヤニーはそこに座った。",
+    "translation": "Yanni sat there.",
+    "source": "Tatoeba",
+    "sourceId": 9959544
+  },
+  {
+    "id": "tatoeba-205912",
+    "kana": "それから かれ は メガネ を はずした。",
+    "romaji": [
+      "sorekara kare wa megane o hazushita"
+    ],
+    "kanji": "それから彼はメガネをはずした。",
+    "translation": "He took off his glasses after that.",
+    "source": "Tatoeba",
+    "sourceId": 205912
+  },
+  {
+    "id": "tatoeba-8652501",
+    "kana": "あかい ねふだ の しょうひん は セールちゅうです。",
+    "romaji": [
+      "akai nefuda no shouhin wa seeruchuudesu"
+    ],
+    "kanji": "赤い値札の商品はセール中です。",
+    "translation": "Items with a red price tag are on sale.",
+    "source": "Tatoeba",
+    "sourceId": 8652501
+  },
+  {
+    "id": "tatoeba-201838",
+    "kana": "ドア は おもった ほど わるく は ない ぞ。",
+    "romaji": [
+      "doa wa omota hodo waruku wa nai zo"
+    ],
+    "kanji": "ドアは思ったほど悪くはないぞ。",
+    "translation": "Doors ain't as bad as you think.",
+    "source": "Tatoeba",
+    "sourceId": 201838
+  },
+  {
+    "id": "tatoeba-169902",
+    "kana": "きのう、 けいさつ が メアリー を たずねた。",
+    "romaji": [
+      "kinou keisatsu ga mearii o tazuneta"
+    ],
+    "kanji": "昨日、警察がメアリーを訪ねた。",
+    "translation": "The police called on Mary yesterday.",
+    "source": "Tatoeba",
+    "sourceId": 169902
+  },
+  {
+    "id": "tatoeba-106142",
+    "kana": "かれ は わたし に メモ を そっと わたした。",
+    "romaji": [
+      "kare wa watashi ni memo o sotto watashita"
+    ],
+    "kanji": "彼は私にメモをそっと渡した。",
+    "translation": "He slipped me a note.",
+    "source": "Tatoeba",
+    "sourceId": 106142
+  },
+  {
+    "id": "tatoeba-201968",
+    "kana": "テレビ を つけて も かまいません か。",
+    "romaji": [
+      "terebi o tsukete mo kamaimasen ka"
+    ],
+    "kanji": "テレビをつけても構いませんか。",
+    "translation": "Do you mind my turning on the TV?",
+    "source": "Tatoeba",
+    "sourceId": 201968
+  },
+  {
+    "id": "tatoeba-10908730",
+    "kana": "かのじょ の オフィス は どこ？",
+    "romaji": [
+      "kanojo no ofisu wa doko"
+    ],
+    "kanji": "彼女のオフィスはどこ？",
+    "translation": "Where's her office?",
+    "source": "Tatoeba",
+    "sourceId": 10908730
+  },
+  {
+    "id": "tatoeba-12957172",
+    "kana": "いっしょ に コーヒー を いただきました。",
+    "romaji": [
+      "issho ni koohii o itadakimashita",
+      "issho ni kouhii o itadakimashita"
+    ],
+    "kanji": "一緒にコーヒーを頂きました。",
+    "translation": "We had coffee together.",
+    "source": "Tatoeba",
+    "sourceId": 12957172
+  },
+  {
+    "id": "tatoeba-226863",
+    "kana": "おちゃ より コーヒー が すきです。",
+    "romaji": [
+      "ocha yori koohii ga sukidesu",
+      "ocha yori kouhii ga sukidesu"
+    ],
+    "kanji": "お茶よりコーヒーが好きです。",
+    "translation": "I prefer coffee to tea.",
+    "source": "Tatoeba",
+    "sourceId": 226863
+  },
+  {
+    "id": "tatoeba-228406",
+    "kana": "インク で かかなくて はならない か？",
+    "romaji": [
+      "inku de kakanakute wanaranai ka"
+    ],
+    "kanji": "インクで書かなくてはならないか？",
+    "translation": "Must I write in ink?",
+    "source": "Tatoeba",
+    "sourceId": 228406
+  },
+  {
+    "id": "tatoeba-145459",
+    "kana": "あたらしい レストラン が できた そうだ。",
+    "romaji": [
+      "atarashii resutoran ga dekita souda"
+    ],
+    "kanji": "新しいレストランが出来たそうだ。",
+    "translation": "It is said that a new restaurant was constructed.",
+    "source": "Tatoeba",
+    "sourceId": 145459
+  },
+  {
+    "id": "tatoeba-10450828",
+    "kana": "メアリー って、 ゆうめいな じょゆうな の？",
+    "romaji": [
+      "mearii tte yuumeina joyuuna no"
+    ],
+    "kanji": "メアリーって、有名な女優なの？",
+    "translation": "Is Mary a famous actress?",
+    "source": "Tatoeba",
+    "sourceId": 10450828
+  },
+  {
+    "id": "tatoeba-206279",
+    "kana": "その オス ざる は うまれつき あたま が よい。",
+    "romaji": [
+      "sono osu zaru wa umaretsuki atama ga yoi"
+    ],
+    "kanji": "そのオスざるは生まれつき頭が良い。",
+    "translation": "The male ape is intelligent by nature.",
+    "source": "Tatoeba",
+    "sourceId": 206279
+  },
+  {
+    "id": "tatoeba-3223986",
+    "kana": "コショウ は いれないほう が いいん じゃない か な？",
+    "romaji": [
+      "koshou wa irenaihou ga iin janai ka na"
+    ],
+    "kanji": "コショウは入れない方がいいんじゃないかな？",
+    "translation": "Maybe it's best not to add pepper.",
+    "source": "Tatoeba",
+    "sourceId": 3223986
+  },
+  {
+    "id": "tatoeba-217491",
+    "kana": "こんな お ふざけ は いかにも ベーカーしらしい。",
+    "romaji": [
+      "konna o fuzake wa ikanimo beekaashirashii"
+    ],
+    "kanji": "こんなおふざけはいかにもベーカー氏らしい。",
+    "translation": "Such playfulness is characteristic of Mr Baker.",
+    "source": "Tatoeba",
+    "sourceId": 217491
+  },
+  {
+    "id": "tatoeba-111769",
+    "kana": "かれ は ドア を あけた。",
+    "romaji": [
+      "kare wa doa o aketa"
+    ],
+    "kanji": "彼はドアをあけた。",
+    "translation": "He opened the door.",
+    "source": "Tatoeba",
+    "sourceId": 111769
+  },
+  {
+    "id": "tatoeba-11571807",
+    "kana": "かれ ね、 ちゅうごくご が ペラペラな の よ。",
+    "romaji": [
+      "kare ne chuugokugo ga peraperana no yo"
+    ],
+    "kanji": "彼ね、中国語がペラペラなのよ。",
+    "translation": "He speaks Chinese fluently.",
+    "source": "Tatoeba",
+    "sourceId": 11571807
+  },
+  {
+    "id": "tatoeba-192534",
+    "kana": "リスト から わたし の な を おとさないでください。",
+    "romaji": [
+      "risuto kara watashi no na o otosanaidekudasai"
+    ],
+    "kanji": "リストから私の名を落とさないで下さい。",
+    "translation": "Don't leave my name out of your list.",
+    "source": "Tatoeba",
+    "sourceId": 192534
+  },
+  {
+    "id": "tatoeba-10097797",
+    "kana": "あの いぬ、 ケン って いうんだ。",
+    "romaji": [
+      "ano inu ken tte iunda"
+    ],
+    "kanji": "あの犬、ケンって言うんだ。",
+    "translation": "That dog's name is Ken.",
+    "source": "Tatoeba",
+    "sourceId": 10097797
+  },
+  {
+    "id": "tatoeba-107504",
+    "kana": "かれ は ごがつ の おわり に パリ へ いった。",
+    "romaji": [
+      "kare wa gogatsu no owari ni pari e ita"
+    ],
+    "kanji": "彼は五月の終わりにパリへ行った。",
+    "translation": "He went to Paris at the end of May.",
+    "source": "Tatoeba",
+    "sourceId": 107504
+  },
+  {
+    "id": "tatoeba-150969",
+    "kana": "は の クリーニング の ひよう は いくらです か。",
+    "romaji": [
+      "ha no kuriiningu no hiyou wa ikuradesu ka"
+    ],
+    "kanji": "歯のクリーニングの費用はいくらですか。",
+    "translation": "How much will it cost to get a dental cleaning?",
+    "source": "Tatoeba",
+    "sourceId": 150969
+  },
+  {
+    "id": "tatoeba-11065795",
+    "kana": "ミルク と さとう はいります か？",
+    "romaji": [
+      "miruku to satou hairimasu ka"
+    ],
+    "kanji": "ミルクと砂糖はいりますか？",
+    "translation": "Do you want milk and sugar?",
+    "source": "Tatoeba",
+    "sourceId": 11065795
+  },
+  {
+    "id": "tatoeba-197702",
+    "kana": "ピーター は、 しょうきゅう を ねがいでた。",
+    "romaji": [
+      "piitaa wa shoukyuu o negaideta"
+    ],
+    "kanji": "ピーターは、昇給を願い出た。",
+    "translation": "Peter applied to his boss for a raise.",
+    "source": "Tatoeba",
+    "sourceId": 197702
+  },
+  {
+    "id": "tatoeba-9994295",
+    "kana": "きょねん の なつ、 ディズニーランド に いった よ。",
+    "romaji": [
+      "kyonen no natsu dizuniirando ni ita yo"
+    ],
+    "kanji": "去年の夏、ディズニーランドに行ったよ。",
+    "translation": "Last summer, we went to Disneyland.",
+    "source": "Tatoeba",
+    "sourceId": 9994295
+  },
+  {
+    "id": "tatoeba-9779373",
+    "kana": "グリーティングカード って、 ネット で かう の？",
+    "romaji": [
+      "guriitingukaado tte netto de kau no"
+    ],
+    "kanji": "グリーティングカードって、ネットで買うの？",
+    "translation": "Do you buy greeting cards online?",
+    "source": "Tatoeba",
+    "sourceId": 9779373
+  },
+  {
+    "id": "tatoeba-161505",
+    "kana": "わたし は アメリカ えいが が だいすきだ。",
+    "romaji": [
+      "watashi wa amerika eiga ga daisukida"
+    ],
+    "kanji": "私はアメリカ映画が大好きだ。",
+    "translation": "I love American movies.",
+    "source": "Tatoeba",
+    "sourceId": 161505
+  },
+  {
+    "id": "tatoeba-2596682",
+    "kana": "どう やって ふらんすご を まなんだ の？",
+    "romaji": [
+      "dou yate furansugo o mananda no"
+    ],
+    "kanji": "どうやってフランス語を学んだの？",
+    "translation": "How did you learn French?",
+    "source": "Tatoeba",
+    "sourceId": 2596682
+  },
+  {
+    "id": "tatoeba-194863",
+    "kana": "メアリー と は もう おわったんだ。",
+    "romaji": [
+      "mearii to wa mou owatanda"
+    ],
+    "kanji": "メアリーとはもう終わったんだ。",
+    "translation": "I'm through with Mary.",
+    "source": "Tatoeba",
+    "sourceId": 194863
+  },
+  {
+    "id": "tatoeba-12927682",
+    "kana": "それ は たべられる キノコな の？",
+    "romaji": [
+      "sore wa taberareru kinokona no"
+    ],
+    "kanji": "それは食べられるキノコなの？",
+    "translation": "Is that an edible mushroom?",
+    "source": "Tatoeba",
+    "sourceId": 12927682
+  },
+  {
+    "id": "tatoeba-9740984",
+    "kana": "どんな ボート が かいたい の？",
+    "romaji": [
+      "donna booto ga kaitai no",
+      "donna bouto ga kaitai no"
+    ],
+    "kanji": "どんなボートが買いたいの？",
+    "translation": "What kind of boat do you want to buy?",
+    "source": "Tatoeba",
+    "sourceId": 9740984
+  },
+  {
+    "id": "tatoeba-158576",
+    "kana": "わたし は ロンドン だいがく の がくせいです。",
+    "romaji": [
+      "watashi wa rondon daigaku no gakuseidesu"
+    ],
+    "kanji": "私はロンドン大学の学生です。",
+    "translation": "I am a student at the University of London.",
+    "source": "Tatoeba",
+    "sourceId": 158576
+  },
+  {
+    "id": "tatoeba-194713",
+    "kana": "メアリー は びょういん に いそいだ。",
+    "romaji": [
+      "mearii wa byouin ni isoida"
+    ],
+    "kanji": "メアリーは病院に急いだ。",
+    "translation": "Mary hurried to the hospital.",
+    "source": "Tatoeba",
+    "sourceId": 194713
+  },
+  {
+    "id": "tatoeba-79588",
+    "kana": "やせい の どうぶつ は ジャングル に すむ。",
+    "romaji": [
+      "yasei no doubutsu wa janguru ni sumu"
+    ],
+    "kanji": "野生の動物はジャングルに住む。",
+    "translation": "Wild animals live in the jungle.",
+    "source": "Tatoeba",
+    "sourceId": 79588
+  },
+  {
+    "id": "tatoeba-9985171",
+    "kana": "ゴキブリ に は どんな やくざい を つかう の？",
+    "romaji": [
+      "gokiburi ni wa donna yakuzai o tsukau no"
+    ],
+    "kanji": "ゴキブリにはどんな薬剤を使うの？",
+    "translation": "What do you poison cockroaches with?",
+    "source": "Tatoeba",
+    "sourceId": 9985171
+  },
+  {
+    "id": "tatoeba-9633376",
+    "kana": "うち の パパ ね、 ピザ が だいすきな の。",
+    "romaji": [
+      "uchi no papa ne piza ga daisukina no"
+    ],
+    "kanji": "うちのパパね、ピザが大好きなの。",
+    "translation": "My father loves pizza.",
+    "source": "Tatoeba",
+    "sourceId": 9633376
+  },
+  {
+    "id": "tatoeba-213853",
+    "kana": "そうだ ね。 と ジョン が いいました。",
+    "romaji": [
+      "souda ne to jon ga iimashita"
+    ],
+    "kanji": "そうだね。とジョンが言いました。",
+    "translation": "\"That's right\", said John.",
+    "source": "Tatoeba",
+    "sourceId": 213853
+  },
+  {
+    "id": "tatoeba-7927718",
+    "kana": "リスト に あなた の なまえ は なかったんです か？",
+    "romaji": [
+      "risuto ni anata no namae wa nakatandesu ka"
+    ],
+    "kanji": "リストにあなたの名前はなかったんですか？",
+    "translation": "Wasn't your name on the list?",
+    "source": "Tatoeba",
+    "sourceId": 7927718
+  },
+  {
+    "id": "tatoeba-11263697",
+    "kana": "ピンク の ペン を かしてもらえません か？",
+    "romaji": [
+      "pinku no pen o kashitemoraemasen ka"
+    ],
+    "kanji": "ピンクのペンを貸してもらえませんか？",
+    "translation": "Could you lend me your pink pen, please?",
+    "source": "Tatoeba",
+    "sourceId": 11263697
+  },
+  {
+    "id": "tatoeba-10183699",
+    "kana": "ちょっと まえ に パパ、 かえってきた よ。",
+    "romaji": [
+      "chotto mae ni papa kaetekita yo"
+    ],
+    "kanji": "ちょっと前にパパ、帰ってきたよ。",
+    "translation": "Dad came home a few minutes ago.",
+    "source": "Tatoeba",
+    "sourceId": 10183699
+  },
+  {
+    "id": "tatoeba-9529111",
+    "kana": "その リンゴ、 ほんと おいしかった よ。",
+    "romaji": [
+      "sono ringo honto oishikata yo"
+    ],
+    "kanji": "そのリンゴ、ほんと美味しかったよ。",
+    "translation": "That apple was really delicious.",
+    "source": "Tatoeba",
+    "sourceId": 9529111
+  },
+  {
+    "id": "tatoeba-9124438",
+    "kana": "きみ の ニックネーム は なに？",
+    "romaji": [
+      "kimi no nikkuneemu wa nani"
+    ],
+    "kanji": "君のニックネームは何？",
+    "translation": "What is your nickname?",
+    "source": "Tatoeba",
+    "sourceId": 9124438
+  },
+  {
+    "id": "tatoeba-141340",
+    "kana": "たたかい は ローマじん の しょうり に おわった。",
+    "romaji": [
+      "tatakai wa roomajin no shouri ni owata",
+      "tatakai wa roumajin no shouri ni owata"
+    ],
+    "kanji": "戦いはローマ人の勝利に終わった。",
+    "translation": "The battle ended in a triumph for the Romans.",
+    "source": "Tatoeba",
+    "sourceId": 141340
+  },
+  {
+    "id": "tatoeba-11071212",
+    "kana": "ボストンいき の れっしゃ って、 いつ でる の？",
+    "romaji": [
+      "bosutoniki no ressha tte itsu deru no"
+    ],
+    "kanji": "ボストン行きの列車って、いつ出るの？",
+    "translation": "When does the train leave for Boston?",
+    "source": "Tatoeba",
+    "sourceId": 11071212
+  },
+  {
+    "id": "tatoeba-11508849",
+    "kana": "サミ は だれ の はなし も ききません。",
+    "romaji": [
+      "sami wa dare no hanashi mo kikimasen"
+    ],
+    "kanji": "サミは誰の話も聞きません。",
+    "translation": "Sami listens to nobody.",
+    "source": "Tatoeba",
+    "sourceId": 11508849
+  },
+  {
+    "id": "tatoeba-11015487",
+    "kana": "なつ は あついから、 スーツ なんて きたくない よ。",
+    "romaji": [
+      "natsu wa atsuikara suutsu nante kitakunai yo"
+    ],
+    "kanji": "夏は暑いから、スーツなんて着たくないよ。",
+    "translation": "It's hot in the summer, so I don't want to wear a suit.",
+    "source": "Tatoeba",
+    "sourceId": 11015487
+  },
+  {
+    "id": "tatoeba-74688",
+    "kana": "おれ は アームチェアー に もどって ほん を ひらいた。",
+    "romaji": [
+      "ore wa aamucheaa ni modote hon o hiraita"
+    ],
+    "kanji": "俺はアームチェアーに戻って本を開いた。",
+    "translation": "I sat back in the armchair and opened the book.",
+    "source": "Tatoeba",
+    "sourceId": 74688
+  },
+  {
+    "id": "tatoeba-115632",
+    "kana": "かれ は テニス に むちゅうだ。",
+    "romaji": [
+      "kare wa tenisu ni muchuuda"
+    ],
+    "kanji": "彼はテニスに夢中だ。",
+    "translation": "He is enthusiastic about tennis.",
+    "source": "Tatoeba",
+    "sourceId": 115632
+  },
+  {
+    "id": "tatoeba-10286258",
+    "kana": "ふらんすご が わかんないんだ。 むずかしい な。",
+    "romaji": [
+      "furansugo ga wakannainda muzukashii na"
+    ],
+    "kanji": "フランス語が分かんないんだ。難しいな。",
+    "translation": "I don't understand French. It's difficult.",
+    "source": "Tatoeba",
+    "sourceId": 10286258
+  },
+  {
+    "id": "tatoeba-197699",
+    "kana": "ピーター は とても わかく みえる。",
+    "romaji": [
+      "piitaa wa totemo wakaku mieru"
+    ],
+    "kanji": "ピーターはとても若く見える。",
+    "translation": "Peter looks very young.",
+    "source": "Tatoeba",
+    "sourceId": 197699
+  },
+  {
+    "id": "tatoeba-12952446",
+    "kana": "プレゼント は なに を あげた の？",
+    "romaji": [
+      "purezento wa nani o ageta no"
+    ],
+    "kanji": "プレゼントは何をあげたの？",
+    "translation": "What did you give him as a present?",
+    "source": "Tatoeba",
+    "sourceId": 12952446
+  },
+  {
+    "id": "tatoeba-173262",
+    "kana": "ほんこん オフィス の みなさん は、 お げんきです か？",
+    "romaji": [
+      "honkon ofisu no minasan wa o genkidesu ka"
+    ],
+    "kanji": "香港オフィスの皆さんは、お元気ですか？",
+    "translation": "How's everyone at the Hong Kong office?",
+    "source": "Tatoeba",
+    "sourceId": 173262
+  },
+  {
+    "id": "tatoeba-10301817",
+    "kana": "ふらんすご は すこしなら はなせるけど、 まだまだだ よ。",
+    "romaji": [
+      "furansugo wa sukoshinara hanaserukedo madamadada yo"
+    ],
+    "kanji": "フランス語は少しなら話せるけど、まだまだだよ。",
+    "translation": "I can speak a little French, but I'm still not very good at it.",
+    "source": "Tatoeba",
+    "sourceId": 10301817
+  },
+  {
+    "id": "tatoeba-203276",
+    "kana": "タマネギ は ジャガイモ より はやく にえる。",
+    "romaji": [
+      "tamanegi wa jagaimo yori hayaku nieru"
+    ],
+    "kanji": "タマネギはジャガイモよりはやく煮える。",
+    "translation": "Onions cook more quickly than potatoes.",
+    "source": "Tatoeba",
+    "sourceId": 203276
+  },
+  {
+    "id": "tatoeba-3299818",
+    "kana": "タマゴ が さき か、 ニワトリ が さき か？",
+    "romaji": [
+      "tamago ga saki ka niwatori ga saki ka"
+    ],
+    "kanji": "タマゴが先か、ニワトリが先か？",
+    "translation": "Which came first, the chicken or the egg?",
+    "source": "Tatoeba",
+    "sourceId": 3299818
+  },
+  {
+    "id": "tatoeba-10651786",
+    "kana": "いい サングラス が ほしい な。",
+    "romaji": [
+      "ii sangurasu ga hoshii na"
+    ],
+    "kanji": "いいサングラスが欲しいな。",
+    "translation": "I need a good pair of sunglasses.",
+    "source": "Tatoeba",
+    "sourceId": 10651786
+  },
+  {
+    "id": "tatoeba-11831419",
+    "kana": "イルカ と クジラ は ほにゅうるいです。",
+    "romaji": [
+      "iruka to kujira wa honyuuruidesu"
+    ],
+    "kanji": "イルカとクジラは哺乳類です。",
+    "translation": "Dolphins and whales are mammals.",
+    "source": "Tatoeba",
+    "sourceId": 11831419
+  },
+  {
+    "id": "tatoeba-11491027",
+    "kana": "バナナ は、 アルジェリア で は やすい よ。",
+    "romaji": [
+      "banana wa arujeria de wa yasui yo"
+    ],
+    "kanji": "バナナは、アルジェリアでは安いよ。",
+    "translation": "Bananas are cheap in Algeria.",
+    "source": "Tatoeba",
+    "sourceId": 11491027
+  },
+  {
+    "id": "tatoeba-9751996",
+    "kana": "かれ は まいあさ レモネード を のむ よ。",
+    "romaji": [
+      "kare wa maiasa remoneedo o nomu yo"
+    ],
+    "kanji": "彼は毎朝レモネードを飲むよ。",
+    "translation": "He drinks lemonade every morning.",
+    "source": "Tatoeba",
+    "sourceId": 9751996
+  },
+  {
+    "id": "tatoeba-225133",
+    "kana": "ケン は わたし と ならんで はしった。",
+    "romaji": [
+      "ken wa watashi to narande hashita"
+    ],
+    "kanji": "ケンは私と並んで走った。",
+    "translation": "Ken was running beside me.",
+    "source": "Tatoeba",
+    "sourceId": 225133
+  },
+  {
+    "id": "tatoeba-11337826",
+    "kana": "あおい ボタン に は ふれないでください。",
+    "romaji": [
+      "aoi botan ni wa furenaidekudasai"
+    ],
+    "kanji": "青いボタンには触れないでください。",
+    "translation": "Don't touch the blue button.",
+    "source": "Tatoeba",
+    "sourceId": 11337826
+  },
+  {
+    "id": "tatoeba-4301767",
+    "kana": "かげ の しはいしゃ は メアリーだった。",
+    "romaji": [
+      "kage no shihaisha wa meariidata"
+    ],
+    "kanji": "影の支配者はメアリーだった。",
+    "translation": "The person ruling from the shadows was Mary.",
+    "source": "Tatoeba",
+    "sourceId": 4301767
+  },
+  {
+    "id": "tatoeba-229471",
+    "kana": "アン は ゆうじん みんな の せんぼう のてきである。",
+    "romaji": [
+      "an wa yuujin minna no senbou notekidearu"
+    ],
+    "kanji": "アンは友人みんなの羨望の的である。",
+    "translation": "Anne is the envy of all her friends.",
+    "source": "Tatoeba",
+    "sourceId": 229471
+  },
+  {
+    "id": "tatoeba-164131",
+    "kana": "わたし の バッグ が みつからない の。",
+    "romaji": [
+      "watashi no baggu ga mitsukaranai no"
+    ],
+    "kanji": "私のバッグが見つからないの。",
+    "translation": "I can't find my bag.",
+    "source": "Tatoeba",
+    "sourceId": 164131
+  },
+  {
+    "id": "tatoeba-11686337",
+    "kana": "だれ に ピアノ を おそわった の？",
+    "romaji": [
+      "dare ni piano o osowata no"
+    ],
+    "kanji": "誰にピアノを教わったの？",
+    "translation": "Who taught you to play the piano?",
+    "source": "Tatoeba",
+    "sourceId": 11686337
+  },
+  {
+    "id": "tatoeba-12146755",
+    "kana": "これ は わたし の スペシャル レシピです。",
+    "romaji": [
+      "kore wa watashi no supesharu reshipidesu"
+    ],
+    "kanji": "これは私のスペシャルレシピです。",
+    "translation": "This is my special recipe.",
+    "source": "Tatoeba",
+    "sourceId": 12146755
+  },
+  {
+    "id": "tatoeba-11743277",
+    "kana": "ぼく の ママ は、 どうぶつ が きらいなんだ。",
+    "romaji": [
+      "boku no mama wa doubutsu ga kirainanda"
+    ],
+    "kanji": "僕のママは、動物が嫌いなんだ。",
+    "translation": "My mom doesn't like animals.",
+    "source": "Tatoeba",
+    "sourceId": 11743277
+  },
+  {
+    "id": "tatoeba-166241",
+    "kana": "バス に のりおくれたの かも しれない ぞ。",
+    "romaji": [
+      "basu ni noriokuretano kamo shirenai zo"
+    ],
+    "kanji": "バスに乗り遅れたのかもしれないぞ。",
+    "translation": "We may have missed the bus.",
+    "source": "Tatoeba",
+    "sourceId": 166241
+  },
+  {
+    "id": "tatoeba-10578169",
+    "kana": "かれ の チーム が かちそう よ。",
+    "romaji": [
+      "kare no chiimu ga kachisou yo"
+    ],
+    "kanji": "彼のチームが勝ちそうよ。",
+    "translation": "His team is likely to win.",
+    "source": "Tatoeba",
+    "sourceId": 10578169
+  },
+  {
+    "id": "tatoeba-10651785",
+    "kana": "その くつ クリーム、 つかって もいい？",
+    "romaji": [
+      "sono kutsu kuriimu tsukate moii"
+    ],
+    "kanji": "その靴クリーム、使ってもいい？",
+    "translation": "May I use the shoe polish?",
+    "source": "Tatoeba",
+    "sourceId": 10651785
+  },
+  {
+    "id": "tatoeba-11536027",
+    "kana": "ピザ の たくはい の ひと、 まだ こない の よ。",
+    "romaji": [
+      "piza no takuhai no hito mada konai no yo"
+    ],
+    "kanji": "ピザの宅配の人、まだ来ないのよ。",
+    "translation": "The pizza delivery man hasn't been yet.",
+    "source": "Tatoeba",
+    "sourceId": 11536027
+  },
+  {
+    "id": "tatoeba-9106980",
+    "kana": "アルジェリア と パキスタン は ぜんぜん ちがう よ。",
+    "romaji": [
+      "arujeria to pakisutan wa zenzen chigau yo"
+    ],
+    "kanji": "アルジェリアとパキスタンは全然違うよ。",
+    "translation": "Algeria and Pakistan are completely different.",
+    "source": "Tatoeba",
+    "sourceId": 9106980
+  },
+  {
+    "id": "tatoeba-177898",
+    "kana": "きみ は ウオーミングアップ を はじめた な。",
+    "romaji": [
+      "kimi wa uoominguappu o hajimeta na",
+      "kimi wa uouminguappu o hajimeta na"
+    ],
+    "kanji": "君はウオーミングアップを始めたな。",
+    "translation": "You've started warming up.",
+    "source": "Tatoeba",
+    "sourceId": 177898
+  },
+  {
+    "id": "tatoeba-9793929",
+    "kana": "だんぼーる が に・ さんこ ひつようなんだけど。",
+    "romaji": [
+      "danbooru ga ni sanko hitsuyounandakedo",
+      "danbouru ga ni sanko hitsuyounandakedo"
+    ],
+    "kanji": "段ボールが２・３個必要なんだけど。",
+    "translation": "I need a couple of empty cardboard boxes.",
+    "source": "Tatoeba",
+    "sourceId": 9793929
+  },
+  {
+    "id": "tatoeba-11451463",
+    "kana": "ぼくたち、 よく がっこう を サボってます。",
+    "romaji": [
+      "bokutachi yoku gakkou o sabotemasu"
+    ],
+    "kanji": "僕たち、よく学校をサボってます。",
+    "translation": "We often bunk off school.",
+    "source": "Tatoeba",
+    "sourceId": 11451463
+  },
+  {
+    "id": "tatoeba-9171161",
+    "kana": "バス のなか は とても あつかった よ。",
+    "romaji": [
+      "basu nonaka wa totemo atsukata yo"
+    ],
+    "kanji": "バスの中はとても暑かったよ。",
+    "translation": "It was very hot inside the bus.",
+    "source": "Tatoeba",
+    "sourceId": 9171161
+  },
+  {
+    "id": "tatoeba-10081433",
+    "kana": "しゅうてん で バス を おりました。",
+    "romaji": [
+      "shuuten de basu o orimashita"
+    ],
+    "kanji": "終点でバスを降りました。",
+    "translation": "I got off the bus at the end of the line.",
+    "source": "Tatoeba",
+    "sourceId": 10081433
+  },
+  {
+    "id": "tatoeba-11527537",
+    "kana": "なべ を すで で さわっちゃ ダメ よ。",
+    "romaji": [
+      "nabe o sude de sawacha dame yo"
+    ],
+    "kanji": "鍋を素手で触っちゃダメよ。",
+    "translation": "Don't touch the pot with bare hands.",
+    "source": "Tatoeba",
+    "sourceId": 11527537
+  },
+  {
+    "id": "tatoeba-10066335",
+    "kana": "あの ほん は ページすう が おおかった よ。",
+    "romaji": [
+      "ano hon wa peejisuu ga ookata yo",
+      "ano hon wa peejisuu ga oukata yo"
+    ],
+    "kanji": "あの本はページ数が多かったよ。",
+    "translation": "That book had a lot of pages.",
+    "source": "Tatoeba",
+    "sourceId": 10066335
+  },
+  {
+    "id": "tatoeba-11156569",
+    "kana": "ペンチ を どうぐばこ に おさめといて。",
+    "romaji": [
+      "penchi o dougubako ni osametoite"
+    ],
+    "kanji": "ペンチを道具箱に納めといて。",
+    "translation": "Put the pliers in the tool box.",
+    "source": "Tatoeba",
+    "sourceId": 11156569
+  },
+  {
+    "id": "tatoeba-158969",
+    "kana": "わたし は ベッド の した に かくれた。",
+    "romaji": [
+      "watashi wa beddo no shita ni kakureta"
+    ],
+    "kanji": "私はベッドの下にかくれた。",
+    "translation": "I hid myself under the bed.",
+    "source": "Tatoeba",
+    "sourceId": 158969
+  },
+  {
+    "id": "tatoeba-2925491",
+    "kana": "スピーチ の げんこう を しあげないといけないんだ。",
+    "romaji": [
+      "supiichi no genkou o shiagenaitoikenainda"
+    ],
+    "kanji": "スピーチの原稿を仕上げないといけないんだ。",
+    "translation": "I need to finish writing my speech.",
+    "source": "Tatoeba",
+    "sourceId": 2925491
+  },
+  {
+    "id": "tatoeba-8545856",
+    "kana": "つま も わたし も ボストン で そだちました。",
+    "romaji": [
+      "tsuma mo watashi mo bosuton de sodachimashita"
+    ],
+    "kanji": "妻も私もボストンで育ちました。",
+    "translation": "My wife and I both grew up in Boston.",
+    "source": "Tatoeba",
+    "sourceId": 8545856
+  },
+  {
+    "id": "tatoeba-196945",
+    "kana": "ブルー が よく にあいます ね。",
+    "romaji": [
+      "buruu ga yoku niaimasu ne"
+    ],
+    "kanji": "ブルーがよく似合いますね。",
+    "translation": "You look very good in blue.",
+    "source": "Tatoeba",
+    "sourceId": 196945
+  },
+  {
+    "id": "tatoeba-646793",
+    "kana": "かのじょ は がくふ なしで ピアノ を ひくんです。",
+    "romaji": [
+      "kanojo wa gakufu nashide piano o hikundesu"
+    ],
+    "kanji": "彼女は楽譜なしでピアノを弾くんです。",
+    "translation": "She plays the piano by ear.",
+    "source": "Tatoeba",
+    "sourceId": 646793
+  },
+  {
+    "id": "tatoeba-10772757",
+    "kana": "ポケット の なかみ を みせてください。",
+    "romaji": [
+      "poketto no nakami o misetekudasai"
+    ],
+    "kanji": "ポケットの中身を見せてください。",
+    "translation": "Show me what you have in your pocket.",
+    "source": "Tatoeba",
+    "sourceId": 10772757
+  },
+  {
+    "id": "tatoeba-2225526",
+    "kana": "かれ は けいけん ほうふな ビジネスマンだった。",
+    "romaji": [
+      "kare wa keiken houfuna bijinesumandata"
+    ],
+    "kanji": "彼は経験豊富なビジネスマンだった。",
+    "translation": "He was experienced in business.",
+    "source": "Tatoeba",
+    "sourceId": 2225526
+  },
+  {
+    "id": "tatoeba-10924096",
+    "kana": "かのじょ は ローブ を ぬいで ふろ に はいった。",
+    "romaji": [
+      "kanojo wa roobu o nuide furo ni haita",
+      "kanojo wa roubu o nuide furo ni haita"
+    ],
+    "kanji": "彼女はローブを脱いで風呂に入った。",
+    "translation": "She took off her robe and got in the tub.",
+    "source": "Tatoeba",
+    "sourceId": 10924096
+  },
+  {
+    "id": "tatoeba-9044281",
+    "kana": "サミ は レイラ の わるぐち を いいはじめた。",
+    "romaji": [
+      "sami wa reira no waruguchi o iihajimeta"
+    ],
+    "kanji": "サミはレイラの悪口を言い始めた。",
+    "translation": "Sami started bad-mouthing Layla.",
+    "source": "Tatoeba",
+    "sourceId": 9044281
+  },
+  {
+    "id": "tatoeba-11924198",
+    "kana": "なんで、 アバター を かえた の？",
+    "romaji": [
+      "nande abataa o kaeta no"
+    ],
+    "kanji": "なんで、アバターを変えたの？",
+    "translation": "Why did you change your avatar?",
+    "source": "Tatoeba",
+    "sourceId": 11924198
+  },
+  {
+    "id": "tatoeba-11044551",
+    "kana": "いきなり とんでもない ニュース が とびこんできた。",
+    "romaji": [
+      "ikinari tondemonai nyuusu ga tobikondekita"
+    ],
+    "kanji": "いきなりとんでもないニュースが飛びこんできた。",
+    "translation": "That extraordinary news came out of nowhere.",
+    "source": "Tatoeba",
+    "sourceId": 11044551
+  },
+  {
+    "id": "tatoeba-9149366",
+    "kana": "うち の むすこ の ひく バイオリン、 ききました？",
+    "romaji": [
+      "uchi no musuko no hiku baiorin kikimashita"
+    ],
+    "kanji": "うちの息子の弾くバイオリン、聞きました？",
+    "translation": "Did you hear my son play the violin?",
+    "source": "Tatoeba",
+    "sourceId": 9149366
+  },
+  {
+    "id": "tatoeba-10314654",
+    "kana": "わたし は ポケット のなか の さいふ を さがした。",
+    "romaji": [
+      "watashi wa poketto nonaka no saifu o sagashita"
+    ],
+    "kanji": "私はポケットの中の財布を探した。",
+    "translation": "I searched my pockets for my wallet.",
+    "source": "Tatoeba",
+    "sourceId": 10314654
+  },
+  {
+    "id": "tatoeba-10166391",
+    "kana": "ピアノ って、 めちゃめちゃ たかい よ な？",
+    "romaji": [
+      "piano tte mechamecha takai yo na"
+    ],
+    "kanji": "ピアノって、めちゃめちゃ高いよな？",
+    "translation": "Pianos are really expensive, aren't they?",
+    "source": "Tatoeba",
+    "sourceId": 10166391
+  },
+  {
+    "id": "tatoeba-10212649",
+    "kana": "とうさん が ネクタイ を むすぶの てつだってくれたんだ。",
+    "romaji": [
+      "tousan ga nekutai o musubuno tetsudatekuretanda"
+    ],
+    "kanji": "父さんがネクタイを結ぶの手伝ってくれたんだ。",
+    "translation": "My dad helped with my tie.",
+    "source": "Tatoeba",
+    "sourceId": 10212649
+  },
+  {
+    "id": "tatoeba-11155620",
+    "kana": "キリン は みたこと ない よ。",
+    "romaji": [
+      "kirin wa mitakoto nai yo"
+    ],
+    "kanji": "キリンは見たことないよ。",
+    "translation": "I've never seen a giraffe.",
+    "source": "Tatoeba",
+    "sourceId": 11155620
+  },
+  {
+    "id": "tatoeba-164173",
+    "kana": "わたし の スーツケース が みつからないんです。",
+    "romaji": [
+      "watashi no suutsukeesu ga mitsukaranaindesu"
+    ],
+    "kanji": "私のスーツケースが見つからないんです。",
+    "translation": "I can't find my suitcase.",
+    "source": "Tatoeba",
+    "sourceId": 164173
+  },
+  {
+    "id": "tatoeba-11995735",
+    "kana": "ドイツ って、 お さけ も やすい の よ。",
+    "romaji": [
+      "doitsu tte o sake mo yasui no yo"
+    ],
+    "kanji": "ドイツって、お酒も安いのよ。",
+    "translation": "Alcohol is also cheap in Germany.",
+    "source": "Tatoeba",
+    "sourceId": 11995735
+  },
+  {
+    "id": "tatoeba-93002",
+    "kana": "かのじょ は ガン のせい で しんだ。",
+    "romaji": [
+      "kanojo wa gan nosei de shinda"
+    ],
+    "kanji": "彼女はガンのせいで死んだ。",
+    "translation": "She died of cancer.",
+    "source": "Tatoeba",
+    "sourceId": 93002
+  },
+  {
+    "id": "tatoeba-9101463",
+    "kana": "かれ は パトカー を みて にげだしたんだ。",
+    "romaji": [
+      "kare wa patokaa o mite nigedashitanda"
+    ],
+    "kanji": "彼はパトカーを見て逃げ出したんだ。",
+    "translation": "He saw the police car and ran away.",
+    "source": "Tatoeba",
+    "sourceId": 9101463
+  },
+  {
+    "id": "tatoeba-2664345",
+    "kana": "ホーム で のながら あるき は たいへん きけんです。",
+    "romaji": [
+      "hoomu de nonagara aruki wa taihen kikendesu",
+      "houmu de nonagara aruki wa taihen kikendesu"
+    ],
+    "kanji": "ホームでのながら歩きは大変危険です。",
+    "translation": "Walking on a train platform while distracted is very dangerous.",
+    "source": "Tatoeba",
+    "sourceId": 2664345
+  },
+  {
+    "id": "tatoeba-11453415",
+    "kana": "はは は れいぞうこ に ケーキ を しまった。",
+    "romaji": [
+      "haha wa reizouko ni keeki o shimata"
+    ],
+    "kanji": "母は冷蔵庫にケーキをしまった。",
+    "translation": "My mother put the cake in the refrigerator.",
+    "source": "Tatoeba",
+    "sourceId": 11453415
+  },
+  {
+    "id": "tatoeba-468696",
+    "kana": "わたし の ちち は ピザ が だいすきだ。",
+    "romaji": [
+      "watashi no chichi wa piza ga daisukida"
+    ],
+    "kanji": "私の父はピザが大好きだ。",
+    "translation": "My father loves pizza.",
+    "source": "Tatoeba",
+    "sourceId": 468696
+  },
+  {
+    "id": "tatoeba-9971965",
+    "kana": "ロシア は きょうみぶかい くにだ よ。",
+    "romaji": [
+      "roshia wa kyoumibukai kunida yo"
+    ],
+    "kanji": "ロシアは興味深い国だよ。",
+    "translation": "Russia is an interesting country.",
+    "source": "Tatoeba",
+    "sourceId": 9971965
+  },
+  {
+    "id": "tatoeba-9119544",
+    "kana": "ごめん な、 こたえ は ノーだ。",
+    "romaji": [
+      "gomen na kotae wa nooda",
+      "gomen na kotae wa nouda"
+    ],
+    "kanji": "ごめんな、答えはノーだ。",
+    "translation": "I'm sorry, but the answer is no.",
+    "source": "Tatoeba",
+    "sourceId": 9119544
+  },
+  {
+    "id": "tatoeba-196550",
+    "kana": "ボート は みずうみ の そこ に しずんだ。",
+    "romaji": [
+      "booto wa mizuumi no soko ni shizunda",
+      "bouto wa mizuumi no soko ni shizunda"
+    ],
+    "kanji": "ボートは湖の底に沈んだ。",
+    "translation": "The boat sank to the bottom of the lake.",
+    "source": "Tatoeba",
+    "sourceId": 196550
+  },
+  {
+    "id": "tatoeba-236865",
+    "kana": "ニュース を きいて、 とても おどろきました。",
+    "romaji": [
+      "nyuusu o kiite totemo odorokimashita"
+    ],
+    "kanji": "ニュースを聞いて、とても驚きました。",
+    "translation": "I was very surprised at the news.",
+    "source": "Tatoeba",
+    "sourceId": 236865
+  },
+  {
+    "id": "tatoeba-95581",
+    "kana": "かのじょ が パリ に たったひ は あめだった。",
+    "romaji": [
+      "kanojo ga pari ni tatahi wa amedata"
+    ],
+    "kanji": "彼女がパリに発った日は雨だった。",
+    "translation": "The day she started for Paris was rainy.",
+    "source": "Tatoeba",
+    "sourceId": 95581
+  },
+  {
+    "id": "tatoeba-9884458",
+    "kana": "ドア の かぎ、 ちゃんと かけて ね。",
+    "romaji": [
+      "doa no kagi chanto kakete ne"
+    ],
+    "kanji": "ドアの鍵、ちゃんとかけてね。",
+    "translation": "Make sure you lock the door.",
+    "source": "Tatoeba",
+    "sourceId": 9884458
+  },
+  {
+    "id": "tatoeba-10288010",
+    "kana": "おくってくれた え ハガキ、 すごく きれい ね。",
+    "romaji": [
+      "okutekureta e hagaki sugoku kirei ne"
+    ],
+    "kanji": "送ってくれた絵ハガキ、すごく綺麗ね。",
+    "translation": "The postcard you sent is very beautiful.",
+    "source": "Tatoeba",
+    "sourceId": 10288010
+  },
+  {
+    "id": "tatoeba-192679",
+    "kana": "ライオン は しんだ きりん の にく を くい ちぎった。",
+    "romaji": [
+      "raion wa shinda kirin no niku o kui chigita"
+    ],
+    "kanji": "ライオンは死んだきりんの肉を食いちぎった。",
+    "translation": "The lion ripped the flesh from the dead giraffe.",
+    "source": "Tatoeba",
+    "sourceId": 192679
+  },
+  {
+    "id": "tatoeba-10081418",
+    "kana": "かれ は ビール を いっぱい たのみました。",
+    "romaji": [
+      "kare wa biiru o ippai tanomimashita"
+    ],
+    "kanji": "彼はビールを一杯頼みました。",
+    "translation": "He asked for a glass of beer.",
+    "source": "Tatoeba",
+    "sourceId": 10081418
+  },
+  {
+    "id": "tatoeba-10081810",
+    "kana": "タンジェリン と ミカン って なに が ちがう の？",
+    "romaji": [
+      "tanjerin to mikan tte nani ga chigau no"
+    ],
+    "kanji": "タンジェリンとミカンって何が違うの？",
+    "translation": "What's the difference between a tangerine and a mandarin orange?",
+    "source": "Tatoeba",
+    "sourceId": 10081810
+  },
+  {
+    "id": "tatoeba-6037174",
+    "kana": "きょう から タバコ を すいません。",
+    "romaji": [
+      "kyou kara tabako o suimasen"
+    ],
+    "kanji": "今日からタバコを吸いません。",
+    "translation": "I won't smoke from today on.",
+    "source": "Tatoeba",
+    "sourceId": 6037174
+  },
+  {
+    "id": "tatoeba-11553162",
+    "kana": "あの ヘビ は ひじょう に きけんなんです。",
+    "romaji": [
+      "ano hebi wa hijou ni kikennandesu"
+    ],
+    "kanji": "あのヘビは非常に危険なんです。",
+    "translation": "Those snakes are extremely dangerous.",
+    "source": "Tatoeba",
+    "sourceId": 11553162
+  },
+  {
+    "id": "tatoeba-82582",
+    "kana": "わすれず に ドア に かぎ を かけてください。",
+    "romaji": [
+      "wasurezu ni doa ni kagi o kaketekudasai"
+    ],
+    "kanji": "忘れずにドアに鍵をかけて下さい。",
+    "translation": "Don't fail to lock the door.",
+    "source": "Tatoeba",
+    "sourceId": 82582
+  },
+  {
+    "id": "tatoeba-74346",
+    "kana": "セーラ は うらむような おんなのこ で はないだろうが。",
+    "romaji": [
+      "seera wa uramuyouna onnanoko de wanaidarouga"
+    ],
+    "kanji": "セーラは恨むような女の子ではないだろうが。",
+    "translation": "Well, I don't think Sara is the sort of girl to bear grudges.",
+    "source": "Tatoeba",
+    "sourceId": 74346
+  },
+  {
+    "id": "tatoeba-162639",
+    "kana": "わたし の ぼうし は、 ジムの より おおきい。",
+    "romaji": [
+      "watashi no boushi wa jimuno yori ookii"
+    ],
+    "kanji": "私の帽子は、ジムのより大きい。",
+    "translation": "My hat is bigger than Jim's.",
+    "source": "Tatoeba",
+    "sourceId": 162639
+  },
+  {
+    "id": "tatoeba-2231533",
+    "kana": "かれ は イギリス ぶんがく に くわしい。",
+    "romaji": [
+      "kare wa igirisu bungaku ni kuwashii"
+    ],
+    "kanji": "彼はイギリス文学に詳しい。",
+    "translation": "He is well read in English literature.",
+    "source": "Tatoeba",
+    "sourceId": 2231533
+  },
+  {
+    "id": "tatoeba-11992680",
+    "kana": "ベッド に は はいったものの、 ねれなかった。",
+    "romaji": [
+      "beddo ni wa haitamonono nerenakata"
+    ],
+    "kanji": "ベッドには入ったものの、寝れなかった。",
+    "translation": "I went to bed, but I couldn't fall asleep.",
+    "source": "Tatoeba",
+    "sourceId": 11992680
+  },
+  {
+    "id": "tatoeba-10049579",
+    "kana": "ほんの すこし しか アイヌご は はなせない よ。",
+    "romaji": [
+      "honno sukoshi shika ainugo wa hanasenai yo"
+    ],
+    "kanji": "ほんの少ししかアイヌ語は話せないよ。",
+    "translation": "I can only speak a little Ainu.",
+    "source": "Tatoeba",
+    "sourceId": 10049579
+  },
+  {
+    "id": "tatoeba-2128258",
+    "kana": "コンパス は きた を しめす。",
+    "romaji": [
+      "konpasu wa kita o shimesu"
+    ],
+    "kanji": "コンパスは北を示す。",
+    "translation": "Compasses point north.",
+    "source": "Tatoeba",
+    "sourceId": 2128258
+  },
+  {
+    "id": "tatoeba-8942715",
+    "kana": "ダイエット はじめて から、 かなり やせてきたんだ。",
+    "romaji": [
+      "daietto hajimete kara kanari yasetekitanda"
+    ],
+    "kanji": "ダイエット始めてから、かなり痩せてきたんだ。",
+    "translation": "I've lost a lot of weight since I started my diet.",
+    "source": "Tatoeba",
+    "sourceId": 8942715
+  },
+  {
+    "id": "tatoeba-194018",
+    "kana": "もう でんし レンジ は かいかえて も いいころです。",
+    "romaji": [
+      "mou denshi renji wa kaikaete mo iikorodesu"
+    ],
+    "kanji": "もう電子レンジは買い換えてもいい頃です。",
+    "translation": "It is about time we bought a new microwave oven.",
+    "source": "Tatoeba",
+    "sourceId": 194018
+  },
+  {
+    "id": "tatoeba-230385",
+    "kana": "アフリカ は かつて、 あんこく たいりく と よばれた。",
+    "romaji": [
+      "afurika wa katsute ankoku tairiku to yobareta"
+    ],
+    "kanji": "アフリカはかつて、暗黒大陸と呼ばれた。",
+    "translation": "Africa was once called the Dark Continent.",
+    "source": "Tatoeba",
+    "sourceId": 230385
+  },
+  {
+    "id": "tatoeba-11603934",
+    "kana": "ダム が くずれ、 みず は たに を のみこんだ。",
+    "romaji": [
+      "damu ga kuzure mizu wa tani o nomikonda"
+    ],
+    "kanji": "ダムが崩れ、水は谷を飲み込んだ。",
+    "translation": "The dam burst and water flooded the valley.",
+    "source": "Tatoeba",
+    "sourceId": 11603934
+  },
+  {
+    "id": "tatoeba-77510",
+    "kana": "れっしゃ は ロンドン に ついた。",
+    "romaji": [
+      "ressha wa rondon ni tsuita"
+    ],
+    "kanji": "列車はロンドンに着いた。",
+    "translation": "The train got into London.",
+    "source": "Tatoeba",
+    "sourceId": 77510
+  },
+  {
+    "id": "tatoeba-9207510",
+    "kana": "イス を あと ふたつ もってきて。",
+    "romaji": [
+      "isu o ato futatsu motekite"
+    ],
+    "kanji": "イスをあと２つ持ってきて。",
+    "translation": "Bring a couple more chairs.",
+    "source": "Tatoeba",
+    "sourceId": 9207510
+  },
+  {
+    "id": "tatoeba-8918845",
+    "kana": "あした の いまごろ って、 わたしたち ロンドンだ ね。",
+    "romaji": [
+      "ashita no imagoro tte watashitachi rondonda ne"
+    ],
+    "kanji": "明日の今頃って、私たちロンドンだね。",
+    "translation": "About this time tomorrow, we will be in London.",
+    "source": "Tatoeba",
+    "sourceId": 8918845
+  },
+  {
+    "id": "tatoeba-113400",
+    "kana": "かれ は すごい スポーツ せんしゅだったらしい。",
+    "romaji": [
+      "kare wa sugoi supootsu senshudatarashii",
+      "kare wa sugoi supoutsu senshudatarashii"
+    ],
+    "kanji": "彼はすごいスポーツ選手だったらしい。",
+    "translation": "He seems to have been a great athlete.",
+    "source": "Tatoeba",
+    "sourceId": 113400
+  },
+  {
+    "id": "tatoeba-192666",
+    "kana": "ライター を お もちです か。",
+    "romaji": [
+      "raitaa o o mochidesu ka"
+    ],
+    "kanji": "ライターをお持ちですか。",
+    "translation": "Do you have a lighter?",
+    "source": "Tatoeba",
+    "sourceId": 192666
+  },
+  {
+    "id": "tatoeba-12051998",
+    "kana": "どっち が コピー のほう か、 わかる？",
+    "romaji": [
+      "dotchi ga kopii nohou ka wakaru"
+    ],
+    "kanji": "どっちがコピーの方か、分かる？",
+    "translation": "Can you tell which is the copy?",
+    "source": "Tatoeba",
+    "sourceId": 12051998
+  },
+  {
+    "id": "tatoeba-166107",
+    "kana": "わたしたち は ローマ で たのしく すごしてます。",
+    "romaji": [
+      "watashitachi wa rooma de tanoshiku sugoshitemasu",
+      "watashitachi wa rouma de tanoshiku sugoshitemasu"
+    ],
+    "kanji": "私たちはローマで楽しく過ごしてます。",
+    "translation": "We are having a nice time in Rome.",
+    "source": "Tatoeba",
+    "sourceId": 166107
+  },
+  {
+    "id": "tatoeba-2844385",
+    "kana": "アラブご で かいたの は はじめてです。",
+    "romaji": [
+      "arabugo de kaitano wa hajimetedesu"
+    ],
+    "kanji": "アラブ語で書いたのは初めてです。",
+    "translation": "This is the first time I've written anything in Arabic.",
+    "source": "Tatoeba",
+    "sourceId": 2844385
+  },
+  {
+    "id": "tatoeba-10989471",
+    "kana": "ここ に モノ を おく な。",
+    "romaji": [
+      "koko ni mono o oku na"
+    ],
+    "kanji": "ここにモノを置くな。",
+    "translation": "Don't put things here.",
+    "source": "Tatoeba",
+    "sourceId": 10989471
+  },
+  {
+    "id": "tatoeba-10509321",
+    "kana": "こんや、 ステージ で つかう ギター を かしてくれない？",
+    "romaji": [
+      "konya suteeji de tsukau gitaa o kashitekurenai"
+    ],
+    "kanji": "今夜、ステージで使うギターを貸してくれない？",
+    "translation": "Can you lend me a guitar to use on stage tonight?",
+    "source": "Tatoeba",
+    "sourceId": 10509321
+  },
+  {
+    "id": "tatoeba-3554843",
+    "kana": "バス の きっぷ は どこ で かうんです か？",
+    "romaji": [
+      "basu no kippu wa doko de kaundesu ka"
+    ],
+    "kanji": "バスの切符はどこで買うんですか？",
+    "translation": "Where do you buy bus tickets?",
+    "source": "Tatoeba",
+    "sourceId": 3554843
+  },
+  {
+    "id": "tatoeba-84203",
+    "kana": "へや に はいったら ドア を しめなさい。",
+    "romaji": [
+      "heya ni haitara doa o shimenasai"
+    ],
+    "kanji": "部屋に入ったらドアを閉めなさい。",
+    "translation": "You are to shut the door after you enter a room.",
+    "source": "Tatoeba",
+    "sourceId": 84203
+  },
+  {
+    "id": "tatoeba-11064129",
+    "kana": "ボーイ と は、 おとこのこ のことです。",
+    "romaji": [
+      "booi to wa otokonoko nokotodesu",
+      "boui to wa otokonoko nokotodesu"
+    ],
+    "kanji": "ボーイとは、男の子のことです。",
+    "translation": "A boy is a male child.",
+    "source": "Tatoeba",
+    "sourceId": 11064129
+  },
+  {
+    "id": "tatoeba-1078996",
+    "kana": "それ は よい ニュースなの か？",
+    "romaji": [
+      "sore wa yoi nyuusunano ka"
+    ],
+    "kanji": "それは良いニュースなのか？",
+    "translation": "Is it good news?",
+    "source": "Tatoeba",
+    "sourceId": 1078996
+  },
+  {
+    "id": "tatoeba-553932",
+    "kana": "わたし は あした、 ハノイ へ とびます。",
+    "romaji": [
+      "watashi wa ashita hanoi e tobimasu"
+    ],
+    "kanji": "わたしは明日、ハノイへ飛びます。",
+    "translation": "I'm flying to Hanoi tomorrow.",
+    "source": "Tatoeba",
+    "sourceId": 553932
+  },
+  {
+    "id": "tatoeba-9740983",
+    "kana": "どんな ボート を かいたい の？",
+    "romaji": [
+      "donna booto o kaitai no",
+      "donna bouto o kaitai no"
+    ],
+    "kanji": "どんなボートを買いたいの？",
+    "translation": "What kind of boat do you want to buy?",
+    "source": "Tatoeba",
+    "sourceId": 9740983
+  },
+  {
+    "id": "tatoeba-195374",
+    "kana": "マックス は てさき が きようだ。",
+    "romaji": [
+      "makkusu wa tesaki ga kiyouda"
+    ],
+    "kanji": "マックスは手先が器用だ。",
+    "translation": "Max is clever with his fingers.",
+    "source": "Tatoeba",
+    "sourceId": 195374
+  },
+  {
+    "id": "tatoeba-10560960",
+    "kana": "お なまえ は、 エドワードさんです か？",
+    "romaji": [
+      "o namae wa edowaadosandesu ka"
+    ],
+    "kanji": "お名前は、エドワードさんですか？",
+    "translation": "Is your name Edward?",
+    "source": "Tatoeba",
+    "sourceId": 10560960
+  },
+  {
+    "id": "tatoeba-161447",
+    "kana": "わたし は イギリス から もどったところです。",
+    "romaji": [
+      "watashi wa igirisu kara modotatokorodesu"
+    ],
+    "kanji": "私はイギリスから戻ったところです。",
+    "translation": "I have just returned from Britain.",
+    "source": "Tatoeba",
+    "sourceId": 161447
+  },
+  {
+    "id": "tatoeba-11572929",
+    "kana": "て のなか の モノ を みせなさい。",
+    "romaji": [
+      "te nonaka no mono o misenasai"
+    ],
+    "kanji": "手の中のモノを見せなさい。",
+    "translation": "Show me what's in your hand.",
+    "source": "Tatoeba",
+    "sourceId": 11572929
+  },
+  {
+    "id": "tatoeba-197781",
+    "kana": "ハワイ の うみ は とても うつくしいんです よ。",
+    "romaji": [
+      "hawai no umi wa totemo utsukushiindesu yo"
+    ],
+    "kanji": "ハワイの海はとても美しいんですよ。",
+    "translation": "The Hawaiian ocean is so beautiful.",
+    "source": "Tatoeba",
+    "sourceId": 197781
+  },
+  {
+    "id": "tatoeba-3167129",
+    "kana": "オーストラリア と いえば なに を おもいうかべます か？",
+    "romaji": [
+      "oosutoraria to ieba nani o omoiukabemasu ka",
+      "ousutoraria to ieba nani o omoiukabemasu ka"
+    ],
+    "kanji": "オーストラリアといえば何を思い浮かべますか？",
+    "translation": "What comes to mind when you think about Australia?",
+    "source": "Tatoeba",
+    "sourceId": 3167129
+  },
+  {
+    "id": "tatoeba-234692",
+    "kana": "アイク は きょう ちょうし が よくないようだ。",
+    "romaji": [
+      "aiku wa kyou choushi ga yokunaiyouda"
+    ],
+    "kanji": "アイクは今日調子がよくないようだ。",
+    "translation": "Ike doesn't seem to be up to the mark today.",
+    "source": "Tatoeba",
+    "sourceId": 234692
+  },
+  {
+    "id": "tatoeba-10901535",
+    "kana": "たんじょうび に ともだち から シャツ を もらいました。",
+    "romaji": [
+      "tanjoubi ni tomodachi kara shatsu o moraimashita"
+    ],
+    "kanji": "誕生日に友達からシャツをもらいました。",
+    "translation": "I got a shirt from a friend for my birthday.",
+    "source": "Tatoeba",
+    "sourceId": 10901535
+  },
+  {
+    "id": "tatoeba-159186",
+    "kana": "ニューヨーク で みち に まよってしまった。",
+    "romaji": [
+      "nyuuyooku de michi ni mayoteshimata",
+      "nyuuyouku de michi ni mayoteshimata"
+    ],
+    "kanji": "ニューヨークで道に迷ってしまった。",
+    "translation": "I lost my way in New York.",
+    "source": "Tatoeba",
+    "sourceId": 159186
+  },
+  {
+    "id": "tatoeba-12486152",
+    "kana": "ふゆ に バイク に のったら、 さむい よ。",
+    "romaji": [
+      "fuyu ni baiku ni notara samui yo"
+    ],
+    "kanji": "冬にバイクに乗ったら、寒いよ。",
+    "translation": "If you ride a motorbike in winter, you'll be cold.",
+    "source": "Tatoeba",
+    "sourceId": 12486152
+  },
+  {
+    "id": "tatoeba-226466",
+    "kana": "カーペット の ねだん は みっつ の ようそ で きまる。",
+    "romaji": [
+      "kaapetto no nedan wa mittsu no youso de kimaru"
+    ],
+    "kanji": "カーペットの値段は３つの要素で決まる。",
+    "translation": "The price of the carpet is determined by three factors.",
+    "source": "Tatoeba",
+    "sourceId": 226466
+  },
+  {
+    "id": "tatoeba-11988877",
+    "kana": "スーツ を クリーニング に ださなきゃ。",
+    "romaji": [
+      "suutsu o kuriiningu ni dasanakya"
+    ],
+    "kanji": "スーツをクリーニングに出さなきゃ。",
+    "translation": "I need to take my suit to the dry cleaners.",
+    "source": "Tatoeba",
+    "sourceId": 11988877
+  },
+  {
+    "id": "tatoeba-11853803",
+    "kana": "これ、 ちち のひ の プレゼント に さいてき ね。",
+    "romaji": [
+      "kore chichi nohi no purezento ni saiteki ne"
+    ],
+    "kanji": "これ、父の日のプレゼントに最適ね。",
+    "translation": "This is the perfect Father's Day gift.",
+    "source": "Tatoeba",
+    "sourceId": 11853803
+  },
+  {
+    "id": "tatoeba-159411",
+    "kana": "わたし は テレビ で テニス の しあい を みた。",
+    "romaji": [
+      "watashi wa terebi de tenisu no shiai o mita"
+    ],
+    "kanji": "私はテレビでテニスの試合を見た。",
+    "translation": "I watched a tennis match on TV.",
+    "source": "Tatoeba",
+    "sourceId": 159411
+  },
+  {
+    "id": "tatoeba-10906866",
+    "kana": "かれら は ふくろ に クルミ を つめた。",
+    "romaji": [
+      "karera wa fukuro ni kurumi o tsumeta"
+    ],
+    "kanji": "彼らは袋にクルミを詰めた。",
+    "translation": "They filled their bags with walnuts.",
+    "source": "Tatoeba",
+    "sourceId": 10906866
+  },
+  {
+    "id": "tatoeba-78537",
+    "kana": "おちないよう に ロープ を にぎりしめた。",
+    "romaji": [
+      "ochinaiyou ni roopu o nigirishimeta",
+      "ochinaiyou ni roupu o nigirishimeta"
+    ],
+    "kanji": "落ちないようにロープを握りしめた。",
+    "translation": "I grasped the rope so as not to fall.",
+    "source": "Tatoeba",
+    "sourceId": 78537
+  },
+  {
+    "id": "tatoeba-9974813",
+    "kana": "これ、 ほんとうに ノン アルコール ビールなんです か？",
+    "romaji": [
+      "kore hontouni non arukooru biirunandesu ka",
+      "kore hontouni non arukouru biirunandesu ka"
+    ],
+    "kanji": "これ、本当にノンアルコールビールなんですか？",
+    "translation": "Is this really a non-alcoholic beer?",
+    "source": "Tatoeba",
+    "sourceId": 9974813
+  },
+  {
+    "id": "tatoeba-111813",
+    "kana": "かれ は テニス に ねっしんだ。",
+    "romaji": [
+      "kare wa tenisu ni nesshinda"
+    ],
+    "kanji": "彼はテニスに熱心だ。",
+    "translation": "He is enthusiastic about tennis.",
+    "source": "Tatoeba",
+    "sourceId": 111813
+  },
+  {
+    "id": "tatoeba-9544406",
+    "kana": "そこ まで バス で にじかん かかる よ。",
+    "romaji": [
+      "soko made basu de nijikan kakaru yo"
+    ],
+    "kanji": "そこまでバスで２時間かかるよ。",
+    "translation": "It takes two hours to get there by bus.",
+    "source": "Tatoeba",
+    "sourceId": 9544406
+  },
+  {
+    "id": "tatoeba-201949",
+    "kana": "テレビ を みるとき に つかうんだ。",
+    "romaji": [
+      "terebi o mirutoki ni tsukaunda"
+    ],
+    "kanji": "テレビを見るときに使うんだ。",
+    "translation": "I use it when I watch TV.",
+    "source": "Tatoeba",
+    "sourceId": 201949
+  },
+  {
+    "id": "tatoeba-126920",
+    "kana": "じもと の チーム は かった。",
+    "romaji": [
+      "jimoto no chiimu wa kata"
+    ],
+    "kanji": "地元のチームは勝った。",
+    "translation": "The home team won.",
+    "source": "Tatoeba",
+    "sourceId": 126920
+  },
+  {
+    "id": "tatoeba-228407",
+    "kana": "インク で かかなくて はいけません か。",
+    "romaji": [
+      "inku de kakanakute waikemasen ka"
+    ],
+    "kanji": "インクで書かなくてはいけませんか。",
+    "translation": "Must I write in ink?",
+    "source": "Tatoeba",
+    "sourceId": 228407
+  },
+  {
+    "id": "tatoeba-164090",
+    "kana": "わたし の ロボット の なまえ は マルチです。",
+    "romaji": [
+      "watashi no robotto no namae wa maruchidesu"
+    ],
+    "kanji": "私のロボットの名前はマルチです。",
+    "translation": "My robot's name is Multi.",
+    "source": "Tatoeba",
+    "sourceId": 164090
+  },
+  {
+    "id": "tatoeba-225711",
+    "kana": "くぎ が くるま の タイヤ に ささった。",
+    "romaji": [
+      "kugi ga kuruma no taiya ni sasata"
+    ],
+    "kanji": "釘が車のタイヤに刺さった。",
+    "translation": "A nail penetrated the car tyre.",
+    "source": "Tatoeba",
+    "sourceId": 225711
+  },
+  {
+    "id": "tatoeba-193008",
+    "kana": "ヤンキース が ドジャース を まかした。",
+    "romaji": [
+      "yankiisu ga dojaasu o makashita"
+    ],
+    "kanji": "ヤンキースがドジャースを負かした。",
+    "translation": "The Yankees got the better of the Dodgers.",
+    "source": "Tatoeba",
+    "sourceId": 193008
+  },
+  {
+    "id": "tatoeba-227443",
+    "kana": "オレ に は なに も みえない ぞ。",
+    "romaji": [
+      "ore ni wa nani mo mienai zo"
+    ],
+    "kanji": "オレには何も見えないぞ。",
+    "translation": "I don't see anything.",
+    "source": "Tatoeba",
+    "sourceId": 227443
+  },
+  {
+    "id": "tatoeba-229070",
+    "kana": "イタリアご を どこ で おぼえたのです か。",
+    "romaji": [
+      "itariago o doko de oboetanodesu ka"
+    ],
+    "kanji": "イタリア語をどこで覚えたのですか。",
+    "translation": "Where did you pick up your Italian?",
+    "source": "Tatoeba",
+    "sourceId": 229070
+  },
+  {
+    "id": "tatoeba-11110369",
+    "kana": "バス で さいふ を ぬすまれました。",
+    "romaji": [
+      "basu de saifu o nusumaremashita"
+    ],
+    "kanji": "バスで財布を盗まれました。",
+    "translation": "My purse was stolen on the bus.",
+    "source": "Tatoeba",
+    "sourceId": 11110369
+  },
+  {
+    "id": "tatoeba-2741236",
+    "kana": "やっぱり ふろ あがり は ビール に かぎる な。",
+    "romaji": [
+      "yappari furo agari wa biiru ni kagiru na"
+    ],
+    "kanji": "やっぱり風呂上がりはビールに限るな。",
+    "translation": "Nothing beats having a beer after getting out of the tub.",
+    "source": "Tatoeba",
+    "sourceId": 2741236
+  },
+  {
+    "id": "tatoeba-347194",
+    "kana": "おまえら は みんな チキン やろうだ。",
+    "romaji": [
+      "omaera wa minna chikin yarouda"
+    ],
+    "kanji": "おまえらはみんなチキン野郎だ。",
+    "translation": "You're all chickenshits.",
+    "source": "Tatoeba",
+    "sourceId": 347194
+  },
+  {
+    "id": "tatoeba-10095666",
+    "kana": "ボストン まで の おうふく チケット を もってます。",
+    "romaji": [
+      "bosuton made no oufuku chiketto o motemasu"
+    ],
+    "kanji": "ボストンまでの往復チケットを持ってます。",
+    "translation": "I have a round trip ticket to Boston.",
+    "source": "Tatoeba",
+    "sourceId": 10095666
+  },
+  {
+    "id": "tatoeba-216422",
+    "kana": "ジェーン は こたえられない しつもん を とばした。",
+    "romaji": [
+      "jeen wa kotaerarenai shitsumon o tobashita"
+    ],
+    "kanji": "ジェーンは答えられない質問を飛ばした。",
+    "translation": "Jane skipped the questions she couldn't answer.",
+    "source": "Tatoeba",
+    "sourceId": 216422
+  },
+  {
+    "id": "tatoeba-203421",
+    "kana": "タバコ は けんこう に わるい。",
+    "romaji": [
+      "tabako wa kenkou ni warui"
+    ],
+    "kanji": "タバコは健康に悪い。",
+    "translation": "Smoking is harmful to your health.",
+    "source": "Tatoeba",
+    "sourceId": 203421
+  },
+  {
+    "id": "tatoeba-5156",
+    "kana": "かれ は ピアノ を じょうず に ひく。",
+    "romaji": [
+      "kare wa piano o jouzu ni hiku"
+    ],
+    "kanji": "彼はピアノを上手に弾く。",
+    "translation": "He plays the piano very well.",
+    "source": "Tatoeba",
+    "sourceId": 5156
+  },
+  {
+    "id": "tatoeba-10629096",
+    "kana": "ぼく の リュックサック、 めっちゃ おもたいんだ。",
+    "romaji": [
+      "boku no ryukkusakku metcha omotainda"
+    ],
+    "kanji": "僕のリュックサック、めっちゃ重たいんだ。",
+    "translation": "My knapsack is very heavy.",
+    "source": "Tatoeba",
+    "sourceId": 10629096
+  },
+  {
+    "id": "tatoeba-10352432",
+    "kana": "その こ の ははおや は アナウンサーなんです。",
+    "romaji": [
+      "sono ko no hahaoya wa anaunsaanandesu"
+    ],
+    "kanji": "その子の母親はアナウンサーなんです。",
+    "translation": "The mother of that child is an announcer.",
+    "source": "Tatoeba",
+    "sourceId": 10352432
+  },
+  {
+    "id": "tatoeba-2243930",
+    "kana": "きのう、 わたし が あったの は、 ヒルさんでした。",
+    "romaji": [
+      "kinou watashi ga atano wa hirusandeshita"
+    ],
+    "kanji": "昨日、私が会ったのは、ヒルさんでした。",
+    "translation": "The man I met yesterday was Mr. Hill.",
+    "source": "Tatoeba",
+    "sourceId": 2243930
+  },
+  {
+    "id": "tatoeba-9725500",
+    "kana": "かれ、 あたらしい スマホ こわした の よ。",
+    "romaji": [
+      "kare atarashii sumaho kowashita no yo"
+    ],
+    "kanji": "彼、新しいスマホ壊したのよ。",
+    "translation": "He broke his new smartphone.",
+    "source": "Tatoeba",
+    "sourceId": 9725500
+  },
+  {
+    "id": "tatoeba-1118786",
+    "kana": "かぜ が ふきこんだ しゅんかん、 ロウソク が きえた。",
+    "romaji": [
+      "kaze ga fukikonda shunkan rousoku ga kieta"
+    ],
+    "kanji": "風が吹き込んだ瞬間、ロウソクが消えた。",
+    "translation": "The moment the wind blew in, the candle went out.",
+    "source": "Tatoeba",
+    "sourceId": 1118786
+  },
+  {
+    "id": "tatoeba-11178888",
+    "kana": "あお の スイッチ は さわっちゃ ダメ！",
+    "romaji": [
+      "ao no suitchi wa sawacha dame"
+    ],
+    "kanji": "青のスイッチは触っちゃダメ！",
+    "translation": "Don't touch the blue switch!",
+    "source": "Tatoeba",
+    "sourceId": 11178888
+  },
+  {
+    "id": "tatoeba-11883192",
+    "kana": "ぼく と おとうと は おなじ アパート に すんでるんだ。",
+    "romaji": [
+      "boku to otouto wa onaji apaato ni sunderunda"
+    ],
+    "kanji": "僕と弟は同じアパートに住んでるんだ。",
+    "translation": "My younger brother and I live in the same apartment.",
+    "source": "Tatoeba",
+    "sourceId": 11883192
+  },
+  {
+    "id": "tatoeba-8604591",
+    "kana": "ビーチ は かんこう きゃく で いっぱいだった。",
+    "romaji": [
+      "biichi wa kankou kyaku de ippaidata"
+    ],
+    "kanji": "ビーチは観光客でいっぱいだった。",
+    "translation": "The beach was crowded with tourists.",
+    "source": "Tatoeba",
+    "sourceId": 8604591
+  },
+  {
+    "id": "tatoeba-226440",
+    "kana": "カエル が みず のなか から でてきた。",
+    "romaji": [
+      "kaeru ga mizu nonaka kara detekita"
+    ],
+    "kanji": "カエルが水の中から出てきた。",
+    "translation": "A frog came out of the water.",
+    "source": "Tatoeba",
+    "sourceId": 226440
+  },
+  {
+    "id": "tatoeba-194412",
+    "kana": "もう スミスさん に あわれました ね。",
+    "romaji": [
+      "mou sumisusan ni awaremashita ne"
+    ],
+    "kanji": "もうスミスさんに会われましたね。",
+    "translation": "You've met Mr. Smith already, haven't you?",
+    "source": "Tatoeba",
+    "sourceId": 194412
+  },
+  {
+    "id": "tatoeba-9964486",
+    "kana": "いちご は ジャム に できる よ。",
+    "romaji": [
+      "ichigo wa jamu ni dekiru yo"
+    ],
+    "kanji": "苺はジャムにできるよ。",
+    "translation": "Strawberries can be made into jam.",
+    "source": "Tatoeba",
+    "sourceId": 9964486
+  },
+  {
+    "id": "tatoeba-212958",
+    "kana": "その テーブル は ばしょ を とらないんだ。",
+    "romaji": [
+      "sono teeburu wa basho o toranainda"
+    ],
+    "kanji": "そのテーブルは場所を取らないんだ。",
+    "translation": "The table doesn't take much room.",
+    "source": "Tatoeba",
+    "sourceId": 212958
+  },
+  {
+    "id": "tatoeba-7820238",
+    "kana": "ぼくら が バカだと ほんとうに おもう の？",
+    "romaji": [
+      "bokura ga bakadato hontouni omou no"
+    ],
+    "kanji": "僕らがバカだと本当に思うの？",
+    "translation": "Do you really think that we're that stupid?",
+    "source": "Tatoeba",
+    "sourceId": 7820238
+  },
+  {
+    "id": "tatoeba-10545115",
+    "kana": "マットレス の した に かくしました。",
+    "romaji": [
+      "mattoresu no shita ni kakushimashita"
+    ],
+    "kanji": "マットレスの下に隠しました。",
+    "translation": "I hid it under the mattress.",
+    "source": "Tatoeba",
+    "sourceId": 10545115
+  },
+  {
+    "id": "tatoeba-184866",
+    "kana": "そと は さむい よ。 コート を きなさい。",
+    "romaji": [
+      "soto wa samui yo kooto o kinasai",
+      "soto wa samui yo kouto o kinasai"
+    ],
+    "kanji": "外は寒いよ。コートを着なさい。",
+    "translation": "It is cold outdoors. Put on your coat.",
+    "source": "Tatoeba",
+    "sourceId": 184866
+  },
+  {
+    "id": "tatoeba-2242444",
+    "kana": "かれ は アラビアご を よみます。",
+    "romaji": [
+      "kare wa arabiago o yomimasu"
+    ],
+    "kanji": "彼はアラビア語を読みます。",
+    "translation": "He reads Arabic.",
+    "source": "Tatoeba",
+    "sourceId": 2242444
+  },
+  {
+    "id": "tatoeba-159171",
+    "kana": "ノート を きょうかしょ と み まちがえた。",
+    "romaji": [
+      "nooto o kyoukasho to mi machigaeta",
+      "nouto o kyoukasho to mi machigaeta"
+    ],
+    "kanji": "ノートを教科書と見間違えた。",
+    "translation": "I mistook a notebook for a textbook.",
+    "source": "Tatoeba",
+    "sourceId": 159171
+  },
+  {
+    "id": "tatoeba-10079762",
+    "kana": "くつした はき わすれたひ に ごうう と は ラッキー。",
+    "romaji": [
+      "kutsushita haki wasuretahi ni gouu to wa rakkii"
+    ],
+    "kanji": "靴下履き忘れた日に豪雨とはラッキー。",
+    "translation": "Lucky of me to have forgotten to wear socks on the day it rains like hell.",
+    "source": "Tatoeba",
+    "sourceId": 10079762
+  },
+  {
+    "id": "tatoeba-12952450",
+    "kana": "ハンガリー の こっき は、 あか・ しろ・ みどりです。",
+    "romaji": [
+      "hangarii no kokki wa aka shiro midoridesu"
+    ],
+    "kanji": "ハンガリーの国旗は、赤・白・緑です。",
+    "translation": "The Hungarian flag is red, white, and green.",
+    "source": "Tatoeba",
+    "sourceId": 12952450
+  },
+  {
+    "id": "tatoeba-10515849",
+    "kana": "ネイティブでない はなして も また、 はなしてである。",
+    "romaji": [
+      "neitibudenai hanashite mo mata hanashitedearu"
+    ],
+    "kanji": "ネイティブでない話し手もまた、話し手である。",
+    "translation": "Non-native speakers are speakers, too.",
+    "source": "Tatoeba",
+    "sourceId": 10515849
+  },
+  {
+    "id": "tatoeba-10737738",
+    "kana": "モハンド は、 いふ きょうだいな の よ。",
+    "romaji": [
+      "mohando wa ifu kyoudaina no yo"
+    ],
+    "kanji": "モハンドは、異父兄弟なのよ。",
+    "translation": "Mohand is my half brother.",
+    "source": "Tatoeba",
+    "sourceId": 10737738
+  },
+  {
+    "id": "tatoeba-5050",
+    "kana": "わたし の なまえ は ジャックです。",
+    "romaji": [
+      "watashi no namae wa jakkudesu"
+    ],
+    "kanji": "私の名前はジャックです。",
+    "translation": "My name is Jack.",
+    "source": "Tatoeba",
+    "sourceId": 5050
+  },
+  {
+    "id": "tatoeba-1624832",
+    "kana": "メアド は きほん かえないから な。",
+    "romaji": [
+      "meado wa kihon kaenaikara na"
+    ],
+    "kanji": "メアドは基本変えないからな。",
+    "translation": "'Cause I don't really change my E-mail address.",
+    "source": "Tatoeba",
+    "sourceId": 1624832
+  },
+  {
+    "id": "tatoeba-11527633",
+    "kana": "ボストン から は いつ もどる よていな の？",
+    "romaji": [
+      "bosuton kara wa itsu modoru yoteina no"
+    ],
+    "kanji": "ボストンからはいつ戻る予定なの？",
+    "translation": "When are you going to get back from Boston?",
+    "source": "Tatoeba",
+    "sourceId": 11527633
+  },
+  {
+    "id": "tatoeba-1204082",
+    "kana": "がっこう で タバコ を すって はいけません。",
+    "romaji": [
+      "gakkou de tabako o sute waikemasen"
+    ],
+    "kanji": "学校でタバコを吸ってはいけません。",
+    "translation": "You are not supposed to smoke at school.",
+    "source": "Tatoeba",
+    "sourceId": 1204082
+  },
+  {
+    "id": "tatoeba-226268",
+    "kana": "かなり おおく の アメリカじん が すし を このむ。",
+    "romaji": [
+      "kanari ooku no amerikajin ga sushi o konomu"
+    ],
+    "kanji": "かなり多くのアメリカ人が寿司を好む。",
+    "translation": "Quite a few Americans like sushi.",
+    "source": "Tatoeba",
+    "sourceId": 226268
+  },
+  {
+    "id": "tatoeba-11351934",
+    "kana": "たまに ソファー で ねる よ。",
+    "romaji": [
+      "tamani sofaa de neru yo"
+    ],
+    "kanji": "たまにソファーで寝るよ。",
+    "translation": "Sometimes I sleep on the sofa.",
+    "source": "Tatoeba",
+    "sourceId": 11351934
+  },
+  {
+    "id": "tatoeba-191512",
+    "kana": "あおいさん は ダンサー に なりました。",
+    "romaji": [
+      "aoisan wa dansaa ni narimashita"
+    ],
+    "kanji": "葵さんはダンサーになりました。",
+    "translation": "Aoi became a dancer.",
+    "source": "Tatoeba",
+    "sourceId": 191512
+  },
+  {
+    "id": "tatoeba-198033",
+    "kana": "バス りょうきん は いくらです か。",
+    "romaji": [
+      "basu ryoukin wa ikuradesu ka"
+    ],
+    "kanji": "バス料金はいくらですか。",
+    "translation": "How much is the bus fare?",
+    "source": "Tatoeba",
+    "sourceId": 198033
+  },
+  {
+    "id": "tatoeba-10764009",
+    "kana": "ドア の かぎ を あけろ。",
+    "romaji": [
+      "doa no kagi o akero"
+    ],
+    "kanji": "ドアの鍵を開けろ。",
+    "translation": "Unlock the doors.",
+    "source": "Tatoeba",
+    "sourceId": 10764009
+  },
+  {
+    "id": "tatoeba-194630",
+    "kana": "メグ は あたらしい ともだち を たくさん えた。",
+    "romaji": [
+      "megu wa atarashii tomodachi o takusan eta"
+    ],
+    "kanji": "メグは新しい友達をたくさん得た。",
+    "translation": "Meg acquired many new friends.",
+    "source": "Tatoeba",
+    "sourceId": 194630
+  },
+  {
+    "id": "tatoeba-226228",
+    "kana": "ガム が かれ の くつ に くっついた。",
+    "romaji": [
+      "gamu ga kare no kutsu ni kuttsuita"
+    ],
+    "kanji": "ガムが彼の靴にくっついた。",
+    "translation": "Some gum stuck to his shoes.",
+    "source": "Tatoeba",
+    "sourceId": 226228
+  },
+  {
+    "id": "tatoeba-3565421",
+    "kana": "わたし の マグカップ を とってくれる？",
+    "romaji": [
+      "watashi no magukappu o totekureru"
+    ],
+    "kanji": "私のマグカップを取ってくれる？",
+    "translation": "Hand me my mug.",
+    "source": "Tatoeba",
+    "sourceId": 3565421
+  },
+  {
+    "id": "tatoeba-9734217",
+    "kana": "テーブル のうえ に おきわすれたの かも しれない。",
+    "romaji": [
+      "teeburu noue ni okiwasuretano kamo shirenai"
+    ],
+    "kanji": "テーブルの上に置き忘れたのかもしれない。",
+    "translation": "I might've left it on the table.",
+    "source": "Tatoeba",
+    "sourceId": 9734217
+  },
+  {
+    "id": "tatoeba-8757915",
+    "kana": "ライト ノベル？ ほんもの の しょうせつ を よんでくれ！",
+    "romaji": [
+      "raito noberu honmono no shousetsu o yondekure"
+    ],
+    "kanji": "ライトノベル？本物の小説を読んでくれ！",
+    "translation": "A light novel? Read a real book!",
+    "source": "Tatoeba",
+    "sourceId": 8757915
+  },
+  {
+    "id": "tatoeba-11161614",
+    "kana": "ボストン って、 シカゴ より あつい？",
+    "romaji": [
+      "bosuton tte shikago yori atsui"
+    ],
+    "kanji": "ボストンって、シカゴより暑い？",
+    "translation": "Is Boston hotter than Chicago?",
+    "source": "Tatoeba",
+    "sourceId": 11161614
+  },
+  {
+    "id": "tatoeba-202000",
+    "kana": "テレビ の ちょうし が よくない。",
+    "romaji": [
+      "terebi no choushi ga yokunai"
+    ],
+    "kanji": "テレビの調子がよくない。",
+    "translation": "The TV isn't working well.",
+    "source": "Tatoeba",
+    "sourceId": 202000
+  },
+  {
+    "id": "tatoeba-12700772",
+    "kana": "それ は、 ドキドキ・ ハラハラ の しあいでした。",
+    "romaji": [
+      "sore wa dokidoki harahara no shiaideshita"
+    ],
+    "kanji": "それは、ドキドキ・ハラハラの試合でした。",
+    "translation": "That was an exciting game.",
+    "source": "Tatoeba",
+    "sourceId": 12700772
+  },
+  {
+    "id": "tatoeba-10216707",
+    "kana": "あの こ、 ドラム が できるんだ よ。",
+    "romaji": [
+      "ano ko doramu ga dekirunda yo"
+    ],
+    "kanji": "あの子、ドラムができるんだよ。",
+    "translation": "She can play the drum.",
+    "source": "Tatoeba",
+    "sourceId": 10216707
+  },
+  {
+    "id": "tatoeba-981085",
+    "kana": "あおい バラ は とても きれいです。",
+    "romaji": [
+      "aoi bara wa totemo kireidesu"
+    ],
+    "kanji": "青いバラはとてもきれいです。",
+    "translation": "The blue roses are very beautiful.",
+    "source": "Tatoeba",
+    "sourceId": 981085
+  },
+  {
+    "id": "tatoeba-9550238",
+    "kana": "マニュアルしゃ の うんてん は できる？",
+    "romaji": [
+      "manyuarusha no unten wa dekiru"
+    ],
+    "kanji": "マニュアル車の運転はできる？",
+    "translation": "Can you drive a manual transmission?",
+    "source": "Tatoeba",
+    "sourceId": 9550238
+  },
+  {
+    "id": "tatoeba-12001880",
+    "kana": "うま と ポニー って、 なに が ちがう の？",
+    "romaji": [
+      "uma to ponii tte nani ga chigau no"
+    ],
+    "kanji": "馬とポニーって、何が違うの？",
+    "translation": "What's the difference between a horse and a pony?",
+    "source": "Tatoeba",
+    "sourceId": 12001880
+  },
+  {
+    "id": "tatoeba-3576135",
+    "kana": "さんにん とも、 すごく ラッキーだ ね。",
+    "romaji": [
+      "sannin tomo sugoku rakkiida ne"
+    ],
+    "kanji": "三人とも、すごくラッキーだね。",
+    "translation": "You three are very lucky.",
+    "source": "Tatoeba",
+    "sourceId": 3576135
+  },
+  {
+    "id": "tatoeba-2239651",
+    "kana": "ユミ と ケイコ で は どっち が あし が はやい？",
+    "romaji": [
+      "yumi to keiko de wa dotchi ga ashi ga hayai"
+    ],
+    "kanji": "ユミとケイコではどっちが足が速い？",
+    "translation": "Who runs faster, Yumi or Keiko?",
+    "source": "Tatoeba",
+    "sourceId": 2239651
+  },
+  {
+    "id": "tatoeba-10675044",
+    "kana": "こども って、 ホント じゅんすいで かわいい ね。",
+    "romaji": [
+      "kodomo tte honto junsuide kawaii ne"
+    ],
+    "kanji": "子供って、ホント純粋でかわいいね。",
+    "translation": "Children are so innocent and adorable, aren't they?",
+    "source": "Tatoeba",
+    "sourceId": 10675044
+  },
+  {
+    "id": "tatoeba-201580",
+    "kana": "どうして、 パーティー に こなかったのです か。",
+    "romaji": [
+      "doushite paatii ni konakatanodesu ka"
+    ],
+    "kanji": "どうして、パーティーに来なかったのですか。",
+    "translation": "How come you didn't come to the party?",
+    "source": "Tatoeba",
+    "sourceId": 201580
+  },
+  {
+    "id": "tatoeba-8615935",
+    "kana": "ねこ は ゆっくり と ネズミ に ちかづいた。",
+    "romaji": [
+      "neko wa yukkuri to nezumi ni chikazuita"
+    ],
+    "kanji": "猫はゆっくりとネズミに近づいた。",
+    "translation": "The cat slowly approached the mouse.",
+    "source": "Tatoeba",
+    "sourceId": 8615935
+  },
+  {
+    "id": "tatoeba-218285",
+    "kana": "これ は じかせい の ジャムです。",
+    "romaji": [
+      "kore wa jikasei no jamudesu"
+    ],
+    "kanji": "これは自家製のジャムです。",
+    "translation": "This is homemade jam.",
+    "source": "Tatoeba",
+    "sourceId": 218285
+  },
+  {
+    "id": "tatoeba-141704",
+    "kana": "せんせい は クラス が さわがしいので しかった。",
+    "romaji": [
+      "sensei wa kurasu ga sawagashiinode shikata"
+    ],
+    "kanji": "先生はクラスが騒がしいのでしかった。",
+    "translation": "The teacher scolded her class for being noisy.",
+    "source": "Tatoeba",
+    "sourceId": 141704
+  },
+  {
+    "id": "tatoeba-231275",
+    "kana": "あの ハンバーガー は ほんとうに おいしかった。",
+    "romaji": [
+      "ano hanbaagaa wa hontouni oishikata"
+    ],
+    "kanji": "あのハンバーガーは本当においしかった。",
+    "translation": "Boy, that hamburger really hit the spot.",
+    "source": "Tatoeba",
+    "sourceId": 231275
+  },
+  {
+    "id": "tatoeba-172497",
+    "kana": "こんかい は ボブ が かちそうだ。",
+    "romaji": [
+      "konkai wa bobu ga kachisouda"
+    ],
+    "kanji": "今回はボブが勝ちそうだ。",
+    "translation": "This time Bob is likely to win.",
+    "source": "Tatoeba",
+    "sourceId": 172497
+  },
+  {
+    "id": "tatoeba-11536271",
+    "kana": "あかちゃん は ベビーベッド で ねてます。",
+    "romaji": [
+      "akachan wa bebiibeddo de netemasu"
+    ],
+    "kanji": "赤ちゃんはベビーベッドで寝てます。",
+    "translation": "The baby is sleeping in his crib.",
+    "source": "Tatoeba",
+    "sourceId": 11536271
+  },
+  {
+    "id": "tatoeba-3090620",
+    "kana": "スーザン は けっして タバコ を すわない。",
+    "romaji": [
+      "suuzan wa kesshite tabako o suwanai"
+    ],
+    "kanji": "スーザンは決してタバコを吸わない。",
+    "translation": "Susan never smokes.",
+    "source": "Tatoeba",
+    "sourceId": 3090620
+  },
+  {
+    "id": "tatoeba-10017198",
+    "kana": "ヤニー は イチジク が だいすきです。",
+    "romaji": [
+      "yanii wa ichijiku ga daisukidesu"
+    ],
+    "kanji": "ヤニーはイチジクが大好きです。",
+    "translation": "Yanni loves figs.",
+    "source": "Tatoeba",
+    "sourceId": 10017198
+  },
+  {
+    "id": "tatoeba-13569139",
+    "kana": "ミント は ここ で は そだたない よ。",
+    "romaji": [
+      "minto wa koko de wa sodatanai yo"
+    ],
+    "kanji": "ミントはここでは育たないよ。",
+    "translation": "Mint doesn't grow here.",
+    "source": "Tatoeba",
+    "sourceId": 13569139
+  },
+  {
+    "id": "tatoeba-156708",
+    "kana": "さくばん は レコード を ききました。",
+    "romaji": [
+      "sakuban wa rekoodo o kikimashita",
+      "sakuban wa rekoudo o kikimashita"
+    ],
+    "kanji": "昨晩はレコードを聴きました。",
+    "translation": "I listened to some records last night.",
+    "source": "Tatoeba",
+    "sourceId": 156708
+  },
+  {
+    "id": "tatoeba-12008753",
+    "kana": "こんな シャツ は かいたくない よ。",
+    "romaji": [
+      "konna shatsu wa kaitakunai yo"
+    ],
+    "kanji": "こんなシャツは買いたくないよ。",
+    "translation": "I don't want to buy this shirt.",
+    "source": "Tatoeba",
+    "sourceId": 12008753
+  },
+  {
+    "id": "tatoeba-10556951",
+    "kana": "かれ は にわ で ジャガイモ を そだてました。",
+    "romaji": [
+      "kare wa niwa de jagaimo o sodatemashita"
+    ],
+    "kanji": "彼は庭でジャガイモを育てました。",
+    "translation": "He grew potatoes in his garden.",
+    "source": "Tatoeba",
+    "sourceId": 10556951
+  },
+  {
+    "id": "tatoeba-165348",
+    "kana": "わたしたち は はくぶつかん で ミイラ を みた。",
+    "romaji": [
+      "watashitachi wa hakubutsukan de miira o mita"
+    ],
+    "kanji": "私たちは博物館でミイラを見た。",
+    "translation": "We saw a mummy at the museum.",
+    "source": "Tatoeba",
+    "sourceId": 165348
+  },
+  {
+    "id": "tatoeba-11056228",
+    "kana": "ぼく の なまえ は ペーターです。",
+    "romaji": [
+      "boku no namae wa peetaadesu"
+    ],
+    "kanji": "僕の名前はペーターです。",
+    "translation": "My name is Peter.",
+    "source": "Tatoeba",
+    "sourceId": 11056228
+  },
+  {
+    "id": "tatoeba-226446",
+    "kana": "カウチポテト に は、 わたし は なりたくない。",
+    "romaji": [
+      "kauchipoteto ni wa watashi wa naritakunai"
+    ],
+    "kanji": "カウチポテトには、私はなりたくない。",
+    "translation": "A couch potato is something that I don't want to be.",
+    "source": "Tatoeba",
+    "sourceId": 226446
+  },
+  {
+    "id": "tatoeba-9641481",
+    "kana": "ばあちゃん の シチュー は かくべつだ よ。",
+    "romaji": [
+      "baachan no shichuu wa kakubetsuda yo"
+    ],
+    "kanji": "ばあちゃんのシチューは格別だよ。",
+    "translation": "Grandma's stew is really exceptional!",
+    "source": "Tatoeba",
+    "sourceId": 9641481
+  },
+  {
+    "id": "tatoeba-13346908",
+    "kana": "エプスタイン は じぶん を ころさなかった。",
+    "romaji": [
+      "epusutain wa jibun o korosanakata"
+    ],
+    "kanji": "エプスタインは自分を殺さなかった。",
+    "translation": "Epstein didn't kill himself.",
+    "source": "Tatoeba",
+    "sourceId": 13346908
+  },
+  {
+    "id": "tatoeba-164828",
+    "kana": "わたし に ケーキ の つくりかた を おしえてください。",
+    "romaji": [
+      "watashi ni keeki no tsukurikata o oshietekudasai"
+    ],
+    "kanji": "私にケーキの作り方を教えて下さい。",
+    "translation": "Please show me how to make cakes.",
+    "source": "Tatoeba",
+    "sourceId": 164828
+  },
+  {
+    "id": "tatoeba-1768339",
+    "kana": "それ ほんもの の トップ ブランドだ べ。",
+    "romaji": [
+      "sore honmono no toppu burandoda be"
+    ],
+    "kanji": "それ本物のトップブランドだべ。",
+    "translation": "That's a real one from a top brand.",
+    "source": "Tatoeba",
+    "sourceId": 1768339
+  },
+  {
+    "id": "tatoeba-12101365",
+    "kana": "きのう の ちょうしょく は トーストでした か？",
+    "romaji": [
+      "kinou no choushoku wa toosutodeshita ka",
+      "kinou no choushoku wa tousutodeshita ka"
+    ],
+    "kanji": "昨日の朝食はトーストでしたか？",
+    "translation": "Did you have toast for breakfast yesterday morning?",
+    "source": "Tatoeba",
+    "sourceId": 12101365
+  },
+  {
+    "id": "tatoeba-12574467",
+    "kana": "プリンター の かみ が きれた。",
+    "romaji": [
+      "purintaa no kami ga kireta"
+    ],
+    "kanji": "プリンターの紙がきれた。",
+    "translation": "The printer ran out of paper.",
+    "source": "Tatoeba",
+    "sourceId": 12574467
+  },
+  {
+    "id": "tatoeba-159410",
+    "kana": "わたし は テレビ で バスケット の しあい を みた。",
+    "romaji": [
+      "watashi wa terebi de basuketto no shiai o mita"
+    ],
+    "kanji": "私はテレビでバスケットの試合を見た。",
+    "translation": "I watched the basketball game on TV.",
+    "source": "Tatoeba",
+    "sourceId": 159410
+  },
+  {
+    "id": "tatoeba-11124375",
+    "kana": "わたし の ふく は、 どれ も オーダーメードな の よ。",
+    "romaji": [
+      "watashi no fuku wa dore mo oodaameedona no yo",
+      "watashi no fuku wa dore mo oudaameedona no yo"
+    ],
+    "kanji": "私の服は、どれもオーダーメードなのよ。",
+    "translation": "All of my clothes are custom made.",
+    "source": "Tatoeba",
+    "sourceId": 11124375
+  },
+  {
+    "id": "tatoeba-12486150",
+    "kana": "なに か のまれます？ ワイン とか？",
+    "romaji": [
+      "nani ka nomaremasu wain toka"
+    ],
+    "kanji": "何か飲まれます？ワインとか？",
+    "translation": "Would you like something to drink? A glass of wine?",
+    "source": "Tatoeba",
+    "sourceId": 12486150
+  },
+  {
+    "id": "tatoeba-11058408",
+    "kana": "また、 ゆか の ワックスがけ わすれたの か よ？",
+    "romaji": [
+      "mata yuka no wakkusugake wasuretano ka yo"
+    ],
+    "kanji": "また、床のワックスがけ忘れたのかよ？",
+    "translation": "Did you forget to wax the floor again?",
+    "source": "Tatoeba",
+    "sourceId": 11058408
+  },
+  {
+    "id": "tatoeba-10605055",
+    "kana": "あせ くさい よ。 シャワー あびてこい。",
+    "romaji": [
+      "ase kusai yo shawaa abitekoi"
+    ],
+    "kanji": "汗臭いよ。シャワー浴びてこい。",
+    "translation": "You smell sweaty. Go and have a shower.",
+    "source": "Tatoeba",
+    "sourceId": 10605055
+  },
+  {
+    "id": "tatoeba-12394872",
+    "kana": "テレビ の コンセント を さして。",
+    "romaji": [
+      "terebi no konsento o sashite"
+    ],
+    "kanji": "テレビのコンセントを挿して。",
+    "translation": "Plug in the TV.",
+    "source": "Tatoeba",
+    "sourceId": 12394872
+  },
+  {
+    "id": "tatoeba-197181",
+    "kana": "フクロウ は ひるま は め が みえない。",
+    "romaji": [
+      "fukurou wa hiruma wa me ga mienai"
+    ],
+    "kanji": "フクロウは昼間は目が見えない。",
+    "translation": "Owls cannot see in the daytime.",
+    "source": "Tatoeba",
+    "sourceId": 197181
+  },
+  {
+    "id": "tatoeba-198097",
+    "kana": "パスポート が なければ、 しゅっこく など ろんがいだ。",
+    "romaji": [
+      "pasupooto ga nakereba shukkoku nado rongaida",
+      "pasupouto ga nakereba shukkoku nado rongaida"
+    ],
+    "kanji": "パスポートがなければ、出国など論外だ。",
+    "translation": "Without a passport, leaving a country is out of the question.",
+    "source": "Tatoeba",
+    "sourceId": 198097
+  },
+  {
+    "id": "tatoeba-9171497",
+    "kana": "これ は じゅうだいな ミスだ よ。",
+    "romaji": [
+      "kore wa juudaina misuda yo"
+    ],
+    "kanji": "これは重大なミスだよ。",
+    "translation": "This is a serious mistake.",
+    "source": "Tatoeba",
+    "sourceId": 9171497
+  },
+  {
+    "id": "tatoeba-10514540",
+    "kana": "ブラポルご の クラス も おしえてます。",
+    "romaji": [
+      "buraporugo no kurasu mo oshietemasu"
+    ],
+    "kanji": "ブラポル語のクラスも教えてます。",
+    "translation": "I also teach Brazilian Portuguese classes.",
+    "source": "Tatoeba",
+    "sourceId": 10514540
+  },
+  {
+    "id": "tatoeba-10989311",
+    "kana": "かぜ が つよいひ は テニス が できません。",
+    "romaji": [
+      "kaze ga tsuyoihi wa tenisu ga dekimasen"
+    ],
+    "kanji": "風が強い日はテニスができません。",
+    "translation": "Tennis can't be played on days when the wind is strong.",
+    "source": "Tatoeba",
+    "sourceId": 10989311
+  },
+  {
+    "id": "tatoeba-8720702",
+    "kana": "チェス セット が ほしい な。",
+    "romaji": [
+      "chesu setto ga hoshii na"
+    ],
+    "kanji": "チェスセットが欲しいな。",
+    "translation": "I want a chess set.",
+    "source": "Tatoeba",
+    "sourceId": 8720702
+  },
+  {
+    "id": "tatoeba-166230",
+    "kana": "わたしたち は パンフレット を やすく つくった。",
+    "romaji": [
+      "watashitachi wa panfuretto o yasuku tsukuta"
+    ],
+    "kanji": "私たちはパンフレットを安く作った。",
+    "translation": "We made brochures at small cost.",
+    "source": "Tatoeba",
+    "sourceId": 166230
+  },
+  {
+    "id": "tatoeba-11508348",
+    "kana": "これ は えんぴつ で、 あれ は ペン。",
+    "romaji": [
+      "kore wa enpitsu de are wa pen"
+    ],
+    "kanji": "これは鉛筆で、あれはペン。",
+    "translation": "This is a pencil and that is a pen.",
+    "source": "Tatoeba",
+    "sourceId": 11508348
+  },
+  {
+    "id": "tatoeba-215903",
+    "kana": "シャー ペン の しん に・ さんほん もらえる か な。",
+    "romaji": [
+      "shaa pen no shin ni sanhon moraeru ka na"
+    ],
+    "kanji": "シャーペンの芯２・３本もらえるかな。",
+    "translation": "Could you lend me a few mechanical pencil leads?",
+    "source": "Tatoeba",
+    "sourceId": 215903
+  },
+  {
+    "id": "tatoeba-11605314",
+    "kana": "シチュー に たまねぎ なんこ いれた の？",
+    "romaji": [
+      "shichuu ni tamanegi nanko ireta no"
+    ],
+    "kanji": "シチューに玉ねぎ何個入れたの？",
+    "translation": "How many onions did you put in the stew?",
+    "source": "Tatoeba",
+    "sourceId": 11605314
+  },
+  {
+    "id": "tatoeba-10092047",
+    "kana": "にんじん より ラディッシュ のほう が たかい かも ね。",
+    "romaji": [
+      "ninjin yori radisshu nohou ga takai kamo ne"
+    ],
+    "kanji": "人参よりラディッシュの方が高いかもね。",
+    "translation": "Radishes might be more expensive than the carrots.",
+    "source": "Tatoeba",
+    "sourceId": 10092047
+  },
+  {
+    "id": "tatoeba-10099898",
+    "kana": "エレベータ で ごかい まで きてください。",
+    "romaji": [
+      "erebeeta de gokai made kitekudasai"
+    ],
+    "kanji": "エレベータで５階まで来てください。",
+    "translation": "Take the elevator to the fifth floor.",
+    "source": "Tatoeba",
+    "sourceId": 10099898
   }
 ]

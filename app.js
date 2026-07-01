@@ -56,7 +56,7 @@ function elapsedMs() { return Math.max(0, Date.now() - questionStartedAt); }
 function formatSeconds(ms) { return `${(ms / 1000).toFixed(1)} s`; }
 function normalize(value) {
   return value.trim().toLowerCase()
-    .replace(/[\s\-–—_.’']/g, "")
+    .replace(/[\s\-–—_.’'・]/g, "")
     .replace(/[āâ]/g, "aa").replace(/[īî]/g, "ii").replace(/[ūû]/g, "uu")
     .replace(/[ēê]/g, "ee").replace(/ō/g, "ou").replace(/ô/g, "ou");
 }
