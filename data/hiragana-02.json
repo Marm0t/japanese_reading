@@ -1,5502 +1,2466 @@
 [
   {
-    "id": "jmdict-1576150-a724db40",
-    "kana": "ひとり",
+    "id": "curated-hiragana-51ab2a84",
+    "kana": "うし",
     "romaji": [
-      "hitori"
+      "ushi"
     ],
-    "kanji": "一人",
-    "translation": "one person",
-    "source": "JMdict",
-    "sourceId": 1576150
+    "kanji": "牛",
+    "translation": "cow",
+    "source": "curated",
+    "sourceId": "hiragana-001"
   },
   {
-    "id": "jmdict-1307850-bd26a670",
-    "kana": "こども",
+    "id": "curated-hiragana-c9930ff9",
+    "kana": "ぶた",
     "romaji": [
-      "kodomo"
+      "buta"
     ],
-    "kanji": "子供",
-    "translation": "child",
-    "source": "JMdict",
-    "sourceId": 1307850
+    "kanji": "豚",
+    "translation": "pig",
+    "source": "curated",
+    "sourceId": "hiragana-002"
   },
   {
-    "id": "jmdict-1488000-1119c7bd",
-    "kana": "ひゃく",
+    "id": "curated-hiragana-f7617dd3",
+    "kana": "やぎ",
     "romaji": [
-      "hyaku"
+      "yagi"
     ],
-    "kanji": "百",
-    "translation": "hundred",
-    "source": "JMdict",
-    "sourceId": 1488000
+    "kanji": "山羊",
+    "translation": "goat",
+    "source": "curated",
+    "sourceId": "hiragana-003"
   },
   {
-    "id": "jmdict-1599120-ef3bf2e2",
-    "kana": "とりひき",
+    "id": "curated-hiragana-2c2f9fde",
+    "kana": "くま",
     "romaji": [
-      "torihiki"
+      "kuma"
     ],
-    "kanji": "取引",
-    "translation": "transactions",
-    "source": "JMdict",
-    "sourceId": 1599120
+    "kanji": "熊",
+    "translation": "bear",
+    "source": "curated",
+    "sourceId": "hiragana-004"
   },
   {
-    "id": "jmdict-1594480-d34821cf",
-    "kana": "しはらい",
+    "id": "curated-hiragana-19ba6248",
+    "kana": "きつね",
     "romaji": [
-      "shiharai"
+      "kitsune"
     ],
-    "kanji": "支払い",
-    "translation": "payment",
-    "source": "JMdict",
-    "sourceId": 1594480
+    "kanji": "狐",
+    "translation": "fox",
+    "source": "curated",
+    "sourceId": "hiragana-005"
   },
   {
-    "id": "jmdict-1588500-ba6bc3ba",
-    "kana": "うりあげ",
+    "id": "curated-hiragana-7f4af5ee",
+    "kana": "しか",
     "romaji": [
-      "uriage"
+      "shika"
     ],
-    "kanji": "売り上げ",
-    "translation": "amount sold",
-    "source": "JMdict",
-    "sourceId": 1588500
+    "kanji": "鹿",
+    "translation": "deer",
+    "source": "curated",
+    "sourceId": "hiragana-006"
   },
   {
-    "id": "jmdict-1597890-848fff57",
-    "kana": "つくる",
+    "id": "curated-hiragana-ac04dcaf",
+    "kana": "とら",
     "romaji": [
-      "tsukuru"
+      "tora"
     ],
-    "kanji": "作る",
-    "translation": "to make",
-    "source": "JMdict",
-    "sourceId": 1597890
+    "kanji": "虎",
+    "translation": "tiger",
+    "source": "curated",
+    "sourceId": "hiragana-007"
   },
   {
-    "id": "jmdict-1549140-7446c97e",
-    "kana": "たまご",
+    "id": "curated-hiragana-0823f63d",
+    "kana": "ぞう",
     "romaji": [
-      "tamago"
+      "zou"
     ],
-    "kanji": "卵",
-    "translation": "eggs",
-    "source": "JMdict",
-    "sourceId": 1549140
+    "kanji": "象",
+    "translation": "elephant",
+    "source": "curated",
+    "sourceId": "hiragana-008"
   },
   {
-    "id": "jmdict-1540170-fa04cb34",
-    "kana": "ともだち",
+    "id": "curated-hiragana-400fafd1",
+    "kana": "うさぎ",
     "romaji": [
-      "tomodachi"
+      "usagi"
     ],
-    "kanji": "友達",
-    "translation": "friend",
-    "source": "JMdict",
-    "sourceId": 1540170
+    "kanji": "兎",
+    "translation": "rabbit",
+    "source": "curated",
+    "sourceId": "hiragana-009"
   },
   {
-    "id": "jmdict-1606630-e66508aa",
-    "kana": "わがくに",
+    "id": "curated-hiragana-21c74706",
+    "kana": "ねずみ",
     "romaji": [
-      "wagakuni"
+      "nezumi"
     ],
-    "kanji": "我が国",
-    "translation": "our country",
-    "source": "JMdict",
-    "sourceId": 1606630
+    "kanji": "鼠",
+    "translation": "mouse",
+    "source": "curated",
+    "sourceId": "hiragana-010"
   },
   {
-    "id": "jmdict-1590240-235049e9",
-    "kana": "かしだし",
+    "id": "curated-hiragana-f979a127",
+    "kana": "かえる",
     "romaji": [
-      "kashidashi"
+      "kaeru"
     ],
-    "kanji": "貸し出し",
-    "translation": "lending",
-    "source": "JMdict",
-    "sourceId": 1590240
+    "kanji": "蛙",
+    "translation": "frog",
+    "source": "curated",
+    "sourceId": "hiragana-011"
   },
   {
-    "id": "jmdict-1581330-0357a2d2",
-    "kana": "あしあと",
+    "id": "curated-hiragana-1838a8ce",
+    "kana": "かめ",
     "romaji": [
-      "ashiato"
+      "kame"
     ],
-    "kanji": "足跡",
-    "translation": "footprints",
-    "source": "JMdict",
-    "sourceId": 1581330
+    "kanji": "亀",
+    "translation": "turtle",
+    "source": "curated",
+    "sourceId": "hiragana-012"
   },
   {
-    "id": "jmdict-1598300-d0592a37",
-    "kana": "てがかり",
+    "id": "curated-hiragana-39e4e19d",
+    "kana": "へび",
     "romaji": [
-      "tegakari"
+      "hebi"
     ],
-    "kanji": "手掛かり",
-    "translation": "clue",
-    "source": "JMdict",
-    "sourceId": 1598300
+    "kanji": "蛇",
+    "translation": "snake",
+    "source": "curated",
+    "sourceId": "hiragana-013"
   },
   {
-    "id": "jmdict-1593570-408eae43",
-    "kana": "ごぞんじ",
+    "id": "curated-hiragana-0cb8e379",
+    "kana": "とかげ",
     "romaji": [
-      "gozonji"
+      "tokage"
     ],
-    "kanji": "ご存知",
-    "translation": "knowing",
-    "source": "JMdict",
-    "sourceId": 1593570
+    "kanji": "蜥蜴",
+    "translation": "lizard",
+    "source": "curated",
+    "sourceId": "hiragana-014"
   },
   {
-    "id": "jmdict-1310620-2d52509f",
-    "kana": "とまる",
+    "id": "curated-hiragana-d55be023",
+    "kana": "あり",
     "romaji": [
-      "tomaru"
+      "ari"
     ],
-    "kanji": "止まる",
-    "translation": "to stop (moving)",
-    "source": "JMdict",
-    "sourceId": 1310620
+    "kanji": "蟻",
+    "translation": "ant",
+    "source": "curated",
+    "sourceId": "hiragana-015"
   },
   {
-    "id": "jmdict-1259290-f9d31780",
-    "kana": "みる",
+    "id": "curated-hiragana-17728bef",
+    "kana": "はち",
     "romaji": [
-      "miru"
+      "hachi"
     ],
-    "kanji": "見る",
-    "translation": "to see",
-    "source": "JMdict",
-    "sourceId": 1259290
+    "kanji": "蜂",
+    "translation": "bee",
+    "source": "curated",
+    "sourceId": "hiragana-016"
   },
   {
-    "id": "jmdict-1531030-6a96d878",
-    "kana": "むりやり",
+    "id": "curated-hiragana-118f5b0b",
+    "kana": "くも",
     "romaji": [
-      "muriyari"
+      "kumo"
     ],
-    "kanji": "無理やり",
-    "translation": "forcibly",
-    "source": "JMdict",
-    "sourceId": 1531030
+    "kanji": "蜘蛛",
+    "translation": "spider",
+    "source": "curated",
+    "sourceId": "hiragana-017"
   },
   {
-    "id": "jmdict-1588890-10873c18",
-    "kana": "おおげさ",
+    "id": "curated-hiragana-edffb44e",
+    "kana": "えび",
     "romaji": [
-      "oogesa"
+      "ebi"
     ],
-    "kanji": "大げさ",
-    "translation": "exaggerated",
-    "source": "JMdict",
-    "sourceId": 1588890
+    "kanji": "海老",
+    "translation": "shrimp",
+    "source": "curated",
+    "sourceId": "hiragana-018"
   },
   {
-    "id": "jmdict-1600460-015adc4a",
-    "kana": "のりかえ",
+    "id": "curated-hiragana-eda9dcc5",
+    "kana": "いか",
     "romaji": [
-      "norikae"
+      "ika"
     ],
-    "kanji": "乗り換え",
-    "translation": "transfer (trains, buses, etc.)",
-    "source": "JMdict",
-    "sourceId": 1600460
+    "kanji": "烏賊",
+    "translation": "squid",
+    "source": "curated",
+    "sourceId": "hiragana-019"
   },
   {
-    "id": "jmdict-1597530-578f0b66",
-    "kana": "ちゃわん",
+    "id": "curated-hiragana-1555471f",
+    "kana": "くじら",
     "romaji": [
-      "chawan"
+      "kujira"
     ],
-    "kanji": "茶わん",
-    "translation": "rice bowl",
-    "source": "JMdict",
-    "sourceId": 1597530
+    "kanji": "鯨",
+    "translation": "whale",
+    "source": "curated",
+    "sourceId": "hiragana-020"
   },
   {
-    "id": "jmdict-1587300-7bfff5d9",
-    "kana": "いたみ",
+    "id": "curated-hiragana-f6a8c30c",
+    "kana": "いるか",
     "romaji": [
-      "itami"
+      "iruka"
     ],
-    "kanji": "痛み",
-    "translation": "pain",
-    "source": "JMdict",
-    "sourceId": 1587300
+    "kanji": "海豚",
+    "translation": "dolphin",
+    "source": "curated",
+    "sourceId": "hiragana-021"
   },
   {
-    "id": "jmdict-1473620-c0027c16",
-    "kana": "かいとり",
+    "id": "curated-hiragana-d40f5f25",
+    "kana": "すずめ",
     "romaji": [
-      "kaitori"
+      "suzume"
     ],
-    "kanji": "買取",
-    "translation": "purchase",
-    "source": "JMdict",
-    "sourceId": 1473620
+    "kanji": "雀",
+    "translation": "sparrow",
+    "source": "curated",
+    "sourceId": "hiragana-022"
   },
   {
-    "id": "jmdict-1590410-ed41ff07",
-    "kana": "かたまり",
+    "id": "curated-hiragana-021ef506",
+    "kana": "からす",
     "romaji": [
-      "katamari"
+      "karasu"
     ],
-    "kanji": "塊",
-    "translation": "lump",
-    "source": "JMdict",
-    "sourceId": 1590410
+    "kanji": "烏",
+    "translation": "crow",
+    "source": "curated",
+    "sourceId": "hiragana-023"
   },
   {
-    "id": "jmdict-1217840-526e1c79",
-    "kana": "かおぶれ",
+    "id": "curated-hiragana-bf8ff8d3",
+    "kana": "はと",
     "romaji": [
-      "kaobure"
+      "hato"
     ],
-    "kanji": "顔触れ",
-    "translation": "personnel",
-    "source": "JMdict",
-    "sourceId": 1217840
+    "kanji": "鳩",
+    "translation": "pigeon",
+    "source": "curated",
+    "sourceId": "hiragana-024"
   },
   {
-    "id": "jmdict-1404975-7c06baec",
-    "kana": "はやい",
+    "id": "curated-hiragana-f46d913a",
+    "kana": "あひる",
     "romaji": [
-      "hayai"
+      "ahiru"
     ],
-    "kanji": "早い",
-    "translation": "fast",
-    "source": "JMdict",
-    "sourceId": 1404975
+    "kanji": "家鴨",
+    "translation": "duck",
+    "source": "curated",
+    "sourceId": "hiragana-025"
   },
   {
-    "id": "jmdict-1610550-bc0e7b49",
-    "kana": "あらわれ",
+    "id": "curated-hiragana-27acc76c",
+    "kana": "き",
     "romaji": [
-      "araware"
+      "ki"
     ],
-    "kanji": "現れ",
-    "translation": "embodiment",
-    "source": "JMdict",
-    "sourceId": 1610550
+    "kanji": "木",
+    "translation": "tree",
+    "source": "curated",
+    "sourceId": "hiragana-026"
   },
   {
-    "id": "jmdict-1607100-735212c5",
-    "kana": "おば",
+    "id": "curated-hiragana-1fa0519c",
+    "kana": "は",
     "romaji": [
-      "oba"
+      "ha"
     ],
-    "kanji": "叔母",
-    "translation": "aunt",
-    "source": "JMdict",
-    "sourceId": 1607100
+    "kanji": "葉",
+    "translation": "leaf",
+    "source": "curated",
+    "sourceId": "hiragana-027"
   },
   {
-    "id": "jmdict-1432900-4d0c1a21",
-    "kana": "とおす",
+    "id": "curated-hiragana-e85cc580",
+    "kana": "たね",
     "romaji": [
-      "toosu"
+      "tane"
     ],
-    "kanji": "通す",
-    "translation": "to let pass",
-    "source": "JMdict",
-    "sourceId": 1432900
+    "kanji": "種",
+    "translation": "seed",
+    "source": "curated",
+    "sourceId": "hiragana-028"
   },
   {
-    "id": "jmdict-1226970-2b986036",
-    "kana": "さかさ",
+    "id": "curated-hiragana-8a717929",
+    "kana": "たけ",
     "romaji": [
-      "sakasa"
+      "take"
     ],
-    "kanji": "逆さ",
-    "translation": "inverted",
-    "source": "JMdict",
-    "sourceId": 1226970
+    "kanji": "竹",
+    "translation": "bamboo",
+    "source": "curated",
+    "sourceId": "hiragana-029"
   },
   {
-    "id": "jmdict-1456010-715ef3f4",
-    "kana": "どくとく",
+    "id": "curated-hiragana-8c52eb17",
+    "kana": "こけ",
     "romaji": [
-      "dokutoku"
+      "koke"
     ],
-    "kanji": "独特",
-    "translation": "peculiarity",
-    "source": "JMdict",
-    "sourceId": 1456010
+    "kanji": "苔",
+    "translation": "moss",
+    "source": "curated",
+    "sourceId": "hiragana-030"
   },
   {
-    "id": "jmdict-1253570-8841f35c",
-    "kana": "うつ",
+    "id": "curated-hiragana-8e850752",
+    "kana": "きのこ",
     "romaji": [
-      "utsu"
+      "kinoko"
     ],
-    "kanji": "撃つ",
-    "translation": "to shoot (a gun, person, etc.)",
-    "source": "JMdict",
-    "sourceId": 1253570
+    "kanji": "茸",
+    "translation": "mushroom",
+    "source": "curated",
+    "sourceId": "hiragana-031"
   },
   {
-    "id": "jmdict-1409370-23f41e39",
-    "kana": "たいけい",
+    "id": "curated-hiragana-53cf0dc5",
+    "kana": "ばら",
     "romaji": [
-      "taikei"
+      "bara"
     ],
-    "kanji": "体型",
-    "translation": "figure",
-    "source": "JMdict",
-    "sourceId": 1409370
+    "kanji": "薔薇",
+    "translation": "rose",
+    "source": "curated",
+    "sourceId": "hiragana-032"
   },
   {
-    "id": "jmdict-1404630-07edf881",
-    "kana": "あし",
+    "id": "curated-hiragana-a5c63232",
+    "kana": "たいよう",
     "romaji": [
-      "ashi"
+      "taiyou"
     ],
-    "kanji": "足",
-    "translation": "foot",
-    "source": "JMdict",
-    "sourceId": 1404630
+    "kanji": "太陽",
+    "translation": "sun",
+    "source": "curated",
+    "sourceId": "hiragana-033"
   },
   {
-    "id": "jmdict-1390020-1d9015bd",
-    "kana": "かわ",
-    "romaji": [
-      "kawa"
-    ],
-    "kanji": "川",
-    "translation": "river",
-    "source": "JMdict",
-    "sourceId": 1390020
-  },
-  {
-    "id": "jmdict-1214630-93733502",
-    "kana": "きも",
-    "romaji": [
-      "kimo"
-    ],
-    "kanji": "肝",
-    "translation": "liver",
-    "source": "JMdict",
-    "sourceId": 1214630
-  },
-  {
-    "id": "jmdict-1586210-15d1a68d",
-    "kana": "あかり",
-    "romaji": [
-      "akari"
-    ],
-    "kanji": "明かり",
-    "translation": "light",
-    "source": "JMdict",
-    "sourceId": 1586210
-  },
-  {
-    "id": "jmdict-1193180-47e97c8f",
-    "kana": "うた",
-    "romaji": [
-      "uta"
-    ],
-    "kanji": "歌",
-    "translation": "song",
-    "source": "JMdict",
-    "sourceId": 1193180
-  },
-  {
-    "id": "jmdict-1609060-0ecc896d",
-    "kana": "よびかけ",
-    "romaji": [
-      "yobikake"
-    ],
-    "kanji": "呼びかけ",
-    "translation": "call",
-    "source": "JMdict",
-    "sourceId": 1609060
-  },
-  {
-    "id": "jmdict-1577300-8d771a13",
-    "kana": "かわぐち",
-    "romaji": [
-      "kawaguchi"
-    ],
-    "kanji": "河口",
-    "translation": "mouth of river",
-    "source": "JMdict",
-    "sourceId": 1577300
-  },
-  {
-    "id": "jmdict-1590770-0f716eb8",
-    "kana": "かわり",
-    "romaji": [
-      "kawari"
-    ],
-    "kanji": "代わり",
-    "translation": "substitute",
-    "source": "JMdict",
-    "sourceId": 1590770
-  },
-  {
-    "id": "jmdict-1598960-b1b1efcb",
-    "kana": "とらえる",
-    "romaji": [
-      "toraeru"
-    ],
-    "kanji": "捕らえる",
-    "translation": "to catch",
-    "source": "JMdict",
-    "sourceId": 1598960
-  },
-  {
-    "id": "jmdict-1284480-0a6b8d0b",
-    "kana": "あわせる",
-    "romaji": [
-      "awaseru"
-    ],
-    "kanji": "合わせる",
-    "translation": "to match (rhythm, speed, etc.)",
-    "source": "JMdict",
-    "sourceId": 1284480
-  },
-  {
-    "id": "jmdict-1169870-12bf6589",
-    "kana": "のむ",
-    "romaji": [
-      "nomu"
-    ],
-    "kanji": "飲む",
-    "translation": "to drink",
-    "source": "JMdict",
-    "sourceId": 1169870
-  },
-  {
-    "id": "jmdict-1382950-9599f018",
-    "kana": "つみたて",
-    "romaji": [
-      "tsumitate"
-    ],
-    "kanji": "積み立て",
-    "translation": "saving",
-    "source": "JMdict",
-    "sourceId": 1382950
-  },
-  {
-    "id": "jmdict-1598550-d5044b54",
-    "kana": "でかける",
-    "romaji": [
-      "dekakeru"
-    ],
-    "kanji": "出掛ける",
-    "translation": "to go out (e.g. on an excursion or outing)",
-    "source": "JMdict",
-    "sourceId": 1598550
-  },
-  {
-    "id": "jmdict-1222020-ce41e9f7",
-    "kana": "きがかり",
-    "romaji": [
-      "kigakari"
-    ],
-    "kanji": "気がかり",
-    "translation": "worry",
-    "source": "JMdict",
-    "sourceId": 1222020
-  },
-  {
-    "id": "jmdict-1837710-4edf4cfc",
-    "kana": "たちあい",
-    "romaji": [
-      "tachiai"
-    ],
-    "kanji": "立ち合い",
-    "translation": "presence (e.g. of an observer)",
-    "source": "JMdict",
-    "sourceId": 1837710
-  },
-  {
-    "id": "jmdict-1591330-b699fb29",
-    "kana": "きづく",
-    "romaji": [
-      "kizuku"
-    ],
-    "kanji": "気付く",
-    "translation": "to notice",
-    "source": "JMdict",
-    "sourceId": 1591330
-  },
-  {
-    "id": "jmdict-1217850-a22e5ef8",
-    "kana": "かおつき",
-    "romaji": [
-      "kaotsuki"
-    ],
-    "kanji": "顔付き",
-    "translation": "(outward) looks",
-    "source": "JMdict",
-    "sourceId": 1217850
-  },
-  {
-    "id": "jmdict-1579720-34c088d6",
-    "kana": "さびしい",
-    "romaji": [
-      "sabishii"
-    ],
-    "kanji": "寂しい",
-    "translation": "lonely",
-    "source": "JMdict",
-    "sourceId": 1579720
-  },
-  {
-    "id": "jmdict-1592100-4afe0de2",
-    "kana": "くう",
-    "romaji": [
-      "kuu"
-    ],
-    "kanji": "食う",
-    "translation": "to eat",
-    "source": "JMdict",
-    "sourceId": 1592100
-  },
-  {
-    "id": "jmdict-1598400-c0c86fff",
-    "kana": "てぬぐい",
-    "romaji": [
-      "tenugui"
-    ],
-    "kanji": "手ぬぐい",
-    "translation": "tenugui",
-    "source": "JMdict",
-    "sourceId": 1598400
-  },
-  {
-    "id": "jmdict-1598710-c892339e",
-    "kana": "とげ",
-    "romaji": [
-      "toge"
-    ],
-    "kanji": "棘",
-    "translation": "thorn",
-    "source": "JMdict",
-    "sourceId": 1598710
-  },
-  {
-    "id": "jmdict-1557630-0754a262",
-    "kana": "れい",
-    "romaji": [
-      "rei"
-    ],
-    "kanji": "零",
-    "translation": "zero",
-    "source": "JMdict",
-    "sourceId": 1557630
-  },
-  {
-    "id": "jmdict-1242170-72fe1669",
-    "kana": "ちかづく",
-    "romaji": [
-      "chikazuku"
-    ],
-    "kanji": "近づく",
-    "translation": "to approach",
-    "source": "JMdict",
-    "sourceId": 1242170
-  },
-  {
-    "id": "jmdict-1512130-5474f959",
-    "kana": "かえす",
-    "romaji": [
-      "kaesu"
-    ],
-    "kanji": "返す",
-    "translation": "to return (something)",
-    "source": "JMdict",
-    "sourceId": 1512130
-  },
-  {
-    "id": "jmdict-1607070-130437aa",
-    "kana": "おじ",
-    "romaji": [
-      "oji"
-    ],
-    "kanji": "叔父",
-    "translation": "uncle",
-    "source": "JMdict",
-    "sourceId": 1607070
-  },
-  {
-    "id": "jmdict-1294940-74083073",
-    "kana": "さい",
-    "romaji": [
-      "sai"
-    ],
-    "kanji": "歳",
-    "translation": "... years old",
-    "source": "JMdict",
-    "sourceId": 1294940
-  },
-  {
-    "id": "jmdict-1606560-278ac6fc",
-    "kana": "わかる",
-    "romaji": [
-      "wakaru"
-    ],
-    "kanji": "分かる",
-    "translation": "to understand",
-    "source": "JMdict",
-    "sourceId": 1606560
-  },
-  {
-    "id": "jmdict-1329590-18b1ede6",
-    "kana": "うける",
-    "romaji": [
-      "ukeru"
-    ],
-    "kanji": "受ける",
-    "translation": "to receive",
-    "source": "JMdict",
-    "sourceId": 1329590
-  },
-  {
-    "id": "jmdict-1596820-0a47dd95",
-    "kana": "たきだし",
-    "romaji": [
-      "takidashi"
-    ],
-    "kanji": "炊き出し",
-    "translation": "food distribution (esp. cooked rice)",
-    "source": "JMdict",
-    "sourceId": 1596820
-  },
-  {
-    "id": "jmdict-1295250-c045bfab",
-    "kana": "まつる",
-    "romaji": [
-      "matsuru"
-    ],
-    "kanji": "祭る",
-    "translation": "to deify",
-    "source": "JMdict",
-    "sourceId": 1295250
-  },
-  {
-    "id": "jmdict-1604300-7159cadc",
-    "kana": "まわる",
-    "romaji": [
-      "mawaru"
-    ],
-    "kanji": "回る",
-    "translation": "to turn",
-    "source": "JMdict",
-    "sourceId": 1604300
-  },
-  {
-    "id": "jmdict-1586450-f8214a5e",
-    "kana": "あだな",
-    "romaji": [
-      "adana"
-    ],
-    "kanji": "あだ名",
-    "translation": "nickname",
-    "source": "JMdict",
-    "sourceId": 1586450
-  },
-  {
-    "id": "jmdict-1311110-b8020da0",
-    "kana": "わたし",
-    "romaji": [
-      "watashi"
-    ],
-    "kanji": "私",
-    "translation": "I",
-    "source": "JMdict",
-    "sourceId": 1311110
-  },
-  {
-    "id": "jmdict-1160820-b9a975d7",
-    "kana": "ひとつ",
-    "romaji": [
-      "hitotsu"
-    ],
-    "kanji": "一つ",
-    "translation": "one",
-    "source": "JMdict",
-    "sourceId": 1160820
-  },
-  {
-    "id": "jmdict-1268170-57ea2d44",
-    "kana": "ごがつ",
-    "romaji": [
-      "gogatsu"
-    ],
-    "kanji": "五月",
-    "translation": "May",
-    "source": "JMdict",
-    "sourceId": 1268170
-  },
-  {
-    "id": "jmdict-1293810-384487d7",
-    "kana": "さいご",
-    "romaji": [
-      "saigo"
-    ],
-    "kanji": "最後",
-    "translation": "end",
-    "source": "JMdict",
-    "sourceId": 1293810
-  },
-  {
-    "id": "jmdict-1298110-c25edab5",
-    "kana": "さくげん",
-    "romaji": [
-      "sakugen"
-    ],
-    "kanji": "削減",
-    "translation": "cut",
-    "source": "JMdict",
-    "sourceId": 1298110
-  },
-  {
-    "id": "jmdict-1323080-d4af6eb1",
-    "kana": "くるま",
-    "romaji": [
-      "kuruma"
-    ],
-    "kanji": "車",
-    "translation": "car",
-    "source": "JMdict",
-    "sourceId": 1323080
-  },
-  {
-    "id": "jmdict-1361510-a7f60b91",
-    "kana": "あらた",
-    "romaji": [
-      "arata"
-    ],
-    "kanji": "新た",
-    "translation": "new",
-    "source": "JMdict",
-    "sourceId": 1361510
-  },
-  {
-    "id": "jmdict-1390360-712239ef",
-    "kana": "せんそう",
-    "romaji": [
-      "sensou"
-    ],
-    "kanji": "戦争",
-    "translation": "war",
-    "source": "JMdict",
-    "sourceId": 1390360
-  },
-  {
-    "id": "jmdict-1414870-3c9492d8",
-    "kana": "おおはば",
-    "romaji": [
-      "oohaba"
-    ],
-    "kanji": "大幅",
-    "translation": "big",
-    "source": "JMdict",
-    "sourceId": 1414870
-  },
-  {
-    "id": "jmdict-1419990-66d7061a",
-    "kana": "おとこ",
-    "romaji": [
-      "otoko"
-    ],
-    "kanji": "男",
-    "translation": "man",
-    "source": "JMdict",
-    "sourceId": 1419990
-  },
-  {
-    "id": "jmdict-1420070-e8e62ac0",
-    "kana": "だんし",
-    "romaji": [
-      "danshi"
-    ],
-    "kanji": "男子",
-    "translation": "boy",
-    "source": "JMdict",
-    "sourceId": 1420070
-  },
-  {
-    "id": "jmdict-1420160-61548050",
-    "kana": "だんせい",
-    "romaji": [
-      "dansei"
-    ],
-    "kanji": "男性",
-    "translation": "man",
-    "source": "JMdict",
-    "sourceId": 1420160
-  },
-  {
-    "id": "jmdict-1579840-c3c54579",
-    "kana": "じゅう",
-    "romaji": [
-      "juu"
-    ],
-    "kanji": "十",
-    "translation": "ten",
-    "source": "JMdict",
-    "sourceId": 1579840
-  },
-  {
-    "id": "jmdict-1585310-ea67c234",
-    "kana": "ろく",
-    "romaji": [
-      "roku"
-    ],
-    "kanji": "六",
-    "translation": "six",
-    "source": "JMdict",
-    "sourceId": 1585310
-  },
-  {
-    "id": "jmdict-1192280-104a0201",
-    "kana": "かてい",
-    "romaji": [
-      "katei"
-    ],
-    "kanji": "家庭",
-    "translation": "home",
-    "source": "JMdict",
-    "sourceId": 1192280
-  },
-  {
-    "id": "jmdict-1217730-0b2aa999",
-    "kana": "かお",
-    "romaji": [
-      "kao"
-    ],
-    "kanji": "顔",
-    "translation": "face",
-    "source": "JMdict",
-    "sourceId": 1217730
-  },
-  {
-    "id": "jmdict-1243490-8ea2b1a2",
-    "kana": "ぎんこう",
-    "romaji": [
-      "ginkou"
-    ],
-    "kanji": "銀行",
-    "translation": "bank",
-    "source": "JMdict",
-    "sourceId": 1243490
-  },
-  {
-    "id": "jmdict-1252090-a4072704",
-    "kana": "けいかく",
-    "romaji": [
-      "keikaku"
-    ],
-    "kanji": "計画",
-    "translation": "plan",
-    "source": "JMdict",
-    "sourceId": 1252090
-  },
-  {
-    "id": "jmdict-1290800-162849cc",
-    "kana": "ひだり",
-    "romaji": [
-      "hidari"
-    ],
-    "kanji": "左",
-    "translation": "left",
-    "source": "JMdict",
-    "sourceId": 1290800
-  },
-  {
-    "id": "jmdict-1293850-d1fea95c",
-    "kana": "さいこう",
-    "romaji": [
-      "saikou"
-    ],
-    "kanji": "最高",
-    "translation": "best",
-    "source": "JMdict",
-    "sourceId": 1293850
-  },
-  {
-    "id": "jmdict-1294330-0be68386",
-    "kana": "つま",
-    "romaji": [
-      "tsuma"
-    ],
-    "kanji": "妻",
-    "translation": "wife",
-    "source": "JMdict",
-    "sourceId": 1294330
-  },
-  {
-    "id": "jmdict-1297540-d008227a",
-    "kana": "さぎょう",
-    "romaji": [
-      "sagyou"
-    ],
-    "kanji": "作業",
-    "translation": "work",
-    "source": "JMdict",
-    "sourceId": 1297540
-  },
-  {
-    "id": "jmdict-1304970-f0b539cb",
-    "kana": "しごと",
-    "romaji": [
-      "shigoto"
-    ],
-    "kanji": "仕事",
-    "translation": "work",
-    "source": "JMdict",
-    "sourceId": 1304970
-  },
-  {
-    "id": "jmdict-1313960-ba81e44d",
-    "kana": "じじつ",
-    "romaji": [
-      "jijitsu"
-    ],
-    "kanji": "事実",
-    "translation": "fact",
-    "source": "JMdict",
-    "sourceId": 1313960
-  },
-  {
-    "id": "jmdict-1315920-43528285",
-    "kana": "じかん",
-    "romaji": [
-      "jikan"
-    ],
-    "kanji": "時間",
-    "translation": "time",
-    "source": "JMdict",
-    "sourceId": 1315920
-  },
-  {
-    "id": "jmdict-1316040-c3437b8e",
-    "kana": "じき",
-    "romaji": [
-      "jiki"
-    ],
-    "kanji": "時期",
-    "translation": "time",
-    "source": "JMdict",
-    "sourceId": 1316040
-  },
-  {
-    "id": "jmdict-1319280-9f4aedbf",
-    "kana": "しちがつ",
-    "romaji": [
-      "shichigatsu"
-    ],
-    "kanji": "七月",
-    "translation": "July",
-    "source": "JMdict",
-    "sourceId": 1319280
-  },
-  {
-    "id": "jmdict-1329360-2114fdf3",
-    "kana": "しゅのう",
-    "romaji": [
-      "shunou"
-    ],
-    "kanji": "首脳",
-    "translation": "head",
-    "source": "JMdict",
-    "sourceId": 1329360
-  },
-  {
-    "id": "jmdict-1378860-58bff0a9",
-    "kana": "せいかつ",
-    "romaji": [
-      "seikatsu"
-    ],
-    "kanji": "生活",
-    "translation": "life",
-    "source": "JMdict",
-    "sourceId": 1378860
-  },
-  {
-    "id": "jmdict-1383180-9ff579c5",
-    "kana": "せきにん",
-    "romaji": [
-      "sekinin"
-    ],
-    "kanji": "責任",
-    "translation": "duty",
-    "source": "JMdict",
-    "sourceId": 1383180
-  },
-  {
-    "id": "jmdict-1420800-cc3f4771",
-    "kana": "ちいき",
-    "romaji": [
-      "chiiki"
-    ],
-    "kanji": "地域",
-    "translation": "area",
-    "source": "JMdict",
-    "sourceId": 1420800
-  },
-  {
-    "id": "jmdict-1447440-bdd2e2e8",
-    "kana": "ひがし",
-    "romaji": [
-      "higashi"
-    ],
-    "kanji": "東",
-    "translation": "east",
-    "source": "JMdict",
-    "sourceId": 1447440
-  },
-  {
-    "id": "jmdict-1454080-bd487055",
-    "kana": "みち",
-    "romaji": [
-      "michi"
-    ],
-    "kanji": "道",
-    "translation": "road",
-    "source": "JMdict",
-    "sourceId": 1454080
-  },
-  {
-    "id": "jmdict-1481800-39f58394",
-    "kana": "はんばい",
-    "romaji": [
-      "hanbai"
-    ],
-    "kanji": "販売",
-    "translation": "sale",
-    "source": "JMdict",
-    "sourceId": 1481800
-  },
-  {
-    "id": "jmdict-1538000-088bb8ab",
-    "kana": "やくわり",
-    "romaji": [
-      "yakuwari"
-    ],
-    "kanji": "役割",
-    "translation": "part",
-    "source": "JMdict",
-    "sourceId": 1538000
-  },
-  {
-    "id": "jmdict-1561330-a90e3dd1",
-    "kana": "ろくがつ",
-    "romaji": [
-      "rokugatsu"
-    ],
-    "kanji": "六月",
-    "translation": "June",
-    "source": "JMdict",
-    "sourceId": 1561330
-  },
-  {
-    "id": "jmdict-1578150-850ea837",
-    "kana": "きゅう",
-    "romaji": [
-      "kyuu"
-    ],
-    "kanji": "九",
-    "translation": "nine",
-    "source": "JMdict",
-    "sourceId": 1578150
-  },
-  {
-    "id": "jmdict-1579470-ceb4a54e",
-    "kana": "よん",
-    "romaji": [
-      "yon"
-    ],
-    "kanji": "四",
-    "translation": "four",
-    "source": "JMdict",
-    "sourceId": 1579470
-  },
-  {
-    "id": "jmdict-1600900-1526c303",
-    "kana": "はなし",
-    "romaji": [
-      "hanashi"
-    ],
-    "kanji": "話",
-    "translation": "talk",
-    "source": "JMdict",
-    "sourceId": 1600900
-  },
-  {
-    "id": "jmdict-1155210-fe96783c",
-    "kana": "いらい",
-    "romaji": [
-      "irai"
-    ],
-    "kanji": "以来",
-    "translation": "since",
-    "source": "JMdict",
-    "sourceId": 1155210
-  },
-  {
-    "id": "jmdict-1171010-85780a20",
-    "kana": "みぎ",
-    "romaji": [
-      "migi"
-    ],
-    "kanji": "右",
-    "translation": "right",
-    "source": "JMdict",
-    "sourceId": 1171010
-  },
-  {
-    "id": "jmdict-1173720-e29f0026",
-    "kana": "えいが",
-    "romaji": [
-      "eiga"
-    ],
-    "kanji": "映画",
-    "translation": "movie",
-    "source": "JMdict",
-    "sourceId": 1173720
-  },
-  {
-    "id": "jmdict-1183720-0c9a3f85",
-    "kana": "おんがく",
-    "romaji": [
-      "ongaku"
-    ],
-    "kanji": "音楽",
-    "translation": "music",
-    "source": "JMdict",
-    "sourceId": 1183720
-  },
-  {
-    "id": "jmdict-1189500-a113b1e2",
-    "kana": "かかく",
-    "romaji": [
-      "kakaku"
-    ],
-    "kanji": "価格",
-    "translation": "price",
-    "source": "JMdict",
-    "sourceId": 1189500
-  },
-  {
-    "id": "jmdict-1223090-1b3f7c5b",
-    "kana": "きぼ",
-    "romaji": [
-      "kibo"
-    ],
-    "kanji": "規模",
-    "translation": "scale",
-    "source": "JMdict",
-    "sourceId": 1223090
-  },
-  {
-    "id": "jmdict-1225490-94429ec1",
-    "kana": "うたがい",
-    "romaji": [
-      "utagai"
-    ],
-    "kanji": "疑い",
-    "translation": "doubt",
-    "source": "JMdict",
-    "sourceId": 1225490
-  },
-  {
-    "id": "jmdict-1226140-3b7ee18c",
-    "kana": "ぎちょう",
-    "romaji": [
-      "gichou"
-    ],
-    "kanji": "議長",
-    "translation": "chair",
-    "source": "JMdict",
-    "sourceId": 1226140
-  },
-  {
-    "id": "jmdict-1226630-c9378644",
-    "kana": "きゃく",
-    "romaji": [
-      "kyaku"
-    ],
-    "kanji": "客",
-    "translation": "guest",
-    "source": "JMdict",
-    "sourceId": 1226630
-  },
-  {
-    "id": "jmdict-1261190-b2930cf2",
-    "kana": "げんいん",
-    "romaji": [
-      "genin"
-    ],
-    "kanji": "原因",
-    "translation": "cause",
-    "source": "JMdict",
-    "sourceId": 1261190
-  },
-  {
-    "id": "jmdict-1272780-9d9c6124",
+    "id": "curated-hiragana-9d9c6124",
     "kana": "ひかり",
     "romaji": [
       "hikari"
     ],
     "kanji": "光",
     "translation": "light",
-    "source": "JMdict",
-    "sourceId": 1272780
+    "source": "curated",
+    "sourceId": "hiragana-034"
   },
   {
-    "id": "jmdict-1296120-d220c37e",
-    "kana": "さいばん",
+    "id": "curated-hiragana-6107b27d",
+    "kana": "かげ",
     "romaji": [
-      "saiban"
+      "kage"
     ],
-    "kanji": "裁判",
-    "translation": "trial",
-    "source": "JMdict",
-    "sourceId": 1296120
+    "kanji": "影",
+    "translation": "shadow",
+    "source": "curated",
+    "sourceId": "hiragana-035"
   },
   {
-    "id": "jmdict-1300250-4a9cd0b6",
-    "kana": "さんがつ",
+    "id": "curated-hiragana-49a64b7c",
+    "kana": "いけ",
     "romaji": [
-      "sangatsu"
+      "ike"
     ],
-    "kanji": "三月",
-    "translation": "March",
-    "source": "JMdict",
-    "sourceId": 1300250
+    "kanji": "池",
+    "translation": "pond",
+    "source": "curated",
+    "sourceId": "hiragana-036"
   },
   {
-    "id": "jmdict-1307180-d506f130",
-    "kana": "しがつ",
+    "id": "curated-hiragana-9a52455f",
+    "kana": "すな",
     "romaji": [
-      "shigatsu"
+      "suna"
     ],
-    "kanji": "四月",
-    "translation": "April",
-    "source": "JMdict",
-    "sourceId": 1307180
+    "kanji": "砂",
+    "translation": "sand",
+    "source": "curated",
+    "sourceId": "hiragana-037"
   },
   {
-    "id": "jmdict-1312420-8cacd02a",
-    "kana": "しあい",
+    "id": "curated-hiragana-863ce866",
+    "kana": "いし",
     "romaji": [
-      "shiai"
+      "ishi"
     ],
-    "kanji": "試合",
-    "translation": "match",
-    "source": "JMdict",
-    "sourceId": 1312420
+    "kanji": "石",
+    "translation": "stone",
+    "source": "curated",
+    "sourceId": "hiragana-038"
   },
   {
-    "id": "jmdict-1312700-d8d1ac95",
-    "kana": "しきん",
+    "id": "curated-hiragana-b6f8d1c1",
+    "kana": "ほのお",
     "romaji": [
-      "shikin"
+      "honoo"
     ],
-    "kanji": "資金",
-    "translation": "funds",
-    "source": "JMdict",
-    "sourceId": 1312700
+    "kanji": "炎",
+    "translation": "flame",
+    "source": "curated",
+    "sourceId": "hiragana-039"
   },
   {
-    "id": "jmdict-1313830-1d30fa88",
-    "kana": "じけん",
+    "id": "curated-hiragana-f1810d35",
+    "kana": "りんご",
     "romaji": [
-      "jiken"
+      "ringo"
     ],
-    "kanji": "事件",
-    "translation": "event",
-    "source": "JMdict",
-    "sourceId": 1313830
+    "kanji": "林檎",
+    "translation": "apple",
+    "source": "curated",
+    "sourceId": "hiragana-040"
   },
   {
-    "id": "jmdict-1319210-032c8901",
-    "kana": "しち",
+    "id": "curated-hiragana-ce1ed3cf",
+    "kana": "みかん",
     "romaji": [
-      "shichi"
+      "mikan"
     ],
-    "kanji": "七",
-    "translation": "seven",
-    "source": "JMdict",
-    "sourceId": 1319210
+    "kanji": "蜜柑",
+    "translation": "mandarin orange",
+    "source": "curated",
+    "sourceId": "hiragana-041"
   },
   {
-    "id": "jmdict-1342530-76f2b75c",
-    "kana": "はつ",
+    "id": "curated-hiragana-b66d49f3",
+    "kana": "ぶどう",
     "romaji": [
-      "hatsu"
+      "budou"
     ],
-    "kanji": "初",
-    "translation": "first",
-    "source": "JMdict",
-    "sourceId": 1342530
+    "kanji": "葡萄",
+    "translation": "grape",
+    "source": "curated",
+    "sourceId": "hiragana-042"
   },
   {
-    "id": "jmdict-1344000-9df70a9f",
-    "kana": "しょき",
+    "id": "curated-hiragana-4e325762",
+    "kana": "いちご",
     "romaji": [
-      "shoki"
+      "ichigo"
     ],
-    "kanji": "書記",
-    "translation": "clerk",
-    "source": "JMdict",
-    "sourceId": 1344000
+    "kanji": "苺",
+    "translation": "strawberry",
+    "source": "curated",
+    "sourceId": "hiragana-043"
   },
   {
-    "id": "jmdict-1345140-aa497d9d",
-    "kana": "じょし",
+    "id": "curated-hiragana-75677eda",
+    "kana": "すいか",
     "romaji": [
-      "joshi"
+      "suika"
     ],
-    "kanji": "女子",
-    "translation": "woman",
-    "source": "JMdict",
-    "sourceId": 1345140
+    "kanji": "西瓜",
+    "translation": "watermelon",
+    "source": "curated",
+    "sourceId": "hiragana-044"
   },
   {
-    "id": "jmdict-1345250-08b90f05",
-    "kana": "じょせい",
+    "id": "curated-hiragana-33fb5c3a",
+    "kana": "やさい",
     "romaji": [
-      "josei"
+      "yasai"
     ],
-    "kanji": "女性",
-    "translation": "woman",
-    "source": "JMdict",
-    "sourceId": 1345250
+    "kanji": "野菜",
+    "translation": "vegetable",
+    "source": "curated",
+    "sourceId": "hiragana-045"
   },
   {
-    "id": "jmdict-1355850-08ec8b09",
-    "kana": "ばしょ",
+    "id": "curated-hiragana-73e2d887",
+    "kana": "にんじん",
     "romaji": [
-      "basho"
+      "ninjin"
     ],
-    "kanji": "場所",
-    "translation": "place",
-    "source": "JMdict",
-    "sourceId": 1355850
+    "kanji": "人参",
+    "translation": "carrot",
+    "source": "curated",
+    "sourceId": "hiragana-046"
   },
   {
-    "id": "jmdict-1380440-291ce0bf",
-    "kana": "こえ",
+    "id": "curated-hiragana-29f45435",
+    "kana": "たまねぎ",
     "romaji": [
-      "koe"
+      "tamanegi"
     ],
-    "kanji": "声",
-    "translation": "voice",
-    "source": "JMdict",
-    "sourceId": 1380440
+    "kanji": "玉葱",
+    "translation": "onion",
+    "source": "curated",
+    "sourceId": "hiragana-047"
   },
   {
-    "id": "jmdict-1395660-1cf27371",
-    "kana": "ぜんたい",
+    "id": "curated-hiragana-b9882b07",
+    "kana": "だいこん",
     "romaji": [
-      "zentai"
+      "daikon"
     ],
-    "kanji": "全体",
-    "translation": "whole",
-    "source": "JMdict",
-    "sourceId": 1395660
+    "kanji": "大根",
+    "translation": "daikon radish",
+    "source": "curated",
+    "sourceId": "hiragana-048"
   },
   {
-    "id": "jmdict-1409550-4e221bda",
-    "kana": "たいせい",
+    "id": "curated-hiragana-622b2d4a",
+    "kana": "きゅうり",
     "romaji": [
-      "taisei"
+      "kyuuri"
     ],
-    "kanji": "体制",
-    "translation": "order",
-    "source": "JMdict",
-    "sourceId": 1409550
+    "kanji": "胡瓜",
+    "translation": "cucumber",
+    "source": "curated",
+    "sourceId": "hiragana-049"
   },
   {
-    "id": "jmdict-1412560-e7de32d4",
-    "kana": "だい",
+    "id": "curated-hiragana-b9489e33",
+    "kana": "ぶたにく",
     "romaji": [
-      "dai"
+      "butaniku"
     ],
-    "kanji": "台",
-    "translation": "stand",
-    "source": "JMdict",
-    "sourceId": 1412560
+    "kanji": "豚肉",
+    "translation": "pork",
+    "source": "curated",
+    "sourceId": "hiragana-050"
   },
   {
-    "id": "jmdict-1419270-9691d44b",
-    "kana": "だんたい",
+    "id": "curated-hiragana-1739a21f",
+    "kana": "とりにく",
     "romaji": [
-      "dantai"
+      "toriniku"
     ],
-    "kanji": "団体",
-    "translation": "group",
-    "source": "JMdict",
-    "sourceId": 1419270
+    "kanji": "鶏肉",
+    "translation": "chicken meat",
+    "source": "curated",
+    "sourceId": "hiragana-051"
   },
   {
-    "id": "jmdict-1419950-35084a04",
-    "kana": "だんかい",
+    "id": "curated-hiragana-e546ed0a",
+    "kana": "さとう",
     "romaji": [
-      "dankai"
+      "satou"
     ],
-    "kanji": "段階",
-    "translation": "stage",
-    "source": "JMdict",
-    "sourceId": 1419950
+    "kanji": "砂糖",
+    "translation": "sugar",
+    "source": "curated",
+    "sourceId": "hiragana-052"
   },
   {
-    "id": "jmdict-1420970-16b028b6",
-    "kana": "ちきゅう",
+    "id": "curated-hiragana-ed9b22b7",
+    "kana": "こしょう",
     "romaji": [
-      "chikyuu"
+      "koshou"
     ],
-    "kanji": "地球",
-    "translation": "Earth",
-    "source": "JMdict",
-    "sourceId": 1420970
+    "kanji": "胡椒",
+    "translation": "pepper",
+    "source": "curated",
+    "sourceId": "hiragana-053"
   },
   {
-    "id": "jmdict-1449670-5ca5ec4c",
-    "kana": "とういつ",
+    "id": "curated-hiragana-23d07bd2",
+    "kana": "おちゃ",
     "romaji": [
-      "touitsu"
+      "ocha"
     ],
-    "kanji": "統一",
-    "translation": "unity",
-    "source": "JMdict",
-    "sourceId": 1449670
+    "kanji": "お茶",
+    "translation": "tea",
+    "source": "curated",
+    "sourceId": "hiragana-054"
   },
   {
-    "id": "jmdict-1459870-40acf731",
-    "kana": "みなみ",
+    "id": "curated-hiragana-d3d3e4e3",
+    "kana": "えんぴつ",
     "romaji": [
-      "minami"
+      "enpitsu"
     ],
-    "kanji": "南",
-    "translation": "south",
-    "source": "JMdict",
-    "sourceId": 1459870
+    "kanji": "鉛筆",
+    "translation": "pencil",
+    "source": "curated",
+    "sourceId": "hiragana-055"
   },
   {
-    "id": "jmdict-1504330-ee569392",
-    "kana": "ぶんや",
+    "id": "curated-hiragana-a451d5bb",
+    "kana": "けしごむ",
     "romaji": [
-      "bunya"
+      "keshigomu"
     ],
-    "kanji": "分野",
-    "translation": "field",
-    "source": "JMdict",
-    "sourceId": 1504330
+    "kanji": "消しゴム",
+    "translation": "eraser",
+    "source": "curated",
+    "sourceId": "hiragana-056"
   },
   {
-    "id": "jmdict-1508070-614babcb",
-    "kana": "へいわ",
+    "id": "curated-hiragana-85e03a8c",
+    "kana": "ほん",
     "romaji": [
-      "heiwa"
+      "hon"
     ],
-    "kanji": "平和",
-    "translation": "peace",
-    "source": "JMdict",
-    "sourceId": 1508070
+    "kanji": "本",
+    "translation": "book",
+    "source": "curated",
+    "sourceId": "hiragana-057"
   },
   {
-    "id": "jmdict-1520670-3fa23df0",
-    "kana": "きた",
+    "id": "curated-hiragana-babde386",
+    "kana": "えほん",
     "romaji": [
-      "kita"
+      "ehon"
     ],
-    "kanji": "北",
-    "translation": "north",
-    "source": "JMdict",
-    "sourceId": 1520670
+    "kanji": "絵本",
+    "translation": "picture book",
+    "source": "curated",
+    "sourceId": "hiragana-058"
   },
   {
-    "id": "jmdict-1532310-026449af",
-    "kana": "あきらか",
+    "id": "curated-hiragana-150b0dab",
+    "kana": "てがみ",
     "romaji": [
-      "akiraka"
+      "tegami"
     ],
-    "kanji": "明らか",
-    "translation": "clear",
-    "source": "JMdict",
-    "sourceId": 1532310
+    "kanji": "手紙",
+    "translation": "letter",
+    "source": "curated",
+    "sourceId": "hiragana-059"
   },
   {
-    "id": "jmdict-1543240-41c045e9",
-    "kana": "よてい",
+    "id": "curated-hiragana-4998d8a0",
+    "kana": "ふで",
     "romaji": [
-      "yotei"
+      "fude"
     ],
-    "kanji": "予定",
-    "translation": "plans",
-    "source": "JMdict",
-    "sourceId": 1543240
+    "kanji": "筆",
+    "translation": "writing brush",
+    "source": "curated",
+    "sourceId": "hiragana-060"
   },
   {
-    "id": "jmdict-1559450-4d17fd2a",
-    "kana": "れんごう",
+    "id": "curated-hiragana-e6a20773",
+    "kana": "はさみ",
     "romaji": [
-      "rengou"
+      "hasami"
     ],
-    "kanji": "連合",
-    "translation": "union",
-    "source": "JMdict",
-    "sourceId": 1559450
+    "kanji": "鋏",
+    "translation": "scissors",
+    "source": "curated",
+    "sourceId": "hiragana-061"
   },
   {
-    "id": "jmdict-1562210-4f2f1b4e",
-    "kana": "わへい",
+    "id": "curated-hiragana-1c9641e6",
+    "kana": "のり",
     "romaji": [
-      "wahei"
+      "nori"
     ],
-    "kanji": "和平",
-    "translation": "peace",
-    "source": "JMdict",
-    "sourceId": 1562210
+    "kanji": "糊",
+    "translation": "glue",
+    "source": "curated",
+    "sourceId": "hiragana-062"
   },
   {
-    "id": "jmdict-1579350-0d0fd253",
-    "kana": "さん",
+    "id": "curated-hiragana-090c4c11",
+    "kana": "かばん",
     "romaji": [
-      "san"
+      "kaban"
     ],
-    "kanji": "三",
-    "translation": "three",
-    "source": "JMdict",
-    "sourceId": 1579350
+    "kanji": "鞄",
+    "translation": "bag",
+    "source": "curated",
+    "sourceId": "hiragana-063"
   },
   {
-    "id": "jmdict-1583090-17728bef",
-    "kana": "はち",
+    "id": "curated-hiragana-78b47ae4",
+    "kana": "でんわ",
     "romaji": [
-      "hachi"
+      "denwa"
     ],
-    "kanji": "八",
-    "translation": "eight",
-    "source": "JMdict",
-    "sourceId": 1583090
+    "kanji": "電話",
+    "translation": "telephone",
+    "source": "curated",
+    "sourceId": "hiragana-064"
   },
   {
-    "id": "jmdict-1606450-6afff9cb",
-    "kana": "ろうどう",
+    "id": "curated-hiragana-554662da",
+    "kana": "とけい",
     "romaji": [
-      "roudou"
+      "tokei"
     ],
-    "kanji": "労働",
-    "translation": "labor",
-    "source": "JMdict",
-    "sourceId": 1606450
+    "kanji": "時計",
+    "translation": "clock",
+    "source": "curated",
+    "sourceId": "hiragana-065"
   },
   {
-    "id": "jmdict-1693050-298de825",
-    "kana": "ごじゅう",
+    "id": "curated-hiragana-2e317a57",
+    "kana": "かがみ",
     "romaji": [
-      "gojuu"
+      "kagami"
     ],
-    "kanji": "五十",
-    "translation": "fifty",
-    "source": "JMdict",
-    "sourceId": 1693050
+    "kanji": "鏡",
+    "translation": "mirror",
+    "source": "curated",
+    "sourceId": "hiragana-066"
   },
   {
-    "id": "jmdict-1153930-79a35ec4",
-    "kana": "あんぜん",
+    "id": "curated-hiragana-ea80af81",
+    "kana": "ふとん",
     "romaji": [
-      "anzen"
+      "futon"
     ],
-    "kanji": "安全",
-    "translation": "safety",
-    "source": "JMdict",
-    "sourceId": 1153930
+    "kanji": "布団",
+    "translation": "futon",
+    "source": "curated",
+    "sourceId": "hiragana-067"
   },
   {
-    "id": "jmdict-1191320-52663976",
-    "kana": "なつ",
+    "id": "curated-hiragana-719b7459",
+    "kana": "まくら",
     "romaji": [
-      "natsu"
+      "makura"
     ],
-    "kanji": "夏",
-    "translation": "summer",
-    "source": "JMdict",
-    "sourceId": 1191320
+    "kanji": "枕",
+    "translation": "pillow",
+    "source": "curated",
+    "sourceId": "hiragana-068"
   },
   {
-    "id": "jmdict-1192150-710a4d55",
-    "kana": "かぞく",
+    "id": "curated-hiragana-2e65baf8",
+    "kana": "たべる",
     "romaji": [
-      "kazoku"
+      "taberu"
     ],
-    "kanji": "家族",
-    "translation": "family",
-    "source": "JMdict",
-    "sourceId": 1192150
+    "kanji": "食べる",
+    "translation": "to eat",
+    "source": "curated",
+    "sourceId": "hiragana-069"
   },
   {
-    "id": "jmdict-1194500-e37121de",
-    "kana": "はな",
+    "id": "curated-hiragana-1114ac60",
+    "kana": "きく",
     "romaji": [
-      "hana"
+      "kiku"
     ],
-    "kanji": "花",
-    "translation": "flower",
-    "source": "JMdict",
-    "sourceId": 1194500
+    "kanji": "聞く",
+    "translation": "to listen",
+    "source": "curated",
+    "sourceId": "hiragana-070"
   },
   {
-    "id": "jmdict-1198230-936fdd37",
-    "kana": "かいいん",
+    "id": "curated-hiragana-9910ed03",
+    "kana": "はなす",
     "romaji": [
-      "kaiin"
+      "hanasu"
     ],
-    "kanji": "会員",
-    "translation": "member",
-    "source": "JMdict",
-    "sourceId": 1198230
+    "kanji": "話す",
+    "translation": "to speak",
+    "source": "curated",
+    "sourceId": "hiragana-071"
   },
   {
-    "id": "jmdict-1200780-fe28dc0f",
-    "kana": "かいかく",
-    "romaji": [
-      "kaikaku"
-    ],
-    "kanji": "改革",
-    "translation": "reform",
-    "source": "JMdict",
-    "sourceId": 1200780
-  },
-  {
-    "id": "jmdict-1218450-568e5d6b",
-    "kana": "きき",
-    "romaji": [
-      "kiki"
-    ],
-    "kanji": "危機",
-    "translation": "crisis",
-    "source": "JMdict",
-    "sourceId": 1218450
-  },
-  {
-    "id": "jmdict-1219190-0c5f093d",
-    "kana": "きほん",
-    "romaji": [
-      "kihon"
-    ],
-    "kanji": "基本",
-    "translation": "basics",
-    "source": "JMdict",
-    "sourceId": 1219190
-  },
-  {
-    "id": "jmdict-1220550-47ccd237",
-    "kana": "きかん",
-    "romaji": [
-      "kikan"
-    ],
-    "kanji": "期間",
-    "translation": "period",
-    "source": "JMdict",
-    "sourceId": 1220550
-  },
-  {
-    "id": "jmdict-1223440-ce9fe1ec",
-    "kana": "きろく",
-    "romaji": [
-      "kiroku"
-    ],
-    "kanji": "記録",
-    "translation": "record",
-    "source": "JMdict",
-    "sourceId": 1223440
-  },
-  {
-    "id": "jmdict-1241750-df804669",
-    "kana": "すじ",
-    "romaji": [
-      "suji"
-    ],
-    "kanji": "筋",
-    "translation": "muscle",
-    "source": "JMdict",
-    "sourceId": 1241750
-  },
-  {
-    "id": "jmdict-1252390-d58dbdb0",
-    "kana": "けいさつ",
-    "romaji": [
-      "keisatsu"
-    ],
-    "kanji": "警察",
-    "translation": "police",
-    "source": "JMdict",
-    "sourceId": 1252390
-  },
-  {
-    "id": "jmdict-1269320-0d930149",
-    "kana": "あと",
-    "romaji": [
-      "ato"
-    ],
-    "kanji": "後",
-    "translation": "behind",
-    "source": "JMdict",
-    "sourceId": 1269320
-  },
-  {
-    "id": "jmdict-1275130-5d670da7",
-    "kana": "こうか",
-    "romaji": [
-      "kouka"
-    ],
-    "kanji": "効果",
-    "translation": "effect",
-    "source": "JMdict",
-    "sourceId": 1275130
-  },
-  {
-    "id": "jmdict-1279170-3a13b657",
-    "kana": "こうげき",
-    "romaji": [
-      "kougeki"
-    ],
-    "kanji": "攻撃",
-    "translation": "attack",
-    "source": "JMdict",
-    "sourceId": 1279170
-  },
-  {
-    "id": "jmdict-1282100-89fbcef8",
-    "kana": "こうどう",
-    "romaji": [
-      "koudou"
-    ],
-    "kanji": "行動",
-    "translation": "action",
-    "source": "JMdict",
-    "sourceId": 1282100
-  },
-  {
-    "id": "jmdict-1307710-5effe263",
-    "kana": "すがた",
-    "romaji": [
-      "sugata"
-    ],
-    "kanji": "姿",
-    "translation": "figure",
-    "source": "JMdict",
-    "sourceId": 1307710
-  },
-  {
-    "id": "jmdict-1314400-90e6a2f3",
-    "kana": "じむしょ",
-    "romaji": [
-      "jimusho"
-    ],
-    "kanji": "事務所",
-    "translation": "office",
-    "source": "JMdict",
-    "sourceId": 1314400
-  },
-  {
-    "id": "jmdict-1316300-20d4a395",
-    "kana": "じだい",
-    "romaji": [
-      "jidai"
-    ],
-    "kanji": "時代",
-    "translation": "period",
-    "source": "JMdict",
-    "sourceId": 1316300
-  },
-  {
-    "id": "jmdict-1318090-0ffc3731",
-    "kana": "しぜん",
-    "romaji": [
-      "shizen"
-    ],
-    "kanji": "自然",
-    "translation": "nature",
-    "source": "JMdict",
-    "sourceId": 1318090
-  },
-  {
-    "id": "jmdict-1318610-bcf787ff",
-    "kana": "じぶん",
-    "romaji": [
-      "jibun"
-    ],
-    "kanji": "自分",
-    "translation": "myself",
-    "source": "JMdict",
-    "sourceId": 1318610
-  },
-  {
-    "id": "jmdict-1332650-4b619565",
-    "kana": "あき",
-    "romaji": [
-      "aki"
-    ],
-    "kanji": "秋",
-    "translation": "autumn",
-    "source": "JMdict",
-    "sourceId": 1332650
-  },
-  {
-    "id": "jmdict-1341000-3f2dd258",
-    "kana": "はる",
-    "romaji": [
-      "haru"
-    ],
-    "kanji": "春",
-    "translation": "spring",
-    "source": "JMdict",
-    "sourceId": 1341000
-  },
-  {
-    "id": "jmdict-1374880-a9823594",
-    "kana": "せいど",
-    "romaji": [
-      "seido"
-    ],
-    "kanji": "制度",
-    "translation": "system",
-    "source": "JMdict",
-    "sourceId": 1374880
-  },
-  {
-    "id": "jmdict-1436540-8ffe4490",
-    "kana": "ていど",
-    "romaji": [
-      "teido"
-    ],
-    "kanji": "程度",
-    "translation": "degree",
-    "source": "JMdict",
-    "sourceId": 1436540
-  },
-  {
-    "id": "jmdict-1445130-ab666869",
-    "kana": "どりょく",
-    "romaji": [
-      "doryoku"
-    ],
-    "kanji": "努力",
-    "translation": "effort",
-    "source": "JMdict",
-    "sourceId": 1445130
-  },
-  {
-    "id": "jmdict-1476730-b6c630b5",
-    "kana": "はちがつ",
-    "romaji": [
-      "hachigatsu"
-    ],
-    "kanji": "八月",
-    "translation": "August",
-    "source": "JMdict",
-    "sourceId": 1476730
-  },
-  {
-    "id": "jmdict-1497610-2d59d2ea",
-    "kana": "ちち",
-    "romaji": [
-      "chichi"
-    ],
-    "kanji": "父",
-    "translation": "father",
-    "source": "JMdict",
-    "sourceId": 1497610
-  },
-  {
-    "id": "jmdict-1510890-8c84f488",
-    "kana": "へんか",
-    "romaji": [
-      "henka"
-    ],
-    "kanji": "変化",
-    "translation": "change",
-    "source": "JMdict",
-    "sourceId": 1510890
-  },
-  {
-    "id": "jmdict-1514990-0ef29b92",
-    "kana": "はは",
-    "romaji": [
-      "haha"
-    ],
-    "kanji": "母",
-    "translation": "mother",
-    "source": "JMdict",
-    "sourceId": 1514990
-  },
-  {
-    "id": "jmdict-1515670-6eefdd67",
-    "kana": "ほうこく",
-    "romaji": [
-      "houkoku"
-    ],
-    "kanji": "報告",
-    "translation": "report",
-    "source": "JMdict",
-    "sourceId": 1515670
-  },
-  {
-    "id": "jmdict-1517040-41f2c10e",
-    "kana": "ほうしん",
-    "romaji": [
-      "houshin"
-    ],
-    "kanji": "方針",
-    "translation": "policy",
-    "source": "JMdict",
-    "sourceId": 1517040
-  },
-  {
-    "id": "jmdict-1517090-63974a7a",
-    "kana": "ほうほう",
-    "romaji": [
-      "houhou"
-    ],
-    "kanji": "方法",
-    "translation": "method",
-    "source": "JMdict",
-    "sourceId": 1517090
-  },
-  {
-    "id": "jmdict-1538820-971a2ba6",
-    "kana": "ゆしゅつ",
-    "romaji": [
-      "yushutsu"
-    ],
-    "kanji": "輸出",
-    "translation": "export",
-    "source": "JMdict",
-    "sourceId": 1538820
-  },
-  {
-    "id": "jmdict-1538870-47667710",
-    "kana": "ゆにゅう",
-    "romaji": [
-      "yunyuu"
-    ],
-    "kanji": "輸入",
-    "translation": "import",
-    "source": "JMdict",
-    "sourceId": 1538870
-  },
-  {
-    "id": "jmdict-1550140-af7636a2",
-    "kana": "りゆう",
-    "romaji": [
-      "riyuu"
-    ],
-    "kanji": "理由",
-    "translation": "reason",
-    "source": "JMdict",
-    "sourceId": 1550140
-  },
-  {
-    "id": "jmdict-1580650-fcd71877",
-    "kana": "ひとびと",
-    "romaji": [
-      "hitobito"
-    ],
-    "kanji": "人々",
-    "translation": "people",
-    "source": "JMdict",
-    "sourceId": 1580650
-  },
-  {
-    "id": "jmdict-1587040-aceb263e",
+    "id": "curated-hiragana-aceb263e",
     "kana": "いう",
     "romaji": [
       "iu"
     ],
     "kanji": "言う",
     "translation": "to say",
-    "source": "JMdict",
-    "sourceId": 1587040
+    "source": "curated",
+    "sourceId": "hiragana-072"
   },
   {
-    "id": "jmdict-1604740-63fe7b92",
-    "kana": "みんぞく",
+    "id": "curated-hiragana-c9f65b24",
+    "kana": "よむ",
     "romaji": [
-      "minzoku"
+      "yomu"
     ],
-    "kanji": "民族",
-    "translation": "people",
-    "source": "JMdict",
-    "sourceId": 1604740
+    "kanji": "読む",
+    "translation": "to read",
+    "source": "curated",
+    "sourceId": "hiragana-073"
   },
   {
-    "id": "jmdict-1156530-aa679449",
-    "kana": "いけん",
+    "id": "curated-hiragana-f3e764da",
+    "kana": "かく",
     "romaji": [
-      "iken"
+      "kaku"
     ],
-    "kanji": "意見",
-    "translation": "opinion",
-    "source": "JMdict",
-    "sourceId": 1156530
+    "kanji": "書く",
+    "translation": "to write",
+    "source": "curated",
+    "sourceId": "hiragana-074"
   },
   {
-    "id": "jmdict-1156800-344f44c6",
-    "kana": "いみ",
+    "id": "curated-hiragana-6403ee2b",
+    "kana": "えがく",
     "romaji": [
-      "imi"
+      "egaku"
     ],
-    "kanji": "意味",
-    "translation": "meaning",
-    "source": "JMdict",
-    "sourceId": 1156800
+    "kanji": "描く",
+    "translation": "to draw",
+    "source": "curated",
+    "sourceId": "hiragana-075"
   },
   {
-    "id": "jmdict-1162120-32ef2f95",
-    "kana": "いちがつ",
+    "id": "curated-hiragana-dc2e655d",
+    "kana": "うたう",
     "romaji": [
-      "ichigatsu"
+      "utau"
     ],
-    "kanji": "一月",
-    "translation": "January",
-    "source": "JMdict",
-    "sourceId": 1162120
+    "kanji": "歌う",
+    "translation": "to sing",
+    "source": "curated",
+    "sourceId": "hiragana-076"
   },
   {
-    "id": "jmdict-1195820-36b78143",
-    "kana": "かだい",
+    "id": "curated-hiragana-2da7c1bc",
+    "kana": "おどる",
     "romaji": [
-      "kadai"
+      "odoru"
     ],
-    "kanji": "課題",
-    "translation": "subject",
-    "source": "JMdict",
-    "sourceId": 1195820
+    "kanji": "踊る",
+    "translation": "to dance",
+    "source": "curated",
+    "sourceId": "hiragana-077"
   },
   {
-    "id": "jmdict-1198360-dfae52c3",
-    "kana": "かいぎ",
+    "id": "curated-hiragana-bfa547ff",
+    "kana": "あそぶ",
     "romaji": [
-      "kaigi"
+      "asobu"
     ],
-    "kanji": "会議",
-    "translation": "meeting",
-    "source": "JMdict",
-    "sourceId": 1198360
+    "kanji": "遊ぶ",
+    "translation": "to play",
+    "source": "curated",
+    "sourceId": "hiragana-078"
   },
   {
-    "id": "jmdict-1198550-605cbfae",
-    "kana": "かいしゃ",
+    "id": "curated-hiragana-4c92dbe4",
+    "kana": "あるく",
     "romaji": [
-      "kaisha"
+      "aruku"
     ],
-    "kanji": "会社",
-    "translation": "company",
-    "source": "JMdict",
-    "sourceId": 1198550
+    "kanji": "歩く",
+    "translation": "to walk",
+    "source": "curated",
+    "sourceId": "hiragana-079"
   },
   {
-    "id": "jmdict-1201260-b0ae7625",
-    "kana": "かいがい",
+    "id": "curated-hiragana-1294ac30",
+    "kana": "はしる",
     "romaji": [
-      "kaigai"
+      "hashiru"
     ],
-    "kanji": "海外",
-    "translation": "foreign",
-    "source": "JMdict",
-    "sourceId": 1201260
+    "kanji": "走る",
+    "translation": "to run",
+    "source": "curated",
+    "sourceId": "hiragana-080"
   },
   {
-    "id": "jmdict-1212210-106b8fca",
-    "kana": "かんじゃ",
+    "id": "curated-hiragana-940c48b4",
+    "kana": "およぐ",
     "romaji": [
-      "kanja"
+      "oyogu"
     ],
-    "kanji": "患者",
-    "translation": "patient",
-    "source": "JMdict",
-    "sourceId": 1212210
+    "kanji": "泳ぐ",
+    "translation": "to swim",
+    "source": "curated",
+    "sourceId": "hiragana-081"
   },
   {
-    "id": "jmdict-1214200-619ae52d",
-    "kana": "かんり",
+    "id": "curated-hiragana-74f6c230",
+    "kana": "とぶ",
     "romaji": [
-      "kanri"
+      "tobu"
     ],
-    "kanji": "管理",
-    "translation": "control",
-    "source": "JMdict",
-    "sourceId": 1214200
+    "kanji": "飛ぶ",
+    "translation": "to fly",
+    "source": "curated",
+    "sourceId": "hiragana-082"
   },
   {
-    "id": "jmdict-1215870-5bf3de5c",
-    "kana": "かんしん",
+    "id": "curated-hiragana-bb011d23",
+    "kana": "すわる",
     "romaji": [
-      "kanshin"
+      "suwaru"
     ],
-    "kanji": "関心",
-    "translation": "concern",
-    "source": "JMdict",
-    "sourceId": 1215870
+    "kanji": "座る",
+    "translation": "to sit",
+    "source": "curated",
+    "sourceId": "hiragana-083"
   },
   {
-    "id": "jmdict-1223240-289a62c6",
-    "kana": "きじ",
+    "id": "curated-hiragana-0b60a07f",
+    "kana": "たつ",
     "romaji": [
-      "kiji"
+      "tatsu"
     ],
-    "kanji": "記事",
-    "translation": "article",
-    "source": "JMdict",
-    "sourceId": 1223240
+    "kanji": "立つ",
+    "translation": "to stand",
+    "source": "curated",
+    "sourceId": "hiragana-084"
   },
   {
-    "id": "jmdict-1243290-e960f9fd",
-    "kana": "きんゆう",
+    "id": "curated-hiragana-e6ef9883",
+    "kana": "ねる",
     "romaji": [
-      "kinyuu"
+      "neru"
     ],
-    "kanji": "金融",
-    "translation": "finance",
-    "source": "JMdict",
-    "sourceId": 1243290
+    "kanji": "寝る",
+    "translation": "to sleep",
+    "source": "curated",
+    "sourceId": "hiragana-085"
   },
   {
-    "id": "jmdict-1245570-b61d3a1d",
-    "kana": "くうこう",
+    "id": "curated-hiragana-92bd4682",
+    "kana": "おきる",
     "romaji": [
-      "kuukou"
+      "okiru"
     ],
-    "kanji": "空港",
-    "translation": "airport",
-    "source": "JMdict",
-    "sourceId": 1245570
+    "kanji": "起きる",
+    "translation": "to wake up",
+    "source": "curated",
+    "sourceId": "hiragana-086"
   },
   {
-    "id": "jmdict-1251320-3f18d2a2",
-    "kana": "けいざい",
+    "id": "curated-hiragana-0b898e30",
+    "kana": "まつ",
     "romaji": [
-      "keizai"
+      "matsu"
     ],
-    "kanji": "経済",
-    "translation": "economy",
-    "source": "JMdict",
-    "sourceId": 1251320
+    "kanji": "待つ",
+    "translation": "to wait",
+    "source": "curated",
+    "sourceId": "hiragana-087"
   },
   {
-    "id": "jmdict-1263710-d0f26fc1",
-    "kana": "げんじつ",
+    "id": "curated-hiragana-f59fa14c",
+    "kana": "あう",
     "romaji": [
-      "genjitsu"
+      "au"
     ],
-    "kanji": "現実",
-    "translation": "reality",
-    "source": "JMdict",
-    "sourceId": 1263710
+    "kanji": "会う",
+    "translation": "to meet",
+    "source": "curated",
+    "sourceId": "hiragana-088"
   },
   {
-    "id": "jmdict-1269060-172aebba",
-    "kana": "ごぜん",
+    "id": "curated-hiragana-3bfd96ad",
+    "kana": "いく",
     "romaji": [
-      "gozen"
+      "iku"
     ],
-    "kanji": "午前",
+    "kanji": "行く",
+    "translation": "to go",
+    "source": "curated",
+    "sourceId": "hiragana-089"
+  },
+  {
+    "id": "curated-hiragana-f9d2806e",
+    "kana": "くる",
+    "romaji": [
+      "kuru"
+    ],
+    "kanji": "来る",
+    "translation": "to come",
+    "source": "curated",
+    "sourceId": "hiragana-090"
+  },
+  {
+    "id": "curated-hiragana-058005a1",
+    "kana": "あける",
+    "romaji": [
+      "akeru"
+    ],
+    "kanji": "開ける",
+    "translation": "to open",
+    "source": "curated",
+    "sourceId": "hiragana-091"
+  },
+  {
+    "id": "curated-hiragana-4a0d1e21",
+    "kana": "しめる",
+    "romaji": [
+      "shimeru"
+    ],
+    "kanji": "閉める",
+    "translation": "to close",
+    "source": "curated",
+    "sourceId": "hiragana-092"
+  },
+  {
+    "id": "curated-hiragana-7ff64df4",
+    "kana": "あらう",
+    "romaji": [
+      "arau"
+    ],
+    "kanji": "洗う",
+    "translation": "to wash",
+    "source": "curated",
+    "sourceId": "hiragana-093"
+  },
+  {
+    "id": "curated-hiragana-1dbe4eb7",
+    "kana": "つかう",
+    "romaji": [
+      "tsukau"
+    ],
+    "kanji": "使う",
+    "translation": "to use",
+    "source": "curated",
+    "sourceId": "hiragana-094"
+  },
+  {
+    "id": "curated-hiragana-1b971550",
+    "kana": "もつ",
+    "romaji": [
+      "motsu"
+    ],
+    "kanji": "持つ",
+    "translation": "to hold",
+    "source": "curated",
+    "sourceId": "hiragana-095"
+  },
+  {
+    "id": "curated-hiragana-b3d739ce",
+    "kana": "おく",
+    "romaji": [
+      "oku"
+    ],
+    "kanji": "置く",
+    "translation": "to put",
+    "source": "curated",
+    "sourceId": "hiragana-096"
+  },
+  {
+    "id": "curated-hiragana-fc3694d6",
+    "kana": "とる",
+    "romaji": [
+      "toru"
+    ],
+    "kanji": "取る",
+    "translation": "to take",
+    "source": "curated",
+    "sourceId": "hiragana-097"
+  },
+  {
+    "id": "curated-hiragana-ba7fcc21",
+    "kana": "かう",
+    "romaji": [
+      "kau"
+    ],
+    "kanji": "買う",
+    "translation": "to buy",
+    "source": "curated",
+    "sourceId": "hiragana-098"
+  },
+  {
+    "id": "curated-hiragana-f228a285",
+    "kana": "うる",
+    "romaji": [
+      "uru"
+    ],
+    "kanji": "売る",
+    "translation": "to sell",
+    "source": "curated",
+    "sourceId": "hiragana-099"
+  },
+  {
+    "id": "curated-hiragana-01f5cef4",
+    "kana": "すき",
+    "romaji": [
+      "suki"
+    ],
+    "kanji": "好き",
+    "translation": "liked",
+    "source": "curated",
+    "sourceId": "hiragana-100"
+  },
+  {
+    "id": "curated-hiragana-1b81d164",
+    "kana": "きらい",
+    "romaji": [
+      "kirai"
+    ],
+    "kanji": "嫌い",
+    "translation": "disliked",
+    "source": "curated",
+    "sourceId": "hiragana-101"
+  },
+  {
+    "id": "curated-hiragana-ac15ff14",
+    "kana": "おいしい",
+    "romaji": [
+      "oishii"
+    ],
+    "kanji": "美味しい",
+    "translation": "delicious",
+    "source": "curated",
+    "sourceId": "hiragana-102"
+  },
+  {
+    "id": "curated-hiragana-54a98b03",
+    "kana": "あまい",
+    "romaji": [
+      "amai"
+    ],
+    "kanji": "甘い",
+    "translation": "sweet",
+    "source": "curated",
+    "sourceId": "hiragana-103"
+  },
+  {
+    "id": "curated-hiragana-7d2943b2",
+    "kana": "からい",
+    "romaji": [
+      "karai"
+    ],
+    "kanji": "辛い",
+    "translation": "spicy",
+    "source": "curated",
+    "sourceId": "hiragana-104"
+  },
+  {
+    "id": "curated-hiragana-7f59f454",
+    "kana": "にがい",
+    "romaji": [
+      "nigai"
+    ],
+    "kanji": "苦い",
+    "translation": "bitter",
+    "source": "curated",
+    "sourceId": "hiragana-105"
+  },
+  {
+    "id": "curated-hiragana-f2bb1e2a",
+    "kana": "あつい",
+    "romaji": [
+      "atsui"
+    ],
+    "kanji": "暑い",
+    "translation": "hot",
+    "source": "curated",
+    "sourceId": "hiragana-106"
+  },
+  {
+    "id": "curated-hiragana-5ff1c217",
+    "kana": "さむい",
+    "romaji": [
+      "samui"
+    ],
+    "kanji": "寒い",
+    "translation": "cold",
+    "source": "curated",
+    "sourceId": "hiragana-107"
+  },
+  {
+    "id": "curated-hiragana-44e650f6",
+    "kana": "つめたい",
+    "romaji": [
+      "tsumetai"
+    ],
+    "kanji": "冷たい",
+    "translation": "cold to the touch",
+    "source": "curated",
+    "sourceId": "hiragana-108"
+  },
+  {
+    "id": "curated-hiragana-7c06baec",
+    "kana": "はやい",
+    "romaji": [
+      "hayai"
+    ],
+    "kanji": "早い",
+    "translation": "early",
+    "source": "curated",
+    "sourceId": "hiragana-109"
+  },
+  {
+    "id": "curated-hiragana-d40fbf8a",
+    "kana": "おそい",
+    "romaji": [
+      "osoi"
+    ],
+    "kanji": "遅い",
+    "translation": "slow",
+    "source": "curated",
+    "sourceId": "hiragana-110"
+  },
+  {
+    "id": "curated-hiragana-8638ff44",
+    "kana": "おおきい",
+    "romaji": [
+      "ookii"
+    ],
+    "kanji": "大きい",
+    "translation": "big",
+    "source": "curated",
+    "sourceId": "hiragana-111"
+  },
+  {
+    "id": "curated-hiragana-c8584afc",
+    "kana": "ちいさい",
+    "romaji": [
+      "chiisai"
+    ],
+    "kanji": "小さい",
+    "translation": "small",
+    "source": "curated",
+    "sourceId": "hiragana-112"
+  },
+  {
+    "id": "curated-hiragana-87154448",
+    "kana": "ながい",
+    "romaji": [
+      "nagai"
+    ],
+    "kanji": "長い",
+    "translation": "long",
+    "source": "curated",
+    "sourceId": "hiragana-113"
+  },
+  {
+    "id": "curated-hiragana-1afe719f",
+    "kana": "みじかい",
+    "romaji": [
+      "mijikai"
+    ],
+    "kanji": "短い",
+    "translation": "short",
+    "source": "curated",
+    "sourceId": "hiragana-114"
+  },
+  {
+    "id": "curated-hiragana-3b4cc3f0",
+    "kana": "たかい",
+    "romaji": [
+      "takai"
+    ],
+    "kanji": "高い",
+    "translation": "high",
+    "source": "curated",
+    "sourceId": "hiragana-115"
+  },
+  {
+    "id": "curated-hiragana-56f665ff",
+    "kana": "ひくい",
+    "romaji": [
+      "hikui"
+    ],
+    "kanji": "低い",
+    "translation": "low",
+    "source": "curated",
+    "sourceId": "hiragana-116"
+  },
+  {
+    "id": "curated-hiragana-3d1f93b1",
+    "kana": "おもい",
+    "romaji": [
+      "omoi"
+    ],
+    "kanji": "重い",
+    "translation": "heavy",
+    "source": "curated",
+    "sourceId": "hiragana-117"
+  },
+  {
+    "id": "curated-hiragana-07be28f2",
+    "kana": "かるい",
+    "romaji": [
+      "karui"
+    ],
+    "kanji": "軽い",
+    "translation": "light",
+    "source": "curated",
+    "sourceId": "hiragana-118"
+  },
+  {
+    "id": "curated-hiragana-2a305bf2",
+    "kana": "つよい",
+    "romaji": [
+      "tsuyoi"
+    ],
+    "kanji": "強い",
+    "translation": "strong",
+    "source": "curated",
+    "sourceId": "hiragana-119"
+  },
+  {
+    "id": "curated-hiragana-d3bcee4d",
+    "kana": "よわい",
+    "romaji": [
+      "yowai"
+    ],
+    "kanji": "弱い",
+    "translation": "weak",
+    "source": "curated",
+    "sourceId": "hiragana-120"
+  },
+  {
+    "id": "curated-hiragana-e5fff822",
+    "kana": "あかるい",
+    "romaji": [
+      "akarui"
+    ],
+    "kanji": "明るい",
+    "translation": "bright",
+    "source": "curated",
+    "sourceId": "hiragana-121"
+  },
+  {
+    "id": "curated-hiragana-63a45f71",
+    "kana": "くらい",
+    "romaji": [
+      "kurai"
+    ],
+    "kanji": "暗い",
+    "translation": "dark",
+    "source": "curated",
+    "sourceId": "hiragana-122"
+  },
+  {
+    "id": "curated-hiragana-e2ed223c",
+    "kana": "たのしい",
+    "romaji": [
+      "tanoshii"
+    ],
+    "kanji": "楽しい",
+    "translation": "fun",
+    "source": "curated",
+    "sourceId": "hiragana-123"
+  },
+  {
+    "id": "curated-hiragana-1326dc66",
+    "kana": "かなしい",
+    "romaji": [
+      "kanashii"
+    ],
+    "kanji": "悲しい",
+    "translation": "sad",
+    "source": "curated",
+    "sourceId": "hiragana-124"
+  },
+  {
+    "id": "curated-hiragana-cdb471ab",
+    "kana": "かわいい",
+    "romaji": [
+      "kawaii"
+    ],
+    "kanji": "可愛い",
+    "translation": "cute",
+    "source": "curated",
+    "sourceId": "hiragana-125"
+  },
+  {
+    "id": "curated-hiragana-2b8c515b",
+    "kana": "きれい",
+    "romaji": [
+      "kirei"
+    ],
+    "kanji": "綺麗",
+    "translation": "beautiful",
+    "source": "curated",
+    "sourceId": "hiragana-126"
+  },
+  {
+    "id": "curated-hiragana-4dcc6bc4",
+    "kana": "あさ",
+    "romaji": [
+      "asa"
+    ],
+    "kanji": "朝",
     "translation": "morning",
-    "source": "JMdict",
-    "sourceId": 1269060
+    "source": "curated",
+    "sourceId": "hiragana-127"
   },
   {
-    "id": "jmdict-1294180-b9cc598f",
-    "kana": "さいだい",
+    "id": "curated-hiragana-07edf881",
+    "kana": "あし",
     "romaji": [
-      "saidai"
+      "ashi"
     ],
-    "kanji": "最大",
-    "translation": "biggest",
-    "source": "JMdict",
-    "sourceId": 1294180
+    "kanji": "足",
+    "translation": "foot",
+    "source": "curated",
+    "sourceId": "hiragana-128"
   },
   {
-    "id": "jmdict-1307740-d7fef40b",
-    "kana": "しせい",
-    "romaji": [
-      "shisei"
-    ],
-    "kanji": "姿勢",
-    "translation": "posture",
-    "source": "JMdict",
-    "sourceId": 1307740
-  },
-  {
-    "id": "jmdict-1310100-8ab500b8",
-    "kana": "しえん",
-    "romaji": [
-      "shien"
-    ],
-    "kanji": "支援",
-    "translation": "support",
-    "source": "JMdict",
-    "sourceId": 1310100
-  },
-  {
-    "id": "jmdict-1310150-cf5cab2c",
-    "kana": "しじ",
-    "romaji": [
-      "shiji"
-    ],
-    "kanji": "支持",
-    "translation": "support",
-    "source": "JMdict",
-    "sourceId": 1310150
-  },
-  {
-    "id": "jmdict-1317340-f48d5aa7",
-    "kana": "みずから",
-    "romaji": [
-      "mizukara"
-    ],
-    "kanji": "自ら",
-    "translation": "oneself",
-    "source": "JMdict",
-    "sourceId": 1317340
-  },
-  {
-    "id": "jmdict-1318720-bb1f0603",
-    "kana": "じゆう",
-    "romaji": [
-      "jiyuu"
-    ],
-    "kanji": "自由",
-    "translation": "freedom",
-    "source": "JMdict",
-    "sourceId": 1318720
-  },
-  {
-    "id": "jmdict-1322700-869afa78",
-    "kana": "しゃかい",
-    "romaji": [
-      "shakai"
-    ],
-    "kanji": "社会",
-    "translation": "society",
-    "source": "JMdict",
-    "sourceId": 1322700
-  },
-  {
-    "id": "jmdict-1396530-1ab69db8",
-    "kana": "そち",
-    "romaji": [
-      "sochi"
-    ],
-    "kanji": "措置",
-    "translation": "measure",
-    "source": "JMdict",
-    "sourceId": 1396530
-  },
-  {
-    "id": "jmdict-1455280-0dbc22fc",
-    "kana": "とくべつ",
-    "romaji": [
-      "tokubetsu"
-    ],
-    "kanji": "特別",
-    "translation": "special",
-    "source": "JMdict",
-    "sourceId": 1455280
-  },
-  {
-    "id": "jmdict-1499490-7843d5c8",
-    "kana": "ぶぶん",
-    "romaji": [
-      "bubun"
-    ],
-    "kanji": "部分",
-    "translation": "portion",
-    "source": "JMdict",
-    "sourceId": 1499490
-  },
-  {
-    "id": "jmdict-1505120-358c9077",
-    "kana": "ぶんか",
-    "romaji": [
-      "bunka"
-    ],
-    "kanji": "文化",
-    "translation": "culture",
-    "source": "JMdict",
-    "sourceId": 1505120
-  },
-  {
-    "id": "jmdict-1520200-3844b6a8",
-    "kana": "ぼうえい",
-    "romaji": [
-      "bouei"
-    ],
-    "kanji": "防衛",
-    "translation": "defense",
-    "source": "JMdict",
-    "sourceId": 1520200
-  },
-  {
-    "id": "jmdict-1528630-e7645395",
-    "kana": "みんかん",
-    "romaji": [
-      "minkan"
-    ],
-    "kanji": "民間",
-    "translation": "private",
-    "source": "JMdict",
-    "sourceId": 1528630
-  },
-  {
-    "id": "jmdict-1535560-bc2dc579",
-    "kana": "もくてき",
-    "romaji": [
-      "mokuteki"
-    ],
-    "kanji": "目的",
-    "translation": "purpose",
-    "source": "JMdict",
-    "sourceId": 1535560
-  },
-  {
-    "id": "jmdict-1558050-ab82e387",
-    "kana": "れきし",
-    "romaji": [
-      "rekishi"
-    ],
-    "kanji": "歴史",
-    "translation": "history",
-    "source": "JMdict",
-    "sourceId": 1558050
-  },
-  {
-    "id": "jmdict-1583870-d03b22f5",
-    "kana": "へいきん",
-    "romaji": [
-      "heikin"
-    ],
-    "kanji": "平均",
-    "translation": "average",
-    "source": "JMdict",
-    "sourceId": 1583870
-  },
-  {
-    "id": "jmdict-1591430-6395a6c0",
-    "kana": "きもち",
-    "romaji": [
-      "kimochi"
-    ],
-    "kanji": "気持ち",
-    "translation": "feeling",
-    "source": "JMdict",
-    "sourceId": 1591430
-  },
-  {
-    "id": "jmdict-1592250-7b473f28",
-    "kana": "くに",
-    "romaji": [
-      "kuni"
-    ],
-    "kanji": "国",
-    "translation": "country",
-    "source": "JMdict",
-    "sourceId": 1592250
-  },
-  {
-    "id": "jmdict-1166180-a3d9a4a2",
-    "kana": "いちぶ",
-    "romaji": [
-      "ichibu"
-    ],
-    "kanji": "一部",
-    "translation": "one part",
-    "source": "JMdict",
-    "sourceId": 1166180
-  },
-  {
-    "id": "jmdict-1172910-239070e8",
-    "kana": "うんどう",
-    "romaji": [
-      "undou"
-    ],
-    "kanji": "運動",
-    "translation": "exercise",
-    "source": "JMdict",
-    "sourceId": 1172910
-  },
-  {
-    "id": "jmdict-1191060-12749c56",
-    "kana": "かのう",
-    "romaji": [
-      "kanou"
-    ],
-    "kanji": "可能",
-    "translation": "possible",
-    "source": "JMdict",
-    "sourceId": 1191060
-  },
-  {
-    "id": "jmdict-1196030-733b6543",
-    "kana": "かこ",
-    "romaji": [
-      "kako"
-    ],
-    "kanji": "過去",
-    "translation": "the past",
-    "source": "JMdict",
-    "sourceId": 1196030
-  },
-  {
-    "id": "jmdict-1200930-28251bcf",
-    "kana": "かいせい",
-    "romaji": [
-      "kaisei"
-    ],
-    "kanji": "改正",
-    "translation": "revision",
-    "source": "JMdict",
-    "sourceId": 1200930
-  },
-  {
-    "id": "jmdict-1215810-7461d09a",
-    "kana": "かんけい",
-    "romaji": [
-      "kankei"
-    ],
-    "kanji": "関係",
-    "translation": "relation",
-    "source": "JMdict",
-    "sourceId": 1215810
-  },
-  {
-    "id": "jmdict-1216060-c2feea98",
-    "kana": "かんれん",
-    "romaji": [
-      "kanren"
-    ],
-    "kanji": "関連",
-    "translation": "relation",
-    "source": "JMdict",
-    "sourceId": 1216060
-  },
-  {
-    "id": "jmdict-1221130-c1da8370",
-    "kana": "きのう",
-    "romaji": [
-      "kinou"
-    ],
-    "kanji": "機能",
-    "translation": "function",
-    "source": "JMdict",
-    "sourceId": 1221130
-  },
-  {
-    "id": "jmdict-1223250-2a616fbf",
-    "kana": "きしゃ",
-    "romaji": [
-      "kisha"
-    ],
-    "kanji": "記者",
-    "translation": "reporter",
-    "source": "JMdict",
-    "sourceId": 1223250
-  },
-  {
-    "id": "jmdict-1226040-1e1fbf4b",
-    "kana": "ぎかい",
-    "romaji": [
-      "gikai"
-    ],
-    "kanji": "議会",
-    "translation": "congress",
-    "source": "JMdict",
-    "sourceId": 1226040
-  },
-  {
-    "id": "jmdict-1250190-ae1a9966",
-    "kana": "けいやく",
-    "romaji": [
-      "keiyaku"
-    ],
-    "kanji": "契約",
-    "translation": "contract",
-    "source": "JMdict",
-    "sourceId": 1250190
-  },
-  {
-    "id": "jmdict-1264540-bb1285ba",
-    "kana": "ことば",
-    "romaji": [
-      "kotoba"
-    ],
-    "kanji": "言葉",
-    "translation": "language",
-    "source": "JMdict",
-    "sourceId": 1264540
-  },
-  {
-    "id": "jmdict-1281000-79bc6d83",
-    "kana": "かんがえ",
-    "romaji": [
-      "kangae"
-    ],
-    "kanji": "考え",
-    "translation": "thinking",
-    "source": "JMdict",
-    "sourceId": 1281000
-  },
-  {
-    "id": "jmdict-1293780-746e2dac",
-    "kana": "さいきん",
-    "romaji": [
-      "saikin"
-    ],
-    "kanji": "最近",
-    "translation": "recently",
-    "source": "JMdict",
-    "sourceId": 1293780
-  },
-  {
-    "id": "jmdict-1309950-64d38542",
-    "kana": "しどう",
-    "romaji": [
-      "shidou"
-    ],
-    "kanji": "指導",
-    "translation": "guidance",
-    "source": "JMdict",
-    "sourceId": 1309950
-  },
-  {
-    "id": "jmdict-1310410-1dd4b0fb",
-    "kana": "しせつ",
-    "romaji": [
-      "shisetsu"
-    ],
-    "kanji": "施設",
-    "translation": "facility",
-    "source": "JMdict",
-    "sourceId": 1310410
-  },
-  {
-    "id": "jmdict-1313670-bbd5979f",
-    "kana": "じぎょう",
-    "romaji": [
-      "jigyou"
-    ],
-    "kanji": "事業",
-    "translation": "business",
-    "source": "JMdict",
-    "sourceId": 1313670
-  },
-  {
-    "id": "jmdict-1313850-694a321f",
-    "kana": "じこ",
-    "romaji": [
-      "jiko"
-    ],
-    "kanji": "事故",
-    "translation": "accident",
-    "source": "JMdict",
-    "sourceId": 1313850
-  },
-  {
-    "id": "jmdict-1320760-086aff31",
-    "kana": "しつもん",
-    "romaji": [
-      "shitsumon"
-    ],
-    "kanji": "質問",
-    "translation": "question",
-    "source": "JMdict",
-    "sourceId": 1320760
-  },
-  {
-    "id": "jmdict-1348870-586ffebb",
-    "kana": "すこし",
-    "romaji": [
-      "sukoshi"
-    ],
-    "kanji": "少し",
-    "translation": "a little",
-    "source": "JMdict",
-    "sourceId": 1348870
-  },
-  {
-    "id": "jmdict-1375970-5e442de4",
-    "kana": "せいじ",
-    "romaji": [
-      "seiji"
-    ],
-    "kanji": "政治",
-    "translation": "politics",
-    "source": "JMdict",
-    "sourceId": 1375970
-  },
-  {
-    "id": "jmdict-1388740-9d8b7f0e",
-    "kana": "せん",
-    "romaji": [
-      "sen"
-    ],
-    "kanji": "千",
-    "translation": "thousand",
-    "source": "JMdict",
-    "sourceId": 1388740
-  },
-  {
-    "id": "jmdict-1392190-803b3116",
-    "kana": "せんきょ",
-    "romaji": [
-      "senkyo"
-    ],
-    "kanji": "選挙",
-    "translation": "election",
-    "source": "JMdict",
-    "sourceId": 1392190
-  },
-  {
-    "id": "jmdict-1421450-eda17f5f",
-    "kana": "ちほう",
-    "romaji": [
-      "chihou"
-    ],
-    "kanji": "地方",
-    "translation": "district",
-    "source": "JMdict",
-    "sourceId": 1421450
-  },
-  {
-    "id": "jmdict-1451180-40d3aecc",
-    "kana": "うごき",
-    "romaji": [
-      "ugoki"
-    ],
-    "kanji": "動き",
-    "translation": "movement",
-    "source": "JMdict",
-    "sourceId": 1451180
-  },
-  {
-    "id": "jmdict-1459400-5e4fa2c6",
-    "kana": "ないよう",
-    "romaji": [
-      "naiyou"
-    ],
-    "kanji": "内容",
-    "translation": "contents",
-    "source": "JMdict",
-    "sourceId": 1459400
-  },
-  {
-    "id": "jmdict-1461560-aab2ac2d",
-    "kana": "にがつ",
-    "romaji": [
-      "nigatsu"
-    ],
-    "kanji": "二月",
-    "translation": "February",
-    "source": "JMdict",
-    "sourceId": 1461560
-  },
-  {
-    "id": "jmdict-1471130-dc3abdb9",
-    "kana": "はけん",
-    "romaji": [
-      "haken"
-    ],
-    "kanji": "派遣",
-    "translation": "dispatch",
-    "source": "JMdict",
-    "sourceId": 1471130
-  },
-  {
-    "id": "jmdict-1478620-4c36f3ad",
-    "kana": "はんだん",
-    "romaji": [
-      "handan"
-    ],
-    "kanji": "判断",
-    "translation": "judgment",
-    "source": "JMdict",
-    "sourceId": 1478620
-  },
-  {
-    "id": "jmdict-1537300-b1a8f17d",
-    "kana": "やきゅう",
-    "romaji": [
-      "yakyuu"
-    ],
-    "kanji": "野球",
-    "translation": "baseball",
-    "source": "JMdict",
-    "sourceId": 1537300
-  },
-  {
-    "id": "jmdict-1549980-2558d2e6",
-    "kana": "りじ",
-    "romaji": [
-      "riji"
-    ],
-    "kanji": "理事",
-    "translation": "director",
-    "source": "JMdict",
-    "sourceId": 1549980
-  },
-  {
-    "id": "jmdict-1551710-8ea4f19f",
-    "kana": "たちば",
-    "romaji": [
-      "tachiba"
-    ],
-    "kanji": "立場",
-    "translation": "position",
-    "source": "JMdict",
-    "sourceId": 1551710
-  },
-  {
-    "id": "jmdict-1591210-1c192298",
-    "kana": "きじゅん",
-    "romaji": [
-      "kijun"
-    ],
-    "kanji": "基準",
-    "translation": "standard",
-    "source": "JMdict",
-    "sourceId": 1591210
-  },
-  {
-    "id": "jmdict-1158950-67a2f70a",
-    "kana": "いはん",
-    "romaji": [
-      "ihan"
-    ],
-    "kanji": "違反",
-    "translation": "violation",
-    "source": "JMdict",
-    "sourceId": 1158950
-  },
-  {
-    "id": "jmdict-1198500-39d44ff3",
-    "kana": "かいけん",
-    "romaji": [
-      "kaiken"
-    ],
-    "kanji": "会見",
-    "translation": "interview",
-    "source": "JMdict",
-    "sourceId": 1198500
-  },
-  {
-    "id": "jmdict-1203540-301fe509",
-    "kana": "がいこう",
-    "romaji": [
-      "gaikou"
-    ],
-    "kanji": "外交",
-    "translation": "diplomacy",
-    "source": "JMdict",
-    "sourceId": 1203540
-  },
-  {
-    "id": "jmdict-1205200-95873602",
-    "kana": "かくだい",
-    "romaji": [
-      "kakudai"
-    ],
-    "kanji": "拡大",
-    "translation": "expansion",
-    "source": "JMdict",
-    "sourceId": 1205200
-  },
-  {
-    "id": "jmdict-1220940-6899d596",
-    "kana": "きこう",
-    "romaji": [
-      "kikou"
-    ],
-    "kanji": "機構",
-    "translation": "mechanism",
-    "source": "JMdict",
-    "sourceId": 1220940
-  },
-  {
-    "id": "jmdict-1243660-df2a89c6",
-    "kana": "くがつ",
-    "romaji": [
-      "kugatsu"
-    ],
-    "kanji": "九月",
-    "translation": "September",
-    "source": "JMdict",
-    "sourceId": 1243660
-  },
-  {
-    "id": "jmdict-1260070-b84fcc81",
-    "kana": "みかた",
-    "romaji": [
-      "mikata"
-    ],
-    "kanji": "見方",
-    "translation": "viewpoint",
-    "source": "JMdict",
-    "sourceId": 1260070
-  },
-  {
-    "id": "jmdict-1262070-9dc302ae",
-    "kana": "げんそく",
-    "romaji": [
-      "gensoku"
-    ],
-    "kanji": "原則",
-    "translation": "principle",
-    "source": "JMdict",
-    "sourceId": 1262070
-  },
-  {
-    "id": "jmdict-1268990-8338e52c",
-    "kana": "ごご",
-    "romaji": [
-      "gogo"
-    ],
-    "kanji": "午後",
-    "translation": "afternoon",
-    "source": "JMdict",
-    "sourceId": 1268990
-  },
-  {
-    "id": "jmdict-1272730-0ab93d3e",
-    "kana": "こうほ",
-    "romaji": [
-      "kouho"
-    ],
-    "kanji": "候補",
-    "translation": "candidate",
-    "source": "JMdict",
-    "sourceId": 1272730
-  },
-  {
-    "id": "jmdict-1279790-1737a477",
-    "kana": "こうぞう",
-    "romaji": [
-      "kouzou"
-    ],
-    "kanji": "構造",
-    "translation": "structure",
-    "source": "JMdict",
-    "sourceId": 1279790
-  },
-  {
-    "id": "jmdict-1289070-98381ca5",
-    "kana": "こんかい",
-    "romaji": [
-      "konkai"
-    ],
-    "kanji": "今回",
-    "translation": "this time",
-    "source": "JMdict",
-    "sourceId": 1289070
-  },
-  {
-    "id": "jmdict-1293990-c8ebc9e6",
-    "kana": "さいしょ",
-    "romaji": [
-      "saisho"
-    ],
-    "kanji": "最初",
-    "translation": "beginning",
-    "source": "JMdict",
-    "sourceId": 1293990
-  },
-  {
-    "id": "jmdict-1298230-d6dfc3de",
-    "kana": "さくねん",
-    "romaji": [
-      "sakunen"
-    ],
-    "kanji": "昨年",
-    "translation": "last year",
-    "source": "JMdict",
-    "sourceId": 1298230
-  },
-  {
-    "id": "jmdict-1362360-4c1993fe",
-    "kana": "しんぶん",
-    "romaji": [
-      "shinbun"
-    ],
-    "kanji": "新聞",
-    "translation": "newspaper",
-    "source": "JMdict",
-    "sourceId": 1362360
-  },
-  {
-    "id": "jmdict-1373860-d4a0257f",
-    "kana": "せかい",
-    "romaji": [
-      "sekai"
-    ],
-    "kanji": "世界",
-    "translation": "the world",
-    "source": "JMdict",
-    "sourceId": 1373860
-  },
-  {
-    "id": "jmdict-1401000-995010aa",
-    "kana": "あいて",
-    "romaji": [
-      "aite"
-    ],
-    "kanji": "相手",
-    "translation": "companion",
-    "source": "JMdict",
-    "sourceId": 1401000
-  },
-  {
-    "id": "jmdict-1421060-9bb37f47",
-    "kana": "じもと",
-    "romaji": [
-      "jimoto"
-    ],
-    "kanji": "地元",
-    "translation": "home area",
-    "source": "JMdict",
-    "sourceId": 1421060
-  },
-  {
-    "id": "jmdict-1449110-21c2ffd2",
-    "kana": "とうしょ",
-    "romaji": [
-      "tousho"
-    ],
-    "kanji": "当初",
-    "translation": "beginning",
-    "source": "JMdict",
-    "sourceId": 1449110
-  },
-  {
-    "id": "jmdict-1452500-67b2c31e",
-    "kana": "どうじ",
-    "romaji": [
-      "douji"
-    ],
-    "kanji": "同時",
-    "translation": "same time",
-    "source": "JMdict",
-    "sourceId": 1452500
-  },
-  {
-    "id": "jmdict-1477350-39f67a69",
-    "kana": "はつげん",
-    "romaji": [
-      "hatsugen"
-    ],
-    "kanji": "発言",
-    "translation": "statement",
-    "source": "JMdict",
-    "sourceId": 1477350
-  },
-  {
-    "id": "jmdict-1483420-fa16499c",
-    "kana": "ひはん",
-    "romaji": [
-      "hihan"
-    ],
-    "kanji": "批判",
-    "translation": "criticism",
-    "source": "JMdict",
-    "sourceId": 1483420
-  },
-  {
-    "id": "jmdict-1484410-8c269940",
-    "kana": "ひこく",
-    "romaji": [
-      "hikoku"
-    ],
-    "kanji": "被告",
-    "translation": "defendant",
-    "source": "JMdict",
-    "sourceId": 1484410
-  },
-  {
-    "id": "jmdict-1487660-7068172b",
-    "kana": "ひつよう",
-    "romaji": [
-      "hitsuyou"
-    ],
-    "kanji": "必要",
-    "translation": "necessary",
-    "source": "JMdict",
-    "sourceId": 1487660
-  },
-  {
-    "id": "jmdict-1516990-f6fa706a",
-    "kana": "ほうこう",
-    "romaji": [
-      "houkou"
-    ],
-    "kanji": "方向",
-    "translation": "direction",
-    "source": "JMdict",
-    "sourceId": 1516990
-  },
-  {
-    "id": "jmdict-1524720-aa5d1844",
-    "kana": "まいにち",
-    "romaji": [
-      "mainichi"
-    ],
-    "kanji": "毎日",
-    "translation": "every day",
-    "source": "JMdict",
-    "sourceId": 1524720
-  },
-  {
-    "id": "jmdict-1528790-d2cf1bfa",
-    "kana": "みんしゅ",
-    "romaji": [
-      "minshu"
-    ],
-    "kanji": "民主",
-    "translation": "democracy",
-    "source": "JMdict",
-    "sourceId": 1528790
-  },
-  {
-    "id": "jmdict-1548220-1ecc559b",
-    "kana": "らいねん",
-    "romaji": [
-      "rainen"
-    ],
-    "kanji": "来年",
-    "translation": "next year",
-    "source": "JMdict",
-    "sourceId": 1548220
-  },
-  {
-    "id": "jmdict-1554790-ad30803b",
-    "kana": "りょうど",
-    "romaji": [
-      "ryoudo"
-    ],
-    "kanji": "領土",
-    "translation": "territory",
-    "source": "JMdict",
-    "sourceId": 1554790
-  },
-  {
-    "id": "jmdict-1579130-13757099",
-    "kana": "ことし",
-    "romaji": [
-      "kotoshi"
-    ],
-    "kanji": "今年",
-    "translation": "this year",
-    "source": "JMdict",
-    "sourceId": 1579130
-  },
-  {
-    "id": "jmdict-1587200-5826e427",
-    "kana": "いこう",
-    "romaji": [
-      "ikou"
-    ],
-    "kanji": "意向",
-    "translation": "intention",
-    "source": "JMdict",
-    "sourceId": 1587200
-  },
-  {
-    "id": "jmdict-1595240-62443c2d",
-    "kana": "じたい",
-    "romaji": [
-      "jitai"
-    ],
-    "kanji": "事態",
-    "translation": "situation",
-    "source": "JMdict",
-    "sourceId": 1595240
-  },
-  {
-    "id": "jmdict-1596380-b0ca884a",
-    "kana": "そうごう",
-    "romaji": [
-      "sougou"
-    ],
-    "kanji": "総合",
-    "translation": "synthesis",
-    "source": "JMdict",
-    "sourceId": 1596380
-  },
-  {
-    "id": "jmdict-1165970-419d11f5",
-    "kana": "いちばん",
-    "romaji": [
-      "ichiban"
-    ],
-    "kanji": "一番",
-    "translation": "number one",
-    "source": "JMdict",
-    "sourceId": 1165970
-  },
-  {
-    "id": "jmdict-1176660-d9888f26",
-    "kana": "えんじょ",
-    "romaji": [
-      "enjo"
-    ],
-    "kanji": "援助",
-    "translation": "assistance",
-    "source": "JMdict",
-    "sourceId": 1176660
-  },
-  {
-    "id": "jmdict-1198960-e6dd328e",
-    "kana": "かいけつ",
-    "romaji": [
-      "kaiketsu"
-    ],
-    "kanji": "解決",
-    "translation": "settlement",
-    "source": "JMdict",
-    "sourceId": 1198960
-  },
-  {
-    "id": "jmdict-1212170-92860c71",
-    "kana": "かんぶ",
-    "romaji": [
-      "kanbu"
-    ],
-    "kanji": "幹部",
-    "translation": "management",
-    "source": "JMdict",
-    "sourceId": 1212170
-  },
-  {
-    "id": "jmdict-1218190-20f4e3d9",
-    "kana": "きぎょう",
-    "romaji": [
-      "kigyou"
-    ],
-    "kanji": "企業",
-    "translation": "enterprise",
-    "source": "JMdict",
-    "sourceId": 1218190
-  },
-  {
-    "id": "jmdict-1223010-9563c4cc",
-    "kana": "きせい",
-    "romaji": [
-      "kisei"
-    ],
-    "kanji": "規制",
-    "translation": "regulation",
-    "source": "JMdict",
-    "sourceId": 1223010
-  },
-  {
-    "id": "jmdict-1225130-079f7ec5",
-    "kana": "ぎじゅつ",
-    "romaji": [
-      "gijutsu"
-    ],
-    "kanji": "技術",
-    "translation": "technology",
-    "source": "JMdict",
-    "sourceId": 1225130
-  },
-  {
-    "id": "jmdict-1235570-a17d5448",
-    "kana": "きょうぎ",
-    "romaji": [
-      "kyougi"
-    ],
-    "kanji": "協議",
-    "translation": "conference",
-    "source": "JMdict",
-    "sourceId": 1235570
-  },
-  {
-    "id": "jmdict-1251130-4f4c162a",
-    "kana": "けいえい",
-    "romaji": [
-      "keiei"
-    ],
-    "kanji": "経営",
-    "translation": "management",
-    "source": "JMdict",
-    "sourceId": 1251130
-  },
-  {
-    "id": "jmdict-1254240-23851f63",
-    "kana": "けつぎ",
-    "romaji": [
-      "ketsugi"
-    ],
-    "kanji": "決議",
-    "translation": "resolution",
-    "source": "JMdict",
-    "sourceId": 1254240
-  },
-  {
-    "id": "jmdict-1264770-f779a940",
-    "kana": "こじん",
-    "romaji": [
-      "kojin"
-    ],
-    "kanji": "個人",
-    "translation": "individual",
-    "source": "JMdict",
-    "sourceId": 1264770
-  },
-  {
-    "id": "jmdict-1289100-81b989c1",
-    "kana": "こんげつ",
-    "romaji": [
-      "kongetsu"
-    ],
-    "kanji": "今月",
-    "translation": "this month",
-    "source": "JMdict",
-    "sourceId": 1289100
-  },
-  {
-    "id": "jmdict-1318260-c7e6c4cd",
-    "kana": "じたく",
-    "romaji": [
-      "jitaku"
-    ],
-    "kanji": "自宅",
-    "translation": "one's home",
-    "source": "JMdict",
-    "sourceId": 1318260
-  },
-  {
-    "id": "jmdict-1321900-99b7c3e6",
-    "kana": "しゃしん",
-    "romaji": [
-      "shashin"
-    ],
-    "kanji": "写真",
-    "translation": "photograph",
-    "source": "JMdict",
-    "sourceId": 1321900
-  },
-  {
-    "id": "jmdict-1367010-5e2aef54",
-    "kana": "にんき",
-    "romaji": [
-      "ninki"
-    ],
-    "kanji": "人気",
-    "translation": "popularity",
-    "source": "JMdict",
-    "sourceId": 1367010
-  },
-  {
-    "id": "jmdict-1367300-062984c8",
-    "kana": "じんこう",
-    "romaji": [
-      "jinkou"
-    ],
-    "kanji": "人口",
-    "translation": "population",
-    "source": "JMdict",
-    "sourceId": 1367300
-  },
-  {
-    "id": "jmdict-1371140-0c94c0be",
-    "kana": "すいしん",
-    "romaji": [
-      "suishin"
-    ],
-    "kanji": "推進",
-    "translation": "propulsion",
-    "source": "JMdict",
-    "sourceId": 1371140
-  },
-  {
-    "id": "jmdict-1375980-f504e413",
-    "kana": "せいじか",
-    "romaji": [
-      "seijika"
-    ],
-    "kanji": "政治家",
-    "translation": "politician",
-    "source": "JMdict",
-    "sourceId": 1375980
-  },
-  {
-    "id": "jmdict-1376070-e8e6cddb",
-    "kana": "せいふ",
-    "romaji": [
-      "seifu"
-    ],
-    "kanji": "政府",
-    "translation": "government",
-    "source": "JMdict",
-    "sourceId": 1376070
-  },
-  {
-    "id": "jmdict-1378990-808e0e6b",
-    "kana": "せいさん",
-    "romaji": [
-      "seisan"
-    ],
-    "kanji": "生産",
-    "translation": "production",
-    "source": "JMdict",
-    "sourceId": 1378990
-  },
-  {
-    "id": "jmdict-1413240-04d5f579",
-    "kana": "だいがく",
-    "romaji": [
-      "daigaku"
-    ],
-    "kanji": "大学",
-    "translation": "university",
-    "source": "JMdict",
-    "sourceId": 1413240
-  },
-  {
-    "id": "jmdict-1447230-681fcdb2",
-    "kana": "とうし",
-    "romaji": [
-      "toushi"
-    ],
-    "kanji": "投資",
-    "translation": "investment",
-    "source": "JMdict",
-    "sourceId": 1447230
-  },
-  {
-    "id": "jmdict-1472720-661e3df0",
-    "kana": "はいけい",
-    "romaji": [
-      "haikei"
-    ],
-    "kanji": "背景",
-    "translation": "background",
-    "source": "JMdict",
-    "sourceId": 1472720
-  },
-  {
-    "id": "jmdict-1480670-25c71c61",
-    "kana": "はんたい",
-    "romaji": [
-      "hantai"
-    ],
-    "kanji": "反対",
-    "translation": "opposition",
-    "source": "JMdict",
-    "sourceId": 1480670
-  },
-  {
-    "id": "jmdict-1513530-fd8b7907",
-    "kana": "ほご",
-    "romaji": [
-      "hogo"
-    ],
-    "kanji": "保護",
-    "translation": "protection",
-    "source": "JMdict",
-    "sourceId": 1513530
-  },
-  {
-    "id": "jmdict-1589060-b92fb8fd",
-    "kana": "おこなう",
-    "romaji": [
-      "okonau"
-    ],
-    "kanji": "行う",
-    "translation": "to perform",
-    "source": "JMdict",
-    "sourceId": 1589060
-  },
-  {
-    "id": "jmdict-1158450-13676301",
-    "kana": "いじ",
-    "romaji": [
-      "iji"
-    ],
-    "kanji": "維持",
-    "translation": "maintenance",
-    "source": "JMdict",
-    "sourceId": 1158450
-  },
-  {
-    "id": "jmdict-1199720-e53d8436",
-    "kana": "かいふく",
-    "romaji": [
-      "kaifuku"
-    ],
-    "kanji": "回復",
-    "translation": "restoration",
-    "source": "JMdict",
-    "sourceId": 1199720
-  },
-  {
-    "id": "jmdict-1202880-698339e1",
-    "kana": "かいはつ",
-    "romaji": [
-      "kaihatsu"
-    ],
-    "kanji": "開発",
-    "translation": "development",
-    "source": "JMdict",
-    "sourceId": 1202880
-  },
-  {
-    "id": "jmdict-1213720-01684dd1",
-    "kana": "かんとく",
-    "romaji": [
-      "kantoku"
-    ],
-    "kanji": "監督",
-    "translation": "supervision",
-    "source": "JMdict",
-    "sourceId": 1213720
-  },
-  {
-    "id": "jmdict-1220570-2f12ef24",
-    "kana": "きたい",
-    "romaji": [
-      "kitai"
-    ],
-    "kanji": "期待",
-    "translation": "expectation",
-    "source": "JMdict",
-    "sourceId": 1220570
-  },
-  {
-    "id": "jmdict-1263650-11b05a66",
-    "kana": "げんざい",
-    "romaji": [
-      "genzai"
-    ],
-    "kanji": "現在",
-    "translation": "the present",
-    "source": "JMdict",
-    "sourceId": 1263650
-  },
-  {
-    "id": "jmdict-1263760-bc489c63",
-    "kana": "げんば",
-    "romaji": [
-      "genba"
-    ],
-    "kanji": "現場",
-    "translation": "actual spot",
-    "source": "JMdict",
-    "sourceId": 1263760
-  },
-  {
-    "id": "jmdict-1264380-aed90e46",
-    "kana": "いわば",
-    "romaji": [
-      "iwaba"
-    ],
-    "kanji": "言わば",
-    "translation": "so to speak",
-    "source": "JMdict",
-    "sourceId": 1264380
-  },
-  {
-    "id": "jmdict-1289140-7c2fb79f",
-    "kana": "こんご",
-    "romaji": [
-      "kongo"
-    ],
-    "kanji": "今後",
-    "translation": "from now on",
-    "source": "JMdict",
-    "sourceId": 1289140
-  },
-  {
-    "id": "jmdict-1308640-24cbca46",
-    "kana": "しない",
-    "romaji": [
-      "shinai"
-    ],
-    "kanji": "市内",
-    "translation": "in the city",
-    "source": "JMdict",
-    "sourceId": 1308640
-  },
-  {
-    "id": "jmdict-1314270-f71ea1a7",
-    "kana": "じむ",
-    "romaji": [
-      "jimu"
-    ],
-    "kanji": "事務",
-    "translation": "office work",
-    "source": "JMdict",
-    "sourceId": 1314270
-  },
-  {
-    "id": "jmdict-1366770-1a1eaee4",
-    "kana": "にんげん",
-    "romaji": [
-      "ningen"
-    ],
-    "kanji": "人間",
-    "translation": "human being",
-    "source": "JMdict",
-    "sourceId": 1366770
-  },
-  {
-    "id": "jmdict-1389680-0c71f187",
-    "kana": "せんげん",
-    "romaji": [
-      "sengen"
-    ],
-    "kanji": "宣言",
-    "translation": "declaration",
-    "source": "JMdict",
-    "sourceId": 1389680
-  },
-  {
-    "id": "jmdict-1522630-ff6dd5c5",
-    "kana": "ほんしゃ",
-    "romaji": [
-      "honsha"
-    ],
-    "kanji": "本社",
-    "translation": "head office",
-    "source": "JMdict",
-    "sourceId": 1522630
-  },
-  {
-    "id": "jmdict-1576100-ae83794b",
-    "kana": "いちじ",
-    "romaji": [
-      "ichiji"
-    ],
-    "kanji": "一時",
-    "translation": "one o'clock",
-    "source": "JMdict",
-    "sourceId": 1576100
-  },
-  {
-    "id": "jmdict-1582670-864b1bb2",
-    "kana": "ふたり",
-    "romaji": [
-      "futari"
-    ],
-    "kanji": "二人",
-    "translation": "two persons",
-    "source": "JMdict",
-    "sourceId": 1582670
-  },
-  {
-    "id": "jmdict-1595090-d323517b",
-    "kana": "ぎん",
-    "romaji": [
-      "gin"
-    ],
-    "kanji": "銀",
-    "translation": "silver (Ag)",
-    "source": "JMdict",
-    "sourceId": 1595090
-  },
-  {
-    "id": "jmdict-1257420-e53b46f5",
-    "kana": "けんせつ",
-    "romaji": [
-      "kensetsu"
-    ],
-    "kanji": "建設",
-    "translation": "construction",
-    "source": "JMdict",
-    "sourceId": 1257420
-  },
-  {
-    "id": "jmdict-1257590-eed14136",
-    "kana": "けんぽう",
-    "romaji": [
-      "kenpou"
-    ],
-    "kanji": "憲法",
-    "translation": "constitution",
-    "source": "JMdict",
-    "sourceId": 1257590
-  },
-  {
-    "id": "jmdict-1263860-2e7f3813",
-    "kana": "げんち",
-    "romaji": [
-      "genchi"
-    ],
-    "kanji": "現地",
-    "translation": "actual place",
-    "source": "JMdict",
-    "sourceId": 1263860
-  },
-  {
-    "id": "jmdict-1318000-1ba1296d",
-    "kana": "じしん",
-    "romaji": [
-      "jishin"
-    ],
-    "kanji": "自身",
-    "translation": "(one's) self",
-    "source": "JMdict",
-    "sourceId": 1318000
-  },
-  {
-    "id": "jmdict-1360360-da8349ae",
-    "kana": "しんぎ",
-    "romaji": [
-      "shingi"
-    ],
-    "kanji": "審議",
-    "translation": "deliberation",
-    "source": "JMdict",
-    "sourceId": 1360360
-  },
-  {
-    "id": "jmdict-1397630-8ecd2729",
-    "kana": "そしき",
-    "romaji": [
-      "soshiki"
-    ],
-    "kanji": "組織",
-    "translation": "organization",
-    "source": "JMdict",
-    "sourceId": 1397630
-  },
-  {
-    "id": "jmdict-1413180-3b0d9caf",
-    "kana": "たいかい",
-    "romaji": [
-      "taikai"
-    ],
-    "kanji": "大会",
-    "translation": "mass meeting",
-    "source": "JMdict",
-    "sourceId": 1413180
-  },
-  {
-    "id": "jmdict-1445470-59ed7eec",
-    "kana": "とち",
-    "romaji": [
-      "tochi"
-    ],
-    "kanji": "土地",
-    "translation": "plot of land",
-    "source": "JMdict",
-    "sourceId": 1445470
-  },
-  {
-    "id": "jmdict-1449090-803eb3dc",
-    "kana": "とうじ",
-    "romaji": [
-      "touji"
-    ],
-    "kanji": "当時",
-    "translation": "at that time",
-    "source": "JMdict",
-    "sourceId": 1449090
-  },
-  {
-    "id": "jmdict-1454670-1d0c7317",
-    "kana": "とくに",
-    "romaji": [
-      "tokuni"
-    ],
-    "kanji": "特に",
-    "translation": "particularly",
-    "source": "JMdict",
-    "sourceId": 1454670
-  },
-  {
-    "id": "jmdict-1516750-8672def1",
-    "kana": "ほうそう",
-    "romaji": [
-      "housou"
-    ],
-    "kanji": "放送",
-    "translation": "broadcasting",
-    "source": "JMdict",
-    "sourceId": 1516750
-  },
-  {
-    "id": "jmdict-1523170-e6d9460b",
-    "kana": "ほんぶ",
-    "romaji": [
-      "honbu"
-    ],
-    "kanji": "本部",
-    "translation": "headquarters",
-    "source": "JMdict",
-    "sourceId": 1523170
-  },
-  {
-    "id": "jmdict-1544870-0ea28e24",
-    "kana": "よとう",
-    "romaji": [
-      "yotou"
-    ],
-    "kanji": "与党",
-    "translation": "ruling party",
-    "source": "JMdict",
-    "sourceId": 1544870
-  },
-  {
-    "id": "jmdict-1559610-22a6047c",
-    "kana": "れんぞく",
-    "romaji": [
-      "renzoku"
-    ],
-    "kanji": "連続",
-    "translation": "continuation",
-    "source": "JMdict",
-    "sourceId": 1559610
-  },
-  {
-    "id": "jmdict-1236200-2d9d83bf",
-    "kana": "きょうか",
-    "romaji": [
-      "kyouka"
-    ],
-    "kanji": "強化",
-    "translation": "strengthening",
-    "source": "JMdict",
-    "sourceId": 1236200
-  },
-  {
-    "id": "jmdict-1243330-4c7fead5",
-    "kana": "きんり",
-    "romaji": [
-      "kinri"
-    ],
-    "kanji": "金利",
-    "translation": "interest rate",
-    "source": "JMdict",
-    "sourceId": 1243330
-  },
-  {
-    "id": "jmdict-1286400-3457f44a",
-    "kana": "こくさい",
-    "romaji": [
-      "kokusai"
-    ],
-    "kanji": "国際",
-    "translation": "international",
-    "source": "JMdict",
-    "sourceId": 1286400
-  },
-  {
-    "id": "jmdict-1302090-39da743b",
-    "kana": "さんか",
-    "romaji": [
-      "sanka"
-    ],
-    "kanji": "参加",
-    "translation": "participation",
-    "source": "JMdict",
-    "sourceId": 1302090
-  },
-  {
-    "id": "jmdict-1308300-b7a90eaf",
-    "kana": "いちば",
-    "romaji": [
-      "ichiba"
-    ],
-    "kanji": "市場",
-    "translation": "(town) market",
-    "source": "JMdict",
-    "sourceId": 1308300
-  },
-  {
-    "id": "jmdict-1314010-ad638afc",
-    "kana": "じじょう",
-    "romaji": [
-      "jijou"
-    ],
-    "kanji": "事情",
-    "translation": "circumstances",
-    "source": "JMdict",
-    "sourceId": 1314010
-  },
-  {
-    "id": "jmdict-1414010-b147f4fa",
-    "kana": "おおて",
-    "romaji": [
-      "oote"
-    ],
-    "kanji": "大手",
-    "translation": "major company",
-    "source": "JMdict",
-    "sourceId": 1414010
-  },
-  {
-    "id": "jmdict-1429050-26e9a34b",
-    "kana": "しらべ",
-    "romaji": [
-      "shirabe"
-    ],
-    "kanji": "調べ",
-    "translation": "investigation",
-    "source": "JMdict",
-    "sourceId": 1429050
-  },
-  {
-    "id": "jmdict-1429120-17b1c83a",
-    "kana": "ちょうさ",
-    "romaji": [
-      "chousa"
-    ],
-    "kanji": "調査",
-    "translation": "investigation",
-    "source": "JMdict",
-    "sourceId": 1429120
-  },
-  {
-    "id": "jmdict-1287210-6276827d",
-    "kana": "こくれん",
-    "romaji": [
-      "kokuren"
-    ],
-    "kanji": "国連",
-    "translation": "United Nations",
-    "source": "JMdict",
-    "sourceId": 1287210
-  },
-  {
-    "id": "jmdict-1296830-6d839bbc",
-    "kana": "ざいせい",
-    "romaji": [
-      "zaisei"
-    ],
-    "kanji": "財政",
-    "translation": "public finance",
-    "source": "JMdict",
-    "sourceId": 1296830
-  },
-  {
-    "id": "jmdict-1433330-22b92bcd",
-    "kana": "つうしん",
-    "romaji": [
-      "tsuushin"
-    ],
-    "kanji": "通信",
-    "translation": "correspondence",
-    "source": "JMdict",
-    "sourceId": 1433330
-  },
-  {
-    "id": "jmdict-1443840-78b47ae4",
-    "kana": "でんわ",
-    "romaji": [
-      "denwa"
-    ],
-    "kanji": "電話",
-    "translation": "telephone call",
-    "source": "JMdict",
-    "sourceId": 1443840
-  },
-  {
-    "id": "jmdict-1607450-9945a451",
-    "kana": "せんご",
-    "romaji": [
-      "sengo"
-    ],
-    "kanji": "戦後",
-    "translation": "postwar period",
-    "source": "JMdict",
-    "sourceId": 1607450
-  },
-  {
-    "id": "jmdict-1203620-7892548e",
-    "kana": "がいこく",
-    "romaji": [
-      "gaikoku"
-    ],
-    "kanji": "外国",
-    "translation": "foreign country",
-    "source": "JMdict",
-    "sourceId": 1203620
-  },
-  {
-    "id": "jmdict-1250220-0499251a",
-    "kana": "かたち",
-    "romaji": [
-      "katachi"
-    ],
-    "kanji": "形",
-    "translation": "(physical) form",
-    "source": "JMdict",
-    "sourceId": 1250220
-  },
-  {
-    "id": "jmdict-1376060-370fbd83",
-    "kana": "せいとう",
-    "romaji": [
-      "seitou"
-    ],
-    "kanji": "政党",
-    "translation": "political party",
-    "source": "JMdict",
-    "sourceId": 1376060
-  },
-  {
-    "id": "jmdict-1401490-0d770e5b",
-    "kana": "そうかい",
-    "romaji": [
-      "soukai"
-    ],
-    "kanji": "総会",
-    "translation": "general meeting",
-    "source": "JMdict",
-    "sourceId": 1401490
-  },
-  {
-    "id": "jmdict-1520120-d38656a9",
-    "kana": "ぼうえき",
-    "romaji": [
-      "boueki"
-    ],
-    "kanji": "貿易",
-    "translation": "(foreign) trade",
-    "source": "JMdict",
-    "sourceId": 1520120
-  },
-  {
-    "id": "jmdict-1156100-b9d29ad7",
-    "kana": "いいん",
-    "romaji": [
-      "iin"
-    ],
-    "kanji": "委員",
-    "translation": "committee member",
-    "source": "JMdict",
-    "sourceId": 1156100
-  },
-  {
-    "id": "jmdict-1248080-1ac1c6fe",
-    "kana": "ぐんじ",
-    "romaji": [
-      "gunji"
-    ],
-    "kanji": "軍事",
-    "translation": "military affairs",
-    "source": "JMdict",
-    "sourceId": 1248080
-  },
-  {
-    "id": "jmdict-1515730-c6fef604",
-    "kana": "ほうどう",
-    "romaji": [
-      "houdou"
-    ],
-    "kanji": "報道",
-    "translation": "report (of news)",
-    "source": "JMdict",
-    "sourceId": 1515730
-  },
-  {
-    "id": "jmdict-1537580-6d05e0e6",
-    "kana": "やとう",
-    "romaji": [
-      "yatou"
-    ],
-    "kanji": "野党",
-    "translation": "opposition party",
-    "source": "JMdict",
-    "sourceId": 1537580
-  },
-  {
-    "id": "jmdict-1160140-4ab2cb8b",
-    "kana": "いりょう",
-    "romaji": [
-      "iryou"
-    ],
-    "kanji": "医療",
-    "translation": "medical treatment",
-    "source": "JMdict",
-    "sourceId": 1160140
-  },
-  {
-    "id": "jmdict-1478520-c2a889dc",
-    "kana": "はんけつ",
-    "romaji": [
-      "hanketsu"
-    ],
-    "kanji": "判決",
-    "translation": "judicial decision",
-    "source": "JMdict",
-    "sourceId": 1478520
-  },
-  {
-    "id": "jmdict-1482340-498402e1",
-    "kana": "ばんぐみ",
-    "romaji": [
-      "bangumi"
-    ],
-    "kanji": "番組",
-    "translation": "program (e.g. TV)",
-    "source": "JMdict",
-    "sourceId": 1482340
-  },
-  {
-    "id": "jmdict-1581180-a358ebfb",
-    "kana": "ぜんこく",
-    "romaji": [
-      "zenkoku"
-    ],
-    "kanji": "全国",
-    "translation": "the whole country",
-    "source": "JMdict",
-    "sourceId": 1581180
-  },
-  {
-    "id": "jmdict-1604610-ca86905c",
-    "kana": "みとおし",
-    "romaji": [
-      "mitooshi"
-    ],
-    "kanji": "見通し",
-    "translation": "unobstructed view",
-    "source": "JMdict",
-    "sourceId": 1604610
-  },
-  {
-    "id": "jmdict-1283500-c53c9bc9",
-    "kana": "こうこう",
-    "romaji": [
-      "koukou"
-    ],
-    "kanji": "高校",
-    "translation": "senior high school",
-    "source": "JMdict",
-    "sourceId": 1283500
-  },
-  {
-    "id": "jmdict-1286930-ad01b8e3",
-    "kana": "こくない",
-    "romaji": [
-      "kokunai"
-    ],
-    "kanji": "国内",
-    "translation": "within the country",
-    "source": "JMdict",
-    "sourceId": 1286930
-  },
-  {
-    "id": "jmdict-1375950-5185546b",
-    "kana": "せいさく",
-    "romaji": [
-      "seisaku"
-    ],
-    "kanji": "政策",
-    "translation": "political measures",
-    "source": "JMdict",
-    "sourceId": 1375950
-  },
-  {
-    "id": "jmdict-1393840-2df16c11",
-    "kana": "ぜんねん",
-    "romaji": [
-      "zennen"
-    ],
-    "kanji": "前年",
-    "translation": "the preceding year",
-    "source": "JMdict",
-    "sourceId": 1393840
-  },
-  {
-    "id": "jmdict-1468380-c202c966",
-    "kana": "ねんかん",
-    "romaji": [
-      "nenkan"
-    ],
-    "kanji": "年間",
-    "translation": "(period of) a year",
-    "source": "JMdict",
-    "sourceId": 1468380
-  },
-  {
-    "id": "jmdict-1212110-32686218",
-    "kana": "かんじ",
-    "romaji": [
-      "kanji"
-    ],
-    "kanji": "幹事",
-    "translation": "executive secretary",
-    "source": "JMdict",
-    "sourceId": 1212110
-  },
-  {
-    "id": "jmdict-1250830-cce7084b",
-    "kana": "けいき",
-    "romaji": [
-      "keiki"
-    ],
-    "kanji": "景気",
-    "translation": "business conditions",
-    "source": "JMdict",
-    "sourceId": 1250830
-  },
-  {
-    "id": "jmdict-1375900-2b2b01c7",
-    "kana": "せいかい",
-    "romaji": [
-      "seikai"
-    ],
-    "kanji": "政界",
-    "translation": "(world of) politics",
-    "source": "JMdict",
-    "sourceId": 1375900
-  },
-  {
-    "id": "jmdict-1392250-7ef6ee1e",
-    "kana": "せんしゅ",
-    "romaji": [
-      "senshu"
-    ],
-    "kanji": "選手",
-    "translation": "player (of a sport)",
-    "source": "JMdict",
-    "sourceId": 1392250
-  },
-  {
-    "id": "jmdict-1409840-1692eebc",
-    "kana": "たいおう",
-    "romaji": [
-      "taiou"
-    ],
-    "kanji": "対応",
-    "translation": "correspondence (to)",
-    "source": "JMdict",
-    "sourceId": 1409840
-  },
-  {
-    "id": "jmdict-1543000-28649267",
-    "kana": "よさん",
-    "romaji": [
-      "yosan"
-    ],
-    "kanji": "予算",
-    "translation": "estimate (of costs)",
-    "source": "JMdict",
-    "sourceId": 1543000
-  },
-  {
-    "id": "jmdict-1208970-3f813b2a",
-    "kana": "かぶしき",
-    "romaji": [
-      "kabushiki"
-    ],
-    "kanji": "株式",
-    "translation": "share (in a company)",
-    "source": "JMdict",
-    "sourceId": 1208970
-  },
-  {
-    "id": "jmdict-1420580-5dc0f020",
-    "kana": "ちじ",
-    "romaji": [
-      "chiji"
-    ],
-    "kanji": "知事",
-    "translation": "prefectural governor",
-    "source": "JMdict",
-    "sourceId": 1420580
-  },
-  {
-    "id": "jmdict-1226020-a2e7f9a2",
-    "kana": "ぎいん",
-    "romaji": [
-      "giin"
-    ],
-    "kanji": "議員",
-    "translation": "member of an assembly",
-    "source": "JMdict",
-    "sourceId": 1226020
-  },
-  {
-    "id": "jmdict-1287070-a3b7327b",
-    "kana": "こくみん",
-    "romaji": [
-      "kokumin"
-    ],
-    "kanji": "国民",
-    "translation": "people (of a country)",
-    "source": "JMdict",
-    "sourceId": 1287070
-  },
-  {
-    "id": "jmdict-1491950-a8515516",
-    "kana": "ふきょう",
-    "romaji": [
-      "fukyou"
-    ],
-    "kanji": "不況",
-    "translation": "(economic) depression",
-    "source": "JMdict",
-    "sourceId": 1491950
-  },
-  {
-    "id": "jmdict-1308690-55c9c961",
-    "kana": "しみん",
-    "romaji": [
-      "shimin"
-    ],
-    "kanji": "市民",
-    "translation": "citizen (of a country)",
-    "source": "JMdict",
-    "sourceId": 1308690
-  },
-  {
-    "id": "jmdict-1559790-2f15e41b",
-    "kana": "れんぽう",
-    "romaji": [
-      "renpou"
-    ],
-    "kanji": "連邦",
-    "translation": "federation (of states)",
-    "source": "JMdict",
-    "sourceId": 1559790
-  },
-  {
-    "id": "jmdict-1284550-143bac48",
-    "kana": "ごうい",
-    "romaji": [
-      "goui"
-    ],
-    "kanji": "合意",
-    "translation": "(coming to an) agreement",
-    "source": "JMdict",
-    "sourceId": 1284550
-  },
-  {
-    "id": "jmdict-1371260-1a3d0aa3",
-    "kana": "みず",
-    "romaji": [
-      "mizu"
-    ],
-    "kanji": "水",
-    "translation": "water (esp. cool or cold)",
-    "source": "JMdict",
-    "sourceId": 1371260
-  },
-  {
-    "id": "jmdict-1457910-ecab394d",
-    "kana": "ないかく",
-    "romaji": [
-      "naikaku"
-    ],
-    "kanji": "内閣",
-    "translation": "cabinet (of a government)",
-    "source": "JMdict",
-    "sourceId": 1457910
-  },
-  {
-    "id": "jmdict-1536010-6b4e0632",
-    "kana": "もんだい",
-    "romaji": [
-      "mondai"
-    ],
-    "kanji": "問題",
-    "translation": "question (e.g. on a test)",
-    "source": "JMdict",
-    "sourceId": 1536010
-  },
-  {
-    "id": "jmdict-1375930-25618dc1",
-    "kana": "せいけん",
-    "romaji": [
-      "seiken"
-    ],
-    "kanji": "政権",
-    "translation": "(political) administration",
-    "source": "JMdict",
-    "sourceId": 1375930
-  },
-  {
-    "id": "jmdict-1464380-ae49536d",
-    "kana": "にちべい",
-    "romaji": [
-      "nichibei"
-    ],
-    "kanji": "日米",
-    "translation": "Japan and the United States",
-    "source": "JMdict",
-    "sourceId": 1464380
-  },
-  {
-    "id": "jmdict-1499540-9f532529",
-    "kana": "ぶもん",
-    "romaji": [
-      "bumon"
-    ],
-    "kanji": "部門",
-    "translation": "division (of a larger group)",
-    "source": "JMdict",
-    "sourceId": 1499540
-  },
-  {
-    "id": "jmdict-1401580-633bb2b4",
-    "kana": "そうさい",
-    "romaji": [
-      "sousai"
-    ],
-    "kanji": "総裁",
-    "translation": "president (of an organization)",
-    "source": "JMdict",
-    "sourceId": 1401580
-  },
-  {
-    "id": "jmdict-1198760-0187ae27",
-    "kana": "かいだん",
-    "romaji": [
-      "kaidan"
-    ],
-    "kanji": "会談",
-    "translation": "talks (i.e. formal discussions)",
-    "source": "JMdict",
-    "sourceId": 1198760
-  },
-  {
-    "id": "jmdict-1206900-58f16b7e",
-    "kana": "がくせい",
-    "romaji": [
-      "gakusei"
-    ],
-    "kanji": "学生",
-    "translation": "student (esp. a university student)",
-    "source": "JMdict",
-    "sourceId": 1206900
-  },
-  {
-    "id": "jmdict-1445040-b2fee907",
-    "kana": "とない",
-    "romaji": [
-      "tonai"
-    ],
-    "kanji": "都内",
-    "translation": "within the (Tokyo) metropolitan area",
-    "source": "JMdict",
-    "sourceId": 1445040
-  },
-  {
-    "id": "jmdict-1399660-3966bed4",
-    "kana": "そうさ",
-    "romaji": [
-      "sousa"
-    ],
-    "kanji": "捜査",
-    "translation": "search (esp. in criminal investigations)",
-    "source": "JMdict",
-    "sourceId": 1399660
-  },
-  {
-    "id": "jmdict-1499150-b494f746",
-    "kana": "ぶたい",
-    "romaji": [
-      "butai"
-    ],
-    "kanji": "舞台",
-    "translation": "stage (of a theatre, concert hall, etc.)",
-    "source": "JMdict",
-    "sourceId": 1499150
-  },
-  {
-    "id": "jmdict-1190580-02c0e8e7",
-    "kana": "かめい",
-    "romaji": [
-      "kamei"
-    ],
-    "kanji": "加盟",
-    "translation": "joining (an association, agreement, etc.)",
-    "source": "JMdict",
-    "sourceId": 1190580
-  },
-  {
-    "id": "jmdict-1308305-2b489cba",
-    "kana": "しじょう",
-    "romaji": [
-      "shijou"
-    ],
-    "kanji": "市場",
-    "translation": "market (financial, stock, domestic, etc.)",
-    "source": "JMdict",
-    "sourceId": 1308305
-  },
-  {
-    "id": "jmdict-1297910-2981e88c",
-    "kana": "さくひん",
-    "romaji": [
-      "sakuhin"
-    ],
-    "kanji": "作品",
-    "translation": "work (e.g. book, film, painting, composition)",
-    "source": "JMdict",
-    "sourceId": 1297910
-  },
-  {
-    "id": "jmdict-1499460-7d1a346c",
-    "kana": "ぶちょう",
-    "romaji": [
-      "buchou"
-    ],
-    "kanji": "部長",
-    "translation": "head (chief, director) of a section or department",
-    "source": "JMdict",
-    "sourceId": 1499460
-  },
-  {
-    "id": "jmdict-1331840-e5d40446",
-    "kana": "しゅう",
-    "romaji": [
-      "shuu"
-    ],
-    "kanji": "州",
-    "translation": "state (of the US, Australia, India, Germany, etc.)",
-    "source": "JMdict",
-    "sourceId": 1331840
-  },
-  {
-    "id": "jmdict-1208360-f1d6e959",
-    "kana": "かつどう",
-    "romaji": [
-      "katsudou"
-    ],
-    "kanji": "活動",
-    "translation": "activity (of a person, organization, animal, volcano, etc.)",
-    "source": "JMdict",
-    "sourceId": 1208360
-  },
-  {
-    "id": "jmdict-1607050-c7fcb8cf",
-    "kana": "われわれ",
-    "romaji": [
-      "wareware"
-    ],
-    "kanji": "我々",
-    "translation": "we",
-    "source": "JMdict",
-    "sourceId": 1607050
-  },
-  {
-    "id": "jmdict-1201190-20efa2e0",
-    "kana": "うみ",
-    "romaji": [
-      "umi"
-    ],
-    "kanji": "海",
-    "translation": "sea",
-    "source": "JMdict",
-    "sourceId": 1201190
-  },
-  {
-    "id": "jmdict-1281830-b7b8fdef",
-    "kana": "こうい",
-    "romaji": [
-      "koui"
-    ],
-    "kanji": "行為",
-    "translation": "act",
-    "source": "JMdict",
-    "sourceId": 1281830
-  },
-  {
-    "id": "jmdict-1294890-c25d3abd",
-    "kana": "さいよう",
-    "romaji": [
-      "saiyou"
-    ],
-    "kanji": "採用",
-    "translation": "use",
-    "source": "JMdict",
-    "sourceId": 1294890
-  },
-  {
-    "id": "jmdict-1306200-577b89c6",
-    "kana": "しよう",
-    "romaji": [
-      "shiyou"
-    ],
-    "kanji": "使用",
-    "translation": "use",
-    "source": "JMdict",
-    "sourceId": 1306200
-  },
-  {
-    "id": "jmdict-1382830-c867ee9c",
-    "kana": "せきゆ",
-    "romaji": [
-      "sekiyu"
-    ],
-    "kanji": "石油",
-    "translation": "oil",
-    "source": "JMdict",
-    "sourceId": 1382830
-  },
-  {
-    "id": "jmdict-1461160-c9ffe5da",
-    "kana": "ふたつ",
-    "romaji": [
-      "futatsu"
-    ],
-    "kanji": "二つ",
-    "translation": "two",
-    "source": "JMdict",
-    "sourceId": 1461160
-  },
-  {
-    "id": "jmdict-1483150-0d3b68ee",
-    "kana": "かのじょ",
-    "romaji": [
-      "kanojo"
-    ],
-    "kanji": "彼女",
-    "translation": "she",
-    "source": "JMdict",
-    "sourceId": 1483150
-  },
-  {
-    "id": "jmdict-1486440-b923df2a",
-    "kana": "びじゅつ",
-    "romaji": [
-      "bijutsu"
-    ],
-    "kanji": "美術",
-    "translation": "art",
-    "source": "JMdict",
-    "sourceId": 1486440
-  },
-  {
-    "id": "jmdict-1517480-17989b8d",
-    "kana": "ほうりつ",
-    "romaji": [
-      "houritsu"
-    ],
-    "kanji": "法律",
-    "translation": "law",
-    "source": "JMdict",
-    "sourceId": 1517480
-  },
-  {
-    "id": "jmdict-1549660-51836934",
-    "kana": "りよう",
-    "romaji": [
-      "riyou"
-    ],
-    "kanji": "利用",
-    "translation": "use",
-    "source": "JMdict",
-    "sourceId": 1549660
-  },
-  {
-    "id": "jmdict-1600240-d57a5f9e",
-    "kana": "ねんれい",
-    "romaji": [
-      "nenrei"
-    ],
-    "kanji": "年齢",
-    "translation": "age",
-    "source": "JMdict",
-    "sourceId": 1600240
-  },
-  {
-    "id": "jmdict-1656380-10244fb3",
-    "kana": "にひゃく",
-    "romaji": [
-      "nihyaku"
-    ],
-    "kanji": "二百",
-    "translation": "200",
-    "source": "JMdict",
-    "sourceId": 1656380
-  },
-  {
-    "id": "jmdict-1150410-cfd60848",
-    "kana": "あい",
-    "romaji": [
-      "ai"
-    ],
-    "kanji": "愛",
-    "translation": "love",
-    "source": "JMdict",
-    "sourceId": 1150410
-  },
-  {
-    "id": "jmdict-1171900-d81b8564",
+    "id": "curated-hiragana-d81b8564",
     "kana": "あめ",
     "romaji": [
       "ame"
     ],
     "kanji": "雨",
     "translation": "rain",
-    "source": "JMdict",
-    "sourceId": 1171900
+    "source": "curated",
+    "sourceId": "hiragana-129"
   },
   {
-    "id": "jmdict-1219910-d8df9af4",
-    "kana": "きぼう",
+    "id": "curated-hiragana-bf4e36ec",
+    "kana": "いえ",
     "romaji": [
-      "kibou"
+      "ie"
     ],
-    "kanji": "希望",
-    "translation": "hope",
-    "source": "JMdict",
-    "sourceId": 1219910
+    "kanji": "家",
+    "translation": "house",
+    "source": "curated",
+    "sourceId": "hiragana-130"
   },
   {
-    "id": "jmdict-1236660-1fceb451",
-    "kana": "おそれ",
+    "id": "curated-hiragana-7269c3d5",
+    "kana": "いぬ",
     "romaji": [
-      "osore"
+      "inu"
     ],
-    "kanji": "恐れ",
-    "translation": "fear",
-    "source": "JMdict",
-    "sourceId": 1236660
+    "kanji": "犬",
+    "translation": "dog",
+    "source": "curated",
+    "sourceId": "hiragana-131"
   },
   {
-    "id": "jmdict-1247660-f9e3e287",
-    "kana": "ぐん",
+    "id": "curated-hiragana-bae8a4bd",
+    "kana": "うえ",
     "romaji": [
-      "gun"
+      "ue"
     ],
-    "kanji": "軍",
-    "translation": "army",
-    "source": "JMdict",
-    "sourceId": 1247660
+    "kanji": "上",
+    "translation": "above",
+    "source": "curated",
+    "sourceId": "hiragana-132"
   },
   {
-    "id": "jmdict-1279780-52f6d8d3",
-    "kana": "こうそう",
+    "id": "curated-hiragana-20efa2e0",
+    "kana": "うみ",
     "romaji": [
-      "kousou"
+      "umi"
     ],
-    "kanji": "構想",
-    "translation": "plan",
-    "source": "JMdict",
-    "sourceId": 1279780
+    "kanji": "海",
+    "translation": "sea",
+    "source": "curated",
+    "sourceId": "hiragana-133"
   },
   {
-    "id": "jmdict-1379950-0689bb4b",
-    "kana": "せいしん",
-    "romaji": [
-      "seishin"
-    ],
-    "kanji": "精神",
-    "translation": "mind",
-    "source": "JMdict",
-    "sourceId": 1379950
-  },
-  {
-    "id": "jmdict-1380840-666f5a3c",
-    "kana": "にし",
-    "romaji": [
-      "nishi"
-    ],
-    "kanji": "西",
-    "translation": "west",
-    "source": "JMdict",
-    "sourceId": 1380840
-  },
-  {
-    "id": "jmdict-1409140-f81ed7a6",
-    "kana": "からだ",
-    "romaji": [
-      "karada"
-    ],
-    "kanji": "体",
-    "translation": "body",
-    "source": "JMdict",
-    "sourceId": 1409140
-  },
-  {
-    "id": "jmdict-1415000-b084a6a0",
-    "kana": "たいへん",
-    "romaji": [
-      "taihen"
-    ],
-    "kanji": "大変",
-    "translation": "very",
-    "source": "JMdict",
-    "sourceId": 1415000
-  },
-  {
-    "id": "jmdict-1453550-1321b578",
-    "kana": "どうよう",
-    "romaji": [
-      "douyou"
-    ],
-    "kanji": "同様",
-    "translation": "same",
-    "source": "JMdict",
-    "sourceId": 1453550
-  },
-  {
-    "id": "jmdict-1454290-e6605cf6",
-    "kana": "どうろ",
-    "romaji": [
-      "douro"
-    ],
-    "kanji": "道路",
-    "translation": "road",
-    "source": "JMdict",
-    "sourceId": 1454290
-  },
-  {
-    "id": "jmdict-1468060-f8feb305",
-    "kana": "とし",
-    "romaji": [
-      "toshi"
-    ],
-    "kanji": "年",
-    "translation": "year",
-    "source": "JMdict",
-    "sourceId": 1468060
-  },
-  {
-    "id": "jmdict-1479890-71dd0cb1",
-    "kana": "はんぶん",
-    "romaji": [
-      "hanbun"
-    ],
-    "kanji": "半分",
-    "translation": "half",
-    "source": "JMdict",
-    "sourceId": 1479890
-  },
-  {
-    "id": "jmdict-1483090-82f2c0c2",
-    "kana": "かれら",
-    "romaji": [
-      "karera"
-    ],
-    "kanji": "彼ら",
-    "translation": "they",
-    "source": "JMdict",
-    "sourceId": 1483090
-  },
-  {
-    "id": "jmdict-1484620-70feb86d",
-    "kana": "ひよう",
-    "romaji": [
-      "hiyou"
-    ],
-    "kanji": "費用",
-    "translation": "cost",
-    "source": "JMdict",
-    "sourceId": 1484620
-  },
-  {
-    "id": "jmdict-1496540-e4faba31",
-    "kana": "ふじん",
-    "romaji": [
-      "fujin"
-    ],
-    "kanji": "夫人",
-    "translation": "wife",
-    "source": "JMdict",
-    "sourceId": 1496540
-  },
-  {
-    "id": "jmdict-1498740-3c8c8588",
-    "kana": "ぶそう",
-    "romaji": [
-      "busou"
-    ],
-    "kanji": "武装",
-    "translation": "arms",
-    "source": "JMdict",
-    "sourceId": 1498740
-  },
-  {
-    "id": "jmdict-1499320-3cf1c471",
-    "kana": "へや",
-    "romaji": [
-      "heya"
-    ],
-    "kanji": "部屋",
-    "translation": "room",
-    "source": "JMdict",
-    "sourceId": 1499320
-  },
-  {
-    "id": "jmdict-1509290-1afc6146",
-    "kana": "かべ",
-    "romaji": [
-      "kabe"
-    ],
-    "kanji": "壁",
-    "translation": "wall",
-    "source": "JMdict",
-    "sourceId": 1509290
-  },
-  {
-    "id": "jmdict-1531710-17d0cfcd",
-    "kana": "なまえ",
-    "romaji": [
-      "namae"
-    ],
-    "kanji": "名前",
-    "translation": "name",
-    "source": "JMdict",
-    "sourceId": 1531710
-  },
-  {
-    "id": "jmdict-1555440-dc9d031c",
-    "kana": "はやし",
-    "romaji": [
-      "hayashi"
-    ],
-    "kanji": "林",
-    "translation": "wood",
-    "source": "JMdict",
-    "sourceId": 1555440
-  },
-  {
-    "id": "jmdict-1577100-b41e23d0",
-    "kana": "なに",
-    "romaji": [
-      "nani"
-    ],
-    "kanji": "何",
-    "translation": "what",
-    "source": "JMdict",
-    "sourceId": 1577100
-  },
-  {
-    "id": "jmdict-1587690-d39261d8",
-    "kana": "いよく",
-    "romaji": [
-      "iyoku"
-    ],
-    "kanji": "意欲",
-    "translation": "will",
-    "source": "JMdict",
-    "sourceId": 1587690
-  },
-  {
-    "id": "jmdict-1596930-4fa8cbb2",
-    "kana": "たしか",
-    "romaji": [
-      "tashika"
-    ],
-    "kanji": "確か",
-    "translation": "sure",
-    "source": "JMdict",
-    "sourceId": 1596930
-  },
-  {
-    "id": "jmdict-1603990-75fb0ca0",
-    "kana": "まち",
-    "romaji": [
-      "machi"
-    ],
-    "kanji": "町",
-    "translation": "town",
-    "source": "JMdict",
-    "sourceId": 1603990
-  },
-  {
-    "id": "jmdict-1199680-26d84056",
-    "kana": "かいとう",
-    "romaji": [
-      "kaitou"
-    ],
-    "kanji": "回答",
-    "translation": "reply",
-    "source": "JMdict",
-    "sourceId": 1199680
-  },
-  {
-    "id": "jmdict-1202760-11c4c23c",
-    "kana": "かいし",
-    "romaji": [
-      "kaishi"
-    ],
-    "kanji": "開始",
-    "translation": "start",
-    "source": "JMdict",
-    "sourceId": 1202760
-  },
-  {
-    "id": "jmdict-1225630-3953d507",
-    "kana": "ぎもん",
-    "romaji": [
-      "gimon"
-    ],
-    "kanji": "疑問",
-    "translation": "doubt",
-    "source": "JMdict",
-    "sourceId": 1225630
-  },
-  {
-    "id": "jmdict-1237820-7a4bc283",
-    "kana": "むね",
-    "romaji": [
-      "mune"
-    ],
-    "kanji": "胸",
-    "translation": "chest",
-    "source": "JMdict",
-    "sourceId": 1237820
-  },
-  {
-    "id": "jmdict-1257720-789d22a0",
-    "kana": "けねん",
-    "romaji": [
-      "kenen"
-    ],
-    "kanji": "懸念",
-    "translation": "worry",
-    "source": "JMdict",
-    "sourceId": 1257720
-  },
-  {
-    "id": "jmdict-1258200-183186bc",
-    "kana": "けんり",
-    "romaji": [
-      "kenri"
-    ],
-    "kanji": "権利",
-    "translation": "right",
-    "source": "JMdict",
-    "sourceId": 1258200
-  },
-  {
-    "id": "jmdict-1275640-08c26b98",
-    "kana": "くち",
-    "romaji": [
-      "kuchi"
-    ],
-    "kanji": "口",
-    "translation": "mouth",
-    "source": "JMdict",
-    "sourceId": 1275640
-  },
-  {
-    "id": "jmdict-1292300-dad22e57",
-    "kana": "ふたたび",
-    "romaji": [
-      "futatabi"
-    ],
-    "kanji": "再び",
-    "translation": "again",
-    "source": "JMdict",
-    "sourceId": 1292300
-  },
-  {
-    "id": "jmdict-1308610-508fb3cc",
-    "kana": "しちょう",
-    "romaji": [
-      "shichou"
-    ],
-    "kanji": "市長",
-    "translation": "mayor",
-    "source": "JMdict",
-    "sourceId": 1308610
-  },
-  {
-    "id": "jmdict-1326320-6ef9f3a1",
-    "kana": "しゅよう",
-    "romaji": [
-      "shuyou"
-    ],
-    "kanji": "主要",
-    "translation": "chief",
-    "source": "JMdict",
-    "sourceId": 1326320
-  },
-  {
-    "id": "jmdict-1344930-a08f153e",
-    "kana": "おんな",
-    "romaji": [
-      "onna"
-    ],
-    "kanji": "女",
-    "translation": "woman",
-    "source": "JMdict",
-    "sourceId": 1344930
-  },
-  {
-    "id": "jmdict-1379380-fb406377",
-    "kana": "せいと",
-    "romaji": [
-      "seito"
-    ],
-    "kanji": "生徒",
-    "translation": "pupil",
-    "source": "JMdict",
-    "sourceId": 1379380
-  },
-  {
-    "id": "jmdict-1471560-a86ca2e7",
+    "id": "curated-hiragana-a86ca2e7",
     "kana": "うま",
     "romaji": [
       "uma"
     ],
     "kanji": "馬",
     "translation": "horse",
-    "source": "JMdict",
-    "sourceId": 1471560
+    "source": "curated",
+    "sourceId": "hiragana-134"
   },
   {
-    "id": "jmdict-1500880-1c263386",
-    "kana": "はば",
+    "id": "curated-hiragana-1f819272",
+    "kana": "えき",
     "romaji": [
-      "haba"
+      "eki"
     ],
-    "kanji": "幅",
-    "translation": "width",
-    "source": "JMdict",
-    "sourceId": 1500880
+    "kanji": "駅",
+    "translation": "station",
+    "source": "curated",
+    "sourceId": "hiragana-135"
   },
   {
-    "id": "jmdict-1523060-06b273db",
-    "kana": "ほんとう",
+    "id": "curated-hiragana-c0a34a63",
+    "kana": "おか",
     "romaji": [
-      "hontou"
+      "oka"
     ],
-    "kanji": "本当",
-    "translation": "truth",
-    "source": "JMdict",
-    "sourceId": 1523060
+    "kanji": "丘",
+    "translation": "hill",
+    "source": "curated",
+    "sourceId": "hiragana-136"
   },
   {
-    "id": "jmdict-1529410-3b4b5bff",
-    "kana": "ゆめ",
-    "romaji": [
-      "yume"
-    ],
-    "kanji": "夢",
-    "translation": "dream",
-    "source": "JMdict",
-    "sourceId": 1529410
-  },
-  {
-    "id": "jmdict-1531870-b2e03310",
-    "kana": "めいよ",
-    "romaji": [
-      "meiyo"
-    ],
-    "kanji": "名誉",
-    "translation": "honor",
-    "source": "JMdict",
-    "sourceId": 1531870
-  },
-  {
-    "id": "jmdict-1532410-853d27cc",
-    "kana": "めいかく",
-    "romaji": [
-      "meikaku"
-    ],
-    "kanji": "明確",
-    "translation": "clear",
-    "source": "JMdict",
-    "sourceId": 1532410
-  },
-  {
-    "id": "jmdict-1536350-fdf61819",
-    "kana": "よる",
-    "romaji": [
-      "yoru"
-    ],
-    "kanji": "夜",
-    "translation": "night",
-    "source": "JMdict",
-    "sourceId": 1536350
-  },
-  {
-    "id": "jmdict-1541290-20309feb",
-    "kana": "ゆうこう",
-    "romaji": [
-      "yuukou"
-    ],
-    "kanji": "有効",
-    "translation": "valid",
-    "source": "JMdict",
-    "sourceId": 1541290
-  },
-  {
-    "id": "jmdict-1562400-3a196e2b",
-    "kana": "わだい",
-    "romaji": [
-      "wadai"
-    ],
-    "kanji": "話題",
-    "translation": "topic",
-    "source": "JMdict",
-    "sourceId": 1562400
-  },
-  {
-    "id": "jmdict-1576900-f94d69e6",
+    "id": "curated-hiragana-f94d69e6",
     "kana": "おと",
     "romaji": [
       "oto"
     ],
     "kanji": "音",
     "translation": "sound",
-    "source": "JMdict",
-    "sourceId": 1576900
+    "source": "curated",
+    "sourceId": "hiragana-137"
   },
   {
-    "id": "jmdict-1155180-d56865b6",
-    "kana": "いない",
+    "id": "curated-hiragana-0b2aa999",
+    "kana": "かお",
     "romaji": [
-      "inai"
+      "kao"
     ],
-    "kanji": "以内",
-    "translation": "within",
-    "source": "JMdict",
-    "sourceId": 1155180
+    "kanji": "顔",
+    "translation": "face",
+    "source": "curated",
+    "sourceId": "hiragana-138"
   },
   {
-    "id": "jmdict-1159930-863ce866",
-    "kana": "いし",
+    "id": "curated-hiragana-2aa878d7",
+    "kana": "かぎ",
     "romaji": [
-      "ishi"
+      "kagi"
     ],
-    "kanji": "医師",
-    "translation": "doctor",
-    "source": "JMdict",
-    "sourceId": 1159930
+    "kanji": "鍵",
+    "translation": "key",
+    "source": "curated",
+    "sourceId": "hiragana-139"
   },
   {
-    "id": "jmdict-1176960-585f1121",
-    "kana": "えんぜつ",
+    "id": "curated-hiragana-4eb7b7e8",
+    "kana": "かさ",
     "romaji": [
-      "enzetsu"
+      "kasa"
     ],
-    "kanji": "演説",
-    "translation": "speech",
-    "source": "JMdict",
-    "sourceId": 1176960
+    "kanji": "傘",
+    "translation": "umbrella",
+    "source": "curated",
+    "sourceId": "hiragana-140"
   },
   {
-    "id": "jmdict-1214330-e64cbd31",
-    "kana": "かんたん",
+    "id": "curated-hiragana-eeae999e",
+    "kana": "かぜ",
     "romaji": [
-      "kantan"
+      "kaze"
     ],
-    "kanji": "簡単",
-    "translation": "simple",
-    "source": "JMdict",
-    "sourceId": 1214330
+    "kanji": "風",
+    "translation": "wind",
+    "source": "curated",
+    "sourceId": "hiragana-141"
   },
   {
-    "id": "jmdict-1214530-0a3aff57",
-    "kana": "かんわ",
+    "id": "curated-hiragana-55e7a9a4",
+    "kana": "かに",
     "romaji": [
-      "kanwa"
+      "kani"
     ],
-    "kanji": "緩和",
-    "translation": "relief",
-    "source": "JMdict",
-    "sourceId": 1214530
+    "kanji": "蟹",
+    "translation": "crab",
+    "source": "curated",
+    "sourceId": "hiragana-142"
   },
   {
-    "id": "jmdict-1218560-07f0dc91",
-    "kana": "きけん",
+    "id": "curated-hiragana-8fc5be89",
+    "kana": "かみ",
     "romaji": [
-      "kiken"
+      "kami"
     ],
-    "kanji": "危険",
-    "translation": "danger",
-    "source": "JMdict",
-    "sourceId": 1218560
+    "kanji": "紙",
+    "translation": "paper",
+    "source": "curated",
+    "sourceId": "hiragana-143"
   },
   {
-    "id": "jmdict-1220800-6bde5b01",
-    "kana": "きかい",
+    "id": "curated-hiragana-1d9015bd",
+    "kana": "かわ",
     "romaji": [
-      "kikai"
+      "kawa"
     ],
-    "kanji": "機会",
-    "translation": "chance",
-    "source": "JMdict",
-    "sourceId": 1220800
+    "kanji": "川",
+    "translation": "river",
+    "source": "curated",
+    "sourceId": "hiragana-144"
   },
   {
-    "id": "jmdict-1256170-0120072b",
-    "kana": "けんこう",
+    "id": "curated-hiragana-3fa23df0",
+    "kana": "きた",
     "romaji": [
-      "kenkou"
+      "kita"
     ],
-    "kanji": "健康",
-    "translation": "health",
-    "source": "JMdict",
-    "sourceId": 1256170
+    "kanji": "北",
+    "translation": "north",
+    "source": "curated",
+    "sourceId": "hiragana-145"
   },
   {
-    "id": "jmdict-1330450-3da690fd",
-    "kana": "じゅよう",
+    "id": "curated-hiragana-08c26b98",
+    "kana": "くち",
     "romaji": [
-      "juyou"
+      "kuchi"
     ],
-    "kanji": "需要",
-    "translation": "demand",
-    "source": "JMdict",
-    "sourceId": 1330450
+    "kanji": "口",
+    "translation": "mouth",
+    "source": "curated",
+    "sourceId": "hiragana-146"
   },
   {
-    "id": "jmdict-1343360-430b0b6e",
-    "kana": "しょとく",
+    "id": "curated-hiragana-7b473f28",
+    "kana": "くに",
     "romaji": [
-      "shotoku"
+      "kuni"
     ],
-    "kanji": "所得",
-    "translation": "income",
-    "source": "JMdict",
-    "sourceId": 1343360
+    "kanji": "国",
+    "translation": "country",
+    "source": "curated",
+    "sourceId": "hiragana-147"
   },
   {
-    "id": "jmdict-1357600-2b4861b6",
-    "kana": "いろ",
+    "id": "curated-hiragana-0d198b32",
+    "kana": "くり",
     "romaji": [
-      "iro"
+      "kuri"
     ],
-    "kanji": "色",
-    "translation": "colour",
-    "source": "JMdict",
-    "sourceId": 1357600
+    "kanji": "栗",
+    "translation": "chestnut",
+    "source": "curated",
+    "sourceId": "hiragana-148"
   },
   {
-    "id": "jmdict-1362490-398c81fd",
-    "kana": "もり",
+    "id": "curated-hiragana-291ce0bf",
+    "kana": "こえ",
     "romaji": [
-      "mori"
+      "koe"
     ],
-    "kanji": "森",
-    "translation": "forest",
-    "source": "JMdict",
-    "sourceId": 1362490
+    "kanji": "声",
+    "translation": "voice",
+    "source": "curated",
+    "sourceId": "hiragana-149"
   },
   {
-    "id": "jmdict-1365040-e3e673bc",
-    "kana": "おや",
+    "id": "curated-hiragana-c92a9d33",
+    "kana": "ここ",
     "romaji": [
-      "oya"
+      "koko"
     ],
-    "kanji": "親",
-    "translation": "parent",
-    "source": "JMdict",
-    "sourceId": 1365040
+    "kanji": "此処",
+    "translation": "here",
+    "source": "curated",
+    "sourceId": "hiragana-150"
   },
   {
-    "id": "jmdict-1369070-e061a4ad",
-    "kana": "じんぶつ",
+    "id": "curated-hiragana-d8740df2",
+    "kana": "こめ",
     "romaji": [
-      "jinbutsu"
+      "kome"
     ],
-    "kanji": "人物",
-    "translation": "person",
-    "source": "JMdict",
-    "sourceId": 1369070
+    "kanji": "米",
+    "translation": "rice",
+    "source": "curated",
+    "sourceId": "hiragana-151"
   },
   {
-    "id": "jmdict-1377290-cd0dcb72",
-    "kana": "せいしき",
+    "id": "curated-hiragana-c9a3ad83",
+    "kana": "さかな",
     "romaji": [
-      "seishiki"
+      "sakana"
     ],
-    "kanji": "正式",
-    "translation": "formal",
-    "source": "JMdict",
-    "sourceId": 1377290
+    "kanji": "魚",
+    "translation": "fish",
+    "source": "curated",
+    "sourceId": "hiragana-152"
   },
   {
-    "id": "jmdict-1390420-f960aad8",
-    "kana": "せんとう",
+    "id": "curated-hiragana-5cfcb44c",
+    "kana": "さる",
     "romaji": [
-      "sentou"
+      "saru"
     ],
-    "kanji": "戦闘",
-    "translation": "battle",
-    "source": "JMdict",
-    "sourceId": 1390420
+    "kanji": "猿",
+    "translation": "monkey",
+    "source": "curated",
+    "sourceId": "hiragana-153"
   },
   {
-    "id": "jmdict-1411470-56cceeef",
-    "kana": "たいほ",
+    "id": "curated-hiragana-b369d1f3",
+    "kana": "しお",
     "romaji": [
-      "taiho"
+      "shio"
     ],
-    "kanji": "逮捕",
-    "translation": "arrest",
-    "source": "JMdict",
-    "sourceId": 1411470
+    "kanji": "塩",
+    "translation": "salt",
+    "source": "curated",
+    "sourceId": "hiragana-154"
   },
   {
-    "id": "jmdict-1426480-3ce682bb",
-    "kana": "はしら",
+    "id": "curated-hiragana-98502b14",
+    "kana": "した",
     "romaji": [
-      "hashira"
+      "shita"
     ],
-    "kanji": "柱",
-    "translation": "pillar",
-    "source": "JMdict",
-    "sourceId": 1426480
+    "kanji": "下",
+    "translation": "below",
+    "source": "curated",
+    "sourceId": "hiragana-155"
   },
   {
-    "id": "jmdict-1446760-b6554764",
+    "id": "curated-hiragana-b6554764",
     "kana": "しま",
     "romaji": [
       "shima"
     ],
     "kanji": "島",
     "translation": "island",
-    "source": "JMdict",
-    "sourceId": 1446760
+    "source": "curated",
+    "sourceId": "hiragana-156"
   },
   {
-    "id": "jmdict-1451470-13035a84",
-    "kana": "どうぶつ",
+    "id": "curated-hiragana-a8f7560f",
+    "kana": "そと",
     "romaji": [
-      "doubutsu"
+      "soto"
     ],
-    "kanji": "動物",
-    "translation": "animal",
-    "source": "JMdict",
-    "sourceId": 1451470
+    "kanji": "外",
+    "translation": "outside",
+    "source": "curated",
+    "sourceId": "hiragana-157"
   },
   {
-    "id": "jmdict-1471180-da52b6db",
-    "kana": "はばつ",
+    "id": "curated-hiragana-9ea4233c",
+    "kana": "そら",
     "romaji": [
-      "habatsu"
+      "sora"
     ],
-    "kanji": "派閥",
-    "translation": "clique",
-    "source": "JMdict",
-    "sourceId": 1471180
+    "kanji": "空",
+    "translation": "sky",
+    "source": "curated",
+    "sourceId": "hiragana-158"
   },
   {
-    "id": "jmdict-1497190-3331664a",
-    "kana": "ふつう",
+    "id": "curated-hiragana-38e52f03",
+    "kana": "たこ",
     "romaji": [
-      "futsuu"
+      "tako"
     ],
-    "kanji": "普通",
-    "translation": "normal",
-    "source": "JMdict",
-    "sourceId": 1497190
+    "kanji": "蛸",
+    "translation": "octopus",
+    "source": "curated",
+    "sourceId": "hiragana-159"
   },
   {
-    "id": "jmdict-1497680-becebdb8",
-    "kana": "ちちおや",
+    "id": "curated-hiragana-2c80d00d",
+    "kana": "たに",
     "romaji": [
-      "chichioya"
+      "tani"
     ],
-    "kanji": "父親",
+    "kanji": "谷",
+    "translation": "valley",
+    "source": "curated",
+    "sourceId": "hiragana-160"
+  },
+  {
+    "id": "curated-hiragana-7446c97e",
+    "kana": "たまご",
+    "romaji": [
+      "tamago"
+    ],
+    "kanji": "卵",
+    "translation": "egg",
+    "source": "curated",
+    "sourceId": "hiragana-161"
+  },
+  {
+    "id": "curated-hiragana-e83cd951",
+    "kana": "つき",
+    "romaji": [
+      "tsuki"
+    ],
+    "kanji": "月",
+    "translation": "moon",
+    "source": "curated",
+    "sourceId": "hiragana-162"
+  },
+  {
+    "id": "curated-hiragana-f4abb6f9",
+    "kana": "つの",
+    "romaji": [
+      "tsuno"
+    ],
+    "kanji": "角",
+    "translation": "horn",
+    "source": "curated",
+    "sourceId": "hiragana-163"
+  },
+  {
+    "id": "curated-hiragana-946eff4b",
+    "kana": "てら",
+    "romaji": [
+      "tera"
+    ],
+    "kanji": "寺",
+    "translation": "temple",
+    "source": "curated",
+    "sourceId": "hiragana-164"
+  },
+  {
+    "id": "curated-hiragana-519b726b",
+    "kana": "とり",
+    "romaji": [
+      "tori"
+    ],
+    "kanji": "鳥",
+    "translation": "bird",
+    "source": "curated",
+    "sourceId": "hiragana-165"
+  },
+  {
+    "id": "curated-hiragana-ba6a92ca",
+    "kana": "なか",
+    "romaji": [
+      "naka"
+    ],
+    "kanji": "中",
+    "translation": "inside",
+    "source": "curated",
+    "sourceId": "hiragana-166"
+  },
+  {
+    "id": "curated-hiragana-1a2e920b",
+    "kana": "なし",
+    "romaji": [
+      "nashi"
+    ],
+    "kanji": "梨",
+    "translation": "pear",
+    "source": "curated",
+    "sourceId": "hiragana-167"
+  },
+  {
+    "id": "curated-hiragana-52663976",
+    "kana": "なつ",
+    "romaji": [
+      "natsu"
+    ],
+    "kanji": "夏",
+    "translation": "summer",
+    "source": "curated",
+    "sourceId": "hiragana-168"
+  },
+  {
+    "id": "curated-hiragana-c6a40714",
+    "kana": "なべ",
+    "romaji": [
+      "nabe"
+    ],
+    "kanji": "鍋",
+    "translation": "pot",
+    "source": "curated",
+    "sourceId": "hiragana-169"
+  },
+  {
+    "id": "curated-hiragana-03fbadfb",
+    "kana": "にく",
+    "romaji": [
+      "niku"
+    ],
+    "kanji": "肉",
+    "translation": "meat",
+    "source": "curated",
+    "sourceId": "hiragana-170"
+  },
+  {
+    "id": "curated-hiragana-666f5a3c",
+    "kana": "にし",
+    "romaji": [
+      "nishi"
+    ],
+    "kanji": "西",
+    "translation": "west",
+    "source": "curated",
+    "sourceId": "hiragana-171"
+  },
+  {
+    "id": "curated-hiragana-d1ca85a1",
+    "kana": "ねこ",
+    "romaji": [
+      "neko"
+    ],
+    "kanji": "猫",
+    "translation": "cat",
+    "source": "curated",
+    "sourceId": "hiragana-172"
+  },
+  {
+    "id": "curated-hiragana-4b1288c8",
+    "kana": "はこ",
+    "romaji": [
+      "hako"
+    ],
+    "kanji": "箱",
+    "translation": "box",
+    "source": "curated",
+    "sourceId": "hiragana-173"
+  },
+  {
+    "id": "curated-hiragana-646b7715",
+    "kana": "はし",
+    "romaji": [
+      "hashi"
+    ],
+    "kanji": "橋",
+    "translation": "bridge",
+    "source": "curated",
+    "sourceId": "hiragana-174"
+  },
+  {
+    "id": "curated-hiragana-e37121de",
+    "kana": "はな",
+    "romaji": [
+      "hana"
+    ],
+    "kanji": "花",
+    "translation": "flower",
+    "source": "curated",
+    "sourceId": "hiragana-175"
+  },
+  {
+    "id": "curated-hiragana-cf08db44",
+    "kana": "はね",
+    "romaji": [
+      "hane"
+    ],
+    "kanji": "羽",
+    "translation": "feather",
+    "source": "curated",
+    "sourceId": "hiragana-176"
+  },
+  {
+    "id": "curated-hiragana-3f2dd258",
+    "kana": "はる",
+    "romaji": [
+      "haru"
+    ],
+    "kanji": "春",
+    "translation": "spring",
+    "source": "curated",
+    "sourceId": "hiragana-177"
+  },
+  {
+    "id": "curated-hiragana-bdd2e2e8",
+    "kana": "ひがし",
+    "romaji": [
+      "higashi"
+    ],
+    "kanji": "東",
+    "translation": "east",
+    "source": "curated",
+    "sourceId": "hiragana-178"
+  },
+  {
+    "id": "curated-hiragana-2fb460b7",
+    "kana": "ひと",
+    "romaji": [
+      "hito"
+    ],
+    "kanji": "人",
+    "translation": "person",
+    "source": "curated",
+    "sourceId": "hiragana-179"
+  },
+  {
+    "id": "curated-hiragana-82edd929",
+    "kana": "ふね",
+    "romaji": [
+      "fune"
+    ],
+    "kanji": "船",
+    "translation": "boat",
+    "source": "curated",
+    "sourceId": "hiragana-180"
+  },
+  {
+    "id": "curated-hiragana-f7e47c22",
+    "kana": "ふゆ",
+    "romaji": [
+      "fuyu"
+    ],
+    "kanji": "冬",
+    "translation": "winter",
+    "source": "curated",
+    "sourceId": "hiragana-181"
+  },
+  {
+    "id": "curated-hiragana-3cf1c471",
+    "kana": "へや",
+    "romaji": [
+      "heya"
+    ],
+    "kanji": "部屋",
+    "translation": "room",
+    "source": "curated",
+    "sourceId": "hiragana-182"
+  },
+  {
+    "id": "curated-hiragana-0a63d58c",
+    "kana": "ほし",
+    "romaji": [
+      "hoshi"
+    ],
+    "kanji": "星",
+    "translation": "star",
+    "source": "curated",
+    "sourceId": "hiragana-183"
+  },
+  {
+    "id": "curated-hiragana-75fb0ca0",
+    "kana": "まち",
+    "romaji": [
+      "machi"
+    ],
+    "kanji": "町",
+    "translation": "town",
+    "source": "curated",
+    "sourceId": "hiragana-184"
+  },
+  {
+    "id": "curated-hiragana-ed40559a",
+    "kana": "まど",
+    "romaji": [
+      "mado"
+    ],
+    "kanji": "窓",
+    "translation": "window",
+    "source": "curated",
+    "sourceId": "hiragana-185"
+  },
+  {
+    "id": "curated-hiragana-1a3d0aa3",
+    "kana": "みず",
+    "romaji": [
+      "mizu"
+    ],
+    "kanji": "水",
+    "translation": "water",
+    "source": "curated",
+    "sourceId": "hiragana-186"
+  },
+  {
+    "id": "curated-hiragana-6b25a3bc",
+    "kana": "みせ",
+    "romaji": [
+      "mise"
+    ],
+    "kanji": "店",
+    "translation": "shop",
+    "source": "curated",
+    "sourceId": "hiragana-187"
+  },
+  {
+    "id": "curated-hiragana-bd487055",
+    "kana": "みち",
+    "romaji": [
+      "michi"
+    ],
+    "kanji": "道",
+    "translation": "road",
+    "source": "curated",
+    "sourceId": "hiragana-188"
+  },
+  {
+    "id": "curated-hiragana-ff4b3492",
+    "kana": "みみ",
+    "romaji": [
+      "mimi"
+    ],
+    "kanji": "耳",
+    "translation": "ear",
+    "source": "curated",
+    "sourceId": "hiragana-189"
+  },
+  {
+    "id": "curated-hiragana-b1ee4961",
+    "kana": "むし",
+    "romaji": [
+      "mushi"
+    ],
+    "kanji": "虫",
+    "translation": "insect",
+    "source": "curated",
+    "sourceId": "hiragana-190"
+  },
+  {
+    "id": "curated-hiragana-03511daa",
+    "kana": "むら",
+    "romaji": [
+      "mura"
+    ],
+    "kanji": "村",
+    "translation": "village",
+    "source": "curated",
+    "sourceId": "hiragana-191"
+  },
+  {
+    "id": "curated-hiragana-398c81fd",
+    "kana": "もり",
+    "romaji": [
+      "mori"
+    ],
+    "kanji": "森",
+    "translation": "forest",
+    "source": "curated",
+    "sourceId": "hiragana-192"
+  },
+  {
+    "id": "curated-hiragana-5abad1d3",
+    "kana": "やま",
+    "romaji": [
+      "yama"
+    ],
+    "kanji": "山",
+    "translation": "mountain",
+    "source": "curated",
+    "sourceId": "hiragana-193"
+  },
+  {
+    "id": "curated-hiragana-fa6dfc8e",
+    "kana": "ゆき",
+    "romaji": [
+      "yuki"
+    ],
+    "kanji": "雪",
+    "translation": "snow",
+    "source": "curated",
+    "sourceId": "hiragana-194"
+  },
+  {
+    "id": "curated-hiragana-3b4b5bff",
+    "kana": "ゆめ",
+    "romaji": [
+      "yume"
+    ],
+    "kanji": "夢",
+    "translation": "dream",
+    "source": "curated",
+    "sourceId": "hiragana-195"
+  },
+  {
+    "id": "curated-hiragana-fdf61819",
+    "kana": "よる",
+    "romaji": [
+      "yoru"
+    ],
+    "kanji": "夜",
+    "translation": "night",
+    "source": "curated",
+    "sourceId": "hiragana-196"
+  },
+  {
+    "id": "curated-hiragana-7d69a37d",
+    "kana": "りす",
+    "romaji": [
+      "risu"
+    ],
+    "kanji": "栗鼠",
+    "translation": "squirrel",
+    "source": "curated",
+    "sourceId": "hiragana-197"
+  },
+  {
+    "id": "curated-hiragana-85fd660d",
+    "kana": "わに",
+    "romaji": [
+      "wani"
+    ],
+    "kanji": "鰐",
+    "translation": "crocodile",
+    "source": "curated",
+    "sourceId": "hiragana-198"
+  },
+  {
+    "id": "curated-hiragana-2ecb71d9",
+    "kana": "あお",
+    "romaji": [
+      "ao"
+    ],
+    "kanji": "青",
+    "translation": "blue",
+    "source": "curated",
+    "sourceId": "hiragana-199"
+  },
+  {
+    "id": "curated-hiragana-40df09fa",
+    "kana": "あか",
+    "romaji": [
+      "aka"
+    ],
+    "kanji": "赤",
+    "translation": "red",
+    "source": "curated",
+    "sourceId": "hiragana-200"
+  },
+  {
+    "id": "curated-hiragana-353f16aa",
+    "kana": "しろ",
+    "romaji": [
+      "shiro"
+    ],
+    "kanji": "白",
+    "translation": "white",
+    "source": "curated",
+    "sourceId": "hiragana-201"
+  },
+  {
+    "id": "curated-hiragana-cf934f3c",
+    "kana": "くろ",
+    "romaji": [
+      "kuro"
+    ],
+    "kanji": "黒",
+    "translation": "black",
+    "source": "curated",
+    "sourceId": "hiragana-202"
+  },
+  {
+    "id": "curated-hiragana-addb5d19",
+    "kana": "すし",
+    "romaji": [
+      "sushi"
+    ],
+    "kanji": "寿司",
+    "translation": "sushi",
+    "source": "curated",
+    "sourceId": "hiragana-203"
+  },
+  {
+    "id": "curated-hiragana-aea7b470",
+    "kana": "そば",
+    "romaji": [
+      "soba"
+    ],
+    "kanji": "蕎麦",
+    "translation": "soba noodles",
+    "source": "curated",
+    "sourceId": "hiragana-204"
+  },
+  {
+    "id": "curated-hiragana-9df6df12",
+    "kana": "うどん",
+    "romaji": [
+      "udon"
+    ],
+    "kanji": "饂飩",
+    "translation": "udon noodles",
+    "source": "curated",
+    "sourceId": "hiragana-205"
+  },
+  {
+    "id": "curated-hiragana-2ce6e963",
+    "kana": "まめ",
+    "romaji": [
+      "mame"
+    ],
+    "kanji": "豆",
+    "translation": "bean",
+    "source": "curated",
+    "sourceId": "hiragana-206"
+  },
+  {
+    "id": "curated-hiragana-12f95326",
+    "kana": "もも",
+    "romaji": [
+      "momo"
+    ],
+    "kanji": "桃",
+    "translation": "peach",
+    "source": "curated",
+    "sourceId": "hiragana-207"
+  },
+  {
+    "id": "curated-hiragana-577e3123",
+    "kana": "くさ",
+    "romaji": [
+      "kusa"
+    ],
+    "kanji": "草",
+    "translation": "grass",
+    "source": "curated",
+    "sourceId": "hiragana-208"
+  },
+  {
+    "id": "curated-hiragana-a7c172e8",
+    "kana": "えだ",
+    "romaji": [
+      "eda"
+    ],
+    "kanji": "枝",
+    "translation": "branch",
+    "source": "curated",
+    "sourceId": "hiragana-209"
+  },
+  {
+    "id": "curated-hiragana-c5197e84",
+    "kana": "いす",
+    "romaji": [
+      "isu"
+    ],
+    "kanji": "椅子",
+    "translation": "chair",
+    "source": "curated",
+    "sourceId": "hiragana-210"
+  },
+  {
+    "id": "curated-hiragana-5e03737a",
+    "kana": "つくえ",
+    "romaji": [
+      "tsukue"
+    ],
+    "kanji": "机",
+    "translation": "desk",
+    "source": "curated",
+    "sourceId": "hiragana-211"
+  },
+  {
+    "id": "curated-hiragana-abab0c15",
+    "kana": "さら",
+    "romaji": [
+      "sara"
+    ],
+    "kanji": "皿",
+    "translation": "plate",
+    "source": "curated",
+    "sourceId": "hiragana-212"
+  },
+  {
+    "id": "curated-hiragana-1afc6146",
+    "kana": "かべ",
+    "romaji": [
+      "kabe"
+    ],
+    "kanji": "壁",
+    "translation": "wall",
+    "source": "curated",
+    "sourceId": "hiragana-213"
+  },
+  {
+    "id": "curated-hiragana-f5e08e51",
+    "kana": "にわ",
+    "romaji": [
+      "niwa"
+    ],
+    "kanji": "庭",
+    "translation": "garden",
+    "source": "curated",
+    "sourceId": "hiragana-214"
+  },
+  {
+    "id": "curated-hiragana-be83b76c",
+    "kana": "あね",
+    "romaji": [
+      "ane"
+    ],
+    "kanji": "姉",
+    "translation": "older sister",
+    "source": "curated",
+    "sourceId": "hiragana-215"
+  },
+  {
+    "id": "curated-hiragana-4205b176",
+    "kana": "あに",
+    "romaji": [
+      "ani"
+    ],
+    "kanji": "兄",
+    "translation": "older brother",
+    "source": "curated",
+    "sourceId": "hiragana-216"
+  },
+  {
+    "id": "curated-hiragana-f4b1936b",
+    "kana": "おとうと",
+    "romaji": [
+      "otouto"
+    ],
+    "kanji": "弟",
+    "translation": "younger brother",
+    "source": "curated",
+    "sourceId": "hiragana-217"
+  },
+  {
+    "id": "curated-hiragana-3f5b4e65",
+    "kana": "いもうと",
+    "romaji": [
+      "imouto"
+    ],
+    "kanji": "妹",
+    "translation": "younger sister",
+    "source": "curated",
+    "sourceId": "hiragana-218"
+  },
+  {
+    "id": "curated-hiragana-2d59d2ea",
+    "kana": "ちち",
+    "romaji": [
+      "chichi"
+    ],
+    "kanji": "父",
     "translation": "father",
-    "source": "JMdict",
-    "sourceId": 1497680
+    "source": "curated",
+    "sourceId": "hiragana-219"
   },
   {
-    "id": "jmdict-1498130-9a99fcda",
-    "kana": "ふたん",
+    "id": "curated-hiragana-0ef29b92",
+    "kana": "はは",
     "romaji": [
-      "futan"
+      "haha"
     ],
-    "kanji": "負担",
-    "translation": "burden",
-    "source": "JMdict",
-    "sourceId": 1498130
-  },
-  {
-    "id": "jmdict-1498460-cb3143eb",
-    "kana": "ぶき",
-    "romaji": [
-      "buki"
-    ],
-    "kanji": "武器",
-    "translation": "weapon",
-    "source": "JMdict",
-    "sourceId": 1498460
-  },
-  {
-    "id": "jmdict-1512850-cd6d8ce0",
-    "kana": "べんごし",
-    "romaji": [
-      "bengoshi"
-    ],
-    "kanji": "弁護士",
-    "translation": "lawyer",
-    "source": "JMdict",
-    "sourceId": 1512850
-  },
-  {
-    "id": "jmdict-1515120-975c0516",
-    "kana": "ははおや",
-    "romaji": [
-      "hahaoya"
-    ],
-    "kanji": "母親",
+    "kanji": "母",
     "translation": "mother",
-    "source": "JMdict",
-    "sourceId": 1515120
+    "source": "curated",
+    "sourceId": "hiragana-220"
   },
   {
-    "id": "jmdict-1536000-accbd6dd",
-    "kana": "とう",
+    "id": "curated-hiragana-bd26a670",
+    "kana": "こども",
     "romaji": [
-      "tou"
+      "kodomo"
     ],
-    "kanji": "問う",
-    "translation": "to ask",
-    "source": "JMdict",
-    "sourceId": 1536000
+    "kanji": "子供",
+    "translation": "child",
+    "source": "curated",
+    "sourceId": "hiragana-221"
   },
   {
-    "id": "jmdict-1540150-a713c8cc",
-    "kana": "ゆうじん",
+    "id": "curated-hiragana-f81ed7a6",
+    "kana": "からだ",
     "romaji": [
-      "yuujin"
+      "karada"
     ],
-    "kanji": "友人",
-    "translation": "friend",
-    "source": "JMdict",
-    "sourceId": 1540150
+    "kanji": "体",
+    "translation": "body",
+    "source": "curated",
+    "sourceId": "hiragana-222"
   },
   {
-    "id": "jmdict-1546780-f04b8621",
-    "kana": "ようせい",
+    "id": "curated-hiragana-e59c4626",
+    "kana": "こころ",
     "romaji": [
-      "yousei"
+      "kokoro"
     ],
-    "kanji": "要請",
-    "translation": "appeal",
-    "source": "JMdict",
-    "sourceId": 1546780
+    "kanji": "心",
+    "translation": "heart",
+    "source": "curated",
+    "sourceId": "hiragana-223"
   },
   {
-    "id": "jmdict-1549470-1845a4ac",
-    "kana": "りえき",
+    "id": "curated-hiragana-bb1285ba",
+    "kana": "ことば",
     "romaji": [
-      "rieki"
+      "kotoba"
     ],
-    "kanji": "利益",
-    "translation": "profit",
-    "source": "JMdict",
-    "sourceId": 1549470
-  },
-  {
-    "id": "jmdict-1553170-a17d5f88",
-    "kana": "りょこう",
-    "romaji": [
-      "ryokou"
-    ],
-    "kanji": "旅行",
-    "translation": "travel",
-    "source": "JMdict",
-    "sourceId": 1553170
+    "kanji": "言葉",
+    "translation": "word",
+    "source": "curated",
+    "sourceId": "hiragana-224"
   }
 ]

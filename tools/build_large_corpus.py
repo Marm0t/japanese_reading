@@ -19,16 +19,60 @@ sys.path.insert(0, str(TMP / "vendor"))
 sys.path.insert(0, str(ROOT / "tools"))
 
 from janome.tokenizer import Tokenizer  # noqa: E402
-from generate_data import entry, hira, romaji  # noqa: E402
+from generate_data import HIRA_2, KATA_2, entry, hira, parse, romaji  # noqa: E402
 
-TARGET = 500
+PHRASE_TARGET = 500
+WORD_TARGET = 300
 KATA_RE = re.compile(r"[ァ-ヺー]")
 KANJI_RE = re.compile(r"[一-龯々]")
 HIRA_ONLY_RE = re.compile(r"[ぁ-ゖ]+")
 KATA_ONLY_RE = re.compile(r"[ァ-ヺ]+")
 SAFE_JAPANESE_RE = re.compile(r"^[ぁ-ゖァ-ヺー一-龯々。、！？・\d]+$")
 BAD_GLOSS = re.compile(r"(surname|given name|place name|archaic|obsolete|vulgar|derogatory|slang)", re.I)
+BAD_BEGINNER_DOMAIN = re.compile(
+    r"\b(legal|judicial|legislative|political|military|financial|economic|anatomical|medical|chemical|"
+    r"linguistic|mathematical|philosophical|religious|computing|engineering|construction|geological|"
+    r"historical|tax|investment|securities|corporate|parliament|government|regulation|administration)\b",
+    re.I,
+)
 PUNCT = set("。、！？・「」『』〜～")
+THEME_TERMS = {
+    "animal", "pet", "dog", "puppy", "cat", "kitten", "bird", "fish", "horse", "cow", "pig", "sheep", "goat", "rabbit", "mouse", "rat",
+    "bear", "panda", "monkey", "fox", "deer", "tiger", "lion", "elephant", "giraffe", "camel", "koala", "frog", "turtle", "snake", "lizard",
+    "insect", "bug", "bee", "ant", "butterfly", "spider", "crab", "shrimp", "octopus", "whale", "dolphin", "squirrel", "chicken", "duck",
+    "tree", "flower", "plant", "grass", "leaf", "leaves", "branch", "root", "seed", "fruit", "berry", "mushroom", "bamboo", "rose", "moss",
+    "nature", "sky", "sun", "moon", "star", "cloud", "rain", "snow", "wind", "storm", "thunder", "weather", "river", "sea", "ocean", "lake",
+    "pond", "mountain", "hill", "valley", "island", "forest", "wood", "field", "sand", "stone", "rock", "fire", "water", "ice", "air", "light",
+    "shadow", "morning", "noon", "evening", "night", "today", "tomorrow", "yesterday", "spring", "summer", "autumn", "winter",
+    "food", "meal", "breakfast", "lunch", "dinner", "rice", "bread", "noodle", "soup", "salad", "meat", "beef", "pork", "egg", "milk",
+    "cheese", "butter", "sugar", "salt", "pepper", "tea", "coffee", "juice", "cake", "pie", "candy", "chocolate", "cookie", "apple", "orange",
+    "lemon", "banana", "peach", "pear", "grape", "melon", "strawberry", "tomato", "potato", "carrot", "onion", "cabbage", "bean", "vegetable",
+    "bowl", "plate", "dish", "cup", "glass", "spoon", "fork", "knife", "chopsticks", "kettle", "pot", "pan", "bottle", "kitchen",
+    "home", "house", "room", "door", "window", "wall", "floor", "roof", "garden", "bath", "toilet", "bed", "desk", "table", "chair", "sofa", "shelf",
+    "box", "bag", "basket", "clock", "watch", "lamp", "mirror", "key", "lock", "towel", "soap", "brush", "comb", "phone", "camera", "television",
+    "radio", "computer", "remote control", "air conditioner", "refrigerator", "washing machine", "sewing machine", "umbrella", "money", "wallet",
+    "clothes", "clothing", "shirt", "skirt", "dress", "coat", "jacket", "suit", "pants", "trousers", "sock", "shoe", "hat", "cap", "belt", "ribbon", "pajamas",
+    "toy", "doll", "ball", "game", "puzzle", "kite", "card", "playing cards", "music", "song", "movie", "book", "picture", "photo", "photograph", "art",
+    "piano", "guitar", "drum", "dance", "tennis", "golf", "baseball", "soccer", "camp", "picnic", "hobby", "school", "class", "student", "teacher",
+    "pupil", "pen", "pencil", "eraser", "notebook", "paper", "letter", "textbook", "dictionary", "ruler", "scissors", "glue", "ink", "memo", "test",
+    "family", "parent", "father", "mother", "dad", "mom", "brother", "sister", "uncle", "aunt", "grandfather", "grandmother", "husband", "wife", "child", "baby", "friend",
+    "body", "head", "face", "hair", "eye", "ear", "nose", "mouth", "tooth", "teeth", "tongue", "neck", "shoulder", "arm", "hand", "finger", "chest", "back",
+    "stomach", "leg", "foot", "feet", "heart", "skin", "voice", "shop", "store", "market", "park", "station", "airport", "hotel", "restaurant", "cafe",
+    "hospital", "library", "museum", "zoo", "town", "city", "village", "road", "street", "bridge", "car", "bus", "train", "taxi", "bicycle", "motorcycle", "boat", "ship", "plane",
+}
+BASIC_ACTIONS = {
+    "be", "have", "do", "make", "go", "come", "return", "stop", "start", "wait", "walk", "run", "jump", "swim", "fly", "sit", "stand", "sleep", "wake",
+    "see", "look", "watch", "hear", "listen", "say", "speak", "talk", "ask", "answer", "read", "write", "draw", "sing", "dance", "play", "study", "learn", "teach",
+    "eat", "drink", "cook", "wash", "clean", "cut", "open", "close", "put", "take", "bring", "carry", "hold", "give", "receive", "buy", "sell", "pay", "use",
+    "wear", "enter", "leave", "meet", "call", "help", "show", "find", "lose", "catch", "throw", "pick", "choose", "know", "understand", "think", "remember", "forget",
+    "like", "love", "want", "need", "live", "laugh", "cry", "smile", "rain", "snow", "shine", "grow", "fall", "turn", "touch", "push", "pull",
+}
+BASIC_QUALITIES = {
+    "big", "small", "large", "little", "long", "short", "high", "low", "tall", "new", "old", "young", "good", "bad", "hot", "cold", "warm", "cool",
+    "bright", "dark", "fast", "slow", "early", "late", "heavy", "light", "strong", "weak", "easy", "difficult", "hard", "soft", "sweet", "sour", "salty",
+    "bitter", "delicious", "cute", "pretty", "beautiful", "clean", "dirty", "quiet", "noisy", "red", "blue", "white", "black", "yellow", "green", "round",
+    "happy", "sad", "fun", "kind", "healthy", "hungry", "thirsty", "near", "far", "wide", "narrow", "right", "left", "same", "different",
+}
 BLOCKED_JMDICT = {
     "1296400", "1413140", "1444990", "1518120", "1410050", "1589190", "1579110", "1233560", "1580550", "1584690",
     "1054570", "1046810", "1121390", "1019210", "1042520", "1089090", "1098340", "1037560", "2154660", "1074260",
@@ -41,6 +85,299 @@ BLOCKED_TATOEBA = {
     9101664, 10914822, 6849866, 9571553, 8452359, 158970, 182291, 11574620, 224201,
     10630165, 10736083, 192638, 11632683, 7357207,
 }
+
+HIRA_2_EXTRA = parse("""
+うし|牛|cow
+ぶた|豚|pig
+やぎ|山羊|goat
+くま|熊|bear
+きつね|狐|fox
+しか|鹿|deer
+とら|虎|tiger
+ぞう|象|elephant
+うさぎ|兎|rabbit
+ねずみ|鼠|mouse
+かえる|蛙|frog
+かめ|亀|turtle
+へび|蛇|snake
+とかげ|蜥蜴|lizard
+あり|蟻|ant
+はち|蜂|bee
+くも|蜘蛛|spider
+えび|海老|shrimp
+いか|烏賊|squid
+くじら|鯨|whale
+いるか|海豚|dolphin
+すずめ|雀|sparrow
+からす|烏|crow
+はと|鳩|pigeon
+あひる|家鴨|duck
+き|木|tree
+は|葉|leaf
+たね|種|seed
+たけ|竹|bamboo
+こけ|苔|moss
+きのこ|茸|mushroom
+ばら|薔薇|rose
+たいよう|太陽|sun
+ひかり|光|light
+かげ|影|shadow
+いけ|池|pond
+すな|砂|sand
+いし|石|stone
+ほのお|炎|flame
+りんご|林檎|apple
+みかん|蜜柑|mandarin orange
+ぶどう|葡萄|grape
+いちご|苺|strawberry
+すいか|西瓜|watermelon
+やさい|野菜|vegetable
+にんじん|人参|carrot
+たまねぎ|玉葱|onion
+だいこん|大根|daikon radish
+きゅうり|胡瓜|cucumber
+ぶたにく|豚肉|pork
+とりにく|鶏肉|chicken meat
+さとう|砂糖|sugar
+こしょう|胡椒|pepper
+おちゃ|お茶|tea
+えんぴつ|鉛筆|pencil
+けしごむ|消しゴム|eraser
+ほん|本|book
+えほん|絵本|picture book
+てがみ|手紙|letter
+ふで|筆|writing brush
+はさみ|鋏|scissors
+のり|糊|glue
+かばん|鞄|bag
+でんわ|電話|telephone
+とけい|時計|clock
+かがみ|鏡|mirror
+ふとん|布団|futon
+まくら|枕|pillow
+たべる|食べる|to eat
+きく|聞く|to listen
+はなす|話す|to speak
+いう|言う|to say
+よむ|読む|to read
+かく|書く|to write
+えがく|描く|to draw
+うたう|歌う|to sing
+おどる|踊る|to dance
+あそぶ|遊ぶ|to play
+あるく|歩く|to walk
+はしる|走る|to run
+およぐ|泳ぐ|to swim
+とぶ|飛ぶ|to fly
+すわる|座る|to sit
+たつ|立つ|to stand
+ねる|寝る|to sleep
+おきる|起きる|to wake up
+まつ|待つ|to wait
+あう|会う|to meet
+いく|行く|to go
+くる|来る|to come
+かえる|帰る|to return home
+あける|開ける|to open
+しめる|閉める|to close
+あらう|洗う|to wash
+つかう|使う|to use
+もつ|持つ|to hold
+おく|置く|to put
+とる|取る|to take
+かう|買う|to buy
+うる|売る|to sell
+すき|好き|liked
+きらい|嫌い|disliked
+おいしい|美味しい|delicious
+あまい|甘い|sweet
+からい|辛い|spicy
+にがい|苦い|bitter
+あつい|暑い|hot
+さむい|寒い|cold
+つめたい|冷たい|cold to the touch
+はやい|早い|early
+おそい|遅い|slow
+おおきい|大きい|big
+ちいさい|小さい|small
+ながい|長い|long
+みじかい|短い|short
+たかい|高い|high
+ひくい|低い|low
+おもい|重い|heavy
+かるい|軽い|light
+つよい|強い|strong
+よわい|弱い|weak
+あかるい|明るい|bright
+くらい|暗い|dark
+たのしい|楽しい|fun
+かなしい|悲しい|sad
+かわいい|可愛い|cute
+きれい|綺麗|beautiful
+""")
+
+KATA_2_EXTRA = parse("""
+バッグ||bag
+マップ||map
+キッズ||kids
+ブック||book
+フルーツ||fruit
+ヨット||yacht
+ロケット||rocket
+クッキー||cookie
+キッチン||kitchen
+ドール||doll
+ブロック||building block
+バット||baseball bat
+ラケット||racket
+ケーキ||cake
+ゲーム||game
+コート||coat
+コピー||copy
+スープ||soup
+スキー||skiing
+ボール||ball
+プール||swimming pool
+ベッド||bed
+ペット||pet
+チーズ||cheese
+カード||card
+カレー||curry
+シール||sticker
+ジュース||juice
+スーツ||suit
+セーター||sweater
+ゼリー||jelly
+チーム||team
+ニュース||news
+ノート||notebook
+バター||butter
+ビール||beer
+カップ||cup
+コップ||cup
+ギター||guitar
+クリーム||cream
+グループ||group
+ケース||case
+ショー||show
+スカート||skirt
+スポーツ||sport
+タクシー||taxi
+チケット||ticket
+デート||date
+アルバム||album
+ウイルス||virus
+ウエスト||waist
+ガイド||guide
+ガラス||glass
+キロ||kilogram
+クラス||class
+グラフ||graph
+サイレン||siren
+サラダ||salad
+タオル||towel
+ダンス||dance
+テンポ||tempo
+ディスコ||disco
+ドレス||dress
+ナイフ||knife
+ナイロン||nylon
+ハウス||house
+パン||bread
+パンダ||panda
+プリント||printout
+ベンチ||bench
+ホテル||hotel
+ミニ||mini
+メディア||media
+モデル||model
+ラジオ||radio
+ランチ||lunch
+レベル||level
+レモン||lemon
+ブラシ||brush
+エンジン||engine
+カメラ||camera
+シングル||single
+スタジオ||studio
+スタンド||stand
+テニス||tennis
+デザイン||design
+トイレ||toilet
+トンネル||tunnel
+ハンドル||steering wheel
+バナナ||banana
+バレエ||ballet
+ミリ||millimeter
+リズム||rhythm
+リボン||ribbon
+ダイヤ||diamond
+チキン||chicken
+パジャマ||pajamas
+ビタミン||vitamin
+ベランダ||balcony
+ポスト||mailbox
+ミサイル||missile
+ミス||mistake
+アルミ||aluminum
+ハンサム||handsome
+マラソン||marathon
+サイン||signature
+ドリル||drill
+ネオン||neon
+ピンポン||table tennis
+テレビ||television
+バイク||motorcycle
+パンツ||pants
+マスク||mask
+ハンカチ||handkerchief
+プロ||professional
+バイト||part-time job
+スタイル||style
+ステレオ||stereo
+ミシン||sewing machine
+リモコン||remote control
+エアコン||air conditioner
+パソコン||personal computer
+ピント||focus
+ピアノ||piano
+シャツ||shirt
+ハム||ham
+ビル||building
+オレンジ||orange
+グラス||drinking glass
+トランプ||playing cards
+オルガン||organ
+アイロン||clothes iron
+キャベツ||cabbage
+ベルト||belt
+トマト||tomato
+ビデオ||video
+ピン||pin
+センス||good taste
+テスト||test
+ドラマ||television drama
+カタカナ||katakana
+スマホ||smartphone
+アプリ||app
+ウェブ||web
+ジム||gym
+ソファ||sofa
+デスク||desk
+ドラム||drum
+フォト||photo
+ボイス||voice
+ランプ||lamp
+コアラ||koala
+コブラ||cobra
+サウナ||sauna
+デニム||denim
+チェス||chess
+チェロ||cello
+チャイム||chime
+ドリンク||drink
+ノイズ||noise
+""")
 
 
 def require_files():
@@ -61,6 +398,28 @@ def priority_score(tags):
     return score
 
 
+def theme_score(gloss, pos):
+    """Return a positive score only for useful beginner vocabulary."""
+    text = gloss.lower().strip()
+    if BAD_GLOSS.search(text) or BAD_BEGINNER_DOMAIN.search(text):
+        return 0
+    score = 0
+    for term in THEME_TERMS:
+        if re.search(rf"(?<![a-z]){re.escape(term)}(?![a-z])", text):
+            score = max(score, 120 + min(len(term), 20))
+    if text.startswith("to "):
+        first = re.match(r"to ([a-z]+)", text)
+        if first and first.group(1) in BASIC_ACTIONS:
+            score = max(score, 115)
+    if set(re.findall(r"[a-z]+", text)) & BASIC_QUALITIES:
+        score = max(score, 110)
+    if score:
+        if any("noun (common)" in value for value in pos): score += 15
+        if any(value.startswith("Ichidan verb") or value.startswith("Godan verb") for value in pos): score += 15
+        if any("adjective" in value for value in pos): score += 10
+    return score
+
+
 def load_words():
     pools = {"hiragana": [], "katakana": []}
     with gzip.open(TMP / "JMdict_e.gz", "rb") as stream:
@@ -75,9 +434,10 @@ def load_words():
             pos = {p.text or "" for s in senses for p in s.findall("pos")}
             if not glosses or any("proper noun" in p for p in pos):
                 node.clear(); continue
-            gloss = glosses[0]
-            if BAD_GLOSS.search(gloss) or len(gloss) > 60:
+            ranked_glosses = sorted(((theme_score(value, pos), value) for value in glosses if len(value) <= 60), reverse=True)
+            if not ranked_glosses or ranked_glosses[0][0] <= 0:
                 node.clear(); continue
+            topic_score, gloss = ranked_glosses[0]
             writings = [(k.findtext("keb"), priority_score([p.text or "" for p in k.findall("ke_pri")])) for k in node.findall("k_ele")]
             for reading_node in node.findall("r_ele"):
                 reading = reading_node.findtext("reb", "")
@@ -97,22 +457,52 @@ def load_words():
                 no_kanji = reading_node.find("re_nokanji") is not None
                 # Katakana ateji in JMdict are often historical curiosities, not modern spellings.
                 if course == "katakana": written = None
-                pools[course].append({"source_id": seq, "kana": reading, "kanji": None if no_kanji else written, "translation": gloss, "score": score})
+                pools[course].append({"source_id": seq, "kana": reading, "kanji": None if no_kanji else written, "translation": gloss, "score": score, "topic_score": topic_score})
             node.clear()
 
     result = {}
     for course, candidates in pools.items():
         # Stable, high-frequency-first selection with one card per reading.
-        candidates.sort(key=lambda x: (-x["score"], len(x["translation"]), int(x["source_id"])))
+        candidates.sort(key=lambda x: (-x["topic_score"], -x["score"], len(x["translation"]), int(x["source_id"])))
         chosen, seen = [], set()
         for item in candidates:
             if item["kana"] in seen:
                 continue
             seen.add(item["kana"]); chosen.append(item)
-            if len(chosen) == TARGET:
+            if len(chosen) == WORD_TARGET:
                 break
-        if len(chosen) < TARGET:
+        if len(chosen) < 200:
             raise RuntimeError(f"Only {len(chosen)} suitable {course} words")
+        result[course] = chosen
+    return result
+
+
+def load_curated_words():
+    result = {}
+    for course, rows in {
+        # Explicit additions take precedence when a reading has several senses
+        # (e.g. きく = "to listen" rather than 菊 = "chrysanthemum").
+        "hiragana": [*HIRA_2_EXTRA, *HIRA_2],
+        "katakana": [*KATA_2_EXTRA, *KATA_2],
+    }.items():
+        chosen, seen = [], set()
+        for kana, kanji, translation, _custom_romaji in rows:
+            if course == "katakana" and kana in {"ウイルス", "カルテ", "ミサイル", "リスク", "ワイン", "ビール"}:
+                continue
+            if kana in seen:
+                continue
+            advanced_mark = "っ" in kana or (course == "hiragana" and "ー" in kana)
+            if not (2 <= len(kana) <= 4 or kana in {"き", "は"}) or advanced_mark:
+                raise RuntimeError(f"Invalid curated level-2 word: {kana}")
+            seen.add(kana)
+            chosen.append({
+                "source_id": f"{course}-{len(chosen) + 1:03d}",
+                "kana": kana,
+                "kanji": kanji,
+                "translation": translation,
+            })
+        if len(chosen) < 200:
+            raise RuntimeError(f"Only {len(chosen)} curated {course} words")
         result[course] = chosen
     return result
 
@@ -272,9 +662,9 @@ def select_diverse(candidates, course, level):
             continue
         selected.append(item)
         lemma_counts.update(set(content))
-        if len(selected) == TARGET:
+        if len(selected) == PHRASE_TARGET:
             break
-    if len(selected) < TARGET:
+    if len(selected) < PHRASE_TARGET:
         raise RuntimeError(f"Only {len(selected)} diverse {course} level-{level} phrases from {len(pool)} candidates")
     return selected
 
@@ -285,8 +675,8 @@ def write_words(course, rows):
     for index, row in enumerate(rows, 1):
         item = entry(prefix, index, row["kana"], row["kanji"], row["translation"])
         suffix = hashlib.sha1(row["kana"].encode("utf-8")).hexdigest()[:8]
-        item["id"] = f"jmdict-{row['source_id']}-{suffix}"
-        item.update({"source": "JMdict", "sourceId": int(row["source_id"])})
+        item["id"] = f"curated-{course}-{suffix}"
+        item.update({"source": "curated", "sourceId": row["source_id"]})
         output.append(item)
     (DATA / f"{course}-02.json").write_text(json.dumps(output, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
@@ -306,7 +696,7 @@ def write_phrases(course, level, rows):
 
 def main():
     require_files()
-    words = load_words()
+    words = load_curated_words()
     for course in ("hiragana", "katakana"):
         write_words(course, words[course]); print(f"{course}-02: {len(words[course])}")
     sentences = load_sentences()

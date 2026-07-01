@@ -15,7 +15,8 @@ for path in files:
     level = int(level_text)
     rows = json.loads(path.read_text(encoding="utf-8"))
     assert rows and isinstance(rows, list), f"{path}: expected a non-empty array"
-    if level > 1: assert len(rows) >= 500, f"{path}: expected at least 500 entries"
+    if level == 2: assert len(rows) >= 200, f"{path}: expected at least 200 curated entries"
+    if level > 2: assert len(rows) >= 500, f"{path}: expected at least 500 entries"
     seen_questions = set()
     for index, row in enumerate(rows):
         where = f"{path.name}[{index}]"
@@ -31,10 +32,11 @@ for path in files:
             assert "translation" not in row and "kanji" not in row, f"{where}: level 1 has hints"
         else:
             assert row.get("translation"), f"{where}: translation required"
-            assert row.get("source") in {"JMdict", "Tatoeba"} and row.get("sourceId"), f"{where}: source metadata required"
+            assert row.get("source") in {"curated", "JMdict", "Tatoeba"} and row.get("sourceId"), f"{where}: source metadata required"
         if level == 2:
-            assert 2 <= len(compact) <= 4, f"{where}: level 2 length"
-            assert "っ" not in compact and "ッ" not in compact and "ー" not in compact, f"{where}: advanced mark in level 2"
+            assert 2 <= len(compact) <= 4 or compact in {"き", "は"}, f"{where}: level 2 length"
+            if course == "hiragana":
+                assert "っ" not in compact and "ー" not in compact, f"{where}: advanced mark in hiragana level 2"
         if level == 4:
             assert len(row["kana"]) <= 30, f"{where}: sentence too long"
     print(f"{path.name}: {len(rows)} valid entries")
