@@ -1,0 +1,902 @@
+[
+  {
+    "id": "hiragana02-001",
+    "kana": "あさ",
+    "romaji": [
+      "asa"
+    ],
+    "kanji": "朝",
+    "translation": "morning"
+  },
+  {
+    "id": "hiragana02-002",
+    "kana": "あし",
+    "romaji": [
+      "ashi"
+    ],
+    "kanji": "足",
+    "translation": "foot"
+  },
+  {
+    "id": "hiragana02-003",
+    "kana": "あめ",
+    "romaji": [
+      "ame"
+    ],
+    "kanji": "雨",
+    "translation": "rain"
+  },
+  {
+    "id": "hiragana02-004",
+    "kana": "いえ",
+    "romaji": [
+      "ie"
+    ],
+    "kanji": "家",
+    "translation": "house"
+  },
+  {
+    "id": "hiragana02-005",
+    "kana": "いぬ",
+    "romaji": [
+      "inu"
+    ],
+    "kanji": "犬",
+    "translation": "dog"
+  },
+  {
+    "id": "hiragana02-006",
+    "kana": "うえ",
+    "romaji": [
+      "ue"
+    ],
+    "kanji": "上",
+    "translation": "above"
+  },
+  {
+    "id": "hiragana02-007",
+    "kana": "うみ",
+    "romaji": [
+      "umi"
+    ],
+    "kanji": "海",
+    "translation": "sea"
+  },
+  {
+    "id": "hiragana02-008",
+    "kana": "うま",
+    "romaji": [
+      "uma"
+    ],
+    "kanji": "馬",
+    "translation": "horse"
+  },
+  {
+    "id": "hiragana02-009",
+    "kana": "えき",
+    "romaji": [
+      "eki"
+    ],
+    "kanji": "駅",
+    "translation": "station"
+  },
+  {
+    "id": "hiragana02-010",
+    "kana": "おか",
+    "romaji": [
+      "oka"
+    ],
+    "kanji": "丘",
+    "translation": "hill"
+  },
+  {
+    "id": "hiragana02-011",
+    "kana": "おと",
+    "romaji": [
+      "oto"
+    ],
+    "kanji": "音",
+    "translation": "sound"
+  },
+  {
+    "id": "hiragana02-012",
+    "kana": "かお",
+    "romaji": [
+      "kao"
+    ],
+    "kanji": "顔",
+    "translation": "face"
+  },
+  {
+    "id": "hiragana02-013",
+    "kana": "かぎ",
+    "romaji": [
+      "kagi"
+    ],
+    "kanji": "鍵",
+    "translation": "key"
+  },
+  {
+    "id": "hiragana02-014",
+    "kana": "かさ",
+    "romaji": [
+      "kasa"
+    ],
+    "kanji": "傘",
+    "translation": "umbrella"
+  },
+  {
+    "id": "hiragana02-015",
+    "kana": "かぜ",
+    "romaji": [
+      "kaze"
+    ],
+    "kanji": "風",
+    "translation": "wind"
+  },
+  {
+    "id": "hiragana02-016",
+    "kana": "かに",
+    "romaji": [
+      "kani"
+    ],
+    "kanji": "蟹",
+    "translation": "crab"
+  },
+  {
+    "id": "hiragana02-017",
+    "kana": "かみ",
+    "romaji": [
+      "kami"
+    ],
+    "kanji": "紙",
+    "translation": "paper"
+  },
+  {
+    "id": "hiragana02-018",
+    "kana": "かわ",
+    "romaji": [
+      "kawa"
+    ],
+    "kanji": "川",
+    "translation": "river"
+  },
+  {
+    "id": "hiragana02-019",
+    "kana": "きく",
+    "romaji": [
+      "kiku"
+    ],
+    "kanji": "菊",
+    "translation": "chrysanthemum"
+  },
+  {
+    "id": "hiragana02-020",
+    "kana": "きた",
+    "romaji": [
+      "kita"
+    ],
+    "kanji": "北",
+    "translation": "north"
+  },
+  {
+    "id": "hiragana02-021",
+    "kana": "くち",
+    "romaji": [
+      "kuchi"
+    ],
+    "kanji": "口",
+    "translation": "mouth"
+  },
+  {
+    "id": "hiragana02-022",
+    "kana": "くに",
+    "romaji": [
+      "kuni"
+    ],
+    "kanji": "国",
+    "translation": "country"
+  },
+  {
+    "id": "hiragana02-023",
+    "kana": "くも",
+    "romaji": [
+      "kumo"
+    ],
+    "kanji": "雲",
+    "translation": "cloud"
+  },
+  {
+    "id": "hiragana02-024",
+    "kana": "くり",
+    "romaji": [
+      "kuri"
+    ],
+    "kanji": "栗",
+    "translation": "chestnut"
+  },
+  {
+    "id": "hiragana02-025",
+    "kana": "こえ",
+    "romaji": [
+      "koe"
+    ],
+    "kanji": "声",
+    "translation": "voice"
+  },
+  {
+    "id": "hiragana02-026",
+    "kana": "ここ",
+    "romaji": [
+      "koko"
+    ],
+    "kanji": "此処",
+    "translation": "here"
+  },
+  {
+    "id": "hiragana02-027",
+    "kana": "こめ",
+    "romaji": [
+      "kome"
+    ],
+    "kanji": "米",
+    "translation": "rice"
+  },
+  {
+    "id": "hiragana02-028",
+    "kana": "さかな",
+    "romaji": [
+      "sakana"
+    ],
+    "kanji": "魚",
+    "translation": "fish"
+  },
+  {
+    "id": "hiragana02-029",
+    "kana": "さる",
+    "romaji": [
+      "saru"
+    ],
+    "kanji": "猿",
+    "translation": "monkey"
+  },
+  {
+    "id": "hiragana02-030",
+    "kana": "しお",
+    "romaji": [
+      "shio"
+    ],
+    "kanji": "塩",
+    "translation": "salt"
+  },
+  {
+    "id": "hiragana02-031",
+    "kana": "した",
+    "romaji": [
+      "shita"
+    ],
+    "kanji": "下",
+    "translation": "below"
+  },
+  {
+    "id": "hiragana02-032",
+    "kana": "しま",
+    "romaji": [
+      "shima"
+    ],
+    "kanji": "島",
+    "translation": "island"
+  },
+  {
+    "id": "hiragana02-033",
+    "kana": "そと",
+    "romaji": [
+      "soto"
+    ],
+    "kanji": "外",
+    "translation": "outside"
+  },
+  {
+    "id": "hiragana02-034",
+    "kana": "そら",
+    "romaji": [
+      "sora"
+    ],
+    "kanji": "空",
+    "translation": "sky"
+  },
+  {
+    "id": "hiragana02-035",
+    "kana": "たこ",
+    "romaji": [
+      "tako"
+    ],
+    "kanji": "蛸",
+    "translation": "octopus"
+  },
+  {
+    "id": "hiragana02-036",
+    "kana": "たに",
+    "romaji": [
+      "tani"
+    ],
+    "kanji": "谷",
+    "translation": "valley"
+  },
+  {
+    "id": "hiragana02-037",
+    "kana": "たまご",
+    "romaji": [
+      "tamago"
+    ],
+    "kanji": "卵",
+    "translation": "egg"
+  },
+  {
+    "id": "hiragana02-038",
+    "kana": "つき",
+    "romaji": [
+      "tsuki"
+    ],
+    "kanji": "月",
+    "translation": "moon"
+  },
+  {
+    "id": "hiragana02-039",
+    "kana": "つの",
+    "romaji": [
+      "tsuno"
+    ],
+    "kanji": "角",
+    "translation": "horn"
+  },
+  {
+    "id": "hiragana02-040",
+    "kana": "てら",
+    "romaji": [
+      "tera"
+    ],
+    "kanji": "寺",
+    "translation": "temple"
+  },
+  {
+    "id": "hiragana02-041",
+    "kana": "とり",
+    "romaji": [
+      "tori"
+    ],
+    "kanji": "鳥",
+    "translation": "bird"
+  },
+  {
+    "id": "hiragana02-042",
+    "kana": "なか",
+    "romaji": [
+      "naka"
+    ],
+    "kanji": "中",
+    "translation": "inside"
+  },
+  {
+    "id": "hiragana02-043",
+    "kana": "なし",
+    "romaji": [
+      "nashi"
+    ],
+    "kanji": "梨",
+    "translation": "pear"
+  },
+  {
+    "id": "hiragana02-044",
+    "kana": "なつ",
+    "romaji": [
+      "natsu"
+    ],
+    "kanji": "夏",
+    "translation": "summer"
+  },
+  {
+    "id": "hiragana02-045",
+    "kana": "なべ",
+    "romaji": [
+      "nabe"
+    ],
+    "kanji": "鍋",
+    "translation": "pot"
+  },
+  {
+    "id": "hiragana02-046",
+    "kana": "にく",
+    "romaji": [
+      "niku"
+    ],
+    "kanji": "肉",
+    "translation": "meat"
+  },
+  {
+    "id": "hiragana02-047",
+    "kana": "にし",
+    "romaji": [
+      "nishi"
+    ],
+    "kanji": "西",
+    "translation": "west"
+  },
+  {
+    "id": "hiragana02-048",
+    "kana": "ねこ",
+    "romaji": [
+      "neko"
+    ],
+    "kanji": "猫",
+    "translation": "cat"
+  },
+  {
+    "id": "hiragana02-049",
+    "kana": "はこ",
+    "romaji": [
+      "hako"
+    ],
+    "kanji": "箱",
+    "translation": "box"
+  },
+  {
+    "id": "hiragana02-050",
+    "kana": "はし",
+    "romaji": [
+      "hashi"
+    ],
+    "kanji": "橋",
+    "translation": "bridge"
+  },
+  {
+    "id": "hiragana02-051",
+    "kana": "はな",
+    "romaji": [
+      "hana"
+    ],
+    "kanji": "花",
+    "translation": "flower"
+  },
+  {
+    "id": "hiragana02-052",
+    "kana": "はね",
+    "romaji": [
+      "hane"
+    ],
+    "kanji": "羽",
+    "translation": "feather"
+  },
+  {
+    "id": "hiragana02-053",
+    "kana": "はる",
+    "romaji": [
+      "haru"
+    ],
+    "kanji": "春",
+    "translation": "spring"
+  },
+  {
+    "id": "hiragana02-054",
+    "kana": "ひがし",
+    "romaji": [
+      "higashi"
+    ],
+    "kanji": "東",
+    "translation": "east"
+  },
+  {
+    "id": "hiragana02-055",
+    "kana": "ひと",
+    "romaji": [
+      "hito"
+    ],
+    "kanji": "人",
+    "translation": "person"
+  },
+  {
+    "id": "hiragana02-056",
+    "kana": "ふね",
+    "romaji": [
+      "fune"
+    ],
+    "kanji": "船",
+    "translation": "boat"
+  },
+  {
+    "id": "hiragana02-057",
+    "kana": "ふゆ",
+    "romaji": [
+      "fuyu"
+    ],
+    "kanji": "冬",
+    "translation": "winter"
+  },
+  {
+    "id": "hiragana02-058",
+    "kana": "へや",
+    "romaji": [
+      "heya"
+    ],
+    "kanji": "部屋",
+    "translation": "room"
+  },
+  {
+    "id": "hiragana02-059",
+    "kana": "ほし",
+    "romaji": [
+      "hoshi"
+    ],
+    "kanji": "星",
+    "translation": "star"
+  },
+  {
+    "id": "hiragana02-060",
+    "kana": "まち",
+    "romaji": [
+      "machi"
+    ],
+    "kanji": "町",
+    "translation": "town"
+  },
+  {
+    "id": "hiragana02-061",
+    "kana": "まど",
+    "romaji": [
+      "mado"
+    ],
+    "kanji": "窓",
+    "translation": "window"
+  },
+  {
+    "id": "hiragana02-062",
+    "kana": "みず",
+    "romaji": [
+      "mizu"
+    ],
+    "kanji": "水",
+    "translation": "water"
+  },
+  {
+    "id": "hiragana02-063",
+    "kana": "みせ",
+    "romaji": [
+      "mise"
+    ],
+    "kanji": "店",
+    "translation": "shop"
+  },
+  {
+    "id": "hiragana02-064",
+    "kana": "みち",
+    "romaji": [
+      "michi"
+    ],
+    "kanji": "道",
+    "translation": "road"
+  },
+  {
+    "id": "hiragana02-065",
+    "kana": "みみ",
+    "romaji": [
+      "mimi"
+    ],
+    "kanji": "耳",
+    "translation": "ear"
+  },
+  {
+    "id": "hiragana02-066",
+    "kana": "むし",
+    "romaji": [
+      "mushi"
+    ],
+    "kanji": "虫",
+    "translation": "insect"
+  },
+  {
+    "id": "hiragana02-067",
+    "kana": "むら",
+    "romaji": [
+      "mura"
+    ],
+    "kanji": "村",
+    "translation": "village"
+  },
+  {
+    "id": "hiragana02-068",
+    "kana": "もり",
+    "romaji": [
+      "mori"
+    ],
+    "kanji": "森",
+    "translation": "forest"
+  },
+  {
+    "id": "hiragana02-069",
+    "kana": "やま",
+    "romaji": [
+      "yama"
+    ],
+    "kanji": "山",
+    "translation": "mountain"
+  },
+  {
+    "id": "hiragana02-070",
+    "kana": "ゆき",
+    "romaji": [
+      "yuki"
+    ],
+    "kanji": "雪",
+    "translation": "snow"
+  },
+  {
+    "id": "hiragana02-071",
+    "kana": "ゆめ",
+    "romaji": [
+      "yume"
+    ],
+    "kanji": "夢",
+    "translation": "dream"
+  },
+  {
+    "id": "hiragana02-072",
+    "kana": "よる",
+    "romaji": [
+      "yoru"
+    ],
+    "kanji": "夜",
+    "translation": "night"
+  },
+  {
+    "id": "hiragana02-073",
+    "kana": "りす",
+    "romaji": [
+      "risu"
+    ],
+    "kanji": "栗鼠",
+    "translation": "squirrel"
+  },
+  {
+    "id": "hiragana02-074",
+    "kana": "わに",
+    "romaji": [
+      "wani"
+    ],
+    "kanji": "鰐",
+    "translation": "crocodile"
+  },
+  {
+    "id": "hiragana02-075",
+    "kana": "あお",
+    "romaji": [
+      "ao"
+    ],
+    "kanji": "青",
+    "translation": "blue"
+  },
+  {
+    "id": "hiragana02-076",
+    "kana": "あか",
+    "romaji": [
+      "aka"
+    ],
+    "kanji": "赤",
+    "translation": "red"
+  },
+  {
+    "id": "hiragana02-077",
+    "kana": "しろ",
+    "romaji": [
+      "shiro"
+    ],
+    "kanji": "白",
+    "translation": "white"
+  },
+  {
+    "id": "hiragana02-078",
+    "kana": "くろ",
+    "romaji": [
+      "kuro"
+    ],
+    "kanji": "黒",
+    "translation": "black"
+  },
+  {
+    "id": "hiragana02-079",
+    "kana": "すし",
+    "romaji": [
+      "sushi"
+    ],
+    "kanji": "寿司",
+    "translation": "sushi"
+  },
+  {
+    "id": "hiragana02-080",
+    "kana": "そば",
+    "romaji": [
+      "soba"
+    ],
+    "kanji": "蕎麦",
+    "translation": "soba noodles"
+  },
+  {
+    "id": "hiragana02-081",
+    "kana": "うどん",
+    "romaji": [
+      "udon"
+    ],
+    "kanji": "饂飩",
+    "translation": "udon noodles"
+  },
+  {
+    "id": "hiragana02-082",
+    "kana": "まめ",
+    "romaji": [
+      "mame"
+    ],
+    "kanji": "豆",
+    "translation": "bean"
+  },
+  {
+    "id": "hiragana02-083",
+    "kana": "もも",
+    "romaji": [
+      "momo"
+    ],
+    "kanji": "桃",
+    "translation": "peach"
+  },
+  {
+    "id": "hiragana02-084",
+    "kana": "くさ",
+    "romaji": [
+      "kusa"
+    ],
+    "kanji": "草",
+    "translation": "grass"
+  },
+  {
+    "id": "hiragana02-085",
+    "kana": "えだ",
+    "romaji": [
+      "eda"
+    ],
+    "kanji": "枝",
+    "translation": "branch"
+  },
+  {
+    "id": "hiragana02-086",
+    "kana": "いす",
+    "romaji": [
+      "isu"
+    ],
+    "kanji": "椅子",
+    "translation": "chair"
+  },
+  {
+    "id": "hiragana02-087",
+    "kana": "つくえ",
+    "romaji": [
+      "tsukue"
+    ],
+    "kanji": "机",
+    "translation": "desk"
+  },
+  {
+    "id": "hiragana02-088",
+    "kana": "さら",
+    "romaji": [
+      "sara"
+    ],
+    "kanji": "皿",
+    "translation": "plate"
+  },
+  {
+    "id": "hiragana02-089",
+    "kana": "かべ",
+    "romaji": [
+      "kabe"
+    ],
+    "kanji": "壁",
+    "translation": "wall"
+  },
+  {
+    "id": "hiragana02-090",
+    "kana": "にわ",
+    "romaji": [
+      "niwa"
+    ],
+    "kanji": "庭",
+    "translation": "garden"
+  },
+  {
+    "id": "hiragana02-091",
+    "kana": "あね",
+    "romaji": [
+      "ane"
+    ],
+    "kanji": "姉",
+    "translation": "older sister"
+  },
+  {
+    "id": "hiragana02-092",
+    "kana": "あに",
+    "romaji": [
+      "ani"
+    ],
+    "kanji": "兄",
+    "translation": "older brother"
+  },
+  {
+    "id": "hiragana02-093",
+    "kana": "おとうと",
+    "romaji": [
+      "otouto"
+    ],
+    "kanji": "弟",
+    "translation": "younger brother"
+  },
+  {
+    "id": "hiragana02-094",
+    "kana": "いもうと",
+    "romaji": [
+      "imouto"
+    ],
+    "kanji": "妹",
+    "translation": "younger sister"
+  },
+  {
+    "id": "hiragana02-095",
+    "kana": "ちち",
+    "romaji": [
+      "chichi"
+    ],
+    "kanji": "父",
+    "translation": "father"
+  },
+  {
+    "id": "hiragana02-096",
+    "kana": "はは",
+    "romaji": [
+      "haha"
+    ],
+    "kanji": "母",
+    "translation": "mother"
+  },
+  {
+    "id": "hiragana02-097",
+    "kana": "こども",
+    "romaji": [
+      "kodomo"
+    ],
+    "kanji": "子供",
+    "translation": "child"
+  },
+  {
+    "id": "hiragana02-098",
+    "kana": "からだ",
+    "romaji": [
+      "karada"
+    ],
+    "kanji": "体",
+    "translation": "body"
+  },
+  {
+    "id": "hiragana02-099",
+    "kana": "こころ",
+    "romaji": [
+      "kokoro"
+    ],
+    "kanji": "心",
+    "translation": "heart"
+  },
+  {
+    "id": "hiragana02-100",
+    "kana": "ことば",
+    "romaji": [
+      "kotoba"
+    ],
+    "kanji": "言葉",
+    "translation": "word"
+  }
+]

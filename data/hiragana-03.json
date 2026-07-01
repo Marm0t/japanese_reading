@@ -1,0 +1,902 @@
+[
+  {
+    "id": "hiragana03-001",
+    "kana": "あかい はな",
+    "romaji": [
+      "akai hana"
+    ],
+    "kanji": "赤い花",
+    "translation": "red flower"
+  },
+  {
+    "id": "hiragana03-002",
+    "kana": "あかい そら",
+    "romaji": [
+      "akai sora"
+    ],
+    "kanji": "赤い空",
+    "translation": "red sky"
+  },
+  {
+    "id": "hiragana03-003",
+    "kana": "あかい いえ",
+    "romaji": [
+      "akai ie"
+    ],
+    "kanji": "赤い家",
+    "translation": "red house"
+  },
+  {
+    "id": "hiragana03-004",
+    "kana": "あかい みち",
+    "romaji": [
+      "akai michi"
+    ],
+    "kanji": "赤い道",
+    "translation": "red road"
+  },
+  {
+    "id": "hiragana03-005",
+    "kana": "あかい やま",
+    "romaji": [
+      "akai yama"
+    ],
+    "kanji": "赤い山",
+    "translation": "red mountain"
+  },
+  {
+    "id": "hiragana03-006",
+    "kana": "あおい はな",
+    "romaji": [
+      "aoi hana"
+    ],
+    "kanji": "青い花",
+    "translation": "blue flower"
+  },
+  {
+    "id": "hiragana03-007",
+    "kana": "あおい そら",
+    "romaji": [
+      "aoi sora"
+    ],
+    "kanji": "青い空",
+    "translation": "blue sky"
+  },
+  {
+    "id": "hiragana03-008",
+    "kana": "あおい いえ",
+    "romaji": [
+      "aoi ie"
+    ],
+    "kanji": "青い家",
+    "translation": "blue house"
+  },
+  {
+    "id": "hiragana03-009",
+    "kana": "あおい みち",
+    "romaji": [
+      "aoi michi"
+    ],
+    "kanji": "青い道",
+    "translation": "blue road"
+  },
+  {
+    "id": "hiragana03-010",
+    "kana": "あおい やま",
+    "romaji": [
+      "aoi yama"
+    ],
+    "kanji": "青い山",
+    "translation": "blue mountain"
+  },
+  {
+    "id": "hiragana03-011",
+    "kana": "しろい はな",
+    "romaji": [
+      "shiroi hana"
+    ],
+    "kanji": "白い花",
+    "translation": "white flower"
+  },
+  {
+    "id": "hiragana03-012",
+    "kana": "しろい そら",
+    "romaji": [
+      "shiroi sora"
+    ],
+    "kanji": "白い空",
+    "translation": "white sky"
+  },
+  {
+    "id": "hiragana03-013",
+    "kana": "しろい いえ",
+    "romaji": [
+      "shiroi ie"
+    ],
+    "kanji": "白い家",
+    "translation": "white house"
+  },
+  {
+    "id": "hiragana03-014",
+    "kana": "しろい みち",
+    "romaji": [
+      "shiroi michi"
+    ],
+    "kanji": "白い道",
+    "translation": "white road"
+  },
+  {
+    "id": "hiragana03-015",
+    "kana": "しろい やま",
+    "romaji": [
+      "shiroi yama"
+    ],
+    "kanji": "白い山",
+    "translation": "white mountain"
+  },
+  {
+    "id": "hiragana03-016",
+    "kana": "くろい はな",
+    "romaji": [
+      "kuroi hana"
+    ],
+    "kanji": "黒い花",
+    "translation": "black flower"
+  },
+  {
+    "id": "hiragana03-017",
+    "kana": "くろい そら",
+    "romaji": [
+      "kuroi sora"
+    ],
+    "kanji": "黒い空",
+    "translation": "black sky"
+  },
+  {
+    "id": "hiragana03-018",
+    "kana": "くろい いえ",
+    "romaji": [
+      "kuroi ie"
+    ],
+    "kanji": "黒い家",
+    "translation": "black house"
+  },
+  {
+    "id": "hiragana03-019",
+    "kana": "くろい みち",
+    "romaji": [
+      "kuroi michi"
+    ],
+    "kanji": "黒い道",
+    "translation": "black road"
+  },
+  {
+    "id": "hiragana03-020",
+    "kana": "くろい やま",
+    "romaji": [
+      "kuroi yama"
+    ],
+    "kanji": "黒い山",
+    "translation": "black mountain"
+  },
+  {
+    "id": "hiragana03-021",
+    "kana": "おおきい はな",
+    "romaji": [
+      "ookii hana"
+    ],
+    "kanji": "大きい花",
+    "translation": "big flower"
+  },
+  {
+    "id": "hiragana03-022",
+    "kana": "おおきい そら",
+    "romaji": [
+      "ookii sora"
+    ],
+    "kanji": "大きい空",
+    "translation": "big sky"
+  },
+  {
+    "id": "hiragana03-023",
+    "kana": "おおきい いえ",
+    "romaji": [
+      "ookii ie"
+    ],
+    "kanji": "大きい家",
+    "translation": "big house"
+  },
+  {
+    "id": "hiragana03-024",
+    "kana": "おおきい みち",
+    "romaji": [
+      "ookii michi"
+    ],
+    "kanji": "大きい道",
+    "translation": "big road"
+  },
+  {
+    "id": "hiragana03-025",
+    "kana": "おおきい やま",
+    "romaji": [
+      "ookii yama"
+    ],
+    "kanji": "大きい山",
+    "translation": "big mountain"
+  },
+  {
+    "id": "hiragana03-026",
+    "kana": "ちいさい はな",
+    "romaji": [
+      "chiisai hana"
+    ],
+    "kanji": "小さい花",
+    "translation": "small flower"
+  },
+  {
+    "id": "hiragana03-027",
+    "kana": "ちいさい そら",
+    "romaji": [
+      "chiisai sora"
+    ],
+    "kanji": "小さい空",
+    "translation": "small sky"
+  },
+  {
+    "id": "hiragana03-028",
+    "kana": "ちいさい いえ",
+    "romaji": [
+      "chiisai ie"
+    ],
+    "kanji": "小さい家",
+    "translation": "small house"
+  },
+  {
+    "id": "hiragana03-029",
+    "kana": "ちいさい みち",
+    "romaji": [
+      "chiisai michi"
+    ],
+    "kanji": "小さい道",
+    "translation": "small road"
+  },
+  {
+    "id": "hiragana03-030",
+    "kana": "ちいさい やま",
+    "romaji": [
+      "chiisai yama"
+    ],
+    "kanji": "小さい山",
+    "translation": "small mountain"
+  },
+  {
+    "id": "hiragana03-031",
+    "kana": "あたらしい はな",
+    "romaji": [
+      "atarashii hana"
+    ],
+    "kanji": "新しい花",
+    "translation": "new flower"
+  },
+  {
+    "id": "hiragana03-032",
+    "kana": "あたらしい そら",
+    "romaji": [
+      "atarashii sora"
+    ],
+    "kanji": "新しい空",
+    "translation": "new sky"
+  },
+  {
+    "id": "hiragana03-033",
+    "kana": "あたらしい いえ",
+    "romaji": [
+      "atarashii ie"
+    ],
+    "kanji": "新しい家",
+    "translation": "new house"
+  },
+  {
+    "id": "hiragana03-034",
+    "kana": "あたらしい みち",
+    "romaji": [
+      "atarashii michi"
+    ],
+    "kanji": "新しい道",
+    "translation": "new road"
+  },
+  {
+    "id": "hiragana03-035",
+    "kana": "あたらしい やま",
+    "romaji": [
+      "atarashii yama"
+    ],
+    "kanji": "新しい山",
+    "translation": "new mountain"
+  },
+  {
+    "id": "hiragana03-036",
+    "kana": "ふるい はな",
+    "romaji": [
+      "furui hana"
+    ],
+    "kanji": "古い花",
+    "translation": "old flower"
+  },
+  {
+    "id": "hiragana03-037",
+    "kana": "ふるい そら",
+    "romaji": [
+      "furui sora"
+    ],
+    "kanji": "古い空",
+    "translation": "old sky"
+  },
+  {
+    "id": "hiragana03-038",
+    "kana": "ふるい いえ",
+    "romaji": [
+      "furui ie"
+    ],
+    "kanji": "古い家",
+    "translation": "old house"
+  },
+  {
+    "id": "hiragana03-039",
+    "kana": "ふるい みち",
+    "romaji": [
+      "furui michi"
+    ],
+    "kanji": "古い道",
+    "translation": "old road"
+  },
+  {
+    "id": "hiragana03-040",
+    "kana": "ふるい やま",
+    "romaji": [
+      "furui yama"
+    ],
+    "kanji": "古い山",
+    "translation": "old mountain"
+  },
+  {
+    "id": "hiragana03-041",
+    "kana": "あかるい はな",
+    "romaji": [
+      "akarui hana"
+    ],
+    "kanji": "明るい花",
+    "translation": "bright flower"
+  },
+  {
+    "id": "hiragana03-042",
+    "kana": "あかるい そら",
+    "romaji": [
+      "akarui sora"
+    ],
+    "kanji": "明るい空",
+    "translation": "bright sky"
+  },
+  {
+    "id": "hiragana03-043",
+    "kana": "あかるい いえ",
+    "romaji": [
+      "akarui ie"
+    ],
+    "kanji": "明るい家",
+    "translation": "bright house"
+  },
+  {
+    "id": "hiragana03-044",
+    "kana": "あかるい みち",
+    "romaji": [
+      "akarui michi"
+    ],
+    "kanji": "明るい道",
+    "translation": "bright road"
+  },
+  {
+    "id": "hiragana03-045",
+    "kana": "あかるい やま",
+    "romaji": [
+      "akarui yama"
+    ],
+    "kanji": "明るい山",
+    "translation": "bright mountain"
+  },
+  {
+    "id": "hiragana03-046",
+    "kana": "くらい はな",
+    "romaji": [
+      "kurai hana"
+    ],
+    "kanji": "暗い花",
+    "translation": "dark flower"
+  },
+  {
+    "id": "hiragana03-047",
+    "kana": "くらい そら",
+    "romaji": [
+      "kurai sora"
+    ],
+    "kanji": "暗い空",
+    "translation": "dark sky"
+  },
+  {
+    "id": "hiragana03-048",
+    "kana": "くらい いえ",
+    "romaji": [
+      "kurai ie"
+    ],
+    "kanji": "暗い家",
+    "translation": "dark house"
+  },
+  {
+    "id": "hiragana03-049",
+    "kana": "くらい みち",
+    "romaji": [
+      "kurai michi"
+    ],
+    "kanji": "暗い道",
+    "translation": "dark road"
+  },
+  {
+    "id": "hiragana03-050",
+    "kana": "くらい やま",
+    "romaji": [
+      "kurai yama"
+    ],
+    "kanji": "暗い山",
+    "translation": "dark mountain"
+  },
+  {
+    "id": "hiragana03-051",
+    "kana": "あつい はな",
+    "romaji": [
+      "atsui hana"
+    ],
+    "kanji": "熱い花",
+    "translation": "hot flower"
+  },
+  {
+    "id": "hiragana03-052",
+    "kana": "あつい そら",
+    "romaji": [
+      "atsui sora"
+    ],
+    "kanji": "熱い空",
+    "translation": "hot sky"
+  },
+  {
+    "id": "hiragana03-053",
+    "kana": "あつい いえ",
+    "romaji": [
+      "atsui ie"
+    ],
+    "kanji": "熱い家",
+    "translation": "hot house"
+  },
+  {
+    "id": "hiragana03-054",
+    "kana": "あつい みち",
+    "romaji": [
+      "atsui michi"
+    ],
+    "kanji": "熱い道",
+    "translation": "hot road"
+  },
+  {
+    "id": "hiragana03-055",
+    "kana": "あつい やま",
+    "romaji": [
+      "atsui yama"
+    ],
+    "kanji": "熱い山",
+    "translation": "hot mountain"
+  },
+  {
+    "id": "hiragana03-056",
+    "kana": "つめたい はな",
+    "romaji": [
+      "tsumetai hana"
+    ],
+    "kanji": "冷たい花",
+    "translation": "cold flower"
+  },
+  {
+    "id": "hiragana03-057",
+    "kana": "つめたい そら",
+    "romaji": [
+      "tsumetai sora"
+    ],
+    "kanji": "冷たい空",
+    "translation": "cold sky"
+  },
+  {
+    "id": "hiragana03-058",
+    "kana": "つめたい いえ",
+    "romaji": [
+      "tsumetai ie"
+    ],
+    "kanji": "冷たい家",
+    "translation": "cold house"
+  },
+  {
+    "id": "hiragana03-059",
+    "kana": "つめたい みち",
+    "romaji": [
+      "tsumetai michi"
+    ],
+    "kanji": "冷たい道",
+    "translation": "cold road"
+  },
+  {
+    "id": "hiragana03-060",
+    "kana": "つめたい やま",
+    "romaji": [
+      "tsumetai yama"
+    ],
+    "kanji": "冷たい山",
+    "translation": "cold mountain"
+  },
+  {
+    "id": "hiragana03-061",
+    "kana": "たかい はな",
+    "romaji": [
+      "takai hana"
+    ],
+    "kanji": "高い花",
+    "translation": "tall flower"
+  },
+  {
+    "id": "hiragana03-062",
+    "kana": "たかい そら",
+    "romaji": [
+      "takai sora"
+    ],
+    "kanji": "高い空",
+    "translation": "tall sky"
+  },
+  {
+    "id": "hiragana03-063",
+    "kana": "たかい いえ",
+    "romaji": [
+      "takai ie"
+    ],
+    "kanji": "高い家",
+    "translation": "tall house"
+  },
+  {
+    "id": "hiragana03-064",
+    "kana": "たかい みち",
+    "romaji": [
+      "takai michi"
+    ],
+    "kanji": "高い道",
+    "translation": "tall road"
+  },
+  {
+    "id": "hiragana03-065",
+    "kana": "たかい やま",
+    "romaji": [
+      "takai yama"
+    ],
+    "kanji": "高い山",
+    "translation": "tall mountain"
+  },
+  {
+    "id": "hiragana03-066",
+    "kana": "ひくい はな",
+    "romaji": [
+      "hikui hana"
+    ],
+    "kanji": "低い花",
+    "translation": "low flower"
+  },
+  {
+    "id": "hiragana03-067",
+    "kana": "ひくい そら",
+    "romaji": [
+      "hikui sora"
+    ],
+    "kanji": "低い空",
+    "translation": "low sky"
+  },
+  {
+    "id": "hiragana03-068",
+    "kana": "ひくい いえ",
+    "romaji": [
+      "hikui ie"
+    ],
+    "kanji": "低い家",
+    "translation": "low house"
+  },
+  {
+    "id": "hiragana03-069",
+    "kana": "ひくい みち",
+    "romaji": [
+      "hikui michi"
+    ],
+    "kanji": "低い道",
+    "translation": "low road"
+  },
+  {
+    "id": "hiragana03-070",
+    "kana": "ひくい やま",
+    "romaji": [
+      "hikui yama"
+    ],
+    "kanji": "低い山",
+    "translation": "low mountain"
+  },
+  {
+    "id": "hiragana03-071",
+    "kana": "ながい はな",
+    "romaji": [
+      "nagai hana"
+    ],
+    "kanji": "長い花",
+    "translation": "long flower"
+  },
+  {
+    "id": "hiragana03-072",
+    "kana": "ながい そら",
+    "romaji": [
+      "nagai sora"
+    ],
+    "kanji": "長い空",
+    "translation": "long sky"
+  },
+  {
+    "id": "hiragana03-073",
+    "kana": "ながい いえ",
+    "romaji": [
+      "nagai ie"
+    ],
+    "kanji": "長い家",
+    "translation": "long house"
+  },
+  {
+    "id": "hiragana03-074",
+    "kana": "ながい みち",
+    "romaji": [
+      "nagai michi"
+    ],
+    "kanji": "長い道",
+    "translation": "long road"
+  },
+  {
+    "id": "hiragana03-075",
+    "kana": "ながい やま",
+    "romaji": [
+      "nagai yama"
+    ],
+    "kanji": "長い山",
+    "translation": "long mountain"
+  },
+  {
+    "id": "hiragana03-076",
+    "kana": "みじかい はな",
+    "romaji": [
+      "mijikai hana"
+    ],
+    "kanji": "短い花",
+    "translation": "short flower"
+  },
+  {
+    "id": "hiragana03-077",
+    "kana": "みじかい そら",
+    "romaji": [
+      "mijikai sora"
+    ],
+    "kanji": "短い空",
+    "translation": "short sky"
+  },
+  {
+    "id": "hiragana03-078",
+    "kana": "みじかい いえ",
+    "romaji": [
+      "mijikai ie"
+    ],
+    "kanji": "短い家",
+    "translation": "short house"
+  },
+  {
+    "id": "hiragana03-079",
+    "kana": "みじかい みち",
+    "romaji": [
+      "mijikai michi"
+    ],
+    "kanji": "短い道",
+    "translation": "short road"
+  },
+  {
+    "id": "hiragana03-080",
+    "kana": "みじかい やま",
+    "romaji": [
+      "mijikai yama"
+    ],
+    "kanji": "短い山",
+    "translation": "short mountain"
+  },
+  {
+    "id": "hiragana03-081",
+    "kana": "おもい はな",
+    "romaji": [
+      "omoi hana"
+    ],
+    "kanji": "重い花",
+    "translation": "heavy flower"
+  },
+  {
+    "id": "hiragana03-082",
+    "kana": "おもい そら",
+    "romaji": [
+      "omoi sora"
+    ],
+    "kanji": "重い空",
+    "translation": "heavy sky"
+  },
+  {
+    "id": "hiragana03-083",
+    "kana": "おもい いえ",
+    "romaji": [
+      "omoi ie"
+    ],
+    "kanji": "重い家",
+    "translation": "heavy house"
+  },
+  {
+    "id": "hiragana03-084",
+    "kana": "おもい みち",
+    "romaji": [
+      "omoi michi"
+    ],
+    "kanji": "重い道",
+    "translation": "heavy road"
+  },
+  {
+    "id": "hiragana03-085",
+    "kana": "おもい やま",
+    "romaji": [
+      "omoi yama"
+    ],
+    "kanji": "重い山",
+    "translation": "heavy mountain"
+  },
+  {
+    "id": "hiragana03-086",
+    "kana": "かるい はな",
+    "romaji": [
+      "karui hana"
+    ],
+    "kanji": "軽い花",
+    "translation": "light flower"
+  },
+  {
+    "id": "hiragana03-087",
+    "kana": "かるい そら",
+    "romaji": [
+      "karui sora"
+    ],
+    "kanji": "軽い空",
+    "translation": "light sky"
+  },
+  {
+    "id": "hiragana03-088",
+    "kana": "かるい いえ",
+    "romaji": [
+      "karui ie"
+    ],
+    "kanji": "軽い家",
+    "translation": "light house"
+  },
+  {
+    "id": "hiragana03-089",
+    "kana": "かるい みち",
+    "romaji": [
+      "karui michi"
+    ],
+    "kanji": "軽い道",
+    "translation": "light road"
+  },
+  {
+    "id": "hiragana03-090",
+    "kana": "かるい やま",
+    "romaji": [
+      "karui yama"
+    ],
+    "kanji": "軽い山",
+    "translation": "light mountain"
+  },
+  {
+    "id": "hiragana03-091",
+    "kana": "きれいな はな",
+    "romaji": [
+      "kireina hana"
+    ],
+    "kanji": "綺麗な花",
+    "translation": "beautiful flower"
+  },
+  {
+    "id": "hiragana03-092",
+    "kana": "きれいな そら",
+    "romaji": [
+      "kireina sora"
+    ],
+    "kanji": "綺麗な空",
+    "translation": "beautiful sky"
+  },
+  {
+    "id": "hiragana03-093",
+    "kana": "きれいな いえ",
+    "romaji": [
+      "kireina ie"
+    ],
+    "kanji": "綺麗な家",
+    "translation": "beautiful house"
+  },
+  {
+    "id": "hiragana03-094",
+    "kana": "きれいな みち",
+    "romaji": [
+      "kireina michi"
+    ],
+    "kanji": "綺麗な道",
+    "translation": "beautiful road"
+  },
+  {
+    "id": "hiragana03-095",
+    "kana": "きれいな やま",
+    "romaji": [
+      "kireina yama"
+    ],
+    "kanji": "綺麗な山",
+    "translation": "beautiful mountain"
+  },
+  {
+    "id": "hiragana03-096",
+    "kana": "しずかな はな",
+    "romaji": [
+      "shizukana hana"
+    ],
+    "kanji": "静かな花",
+    "translation": "quiet flower"
+  },
+  {
+    "id": "hiragana03-097",
+    "kana": "しずかな そら",
+    "romaji": [
+      "shizukana sora"
+    ],
+    "kanji": "静かな空",
+    "translation": "quiet sky"
+  },
+  {
+    "id": "hiragana03-098",
+    "kana": "しずかな いえ",
+    "romaji": [
+      "shizukana ie"
+    ],
+    "kanji": "静かな家",
+    "translation": "quiet house"
+  },
+  {
+    "id": "hiragana03-099",
+    "kana": "しずかな みち",
+    "romaji": [
+      "shizukana michi"
+    ],
+    "kanji": "静かな道",
+    "translation": "quiet road"
+  },
+  {
+    "id": "hiragana03-100",
+    "kana": "しずかな やま",
+    "romaji": [
+      "shizukana yama"
+    ],
+    "kanji": "静かな山",
+    "translation": "quiet mountain"
+  }
+]

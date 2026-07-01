@@ -1,0 +1,802 @@
+[
+  {
+    "id": "katakana02-001",
+    "kana": "アイス",
+    "romaji": [
+      "aisu"
+    ],
+    "translation": "ice cream"
+  },
+  {
+    "id": "katakana02-002",
+    "kana": "アジア",
+    "romaji": [
+      "ajia"
+    ],
+    "translation": "Asia"
+  },
+  {
+    "id": "katakana02-003",
+    "kana": "アニメ",
+    "romaji": [
+      "anime"
+    ],
+    "translation": "anime"
+  },
+  {
+    "id": "katakana02-004",
+    "kana": "アロエ",
+    "romaji": [
+      "aroe"
+    ],
+    "translation": "aloe"
+  },
+  {
+    "id": "katakana02-005",
+    "kana": "イタリア",
+    "romaji": [
+      "itaria"
+    ],
+    "translation": "Italy"
+  },
+  {
+    "id": "katakana02-006",
+    "kana": "インク",
+    "romaji": [
+      "inku"
+    ],
+    "translation": "ink"
+  },
+  {
+    "id": "katakana02-007",
+    "kana": "ウイルス",
+    "romaji": [
+      "uirusu"
+    ],
+    "translation": "virus"
+  },
+  {
+    "id": "katakana02-008",
+    "kana": "エアコン",
+    "romaji": [
+      "eakon"
+    ],
+    "translation": "air conditioner"
+  },
+  {
+    "id": "katakana02-009",
+    "kana": "エコ",
+    "romaji": [
+      "eko"
+    ],
+    "translation": "eco-friendly"
+  },
+  {
+    "id": "katakana02-010",
+    "kana": "エプロン",
+    "romaji": [
+      "epuron"
+    ],
+    "translation": "apron"
+  },
+  {
+    "id": "katakana02-011",
+    "kana": "オイル",
+    "romaji": [
+      "oiru"
+    ],
+    "translation": "oil"
+  },
+  {
+    "id": "katakana02-012",
+    "kana": "オペラ",
+    "romaji": [
+      "opera"
+    ],
+    "translation": "opera"
+  },
+  {
+    "id": "katakana02-013",
+    "kana": "カカオ",
+    "romaji": [
+      "kakao"
+    ],
+    "translation": "cacao"
+  },
+  {
+    "id": "katakana02-014",
+    "kana": "カメラ",
+    "romaji": [
+      "kamera"
+    ],
+    "translation": "camera"
+  },
+  {
+    "id": "katakana02-015",
+    "kana": "アクセル",
+    "romaji": [
+      "akuseru"
+    ],
+    "translation": "accelerator"
+  },
+  {
+    "id": "katakana02-016",
+    "kana": "アプリ",
+    "romaji": [
+      "apuri"
+    ],
+    "translation": "app"
+  },
+  {
+    "id": "katakana02-017",
+    "kana": "アルミ",
+    "romaji": [
+      "arumi"
+    ],
+    "translation": "aluminum"
+  },
+  {
+    "id": "katakana02-018",
+    "kana": "ガイド",
+    "romaji": [
+      "gaido"
+    ],
+    "translation": "guide"
+  },
+  {
+    "id": "katakana02-019",
+    "kana": "ガラス",
+    "romaji": [
+      "garasu"
+    ],
+    "translation": "glass"
+  },
+  {
+    "id": "katakana02-020",
+    "kana": "キウイ",
+    "romaji": [
+      "kiui"
+    ],
+    "translation": "kiwi fruit"
+  },
+  {
+    "id": "katakana02-021",
+    "kana": "キロ",
+    "romaji": [
+      "kiro"
+    ],
+    "translation": "kilogram"
+  },
+  {
+    "id": "katakana02-022",
+    "kana": "クイズ",
+    "romaji": [
+      "kuizu"
+    ],
+    "translation": "quiz"
+  },
+  {
+    "id": "katakana02-023",
+    "kana": "クラブ",
+    "romaji": [
+      "kurabu"
+    ],
+    "translation": "club"
+  },
+  {
+    "id": "katakana02-024",
+    "kana": "グラス",
+    "romaji": [
+      "gurasu"
+    ],
+    "translation": "drinking glass"
+  },
+  {
+    "id": "katakana02-025",
+    "kana": "イベント",
+    "romaji": [
+      "ibento"
+    ],
+    "translation": "event"
+  },
+  {
+    "id": "katakana02-026",
+    "kana": "エリア",
+    "romaji": [
+      "eria"
+    ],
+    "translation": "area"
+  },
+  {
+    "id": "katakana02-027",
+    "kana": "コアラ",
+    "romaji": [
+      "koara"
+    ],
+    "translation": "koala"
+  },
+  {
+    "id": "katakana02-028",
+    "kana": "コイン",
+    "romaji": [
+      "koin"
+    ],
+    "translation": "coin"
+  },
+  {
+    "id": "katakana02-029",
+    "kana": "ココア",
+    "romaji": [
+      "kokoa"
+    ],
+    "translation": "cocoa"
+  },
+  {
+    "id": "katakana02-030",
+    "kana": "オアシス",
+    "romaji": [
+      "oashisu"
+    ],
+    "translation": "oasis"
+  },
+  {
+    "id": "katakana02-031",
+    "kana": "ゴム",
+    "romaji": [
+      "gomu"
+    ],
+    "translation": "rubber"
+  },
+  {
+    "id": "katakana02-032",
+    "kana": "サイン",
+    "romaji": [
+      "sain"
+    ],
+    "translation": "sign"
+  },
+  {
+    "id": "katakana02-033",
+    "kana": "サラダ",
+    "romaji": [
+      "sarada"
+    ],
+    "translation": "salad"
+  },
+  {
+    "id": "katakana02-034",
+    "kana": "オクラ",
+    "romaji": [
+      "okura"
+    ],
+    "translation": "okra"
+  },
+  {
+    "id": "katakana02-035",
+    "kana": "ジャム",
+    "romaji": [
+      "jyamu"
+    ],
+    "translation": "jam"
+  },
+  {
+    "id": "katakana02-036",
+    "kana": "オルガン",
+    "romaji": [
+      "orugan"
+    ],
+    "translation": "organ"
+  },
+  {
+    "id": "katakana02-037",
+    "kana": "カナダ",
+    "romaji": [
+      "kanada"
+    ],
+    "translation": "Canada"
+  },
+  {
+    "id": "katakana02-038",
+    "kana": "カルテ",
+    "romaji": [
+      "karute"
+    ],
+    "translation": "medical chart"
+  },
+  {
+    "id": "katakana02-039",
+    "kana": "ガム",
+    "romaji": [
+      "gamu"
+    ],
+    "translation": "chewing gum"
+  },
+  {
+    "id": "katakana02-040",
+    "kana": "キムチ",
+    "romaji": [
+      "kimuchi"
+    ],
+    "translation": "kimchi"
+  },
+  {
+    "id": "katakana02-041",
+    "kana": "クラゲ",
+    "romaji": [
+      "kurage"
+    ],
+    "translation": "jellyfish"
+  },
+  {
+    "id": "katakana02-042",
+    "kana": "ソファ",
+    "romaji": [
+      "sofa"
+    ],
+    "translation": "sofa"
+  },
+  {
+    "id": "katakana02-043",
+    "kana": "タイプ",
+    "romaji": [
+      "taipu"
+    ],
+    "translation": "type"
+  },
+  {
+    "id": "katakana02-044",
+    "kana": "タオル",
+    "romaji": [
+      "taoru"
+    ],
+    "translation": "towel"
+  },
+  {
+    "id": "katakana02-045",
+    "kana": "ケバブ",
+    "romaji": [
+      "kebabu"
+    ],
+    "translation": "kebab"
+  },
+  {
+    "id": "katakana02-046",
+    "kana": "ゴリラ",
+    "romaji": [
+      "gorira"
+    ],
+    "translation": "gorilla"
+  },
+  {
+    "id": "katakana02-047",
+    "kana": "テスト",
+    "romaji": [
+      "tesuto"
+    ],
+    "translation": "test"
+  },
+  {
+    "id": "katakana02-048",
+    "kana": "テレビ",
+    "romaji": [
+      "terebi"
+    ],
+    "translation": "television"
+  },
+  {
+    "id": "katakana02-049",
+    "kana": "テント",
+    "romaji": [
+      "tento"
+    ],
+    "translation": "tent"
+  },
+  {
+    "id": "katakana02-050",
+    "kana": "ドア",
+    "romaji": [
+      "doa"
+    ],
+    "translation": "door"
+  },
+  {
+    "id": "katakana02-051",
+    "kana": "トマト",
+    "romaji": [
+      "tomato"
+    ],
+    "translation": "tomato"
+  },
+  {
+    "id": "katakana02-052",
+    "kana": "ドレス",
+    "romaji": [
+      "doresu"
+    ],
+    "translation": "dress"
+  },
+  {
+    "id": "katakana02-053",
+    "kana": "ナイフ",
+    "romaji": [
+      "naifu"
+    ],
+    "translation": "knife"
+  },
+  {
+    "id": "katakana02-054",
+    "kana": "サウナ",
+    "romaji": [
+      "sauna"
+    ],
+    "translation": "sauna"
+  },
+  {
+    "id": "katakana02-055",
+    "kana": "サドル",
+    "romaji": [
+      "sadoru"
+    ],
+    "translation": "saddle"
+  },
+  {
+    "id": "katakana02-056",
+    "kana": "バイク",
+    "romaji": [
+      "baiku"
+    ],
+    "translation": "motorcycle"
+  },
+  {
+    "id": "katakana02-057",
+    "kana": "バス",
+    "romaji": [
+      "basu"
+    ],
+    "translation": "bus"
+  },
+  {
+    "id": "katakana02-058",
+    "kana": "パスタ",
+    "romaji": [
+      "pasuta"
+    ],
+    "translation": "pasta"
+  },
+  {
+    "id": "katakana02-059",
+    "kana": "パン",
+    "romaji": [
+      "pan"
+    ],
+    "translation": "bread"
+  },
+  {
+    "id": "katakana02-060",
+    "kana": "パンダ",
+    "romaji": [
+      "panda"
+    ],
+    "translation": "panda"
+  },
+  {
+    "id": "katakana02-061",
+    "kana": "ジム",
+    "romaji": [
+      "jimu"
+    ],
+    "translation": "gym"
+  },
+  {
+    "id": "katakana02-062",
+    "kana": "ピアノ",
+    "romaji": [
+      "piano"
+    ],
+    "translation": "piano"
+  },
+  {
+    "id": "katakana02-063",
+    "kana": "ビデオ",
+    "romaji": [
+      "bideo"
+    ],
+    "translation": "video"
+  },
+  {
+    "id": "katakana02-064",
+    "kana": "ビル",
+    "romaji": [
+      "biru"
+    ],
+    "translation": "building"
+  },
+  {
+    "id": "katakana02-065",
+    "kana": "セダン",
+    "romaji": [
+      "sedan"
+    ],
+    "translation": "sedan"
+  },
+  {
+    "id": "katakana02-066",
+    "kana": "ベルト",
+    "romaji": [
+      "beruto"
+    ],
+    "translation": "belt"
+  },
+  {
+    "id": "katakana02-067",
+    "kana": "ペン",
+    "romaji": [
+      "pen"
+    ],
+    "translation": "pen"
+  },
+  {
+    "id": "katakana02-068",
+    "kana": "ホテル",
+    "romaji": [
+      "hoteru"
+    ],
+    "translation": "hotel"
+  },
+  {
+    "id": "katakana02-069",
+    "kana": "ボタン",
+    "romaji": [
+      "botan"
+    ],
+    "translation": "button"
+  },
+  {
+    "id": "katakana02-070",
+    "kana": "ポスト",
+    "romaji": [
+      "posuto"
+    ],
+    "translation": "mailbox"
+  },
+  {
+    "id": "katakana02-071",
+    "kana": "マスク",
+    "romaji": [
+      "masuku"
+    ],
+    "translation": "mask"
+  },
+  {
+    "id": "katakana02-072",
+    "kana": "ミルク",
+    "romaji": [
+      "miruku"
+    ],
+    "translation": "milk"
+  },
+  {
+    "id": "katakana02-073",
+    "kana": "メモ",
+    "romaji": [
+      "memo"
+    ],
+    "translation": "memo"
+  },
+  {
+    "id": "katakana02-074",
+    "kana": "メロン",
+    "romaji": [
+      "meron"
+    ],
+    "translation": "melon"
+  },
+  {
+    "id": "katakana02-075",
+    "kana": "ラジオ",
+    "romaji": [
+      "rajio"
+    ],
+    "translation": "radio"
+  },
+  {
+    "id": "katakana02-076",
+    "kana": "リボン",
+    "romaji": [
+      "ribon"
+    ],
+    "translation": "ribbon"
+  },
+  {
+    "id": "katakana02-077",
+    "kana": "レモン",
+    "romaji": [
+      "remon"
+    ],
+    "translation": "lemon"
+  },
+  {
+    "id": "katakana02-078",
+    "kana": "ワイン",
+    "romaji": [
+      "wain"
+    ],
+    "translation": "wine"
+  },
+  {
+    "id": "katakana02-079",
+    "kana": "タイヤ",
+    "romaji": [
+      "taiya"
+    ],
+    "translation": "tire"
+  },
+  {
+    "id": "katakana02-080",
+    "kana": "キャベツ",
+    "romaji": [
+      "kyabetsu"
+    ],
+    "translation": "cabbage"
+  },
+  {
+    "id": "katakana02-081",
+    "kana": "キャンプ",
+    "romaji": [
+      "kyanpu"
+    ],
+    "translation": "camping"
+  },
+  {
+    "id": "katakana02-082",
+    "kana": "ダンス",
+    "romaji": [
+      "dansu"
+    ],
+    "translation": "dance"
+  },
+  {
+    "id": "katakana02-083",
+    "kana": "クラス",
+    "romaji": [
+      "kurasu"
+    ],
+    "translation": "class"
+  },
+  {
+    "id": "katakana02-084",
+    "kana": "チリ",
+    "romaji": [
+      "chiri"
+    ],
+    "translation": "Chile"
+  },
+  {
+    "id": "katakana02-085",
+    "kana": "デニム",
+    "romaji": [
+      "denimu"
+    ],
+    "translation": "denim"
+  },
+  {
+    "id": "katakana02-086",
+    "kana": "ドラマ",
+    "romaji": [
+      "dorama"
+    ],
+    "translation": "television drama"
+  },
+  {
+    "id": "katakana02-087",
+    "kana": "ナイロン",
+    "romaji": [
+      "nairon"
+    ],
+    "translation": "nylon"
+  },
+  {
+    "id": "katakana02-088",
+    "kana": "ハム",
+    "romaji": [
+      "hamu"
+    ],
+    "translation": "ham"
+  },
+  {
+    "id": "katakana02-089",
+    "kana": "バナナ",
+    "romaji": [
+      "banana"
+    ],
+    "translation": "banana"
+  },
+  {
+    "id": "katakana02-090",
+    "kana": "パイ",
+    "romaji": [
+      "pai"
+    ],
+    "translation": "pie"
+  },
+  {
+    "id": "katakana02-091",
+    "kana": "パネル",
+    "romaji": [
+      "paneru"
+    ],
+    "translation": "panel"
+  },
+  {
+    "id": "katakana02-092",
+    "kana": "ビキニ",
+    "romaji": [
+      "bikini"
+    ],
+    "translation": "bikini"
+  },
+  {
+    "id": "katakana02-093",
+    "kana": "ビザ",
+    "romaji": [
+      "biza"
+    ],
+    "translation": "visa"
+  },
+  {
+    "id": "katakana02-094",
+    "kana": "ピザ",
+    "romaji": [
+      "piza"
+    ],
+    "translation": "pizza"
+  },
+  {
+    "id": "katakana02-095",
+    "kana": "フィルム",
+    "romaji": [
+      "firumu"
+    ],
+    "translation": "film"
+  },
+  {
+    "id": "katakana02-096",
+    "kana": "プラン",
+    "romaji": [
+      "puran"
+    ],
+    "translation": "plan"
+  },
+  {
+    "id": "katakana02-097",
+    "kana": "ベンチ",
+    "romaji": [
+      "benchi"
+    ],
+    "translation": "bench"
+  },
+  {
+    "id": "katakana02-098",
+    "kana": "ミシン",
+    "romaji": [
+      "mishin"
+    ],
+    "translation": "sewing machine"
+  },
+  {
+    "id": "katakana02-099",
+    "kana": "メディア",
+    "romaji": [
+      "media"
+    ],
+    "translation": "media"
+  },
+  {
+    "id": "katakana02-100",
+    "kana": "リスク",
+    "romaji": [
+      "risuku"
+    ],
+    "translation": "risk"
+  }
+]

@@ -1,0 +1,878 @@
+[
+  {
+    "id": "katakana03-001",
+    "kana": "アイスクリーム",
+    "romaji": [
+      "aisukuriimu",
+      "aisukurimu"
+    ],
+    "translation": "ice cream"
+  },
+  {
+    "id": "katakana03-002",
+    "kana": "アナウンサー",
+    "romaji": [
+      "anaunsaa",
+      "anaunsa"
+    ],
+    "translation": "announcer"
+  },
+  {
+    "id": "katakana03-003",
+    "kana": "アパート",
+    "romaji": [
+      "apaato",
+      "apato"
+    ],
+    "translation": "apartment"
+  },
+  {
+    "id": "katakana03-004",
+    "kana": "アメリカ",
+    "romaji": [
+      "amerika"
+    ],
+    "translation": "the United States"
+  },
+  {
+    "id": "katakana03-005",
+    "kana": "アルバイト",
+    "romaji": [
+      "arubaito"
+    ],
+    "translation": "part-time job"
+  },
+  {
+    "id": "katakana03-006",
+    "kana": "アルバム",
+    "romaji": [
+      "arubamu"
+    ],
+    "translation": "album"
+  },
+  {
+    "id": "katakana03-007",
+    "kana": "エスカレーター",
+    "romaji": [
+      "esukareetaa",
+      "esukareta"
+    ],
+    "translation": "escalator"
+  },
+  {
+    "id": "katakana03-008",
+    "kana": "エレベーター",
+    "romaji": [
+      "erebeetaa",
+      "erebeta"
+    ],
+    "translation": "elevator"
+  },
+  {
+    "id": "katakana03-009",
+    "kana": "オートバイ",
+    "romaji": [
+      "ootobai",
+      "outobai",
+      "otobai"
+    ],
+    "translation": "motorcycle"
+  },
+  {
+    "id": "katakana03-010",
+    "kana": "オレンジ",
+    "romaji": [
+      "orenji"
+    ],
+    "translation": "orange"
+  },
+  {
+    "id": "katakana03-011",
+    "kana": "カレンダー",
+    "romaji": [
+      "karendaa",
+      "karenda"
+    ],
+    "translation": "calendar"
+  },
+  {
+    "id": "katakana03-012",
+    "kana": "カーテン",
+    "romaji": [
+      "kaaten",
+      "katen"
+    ],
+    "translation": "curtain"
+  },
+  {
+    "id": "katakana03-013",
+    "kana": "カラオケ",
+    "romaji": [
+      "karaoke"
+    ],
+    "translation": "karaoke"
+  },
+  {
+    "id": "katakana03-014",
+    "kana": "カリフォルニア",
+    "romaji": [
+      "kariforunia"
+    ],
+    "translation": "California"
+  },
+  {
+    "id": "katakana03-015",
+    "kana": "ガソリン",
+    "romaji": [
+      "gasorin"
+    ],
+    "translation": "gasoline"
+  },
+  {
+    "id": "katakana03-016",
+    "kana": "キーボード",
+    "romaji": [
+      "kiiboodo",
+      "kiiboudo",
+      "kibodo"
+    ],
+    "translation": "keyboard"
+  },
+  {
+    "id": "katakana03-017",
+    "kana": "キロメートル",
+    "romaji": [
+      "kiromeetoru",
+      "kirometoru"
+    ],
+    "translation": "kilometer"
+  },
+  {
+    "id": "katakana03-018",
+    "kana": "クリスマス",
+    "romaji": [
+      "kurisumasu"
+    ],
+    "translation": "Christmas"
+  },
+  {
+    "id": "katakana03-019",
+    "kana": "コンピューター",
+    "romaji": [
+      "konpyuutaa",
+      "konpyuta"
+    ],
+    "translation": "computer"
+  },
+  {
+    "id": "katakana03-020",
+    "kana": "コンビニ",
+    "romaji": [
+      "konbini"
+    ],
+    "translation": "convenience store"
+  },
+  {
+    "id": "katakana03-021",
+    "kana": "サンドイッチ",
+    "romaji": [
+      "sandoitchi"
+    ],
+    "translation": "sandwich"
+  },
+  {
+    "id": "katakana03-022",
+    "kana": "サングラス",
+    "romaji": [
+      "sangurasu"
+    ],
+    "translation": "sunglasses"
+  },
+  {
+    "id": "katakana03-023",
+    "kana": "シャワー",
+    "romaji": [
+      "shyawaa",
+      "shyawa"
+    ],
+    "translation": "shower"
+  },
+  {
+    "id": "katakana03-024",
+    "kana": "シャンプー",
+    "romaji": [
+      "shyanpuu",
+      "shyanpu"
+    ],
+    "translation": "shampoo"
+  },
+  {
+    "id": "katakana03-025",
+    "kana": "スーパー",
+    "romaji": [
+      "suupaa",
+      "supa"
+    ],
+    "translation": "supermarket"
+  },
+  {
+    "id": "katakana03-026",
+    "kana": "スケジュール",
+    "romaji": [
+      "sukejyuuru",
+      "sukejyuru"
+    ],
+    "translation": "schedule"
+  },
+  {
+    "id": "katakana03-027",
+    "kana": "スプーン",
+    "romaji": [
+      "supuun",
+      "supun"
+    ],
+    "translation": "spoon"
+  },
+  {
+    "id": "katakana03-028",
+    "kana": "スマートフォン",
+    "romaji": [
+      "sumaatofon",
+      "sumatofon"
+    ],
+    "translation": "smartphone"
+  },
+  {
+    "id": "katakana03-029",
+    "kana": "セーター",
+    "romaji": [
+      "seetaa",
+      "seta"
+    ],
+    "translation": "sweater"
+  },
+  {
+    "id": "katakana03-030",
+    "kana": "センチメートル",
+    "romaji": [
+      "senchimeetoru",
+      "senchimetoru"
+    ],
+    "translation": "centimeter"
+  },
+  {
+    "id": "katakana03-031",
+    "kana": "ターミナル",
+    "romaji": [
+      "taaminaru",
+      "taminaru"
+    ],
+    "translation": "terminal"
+  },
+  {
+    "id": "katakana03-032",
+    "kana": "ダイニング",
+    "romaji": [
+      "dainingu"
+    ],
+    "translation": "dining room"
+  },
+  {
+    "id": "katakana03-033",
+    "kana": "チョコレート",
+    "romaji": [
+      "chyokoreeto",
+      "chyokoreto"
+    ],
+    "translation": "chocolate"
+  },
+  {
+    "id": "katakana03-034",
+    "kana": "デパート",
+    "romaji": [
+      "depaato",
+      "depato"
+    ],
+    "translation": "department store"
+  },
+  {
+    "id": "katakana03-035",
+    "kana": "テーブル",
+    "romaji": [
+      "teeburu",
+      "teburu"
+    ],
+    "translation": "table"
+  },
+  {
+    "id": "katakana03-036",
+    "kana": "テニスコート",
+    "romaji": [
+      "tenisukooto",
+      "tenisukouto",
+      "tenisukoto"
+    ],
+    "translation": "tennis court"
+  },
+  {
+    "id": "katakana03-037",
+    "kana": "トイレットペーパー",
+    "romaji": [
+      "toirettopeepaa",
+      "toirettopepa"
+    ],
+    "translation": "toilet paper"
+  },
+  {
+    "id": "katakana03-038",
+    "kana": "トースター",
+    "romaji": [
+      "toosutaa",
+      "tousutaa",
+      "tosuta"
+    ],
+    "translation": "toaster"
+  },
+  {
+    "id": "katakana03-039",
+    "kana": "ドライバー",
+    "romaji": [
+      "doraibaa",
+      "doraiba"
+    ],
+    "translation": "driver"
+  },
+  {
+    "id": "katakana03-040",
+    "kana": "ドラマ",
+    "romaji": [
+      "dorama"
+    ],
+    "translation": "television drama"
+  },
+  {
+    "id": "katakana03-041",
+    "kana": "ニュースサイト",
+    "romaji": [
+      "nyuususaito",
+      "nyususaito"
+    ],
+    "translation": "news website"
+  },
+  {
+    "id": "katakana03-042",
+    "kana": "ネクタイ",
+    "romaji": [
+      "nekutai"
+    ],
+    "translation": "necktie"
+  },
+  {
+    "id": "katakana03-043",
+    "kana": "ノートパソコン",
+    "romaji": [
+      "nootopasokon",
+      "noutopasokon",
+      "notopasokon"
+    ],
+    "translation": "laptop computer"
+  },
+  {
+    "id": "katakana03-044",
+    "kana": "バスケットボール",
+    "romaji": [
+      "basukettobooru",
+      "basukettobouru",
+      "basukettoboru"
+    ],
+    "translation": "basketball"
+  },
+  {
+    "id": "katakana03-045",
+    "kana": "バスルーム",
+    "romaji": [
+      "basuruumu",
+      "basurumu"
+    ],
+    "translation": "bathroom"
+  },
+  {
+    "id": "katakana03-046",
+    "kana": "パスポート",
+    "romaji": [
+      "pasupooto",
+      "pasupouto",
+      "pasupoto"
+    ],
+    "translation": "passport"
+  },
+  {
+    "id": "katakana03-047",
+    "kana": "パソコン",
+    "romaji": [
+      "pasokon"
+    ],
+    "translation": "personal computer"
+  },
+  {
+    "id": "katakana03-048",
+    "kana": "ハンバーガー",
+    "romaji": [
+      "hanbaagaa",
+      "hanbaga"
+    ],
+    "translation": "hamburger"
+  },
+  {
+    "id": "katakana03-049",
+    "kana": "ピクニック",
+    "romaji": [
+      "pikunikku"
+    ],
+    "translation": "picnic"
+  },
+  {
+    "id": "katakana03-050",
+    "kana": "ビジネス",
+    "romaji": [
+      "bijinesu"
+    ],
+    "translation": "business"
+  },
+  {
+    "id": "katakana03-051",
+    "kana": "フィルム",
+    "romaji": [
+      "firumu"
+    ],
+    "translation": "film"
+  },
+  {
+    "id": "katakana03-052",
+    "kana": "フォーク",
+    "romaji": [
+      "fooku",
+      "fouku",
+      "foku"
+    ],
+    "translation": "fork"
+  },
+  {
+    "id": "katakana03-053",
+    "kana": "プラットホーム",
+    "romaji": [
+      "purattohoomu",
+      "purattohoumu",
+      "purattohomu"
+    ],
+    "translation": "platform"
+  },
+  {
+    "id": "katakana03-054",
+    "kana": "プレゼント",
+    "romaji": [
+      "purezento"
+    ],
+    "translation": "present"
+  },
+  {
+    "id": "katakana03-055",
+    "kana": "プロジェクト",
+    "romaji": [
+      "purojekuto"
+    ],
+    "translation": "project"
+  },
+  {
+    "id": "katakana03-056",
+    "kana": "ベランダ",
+    "romaji": [
+      "beranda"
+    ],
+    "translation": "balcony"
+  },
+  {
+    "id": "katakana03-057",
+    "kana": "ボールペン",
+    "romaji": [
+      "boorupen",
+      "bourupen",
+      "borupen"
+    ],
+    "translation": "ballpoint pen"
+  },
+  {
+    "id": "katakana03-058",
+    "kana": "ポケット",
+    "romaji": [
+      "poketto"
+    ],
+    "translation": "pocket"
+  },
+  {
+    "id": "katakana03-059",
+    "kana": "マフラー",
+    "romaji": [
+      "mafuraa",
+      "mafura"
+    ],
+    "translation": "scarf"
+  },
+  {
+    "id": "katakana03-060",
+    "kana": "マンション",
+    "romaji": [
+      "manshyon"
+    ],
+    "translation": "apartment building"
+  },
+  {
+    "id": "katakana03-061",
+    "kana": "ミュージアム",
+    "romaji": [
+      "myuujiamu",
+      "myujiamu"
+    ],
+    "translation": "museum"
+  },
+  {
+    "id": "katakana03-062",
+    "kana": "ミルクティー",
+    "romaji": [
+      "mirukutii",
+      "mirukuti"
+    ],
+    "translation": "milk tea"
+  },
+  {
+    "id": "katakana03-063",
+    "kana": "メニュー",
+    "romaji": [
+      "menyuu",
+      "menyu"
+    ],
+    "translation": "menu"
+  },
+  {
+    "id": "katakana03-064",
+    "kana": "モノレール",
+    "romaji": [
+      "monoreeru",
+      "monoreru"
+    ],
+    "translation": "monorail"
+  },
+  {
+    "id": "katakana03-065",
+    "kana": "ヨーグルト",
+    "romaji": [
+      "yooguruto",
+      "youguruto",
+      "yoguruto"
+    ],
+    "translation": "yogurt"
+  },
+  {
+    "id": "katakana03-066",
+    "kana": "レストラン",
+    "romaji": [
+      "resutoran"
+    ],
+    "translation": "restaurant"
+  },
+  {
+    "id": "katakana03-067",
+    "kana": "レポート",
+    "romaji": [
+      "repooto",
+      "repouto",
+      "repoto"
+    ],
+    "translation": "report"
+  },
+  {
+    "id": "katakana03-068",
+    "kana": "ワイシャツ",
+    "romaji": [
+      "waishyatsu"
+    ],
+    "translation": "dress shirt"
+  },
+  {
+    "id": "katakana03-069",
+    "kana": "ワイヤレス",
+    "romaji": [
+      "waiyaresu"
+    ],
+    "translation": "wireless"
+  },
+  {
+    "id": "katakana03-070",
+    "kana": "インターネット",
+    "romaji": [
+      "intaanetto",
+      "intanetto"
+    ],
+    "translation": "internet"
+  },
+  {
+    "id": "katakana03-071",
+    "kana": "イヤホン",
+    "romaji": [
+      "iyahon"
+    ],
+    "translation": "earphones"
+  },
+  {
+    "id": "katakana03-072",
+    "kana": "ウェブサイト",
+    "romaji": [
+      "webusaito"
+    ],
+    "translation": "website"
+  },
+  {
+    "id": "katakana03-073",
+    "kana": "エンジニア",
+    "romaji": [
+      "enjinia"
+    ],
+    "translation": "engineer"
+  },
+  {
+    "id": "katakana03-074",
+    "kana": "オーストラリア",
+    "romaji": [
+      "oosutoraria",
+      "ousutoraria",
+      "osutoraria"
+    ],
+    "translation": "Australia"
+  },
+  {
+    "id": "katakana03-075",
+    "kana": "オムライス",
+    "romaji": [
+      "omuraisu"
+    ],
+    "translation": "omelet rice"
+  },
+  {
+    "id": "katakana03-076",
+    "kana": "カプチーノ",
+    "romaji": [
+      "kapuchiino",
+      "kapuchino"
+    ],
+    "translation": "cappuccino"
+  },
+  {
+    "id": "katakana03-077",
+    "kana": "キャラクター",
+    "romaji": [
+      "kyarakutaa",
+      "kyarakuta"
+    ],
+    "translation": "character"
+  },
+  {
+    "id": "katakana03-078",
+    "kana": "キャンセル",
+    "romaji": [
+      "kyanseru"
+    ],
+    "translation": "cancellation"
+  },
+  {
+    "id": "katakana03-079",
+    "kana": "コミュニケーション",
+    "romaji": [
+      "komyunikeeshyon",
+      "komyunikeshyon"
+    ],
+    "translation": "communication"
+  },
+  {
+    "id": "katakana03-080",
+    "kana": "コンサート",
+    "romaji": [
+      "konsaato",
+      "konsato"
+    ],
+    "translation": "concert"
+  },
+  {
+    "id": "katakana03-081",
+    "kana": "サービス",
+    "romaji": [
+      "saabisu",
+      "sabisu"
+    ],
+    "translation": "service"
+  },
+  {
+    "id": "katakana03-082",
+    "kana": "ジャケット",
+    "romaji": [
+      "jyaketto"
+    ],
+    "translation": "jacket"
+  },
+  {
+    "id": "katakana03-083",
+    "kana": "スニーカー",
+    "romaji": [
+      "suniikaa",
+      "sunika"
+    ],
+    "translation": "sneakers"
+  },
+  {
+    "id": "katakana03-084",
+    "kana": "スーツケース",
+    "romaji": [
+      "suutsukeesu",
+      "sutsukesu"
+    ],
+    "translation": "suitcase"
+  },
+  {
+    "id": "katakana03-085",
+    "kana": "スタジアム",
+    "romaji": [
+      "sutajiamu"
+    ],
+    "translation": "stadium"
+  },
+  {
+    "id": "katakana03-086",
+    "kana": "ストロベリー",
+    "romaji": [
+      "sutoroberii",
+      "sutoroberi"
+    ],
+    "translation": "strawberry"
+  },
+  {
+    "id": "katakana03-087",
+    "kana": "セキュリティ",
+    "romaji": [
+      "sekyuriti"
+    ],
+    "translation": "security"
+  },
+  {
+    "id": "katakana03-088",
+    "kana": "ソフトウェア",
+    "romaji": [
+      "sofutowea"
+    ],
+    "translation": "software"
+  },
+  {
+    "id": "katakana03-089",
+    "kana": "タイトル",
+    "romaji": [
+      "taitoru"
+    ],
+    "translation": "title"
+  },
+  {
+    "id": "katakana03-090",
+    "kana": "ダウンロード",
+    "romaji": [
+      "daunroodo",
+      "daunroudo",
+      "daunrodo"
+    ],
+    "translation": "download"
+  },
+  {
+    "id": "katakana03-091",
+    "kana": "デザート",
+    "romaji": [
+      "dezaato",
+      "dezato"
+    ],
+    "translation": "dessert"
+  },
+  {
+    "id": "katakana03-092",
+    "kana": "トレーニング",
+    "romaji": [
+      "toreeningu",
+      "toreningu"
+    ],
+    "translation": "training"
+  },
+  {
+    "id": "katakana03-093",
+    "kana": "ドキュメント",
+    "romaji": [
+      "dokyumento"
+    ],
+    "translation": "document"
+  },
+  {
+    "id": "katakana03-094",
+    "kana": "ハイキング",
+    "romaji": [
+      "haikingu"
+    ],
+    "translation": "hiking"
+  },
+  {
+    "id": "katakana03-095",
+    "kana": "バレーボール",
+    "romaji": [
+      "bareebooru",
+      "bareebouru",
+      "bareboru"
+    ],
+    "translation": "volleyball"
+  },
+  {
+    "id": "katakana03-096",
+    "kana": "プログラム",
+    "romaji": [
+      "puroguramu"
+    ],
+    "translation": "program"
+  },
+  {
+    "id": "katakana03-097",
+    "kana": "ヘッドホン",
+    "romaji": [
+      "heddohon"
+    ],
+    "translation": "headphones"
+  },
+  {
+    "id": "katakana03-098",
+    "kana": "ホワイトボード",
+    "romaji": [
+      "howaitoboodo",
+      "howaitoboudo",
+      "howaitobodo"
+    ],
+    "translation": "whiteboard"
+  },
+  {
+    "id": "katakana03-099",
+    "kana": "マヨネーズ",
+    "romaji": [
+      "mayoneezu",
+      "mayonezu"
+    ],
+    "translation": "mayonnaise"
+  },
+  {
+    "id": "katakana03-100",
+    "kana": "ミーティング",
+    "romaji": [
+      "miitingu",
+      "mitingu"
+    ],
+    "translation": "meeting"
+  }
+]

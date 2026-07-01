@@ -1,0 +1,902 @@
+[
+  {
+    "id": "hiragana04-001",
+    "kana": "わたし は みず を のみます。",
+    "romaji": [
+      "watashi wa mizu o nomimasu"
+    ],
+    "kanji": "私は水を飲みます。",
+    "translation": "I drink water."
+  },
+  {
+    "id": "hiragana04-002",
+    "kana": "わたし は ほん を よみます。",
+    "romaji": [
+      "watashi wa hon o yomimasu"
+    ],
+    "kanji": "私は本を読みます。",
+    "translation": "I read a book."
+  },
+  {
+    "id": "hiragana04-003",
+    "kana": "わたし は え を かきます。",
+    "romaji": [
+      "watashi wa e o kakimasu"
+    ],
+    "kanji": "私は絵を描きます。",
+    "translation": "I draw a picture."
+  },
+  {
+    "id": "hiragana04-004",
+    "kana": "わたし は うち へ かえります。",
+    "romaji": [
+      "watashi wa uchi e kaerimasu"
+    ],
+    "kanji": "私は家へ帰ります。",
+    "translation": "I go home."
+  },
+  {
+    "id": "hiragana04-005",
+    "kana": "わたし は こうえん で あそびます。",
+    "romaji": [
+      "watashi wa kouen de asobimasu"
+    ],
+    "kanji": "私は公園で遊びます。",
+    "translation": "I play in the park."
+  },
+  {
+    "id": "hiragana04-006",
+    "kana": "わたし は はやく おきます。",
+    "romaji": [
+      "watashi wa hayaku okimasu"
+    ],
+    "kanji": "私は早く起きます。",
+    "translation": "I get up early."
+  },
+  {
+    "id": "hiragana04-007",
+    "kana": "わたし は ゆっくり あるきます。",
+    "romaji": [
+      "watashi wa yukkuri arukimasu"
+    ],
+    "kanji": "私はゆっくり歩きます。",
+    "translation": "I walk slowly."
+  },
+  {
+    "id": "hiragana04-008",
+    "kana": "わたし は まいにち べんきょうします。",
+    "romaji": [
+      "watashi wa mainichi benkyoushimasu"
+    ],
+    "kanji": "私は毎日勉強します。",
+    "translation": "I study every day."
+  },
+  {
+    "id": "hiragana04-009",
+    "kana": "ちち は みず を のみます。",
+    "romaji": [
+      "chichi wa mizu o nomimasu"
+    ],
+    "kanji": "父は水を飲みます。",
+    "translation": "My father drinks water."
+  },
+  {
+    "id": "hiragana04-010",
+    "kana": "ちち は ほん を よみます。",
+    "romaji": [
+      "chichi wa hon o yomimasu"
+    ],
+    "kanji": "父は本を読みます。",
+    "translation": "My father reads a book."
+  },
+  {
+    "id": "hiragana04-011",
+    "kana": "ちち は え を かきます。",
+    "romaji": [
+      "chichi wa e o kakimasu"
+    ],
+    "kanji": "父は絵を描きます。",
+    "translation": "My father draws a picture."
+  },
+  {
+    "id": "hiragana04-012",
+    "kana": "ちち は うち へ かえります。",
+    "romaji": [
+      "chichi wa uchi e kaerimasu"
+    ],
+    "kanji": "父は家へ帰ります。",
+    "translation": "My father goes home."
+  },
+  {
+    "id": "hiragana04-013",
+    "kana": "ちち は こうえん で あそびます。",
+    "romaji": [
+      "chichi wa kouen de asobimasu"
+    ],
+    "kanji": "父は公園で遊びます。",
+    "translation": "My father plays in the park."
+  },
+  {
+    "id": "hiragana04-014",
+    "kana": "ちち は はやく おきます。",
+    "romaji": [
+      "chichi wa hayaku okimasu"
+    ],
+    "kanji": "父は早く起きます。",
+    "translation": "My father gets up early."
+  },
+  {
+    "id": "hiragana04-015",
+    "kana": "ちち は ゆっくり あるきます。",
+    "romaji": [
+      "chichi wa yukkuri arukimasu"
+    ],
+    "kanji": "父はゆっくり歩きます。",
+    "translation": "My father walks slowly."
+  },
+  {
+    "id": "hiragana04-016",
+    "kana": "ちち は まいにち べんきょうします。",
+    "romaji": [
+      "chichi wa mainichi benkyoushimasu"
+    ],
+    "kanji": "父は毎日勉強します。",
+    "translation": "My father studies every day."
+  },
+  {
+    "id": "hiragana04-017",
+    "kana": "はは は みず を のみます。",
+    "romaji": [
+      "haha wa mizu o nomimasu"
+    ],
+    "kanji": "母は水を飲みます。",
+    "translation": "My mother drinks water."
+  },
+  {
+    "id": "hiragana04-018",
+    "kana": "はは は ほん を よみます。",
+    "romaji": [
+      "haha wa hon o yomimasu"
+    ],
+    "kanji": "母は本を読みます。",
+    "translation": "My mother reads a book."
+  },
+  {
+    "id": "hiragana04-019",
+    "kana": "はは は え を かきます。",
+    "romaji": [
+      "haha wa e o kakimasu"
+    ],
+    "kanji": "母は絵を描きます。",
+    "translation": "My mother draws a picture."
+  },
+  {
+    "id": "hiragana04-020",
+    "kana": "はは は うち へ かえります。",
+    "romaji": [
+      "haha wa uchi e kaerimasu"
+    ],
+    "kanji": "母は家へ帰ります。",
+    "translation": "My mother goes home."
+  },
+  {
+    "id": "hiragana04-021",
+    "kana": "はは は こうえん で あそびます。",
+    "romaji": [
+      "haha wa kouen de asobimasu"
+    ],
+    "kanji": "母は公園で遊びます。",
+    "translation": "My mother plays in the park."
+  },
+  {
+    "id": "hiragana04-022",
+    "kana": "はは は はやく おきます。",
+    "romaji": [
+      "haha wa hayaku okimasu"
+    ],
+    "kanji": "母は早く起きます。",
+    "translation": "My mother gets up early."
+  },
+  {
+    "id": "hiragana04-023",
+    "kana": "はは は ゆっくり あるきます。",
+    "romaji": [
+      "haha wa yukkuri arukimasu"
+    ],
+    "kanji": "母はゆっくり歩きます。",
+    "translation": "My mother walks slowly."
+  },
+  {
+    "id": "hiragana04-024",
+    "kana": "はは は まいにち べんきょうします。",
+    "romaji": [
+      "haha wa mainichi benkyoushimasu"
+    ],
+    "kanji": "母は毎日勉強します。",
+    "translation": "My mother studies every day."
+  },
+  {
+    "id": "hiragana04-025",
+    "kana": "あに は みず を のみます。",
+    "romaji": [
+      "ani wa mizu o nomimasu"
+    ],
+    "kanji": "兄は水を飲みます。",
+    "translation": "My older brother drinks water."
+  },
+  {
+    "id": "hiragana04-026",
+    "kana": "あに は ほん を よみます。",
+    "romaji": [
+      "ani wa hon o yomimasu"
+    ],
+    "kanji": "兄は本を読みます。",
+    "translation": "My older brother reads a book."
+  },
+  {
+    "id": "hiragana04-027",
+    "kana": "あに は え を かきます。",
+    "romaji": [
+      "ani wa e o kakimasu"
+    ],
+    "kanji": "兄は絵を描きます。",
+    "translation": "My older brother draws a picture."
+  },
+  {
+    "id": "hiragana04-028",
+    "kana": "あに は うち へ かえります。",
+    "romaji": [
+      "ani wa uchi e kaerimasu"
+    ],
+    "kanji": "兄は家へ帰ります。",
+    "translation": "My older brother goes home."
+  },
+  {
+    "id": "hiragana04-029",
+    "kana": "あに は こうえん で あそびます。",
+    "romaji": [
+      "ani wa kouen de asobimasu"
+    ],
+    "kanji": "兄は公園で遊びます。",
+    "translation": "My older brother plays in the park."
+  },
+  {
+    "id": "hiragana04-030",
+    "kana": "あに は はやく おきます。",
+    "romaji": [
+      "ani wa hayaku okimasu"
+    ],
+    "kanji": "兄は早く起きます。",
+    "translation": "My older brother gets up early."
+  },
+  {
+    "id": "hiragana04-031",
+    "kana": "あに は ゆっくり あるきます。",
+    "romaji": [
+      "ani wa yukkuri arukimasu"
+    ],
+    "kanji": "兄はゆっくり歩きます。",
+    "translation": "My older brother walks slowly."
+  },
+  {
+    "id": "hiragana04-032",
+    "kana": "あに は まいにち べんきょうします。",
+    "romaji": [
+      "ani wa mainichi benkyoushimasu"
+    ],
+    "kanji": "兄は毎日勉強します。",
+    "translation": "My older brother studies every day."
+  },
+  {
+    "id": "hiragana04-033",
+    "kana": "あね は みず を のみます。",
+    "romaji": [
+      "ane wa mizu o nomimasu"
+    ],
+    "kanji": "姉は水を飲みます。",
+    "translation": "My older sister drinks water."
+  },
+  {
+    "id": "hiragana04-034",
+    "kana": "あね は ほん を よみます。",
+    "romaji": [
+      "ane wa hon o yomimasu"
+    ],
+    "kanji": "姉は本を読みます。",
+    "translation": "My older sister reads a book."
+  },
+  {
+    "id": "hiragana04-035",
+    "kana": "あね は え を かきます。",
+    "romaji": [
+      "ane wa e o kakimasu"
+    ],
+    "kanji": "姉は絵を描きます。",
+    "translation": "My older sister draws a picture."
+  },
+  {
+    "id": "hiragana04-036",
+    "kana": "あね は うち へ かえります。",
+    "romaji": [
+      "ane wa uchi e kaerimasu"
+    ],
+    "kanji": "姉は家へ帰ります。",
+    "translation": "My older sister goes home."
+  },
+  {
+    "id": "hiragana04-037",
+    "kana": "あね は こうえん で あそびます。",
+    "romaji": [
+      "ane wa kouen de asobimasu"
+    ],
+    "kanji": "姉は公園で遊びます。",
+    "translation": "My older sister plays in the park."
+  },
+  {
+    "id": "hiragana04-038",
+    "kana": "あね は はやく おきます。",
+    "romaji": [
+      "ane wa hayaku okimasu"
+    ],
+    "kanji": "姉は早く起きます。",
+    "translation": "My older sister gets up early."
+  },
+  {
+    "id": "hiragana04-039",
+    "kana": "あね は ゆっくり あるきます。",
+    "romaji": [
+      "ane wa yukkuri arukimasu"
+    ],
+    "kanji": "姉はゆっくり歩きます。",
+    "translation": "My older sister walks slowly."
+  },
+  {
+    "id": "hiragana04-040",
+    "kana": "あね は まいにち べんきょうします。",
+    "romaji": [
+      "ane wa mainichi benkyoushimasu"
+    ],
+    "kanji": "姉は毎日勉強します。",
+    "translation": "My older sister studies every day."
+  },
+  {
+    "id": "hiragana04-041",
+    "kana": "おとうと は みず を のみます。",
+    "romaji": [
+      "otouto wa mizu o nomimasu"
+    ],
+    "kanji": "弟は水を飲みます。",
+    "translation": "My younger brother drinks water."
+  },
+  {
+    "id": "hiragana04-042",
+    "kana": "おとうと は ほん を よみます。",
+    "romaji": [
+      "otouto wa hon o yomimasu"
+    ],
+    "kanji": "弟は本を読みます。",
+    "translation": "My younger brother reads a book."
+  },
+  {
+    "id": "hiragana04-043",
+    "kana": "おとうと は え を かきます。",
+    "romaji": [
+      "otouto wa e o kakimasu"
+    ],
+    "kanji": "弟は絵を描きます。",
+    "translation": "My younger brother draws a picture."
+  },
+  {
+    "id": "hiragana04-044",
+    "kana": "おとうと は うち へ かえります。",
+    "romaji": [
+      "otouto wa uchi e kaerimasu"
+    ],
+    "kanji": "弟は家へ帰ります。",
+    "translation": "My younger brother goes home."
+  },
+  {
+    "id": "hiragana04-045",
+    "kana": "おとうと は こうえん で あそびます。",
+    "romaji": [
+      "otouto wa kouen de asobimasu"
+    ],
+    "kanji": "弟は公園で遊びます。",
+    "translation": "My younger brother plays in the park."
+  },
+  {
+    "id": "hiragana04-046",
+    "kana": "おとうと は はやく おきます。",
+    "romaji": [
+      "otouto wa hayaku okimasu"
+    ],
+    "kanji": "弟は早く起きます。",
+    "translation": "My younger brother gets up early."
+  },
+  {
+    "id": "hiragana04-047",
+    "kana": "おとうと は ゆっくり あるきます。",
+    "romaji": [
+      "otouto wa yukkuri arukimasu"
+    ],
+    "kanji": "弟はゆっくり歩きます。",
+    "translation": "My younger brother walks slowly."
+  },
+  {
+    "id": "hiragana04-048",
+    "kana": "おとうと は まいにち べんきょうします。",
+    "romaji": [
+      "otouto wa mainichi benkyoushimasu"
+    ],
+    "kanji": "弟は毎日勉強します。",
+    "translation": "My younger brother studies every day."
+  },
+  {
+    "id": "hiragana04-049",
+    "kana": "いもうと は みず を のみます。",
+    "romaji": [
+      "imouto wa mizu o nomimasu"
+    ],
+    "kanji": "妹は水を飲みます。",
+    "translation": "My younger sister drinks water."
+  },
+  {
+    "id": "hiragana04-050",
+    "kana": "いもうと は ほん を よみます。",
+    "romaji": [
+      "imouto wa hon o yomimasu"
+    ],
+    "kanji": "妹は本を読みます。",
+    "translation": "My younger sister reads a book."
+  },
+  {
+    "id": "hiragana04-051",
+    "kana": "いもうと は え を かきます。",
+    "romaji": [
+      "imouto wa e o kakimasu"
+    ],
+    "kanji": "妹は絵を描きます。",
+    "translation": "My younger sister draws a picture."
+  },
+  {
+    "id": "hiragana04-052",
+    "kana": "いもうと は うち へ かえります。",
+    "romaji": [
+      "imouto wa uchi e kaerimasu"
+    ],
+    "kanji": "妹は家へ帰ります。",
+    "translation": "My younger sister goes home."
+  },
+  {
+    "id": "hiragana04-053",
+    "kana": "いもうと は こうえん で あそびます。",
+    "romaji": [
+      "imouto wa kouen de asobimasu"
+    ],
+    "kanji": "妹は公園で遊びます。",
+    "translation": "My younger sister plays in the park."
+  },
+  {
+    "id": "hiragana04-054",
+    "kana": "いもうと は はやく おきます。",
+    "romaji": [
+      "imouto wa hayaku okimasu"
+    ],
+    "kanji": "妹は早く起きます。",
+    "translation": "My younger sister gets up early."
+  },
+  {
+    "id": "hiragana04-055",
+    "kana": "いもうと は ゆっくり あるきます。",
+    "romaji": [
+      "imouto wa yukkuri arukimasu"
+    ],
+    "kanji": "妹はゆっくり歩きます。",
+    "translation": "My younger sister walks slowly."
+  },
+  {
+    "id": "hiragana04-056",
+    "kana": "いもうと は まいにち べんきょうします。",
+    "romaji": [
+      "imouto wa mainichi benkyoushimasu"
+    ],
+    "kanji": "妹は毎日勉強します。",
+    "translation": "My younger sister studies every day."
+  },
+  {
+    "id": "hiragana04-057",
+    "kana": "ともだち は みず を のみます。",
+    "romaji": [
+      "tomodachi wa mizu o nomimasu"
+    ],
+    "kanji": "友達は水を飲みます。",
+    "translation": "My friend drinks water."
+  },
+  {
+    "id": "hiragana04-058",
+    "kana": "ともだち は ほん を よみます。",
+    "romaji": [
+      "tomodachi wa hon o yomimasu"
+    ],
+    "kanji": "友達は本を読みます。",
+    "translation": "My friend reads a book."
+  },
+  {
+    "id": "hiragana04-059",
+    "kana": "ともだち は え を かきます。",
+    "romaji": [
+      "tomodachi wa e o kakimasu"
+    ],
+    "kanji": "友達は絵を描きます。",
+    "translation": "My friend draws a picture."
+  },
+  {
+    "id": "hiragana04-060",
+    "kana": "ともだち は うち へ かえります。",
+    "romaji": [
+      "tomodachi wa uchi e kaerimasu"
+    ],
+    "kanji": "友達は家へ帰ります。",
+    "translation": "My friend goes home."
+  },
+  {
+    "id": "hiragana04-061",
+    "kana": "ともだち は こうえん で あそびます。",
+    "romaji": [
+      "tomodachi wa kouen de asobimasu"
+    ],
+    "kanji": "友達は公園で遊びます。",
+    "translation": "My friend plays in the park."
+  },
+  {
+    "id": "hiragana04-062",
+    "kana": "ともだち は はやく おきます。",
+    "romaji": [
+      "tomodachi wa hayaku okimasu"
+    ],
+    "kanji": "友達は早く起きます。",
+    "translation": "My friend gets up early."
+  },
+  {
+    "id": "hiragana04-063",
+    "kana": "ともだち は ゆっくり あるきます。",
+    "romaji": [
+      "tomodachi wa yukkuri arukimasu"
+    ],
+    "kanji": "友達はゆっくり歩きます。",
+    "translation": "My friend walks slowly."
+  },
+  {
+    "id": "hiragana04-064",
+    "kana": "ともだち は まいにち べんきょうします。",
+    "romaji": [
+      "tomodachi wa mainichi benkyoushimasu"
+    ],
+    "kanji": "友達は毎日勉強します。",
+    "translation": "My friend studies every day."
+  },
+  {
+    "id": "hiragana04-065",
+    "kana": "せんせい は みず を のみます。",
+    "romaji": [
+      "sensei wa mizu o nomimasu"
+    ],
+    "kanji": "先生は水を飲みます。",
+    "translation": "The teacher drinks water."
+  },
+  {
+    "id": "hiragana04-066",
+    "kana": "せんせい は ほん を よみます。",
+    "romaji": [
+      "sensei wa hon o yomimasu"
+    ],
+    "kanji": "先生は本を読みます。",
+    "translation": "The teacher reads a book."
+  },
+  {
+    "id": "hiragana04-067",
+    "kana": "せんせい は え を かきます。",
+    "romaji": [
+      "sensei wa e o kakimasu"
+    ],
+    "kanji": "先生は絵を描きます。",
+    "translation": "The teacher draws a picture."
+  },
+  {
+    "id": "hiragana04-068",
+    "kana": "せんせい は うち へ かえります。",
+    "romaji": [
+      "sensei wa uchi e kaerimasu"
+    ],
+    "kanji": "先生は家へ帰ります。",
+    "translation": "The teacher goes home."
+  },
+  {
+    "id": "hiragana04-069",
+    "kana": "せんせい は こうえん で あそびます。",
+    "romaji": [
+      "sensei wa kouen de asobimasu"
+    ],
+    "kanji": "先生は公園で遊びます。",
+    "translation": "The teacher plays in the park."
+  },
+  {
+    "id": "hiragana04-070",
+    "kana": "せんせい は はやく おきます。",
+    "romaji": [
+      "sensei wa hayaku okimasu"
+    ],
+    "kanji": "先生は早く起きます。",
+    "translation": "The teacher gets up early."
+  },
+  {
+    "id": "hiragana04-071",
+    "kana": "せんせい は ゆっくり あるきます。",
+    "romaji": [
+      "sensei wa yukkuri arukimasu"
+    ],
+    "kanji": "先生はゆっくり歩きます。",
+    "translation": "The teacher walks slowly."
+  },
+  {
+    "id": "hiragana04-072",
+    "kana": "せんせい は まいにち べんきょうします。",
+    "romaji": [
+      "sensei wa mainichi benkyoushimasu"
+    ],
+    "kanji": "先生は毎日勉強します。",
+    "translation": "The teacher studies every day."
+  },
+  {
+    "id": "hiragana04-073",
+    "kana": "こども は みず を のみます。",
+    "romaji": [
+      "kodomo wa mizu o nomimasu"
+    ],
+    "kanji": "子供は水を飲みます。",
+    "translation": "The child drinks water."
+  },
+  {
+    "id": "hiragana04-074",
+    "kana": "こども は ほん を よみます。",
+    "romaji": [
+      "kodomo wa hon o yomimasu"
+    ],
+    "kanji": "子供は本を読みます。",
+    "translation": "The child reads a book."
+  },
+  {
+    "id": "hiragana04-075",
+    "kana": "こども は え を かきます。",
+    "romaji": [
+      "kodomo wa e o kakimasu"
+    ],
+    "kanji": "子供は絵を描きます。",
+    "translation": "The child draws a picture."
+  },
+  {
+    "id": "hiragana04-076",
+    "kana": "こども は うち へ かえります。",
+    "romaji": [
+      "kodomo wa uchi e kaerimasu"
+    ],
+    "kanji": "子供は家へ帰ります。",
+    "translation": "The child goes home."
+  },
+  {
+    "id": "hiragana04-077",
+    "kana": "こども は こうえん で あそびます。",
+    "romaji": [
+      "kodomo wa kouen de asobimasu"
+    ],
+    "kanji": "子供は公園で遊びます。",
+    "translation": "The child plays in the park."
+  },
+  {
+    "id": "hiragana04-078",
+    "kana": "こども は はやく おきます。",
+    "romaji": [
+      "kodomo wa hayaku okimasu"
+    ],
+    "kanji": "子供は早く起きます。",
+    "translation": "The child gets up early."
+  },
+  {
+    "id": "hiragana04-079",
+    "kana": "こども は ゆっくり あるきます。",
+    "romaji": [
+      "kodomo wa yukkuri arukimasu"
+    ],
+    "kanji": "子供はゆっくり歩きます。",
+    "translation": "The child walks slowly."
+  },
+  {
+    "id": "hiragana04-080",
+    "kana": "こども は まいにち べんきょうします。",
+    "romaji": [
+      "kodomo wa mainichi benkyoushimasu"
+    ],
+    "kanji": "子供は毎日勉強します。",
+    "translation": "The child studies every day."
+  },
+  {
+    "id": "hiragana04-081",
+    "kana": "いぬ は みず を のみます。",
+    "romaji": [
+      "inu wa mizu o nomimasu"
+    ],
+    "kanji": "犬は水を飲みます。",
+    "translation": "The dog drinks water."
+  },
+  {
+    "id": "hiragana04-082",
+    "kana": "いぬ は ほん を よみます。",
+    "romaji": [
+      "inu wa hon o yomimasu"
+    ],
+    "kanji": "犬は本を読みます。",
+    "translation": "The dog reads a book."
+  },
+  {
+    "id": "hiragana04-083",
+    "kana": "いぬ は え を かきます。",
+    "romaji": [
+      "inu wa e o kakimasu"
+    ],
+    "kanji": "犬は絵を描きます。",
+    "translation": "The dog draws a picture."
+  },
+  {
+    "id": "hiragana04-084",
+    "kana": "いぬ は うち へ かえります。",
+    "romaji": [
+      "inu wa uchi e kaerimasu"
+    ],
+    "kanji": "犬は家へ帰ります。",
+    "translation": "The dog goes home."
+  },
+  {
+    "id": "hiragana04-085",
+    "kana": "いぬ は こうえん で あそびます。",
+    "romaji": [
+      "inu wa kouen de asobimasu"
+    ],
+    "kanji": "犬は公園で遊びます。",
+    "translation": "The dog plays in the park."
+  },
+  {
+    "id": "hiragana04-086",
+    "kana": "いぬ は はやく おきます。",
+    "romaji": [
+      "inu wa hayaku okimasu"
+    ],
+    "kanji": "犬は早く起きます。",
+    "translation": "The dog gets up early."
+  },
+  {
+    "id": "hiragana04-087",
+    "kana": "いぬ は ゆっくり あるきます。",
+    "romaji": [
+      "inu wa yukkuri arukimasu"
+    ],
+    "kanji": "犬はゆっくり歩きます。",
+    "translation": "The dog walks slowly."
+  },
+  {
+    "id": "hiragana04-088",
+    "kana": "いぬ は まいにち べんきょうします。",
+    "romaji": [
+      "inu wa mainichi benkyoushimasu"
+    ],
+    "kanji": "犬は毎日勉強します。",
+    "translation": "The dog studies every day."
+  },
+  {
+    "id": "hiragana04-089",
+    "kana": "ねこ は みず を のみます。",
+    "romaji": [
+      "neko wa mizu o nomimasu"
+    ],
+    "kanji": "猫は水を飲みます。",
+    "translation": "The cat drinks water."
+  },
+  {
+    "id": "hiragana04-090",
+    "kana": "ねこ は ほん を よみます。",
+    "romaji": [
+      "neko wa hon o yomimasu"
+    ],
+    "kanji": "猫は本を読みます。",
+    "translation": "The cat reads a book."
+  },
+  {
+    "id": "hiragana04-091",
+    "kana": "ねこ は え を かきます。",
+    "romaji": [
+      "neko wa e o kakimasu"
+    ],
+    "kanji": "猫は絵を描きます。",
+    "translation": "The cat draws a picture."
+  },
+  {
+    "id": "hiragana04-092",
+    "kana": "ねこ は うち へ かえります。",
+    "romaji": [
+      "neko wa uchi e kaerimasu"
+    ],
+    "kanji": "猫は家へ帰ります。",
+    "translation": "The cat goes home."
+  },
+  {
+    "id": "hiragana04-093",
+    "kana": "ねこ は こうえん で あそびます。",
+    "romaji": [
+      "neko wa kouen de asobimasu"
+    ],
+    "kanji": "猫は公園で遊びます。",
+    "translation": "The cat plays in the park."
+  },
+  {
+    "id": "hiragana04-094",
+    "kana": "ねこ は はやく おきます。",
+    "romaji": [
+      "neko wa hayaku okimasu"
+    ],
+    "kanji": "猫は早く起きます。",
+    "translation": "The cat gets up early."
+  },
+  {
+    "id": "hiragana04-095",
+    "kana": "ねこ は ゆっくり あるきます。",
+    "romaji": [
+      "neko wa yukkuri arukimasu"
+    ],
+    "kanji": "猫はゆっくり歩きます。",
+    "translation": "The cat walks slowly."
+  },
+  {
+    "id": "hiragana04-096",
+    "kana": "ねこ は まいにち べんきょうします。",
+    "romaji": [
+      "neko wa mainichi benkyoushimasu"
+    ],
+    "kanji": "猫は毎日勉強します。",
+    "translation": "The cat studies every day."
+  },
+  {
+    "id": "hiragana04-097",
+    "kana": "とり は みず を のみます。",
+    "romaji": [
+      "tori wa mizu o nomimasu"
+    ],
+    "kanji": "鳥は水を飲みます。",
+    "translation": "The bird drinks water."
+  },
+  {
+    "id": "hiragana04-098",
+    "kana": "とり は ほん を よみます。",
+    "romaji": [
+      "tori wa hon o yomimasu"
+    ],
+    "kanji": "鳥は本を読みます。",
+    "translation": "The bird reads a book."
+  },
+  {
+    "id": "hiragana04-099",
+    "kana": "とり は え を かきます。",
+    "romaji": [
+      "tori wa e o kakimasu"
+    ],
+    "kanji": "鳥は絵を描きます。",
+    "translation": "The bird draws a picture."
+  },
+  {
+    "id": "hiragana04-100",
+    "kana": "とり は うち へ かえります。",
+    "romaji": [
+      "tori wa uchi e kaerimasu"
+    ],
+    "kanji": "鳥は家へ帰ります。",
+    "translation": "The bird goes home."
+  }
+]

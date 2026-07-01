@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f7f3eb">
+  <meta name="description" content="A Japanese kana reading trainer">
+  <title>Yomu — Kana Reading</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="shell">
+    <header class="topbar">
+      <a class="brand" href="./" aria-label="Yomu home">
+        <span class="brand-mark" aria-hidden="true">読</span>
+        <span>Yomu — Kana Reading</span>
+      </a>
+      <button class="icon-button" id="openMenu" type="button" aria-label="Open menu"><span id="avatarLetter">た</span></button>
+    </header>
+
+    <section class="difficulty-screen" id="difficultyScreen" hidden aria-labelledby="difficultyTitle">
+      <p class="eyebrow">First step</p>
+      <h1 id="difficultyTitle">Choose your level</h1>
+      <p>Choose a comfortable level and start practicing. You can change it in the menu later.</p>
+      <div class="difficulty-grid">
+        <button class="difficulty-card" type="button" data-level="1"><span class="difficulty-emoji" aria-hidden="true">🥚</span><strong>Level 1</strong><span>Single kana</span></button>
+        <button class="difficulty-card" type="button" data-level="2"><span class="difficulty-emoji" aria-hidden="true">🐣</span><strong>Level 2</strong><span>Short words</span></button>
+        <button class="difficulty-card" type="button" data-level="3"><span class="difficulty-emoji" aria-hidden="true">🐓</span><strong>Level 3</strong><span>Long words and phrases</span></button>
+        <button class="difficulty-card" type="button" data-level="4"><span class="difficulty-emoji" aria-hidden="true">🐉</span><strong>Level 4</strong><span>Full sentences</span></button>
+      </div>
+    </section>
+
+    <section class="trainer-screen" id="trainerScreen" hidden aria-label="Trainer">
+      <div class="mode-switch" role="group" aria-label="Practice mode">
+        <button class="mode-button active" id="learningMode" type="button" aria-pressed="true">Learn</button>
+        <button class="mode-button" id="examMode" type="button" aria-pressed="false">Exam · 10</button>
+      </div>
+      <section class="practice-card" aria-label="Practice">
+        <div class="card-meta"><span id="modeLabel">Learn</span><span class="question-timer" id="questionTimer" hidden>0.0 s</span><span id="roundCount">Question 1</span></div>
+        <div id="practiceContent">
+          <div class="number-wrap" aria-live="polite"><span class="number kana-question" id="questionText"></span></div>
+          <form id="answerForm" novalidate>
+            <label class="sr-only" for="answerInput">Answer in romaji</label>
+            <div class="answer-row">
+              <input id="answerInput" type="text" inputmode="text" enterkeyhint="go" autocomplete="off" autocapitalize="none" spellcheck="false" placeholder="Type the reading in romaji" aria-describedby="feedback">
+              <button class="primary-button" id="checkButton" type="submit">Check</button>
+            </div>
+            <p class="feedback" id="feedback" aria-live="assertive">Read the kana and type it in romaji</p>
+            <button class="reveal-button" id="showAnswer" type="button">Show answer</button>
+          </form>
+        </div>
+        <div class="exam-result" id="examResult" hidden>
+          <p class="eyebrow">Exam complete</p><strong id="examScore">0/10</strong><p id="examSummary">Average time: 0 seconds</p>
+          <div class="result-actions"><button class="primary-button" id="restartExam" type="button">Try again</button><button class="secondary-button" id="returnLearning" type="button">Back to learning</button></div>
+        </div>
+      </section>
+    </section>
+  </main>
+
+  <dialog id="menuDialog" class="menu-dialog">
+    <div class="menu-card">
+      <button class="dialog-close" id="closeMenu" type="button" aria-label="Close">×</button>
+      <section class="profile-summary"><span class="profile-avatar" id="menuAvatar">た</span><div><p class="eyebrow">Profile</p><div class="name-row"><h2 id="profileName">Sleepy Tanuki</h2><button id="editName" type="button" aria-label="Edit name">✎</button></div></div></section>
+      <form class="name-editor" id="nameForm" hidden><label class="sr-only" for="nameInput">Name</label><input id="nameInput" maxlength="24" autocomplete="nickname"><button class="primary-button" type="submit">Save</button></form>
+
+      <section class="menu-section">
+        <div class="menu-heading settings-heading"><p class="eyebrow">Settings</p></div>
+        <div class="range-options two-options" id="courseOptions"><button type="button" data-course="hiragana">あ Hiragana</button><button type="button" data-course="katakana">ア Katakana</button></div>
+      </section>
+      <section class="menu-section compact-section">
+        <div class="menu-heading"><h2>Word spaces</h2><label class="switch"><input id="spaceToggle" type="checkbox" checked><span aria-hidden="true"></span></label></div>
+      </section>
+      <section class="menu-section">
+        <div class="menu-heading"><h2>Difficulty</h2><span id="currentLevel">Level 1</span></div>
+        <div class="range-options" id="levelOptions"><button type="button" data-level="1">🥚 1</button><button type="button" data-level="2">🐣 2</button><button type="button" data-level="3">🐓 3</button><button type="button" data-level="4">🐉 4</button></div>
+      </section>
+      <section class="menu-section" aria-labelledby="statsTitle">
+        <div class="menu-heading"><div><p class="eyebrow">Today</p><h2 id="statsTitle">Your rhythm</h2></div><button class="text-button" id="resetStats" type="button">Reset</button></div>
+        <div class="stat-grid"><article><strong id="correctStat">0</strong><span>correct</span></article><article><strong id="accuracyStat">—</strong><span>accuracy</span></article><article><strong id="streakStat">0</strong><span>current streak</span></article><article><strong id="averageTimeStat">—</strong><span>average time</span></article></div>
+        <p class="all-time" id="allTimeStat">Total attempts: 0</p>
+      </section>
+    </div>
+  </dialog>
+  <script src="app.js" defer></script>
+</body>
+</html>

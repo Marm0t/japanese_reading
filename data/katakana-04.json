@@ -1,0 +1,953 @@
+[
+  {
+    "id": "katakana04-001",
+    "kana": "アンナ は コーヒー を のみます。",
+    "romaji": [
+      "anna wa koohii o nomimasu",
+      "anna wa kouhii o nomimasu",
+      "anna wa kohi o nomimasu"
+    ],
+    "kanji": "アンナはコーヒーを飲みます。",
+    "translation": "Anna drinks coffee."
+  },
+  {
+    "id": "katakana04-002",
+    "kana": "アンナ は テレビ を みます。",
+    "romaji": [
+      "anna wa terebi o mimasu"
+    ],
+    "kanji": "アンナはテレビを見ます。",
+    "translation": "Anna watches television."
+  },
+  {
+    "id": "katakana04-003",
+    "kana": "アンナ は メール を かきます。",
+    "romaji": [
+      "anna wa meeru o kakimasu",
+      "anna wa meru o kakimasu"
+    ],
+    "kanji": "アンナはメールを書きます。",
+    "translation": "Anna writes an email."
+  },
+  {
+    "id": "katakana04-004",
+    "kana": "アンナ は ホテル へ いきます。",
+    "romaji": [
+      "anna wa hoteru e ikimasu"
+    ],
+    "kanji": "アンナはホテルへ行きます。",
+    "translation": "Anna goes to the hotel."
+  },
+  {
+    "id": "katakana04-005",
+    "kana": "アンナ は バス で かえります。",
+    "romaji": [
+      "anna wa basu de kaerimasu"
+    ],
+    "kanji": "アンナはバスで帰ります。",
+    "translation": "Anna returns by bus."
+  },
+  {
+    "id": "katakana04-006",
+    "kana": "アンナ は テニス を します。",
+    "romaji": [
+      "anna wa tenisu o shimasu"
+    ],
+    "kanji": "アンナはテニスをします。",
+    "translation": "Anna plays tennis."
+  },
+  {
+    "id": "katakana04-007",
+    "kana": "アンナ は ピアノ を ひきます。",
+    "romaji": [
+      "anna wa piano o hikimasu"
+    ],
+    "kanji": "アンナはピアノを弾きます。",
+    "translation": "Anna plays the piano."
+  },
+  {
+    "id": "katakana04-008",
+    "kana": "アンナ は レストラン で たべます。",
+    "romaji": [
+      "anna wa resutoran de tabemasu"
+    ],
+    "kanji": "アンナはレストランで食べます。",
+    "translation": "Anna eats at a restaurant."
+  },
+  {
+    "id": "katakana04-009",
+    "kana": "マリア は コーヒー を のみます。",
+    "romaji": [
+      "maria wa koohii o nomimasu",
+      "maria wa kouhii o nomimasu",
+      "maria wa kohi o nomimasu"
+    ],
+    "kanji": "マリアはコーヒーを飲みます。",
+    "translation": "Maria drinks coffee."
+  },
+  {
+    "id": "katakana04-010",
+    "kana": "マリア は テレビ を みます。",
+    "romaji": [
+      "maria wa terebi o mimasu"
+    ],
+    "kanji": "マリアはテレビを見ます。",
+    "translation": "Maria watches television."
+  },
+  {
+    "id": "katakana04-011",
+    "kana": "マリア は メール を かきます。",
+    "romaji": [
+      "maria wa meeru o kakimasu",
+      "maria wa meru o kakimasu"
+    ],
+    "kanji": "マリアはメールを書きます。",
+    "translation": "Maria writes an email."
+  },
+  {
+    "id": "katakana04-012",
+    "kana": "マリア は ホテル へ いきます。",
+    "romaji": [
+      "maria wa hoteru e ikimasu"
+    ],
+    "kanji": "マリアはホテルへ行きます。",
+    "translation": "Maria goes to the hotel."
+  },
+  {
+    "id": "katakana04-013",
+    "kana": "マリア は バス で かえります。",
+    "romaji": [
+      "maria wa basu de kaerimasu"
+    ],
+    "kanji": "マリアはバスで帰ります。",
+    "translation": "Maria returns by bus."
+  },
+  {
+    "id": "katakana04-014",
+    "kana": "マリア は テニス を します。",
+    "romaji": [
+      "maria wa tenisu o shimasu"
+    ],
+    "kanji": "マリアはテニスをします。",
+    "translation": "Maria plays tennis."
+  },
+  {
+    "id": "katakana04-015",
+    "kana": "マリア は ピアノ を ひきます。",
+    "romaji": [
+      "maria wa piano o hikimasu"
+    ],
+    "kanji": "マリアはピアノを弾きます。",
+    "translation": "Maria plays the piano."
+  },
+  {
+    "id": "katakana04-016",
+    "kana": "マリア は レストラン で たべます。",
+    "romaji": [
+      "maria wa resutoran de tabemasu"
+    ],
+    "kanji": "マリアはレストランで食べます。",
+    "translation": "Maria eats at a restaurant."
+  },
+  {
+    "id": "katakana04-017",
+    "kana": "ケン は コーヒー を のみます。",
+    "romaji": [
+      "ken wa koohii o nomimasu",
+      "ken wa kouhii o nomimasu",
+      "ken wa kohi o nomimasu"
+    ],
+    "kanji": "ケンはコーヒーを飲みます。",
+    "translation": "Ken drinks coffee."
+  },
+  {
+    "id": "katakana04-018",
+    "kana": "ケン は テレビ を みます。",
+    "romaji": [
+      "ken wa terebi o mimasu"
+    ],
+    "kanji": "ケンはテレビを見ます。",
+    "translation": "Ken watches television."
+  },
+  {
+    "id": "katakana04-019",
+    "kana": "ケン は メール を かきます。",
+    "romaji": [
+      "ken wa meeru o kakimasu",
+      "ken wa meru o kakimasu"
+    ],
+    "kanji": "ケンはメールを書きます。",
+    "translation": "Ken writes an email."
+  },
+  {
+    "id": "katakana04-020",
+    "kana": "ケン は ホテル へ いきます。",
+    "romaji": [
+      "ken wa hoteru e ikimasu"
+    ],
+    "kanji": "ケンはホテルへ行きます。",
+    "translation": "Ken goes to the hotel."
+  },
+  {
+    "id": "katakana04-021",
+    "kana": "ケン は バス で かえります。",
+    "romaji": [
+      "ken wa basu de kaerimasu"
+    ],
+    "kanji": "ケンはバスで帰ります。",
+    "translation": "Ken returns by bus."
+  },
+  {
+    "id": "katakana04-022",
+    "kana": "ケン は テニス を します。",
+    "romaji": [
+      "ken wa tenisu o shimasu"
+    ],
+    "kanji": "ケンはテニスをします。",
+    "translation": "Ken plays tennis."
+  },
+  {
+    "id": "katakana04-023",
+    "kana": "ケン は ピアノ を ひきます。",
+    "romaji": [
+      "ken wa piano o hikimasu"
+    ],
+    "kanji": "ケンはピアノを弾きます。",
+    "translation": "Ken plays the piano."
+  },
+  {
+    "id": "katakana04-024",
+    "kana": "ケン は レストラン で たべます。",
+    "romaji": [
+      "ken wa resutoran de tabemasu"
+    ],
+    "kanji": "ケンはレストランで食べます。",
+    "translation": "Ken eats at a restaurant."
+  },
+  {
+    "id": "katakana04-025",
+    "kana": "ジョン は コーヒー を のみます。",
+    "romaji": [
+      "jyon wa koohii o nomimasu",
+      "jyon wa kouhii o nomimasu",
+      "jyon wa kohi o nomimasu"
+    ],
+    "kanji": "ジョンはコーヒーを飲みます。",
+    "translation": "John drinks coffee."
+  },
+  {
+    "id": "katakana04-026",
+    "kana": "ジョン は テレビ を みます。",
+    "romaji": [
+      "jyon wa terebi o mimasu"
+    ],
+    "kanji": "ジョンはテレビを見ます。",
+    "translation": "John watches television."
+  },
+  {
+    "id": "katakana04-027",
+    "kana": "ジョン は メール を かきます。",
+    "romaji": [
+      "jyon wa meeru o kakimasu",
+      "jyon wa meru o kakimasu"
+    ],
+    "kanji": "ジョンはメールを書きます。",
+    "translation": "John writes an email."
+  },
+  {
+    "id": "katakana04-028",
+    "kana": "ジョン は ホテル へ いきます。",
+    "romaji": [
+      "jyon wa hoteru e ikimasu"
+    ],
+    "kanji": "ジョンはホテルへ行きます。",
+    "translation": "John goes to the hotel."
+  },
+  {
+    "id": "katakana04-029",
+    "kana": "ジョン は バス で かえります。",
+    "romaji": [
+      "jyon wa basu de kaerimasu"
+    ],
+    "kanji": "ジョンはバスで帰ります。",
+    "translation": "John returns by bus."
+  },
+  {
+    "id": "katakana04-030",
+    "kana": "ジョン は テニス を します。",
+    "romaji": [
+      "jyon wa tenisu o shimasu"
+    ],
+    "kanji": "ジョンはテニスをします。",
+    "translation": "John plays tennis."
+  },
+  {
+    "id": "katakana04-031",
+    "kana": "ジョン は ピアノ を ひきます。",
+    "romaji": [
+      "jyon wa piano o hikimasu"
+    ],
+    "kanji": "ジョンはピアノを弾きます。",
+    "translation": "John plays the piano."
+  },
+  {
+    "id": "katakana04-032",
+    "kana": "ジョン は レストラン で たべます。",
+    "romaji": [
+      "jyon wa resutoran de tabemasu"
+    ],
+    "kanji": "ジョンはレストランで食べます。",
+    "translation": "John eats at a restaurant."
+  },
+  {
+    "id": "katakana04-033",
+    "kana": "エミ は コーヒー を のみます。",
+    "romaji": [
+      "emi wa koohii o nomimasu",
+      "emi wa kouhii o nomimasu",
+      "emi wa kohi o nomimasu"
+    ],
+    "kanji": "エミはコーヒーを飲みます。",
+    "translation": "Emi drinks coffee."
+  },
+  {
+    "id": "katakana04-034",
+    "kana": "エミ は テレビ を みます。",
+    "romaji": [
+      "emi wa terebi o mimasu"
+    ],
+    "kanji": "エミはテレビを見ます。",
+    "translation": "Emi watches television."
+  },
+  {
+    "id": "katakana04-035",
+    "kana": "エミ は メール を かきます。",
+    "romaji": [
+      "emi wa meeru o kakimasu",
+      "emi wa meru o kakimasu"
+    ],
+    "kanji": "エミはメールを書きます。",
+    "translation": "Emi writes an email."
+  },
+  {
+    "id": "katakana04-036",
+    "kana": "エミ は ホテル へ いきます。",
+    "romaji": [
+      "emi wa hoteru e ikimasu"
+    ],
+    "kanji": "エミはホテルへ行きます。",
+    "translation": "Emi goes to the hotel."
+  },
+  {
+    "id": "katakana04-037",
+    "kana": "エミ は バス で かえります。",
+    "romaji": [
+      "emi wa basu de kaerimasu"
+    ],
+    "kanji": "エミはバスで帰ります。",
+    "translation": "Emi returns by bus."
+  },
+  {
+    "id": "katakana04-038",
+    "kana": "エミ は テニス を します。",
+    "romaji": [
+      "emi wa tenisu o shimasu"
+    ],
+    "kanji": "エミはテニスをします。",
+    "translation": "Emi plays tennis."
+  },
+  {
+    "id": "katakana04-039",
+    "kana": "エミ は ピアノ を ひきます。",
+    "romaji": [
+      "emi wa piano o hikimasu"
+    ],
+    "kanji": "エミはピアノを弾きます。",
+    "translation": "Emi plays the piano."
+  },
+  {
+    "id": "katakana04-040",
+    "kana": "エミ は レストラン で たべます。",
+    "romaji": [
+      "emi wa resutoran de tabemasu"
+    ],
+    "kanji": "エミはレストランで食べます。",
+    "translation": "Emi eats at a restaurant."
+  },
+  {
+    "id": "katakana04-041",
+    "kana": "トム は コーヒー を のみます。",
+    "romaji": [
+      "tomu wa koohii o nomimasu",
+      "tomu wa kouhii o nomimasu",
+      "tomu wa kohi o nomimasu"
+    ],
+    "kanji": "トムはコーヒーを飲みます。",
+    "translation": "Tom drinks coffee."
+  },
+  {
+    "id": "katakana04-042",
+    "kana": "トム は テレビ を みます。",
+    "romaji": [
+      "tomu wa terebi o mimasu"
+    ],
+    "kanji": "トムはテレビを見ます。",
+    "translation": "Tom watches television."
+  },
+  {
+    "id": "katakana04-043",
+    "kana": "トム は メール を かきます。",
+    "romaji": [
+      "tomu wa meeru o kakimasu",
+      "tomu wa meru o kakimasu"
+    ],
+    "kanji": "トムはメールを書きます。",
+    "translation": "Tom writes an email."
+  },
+  {
+    "id": "katakana04-044",
+    "kana": "トム は ホテル へ いきます。",
+    "romaji": [
+      "tomu wa hoteru e ikimasu"
+    ],
+    "kanji": "トムはホテルへ行きます。",
+    "translation": "Tom goes to the hotel."
+  },
+  {
+    "id": "katakana04-045",
+    "kana": "トム は バス で かえります。",
+    "romaji": [
+      "tomu wa basu de kaerimasu"
+    ],
+    "kanji": "トムはバスで帰ります。",
+    "translation": "Tom returns by bus."
+  },
+  {
+    "id": "katakana04-046",
+    "kana": "トム は テニス を します。",
+    "romaji": [
+      "tomu wa tenisu o shimasu"
+    ],
+    "kanji": "トムはテニスをします。",
+    "translation": "Tom plays tennis."
+  },
+  {
+    "id": "katakana04-047",
+    "kana": "トム は ピアノ を ひきます。",
+    "romaji": [
+      "tomu wa piano o hikimasu"
+    ],
+    "kanji": "トムはピアノを弾きます。",
+    "translation": "Tom plays the piano."
+  },
+  {
+    "id": "katakana04-048",
+    "kana": "トム は レストラン で たべます。",
+    "romaji": [
+      "tomu wa resutoran de tabemasu"
+    ],
+    "kanji": "トムはレストランで食べます。",
+    "translation": "Tom eats at a restaurant."
+  },
+  {
+    "id": "katakana04-049",
+    "kana": "スタッフ は コーヒー を のみます。",
+    "romaji": [
+      "sutaffu wa koohii o nomimasu",
+      "sutaffu wa kouhii o nomimasu",
+      "sutaffu wa kohi o nomimasu"
+    ],
+    "kanji": "スタッフはコーヒーを飲みます。",
+    "translation": "The staff member drinks coffee."
+  },
+  {
+    "id": "katakana04-050",
+    "kana": "スタッフ は テレビ を みます。",
+    "romaji": [
+      "sutaffu wa terebi o mimasu"
+    ],
+    "kanji": "スタッフはテレビを見ます。",
+    "translation": "The staff member watches television."
+  },
+  {
+    "id": "katakana04-051",
+    "kana": "スタッフ は メール を かきます。",
+    "romaji": [
+      "sutaffu wa meeru o kakimasu",
+      "sutaffu wa meru o kakimasu"
+    ],
+    "kanji": "スタッフはメールを書きます。",
+    "translation": "The staff member writes an email."
+  },
+  {
+    "id": "katakana04-052",
+    "kana": "スタッフ は ホテル へ いきます。",
+    "romaji": [
+      "sutaffu wa hoteru e ikimasu"
+    ],
+    "kanji": "スタッフはホテルへ行きます。",
+    "translation": "The staff member goes to the hotel."
+  },
+  {
+    "id": "katakana04-053",
+    "kana": "スタッフ は バス で かえります。",
+    "romaji": [
+      "sutaffu wa basu de kaerimasu"
+    ],
+    "kanji": "スタッフはバスで帰ります。",
+    "translation": "The staff member returns by bus."
+  },
+  {
+    "id": "katakana04-054",
+    "kana": "スタッフ は テニス を します。",
+    "romaji": [
+      "sutaffu wa tenisu o shimasu"
+    ],
+    "kanji": "スタッフはテニスをします。",
+    "translation": "The staff member plays tennis."
+  },
+  {
+    "id": "katakana04-055",
+    "kana": "スタッフ は ピアノ を ひきます。",
+    "romaji": [
+      "sutaffu wa piano o hikimasu"
+    ],
+    "kanji": "スタッフはピアノを弾きます。",
+    "translation": "The staff member plays the piano."
+  },
+  {
+    "id": "katakana04-056",
+    "kana": "スタッフ は レストラン で たべます。",
+    "romaji": [
+      "sutaffu wa resutoran de tabemasu"
+    ],
+    "kanji": "スタッフはレストランで食べます。",
+    "translation": "The staff member eats at a restaurant."
+  },
+  {
+    "id": "katakana04-057",
+    "kana": "シェフ は コーヒー を のみます。",
+    "romaji": [
+      "shefu wa koohii o nomimasu",
+      "shefu wa kouhii o nomimasu",
+      "shefu wa kohi o nomimasu"
+    ],
+    "kanji": "シェフはコーヒーを飲みます。",
+    "translation": "The chef drinks coffee."
+  },
+  {
+    "id": "katakana04-058",
+    "kana": "シェフ は テレビ を みます。",
+    "romaji": [
+      "shefu wa terebi o mimasu"
+    ],
+    "kanji": "シェフはテレビを見ます。",
+    "translation": "The chef watches television."
+  },
+  {
+    "id": "katakana04-059",
+    "kana": "シェフ は メール を かきます。",
+    "romaji": [
+      "shefu wa meeru o kakimasu",
+      "shefu wa meru o kakimasu"
+    ],
+    "kanji": "シェフはメールを書きます。",
+    "translation": "The chef writes an email."
+  },
+  {
+    "id": "katakana04-060",
+    "kana": "シェフ は ホテル へ いきます。",
+    "romaji": [
+      "shefu wa hoteru e ikimasu"
+    ],
+    "kanji": "シェフはホテルへ行きます。",
+    "translation": "The chef goes to the hotel."
+  },
+  {
+    "id": "katakana04-061",
+    "kana": "シェフ は バス で かえります。",
+    "romaji": [
+      "shefu wa basu de kaerimasu"
+    ],
+    "kanji": "シェフはバスで帰ります。",
+    "translation": "The chef returns by bus."
+  },
+  {
+    "id": "katakana04-062",
+    "kana": "シェフ は テニス を します。",
+    "romaji": [
+      "shefu wa tenisu o shimasu"
+    ],
+    "kanji": "シェフはテニスをします。",
+    "translation": "The chef plays tennis."
+  },
+  {
+    "id": "katakana04-063",
+    "kana": "シェフ は ピアノ を ひきます。",
+    "romaji": [
+      "shefu wa piano o hikimasu"
+    ],
+    "kanji": "シェフはピアノを弾きます。",
+    "translation": "The chef plays the piano."
+  },
+  {
+    "id": "katakana04-064",
+    "kana": "シェフ は レストラン で たべます。",
+    "romaji": [
+      "shefu wa resutoran de tabemasu"
+    ],
+    "kanji": "シェフはレストランで食べます。",
+    "translation": "The chef eats at a restaurant."
+  },
+  {
+    "id": "katakana04-065",
+    "kana": "ガイド は コーヒー を のみます。",
+    "romaji": [
+      "gaido wa koohii o nomimasu",
+      "gaido wa kouhii o nomimasu",
+      "gaido wa kohi o nomimasu"
+    ],
+    "kanji": "ガイドはコーヒーを飲みます。",
+    "translation": "The guide drinks coffee."
+  },
+  {
+    "id": "katakana04-066",
+    "kana": "ガイド は テレビ を みます。",
+    "romaji": [
+      "gaido wa terebi o mimasu"
+    ],
+    "kanji": "ガイドはテレビを見ます。",
+    "translation": "The guide watches television."
+  },
+  {
+    "id": "katakana04-067",
+    "kana": "ガイド は メール を かきます。",
+    "romaji": [
+      "gaido wa meeru o kakimasu",
+      "gaido wa meru o kakimasu"
+    ],
+    "kanji": "ガイドはメールを書きます。",
+    "translation": "The guide writes an email."
+  },
+  {
+    "id": "katakana04-068",
+    "kana": "ガイド は ホテル へ いきます。",
+    "romaji": [
+      "gaido wa hoteru e ikimasu"
+    ],
+    "kanji": "ガイドはホテルへ行きます。",
+    "translation": "The guide goes to the hotel."
+  },
+  {
+    "id": "katakana04-069",
+    "kana": "ガイド は バス で かえります。",
+    "romaji": [
+      "gaido wa basu de kaerimasu"
+    ],
+    "kanji": "ガイドはバスで帰ります。",
+    "translation": "The guide returns by bus."
+  },
+  {
+    "id": "katakana04-070",
+    "kana": "ガイド は テニス を します。",
+    "romaji": [
+      "gaido wa tenisu o shimasu"
+    ],
+    "kanji": "ガイドはテニスをします。",
+    "translation": "The guide plays tennis."
+  },
+  {
+    "id": "katakana04-071",
+    "kana": "ガイド は ピアノ を ひきます。",
+    "romaji": [
+      "gaido wa piano o hikimasu"
+    ],
+    "kanji": "ガイドはピアノを弾きます。",
+    "translation": "The guide plays the piano."
+  },
+  {
+    "id": "katakana04-072",
+    "kana": "ガイド は レストラン で たべます。",
+    "romaji": [
+      "gaido wa resutoran de tabemasu"
+    ],
+    "kanji": "ガイドはレストランで食べます。",
+    "translation": "The guide eats at a restaurant."
+  },
+  {
+    "id": "katakana04-073",
+    "kana": "ドライバー は コーヒー を のみます。",
+    "romaji": [
+      "doraibaa wa koohii o nomimasu",
+      "doraibaa wa kouhii o nomimasu",
+      "doraiba wa kohi o nomimasu"
+    ],
+    "kanji": "ドライバーはコーヒーを飲みます。",
+    "translation": "The driver drinks coffee."
+  },
+  {
+    "id": "katakana04-074",
+    "kana": "ドライバー は テレビ を みます。",
+    "romaji": [
+      "doraibaa wa terebi o mimasu",
+      "doraiba wa terebi o mimasu"
+    ],
+    "kanji": "ドライバーはテレビを見ます。",
+    "translation": "The driver watches television."
+  },
+  {
+    "id": "katakana04-075",
+    "kana": "ドライバー は メール を かきます。",
+    "romaji": [
+      "doraibaa wa meeru o kakimasu",
+      "doraiba wa meru o kakimasu"
+    ],
+    "kanji": "ドライバーはメールを書きます。",
+    "translation": "The driver writes an email."
+  },
+  {
+    "id": "katakana04-076",
+    "kana": "ドライバー は ホテル へ いきます。",
+    "romaji": [
+      "doraibaa wa hoteru e ikimasu",
+      "doraiba wa hoteru e ikimasu"
+    ],
+    "kanji": "ドライバーはホテルへ行きます。",
+    "translation": "The driver goes to the hotel."
+  },
+  {
+    "id": "katakana04-077",
+    "kana": "ドライバー は バス で かえります。",
+    "romaji": [
+      "doraibaa wa basu de kaerimasu",
+      "doraiba wa basu de kaerimasu"
+    ],
+    "kanji": "ドライバーはバスで帰ります。",
+    "translation": "The driver returns by bus."
+  },
+  {
+    "id": "katakana04-078",
+    "kana": "ドライバー は テニス を します。",
+    "romaji": [
+      "doraibaa wa tenisu o shimasu",
+      "doraiba wa tenisu o shimasu"
+    ],
+    "kanji": "ドライバーはテニスをします。",
+    "translation": "The driver plays tennis."
+  },
+  {
+    "id": "katakana04-079",
+    "kana": "ドライバー は ピアノ を ひきます。",
+    "romaji": [
+      "doraibaa wa piano o hikimasu",
+      "doraiba wa piano o hikimasu"
+    ],
+    "kanji": "ドライバーはピアノを弾きます。",
+    "translation": "The driver plays the piano."
+  },
+  {
+    "id": "katakana04-080",
+    "kana": "ドライバー は レストラン で たべます。",
+    "romaji": [
+      "doraibaa wa resutoran de tabemasu",
+      "doraiba wa resutoran de tabemasu"
+    ],
+    "kanji": "ドライバーはレストランで食べます。",
+    "translation": "The driver eats at a restaurant."
+  },
+  {
+    "id": "katakana04-081",
+    "kana": "チーム は コーヒー を のみます。",
+    "romaji": [
+      "chiimu wa koohii o nomimasu",
+      "chiimu wa kouhii o nomimasu",
+      "chimu wa kohi o nomimasu"
+    ],
+    "kanji": "チームはコーヒーを飲みます。",
+    "translation": "The team drinks coffee."
+  },
+  {
+    "id": "katakana04-082",
+    "kana": "チーム は テレビ を みます。",
+    "romaji": [
+      "chiimu wa terebi o mimasu",
+      "chimu wa terebi o mimasu"
+    ],
+    "kanji": "チームはテレビを見ます。",
+    "translation": "The team watches television."
+  },
+  {
+    "id": "katakana04-083",
+    "kana": "チーム は メール を かきます。",
+    "romaji": [
+      "chiimu wa meeru o kakimasu",
+      "chimu wa meru o kakimasu"
+    ],
+    "kanji": "チームはメールを書きます。",
+    "translation": "The team writes an email."
+  },
+  {
+    "id": "katakana04-084",
+    "kana": "チーム は ホテル へ いきます。",
+    "romaji": [
+      "chiimu wa hoteru e ikimasu",
+      "chimu wa hoteru e ikimasu"
+    ],
+    "kanji": "チームはホテルへ行きます。",
+    "translation": "The team goes to the hotel."
+  },
+  {
+    "id": "katakana04-085",
+    "kana": "チーム は バス で かえります。",
+    "romaji": [
+      "chiimu wa basu de kaerimasu",
+      "chimu wa basu de kaerimasu"
+    ],
+    "kanji": "チームはバスで帰ります。",
+    "translation": "The team returns by bus."
+  },
+  {
+    "id": "katakana04-086",
+    "kana": "チーム は テニス を します。",
+    "romaji": [
+      "chiimu wa tenisu o shimasu",
+      "chimu wa tenisu o shimasu"
+    ],
+    "kanji": "チームはテニスをします。",
+    "translation": "The team plays tennis."
+  },
+  {
+    "id": "katakana04-087",
+    "kana": "チーム は ピアノ を ひきます。",
+    "romaji": [
+      "chiimu wa piano o hikimasu",
+      "chimu wa piano o hikimasu"
+    ],
+    "kanji": "チームはピアノを弾きます。",
+    "translation": "The team plays the piano."
+  },
+  {
+    "id": "katakana04-088",
+    "kana": "チーム は レストラン で たべます。",
+    "romaji": [
+      "chiimu wa resutoran de tabemasu",
+      "chimu wa resutoran de tabemasu"
+    ],
+    "kanji": "チームはレストランで食べます。",
+    "translation": "The team eats at a restaurant."
+  },
+  {
+    "id": "katakana04-089",
+    "kana": "バンド は コーヒー を のみます。",
+    "romaji": [
+      "bando wa koohii o nomimasu",
+      "bando wa kouhii o nomimasu",
+      "bando wa kohi o nomimasu"
+    ],
+    "kanji": "バンドはコーヒーを飲みます。",
+    "translation": "The band drinks coffee."
+  },
+  {
+    "id": "katakana04-090",
+    "kana": "バンド は テレビ を みます。",
+    "romaji": [
+      "bando wa terebi o mimasu"
+    ],
+    "kanji": "バンドはテレビを見ます。",
+    "translation": "The band watches television."
+  },
+  {
+    "id": "katakana04-091",
+    "kana": "バンド は メール を かきます。",
+    "romaji": [
+      "bando wa meeru o kakimasu",
+      "bando wa meru o kakimasu"
+    ],
+    "kanji": "バンドはメールを書きます。",
+    "translation": "The band writes an email."
+  },
+  {
+    "id": "katakana04-092",
+    "kana": "バンド は ホテル へ いきます。",
+    "romaji": [
+      "bando wa hoteru e ikimasu"
+    ],
+    "kanji": "バンドはホテルへ行きます。",
+    "translation": "The band goes to the hotel."
+  },
+  {
+    "id": "katakana04-093",
+    "kana": "バンド は バス で かえります。",
+    "romaji": [
+      "bando wa basu de kaerimasu"
+    ],
+    "kanji": "バンドはバスで帰ります。",
+    "translation": "The band returns by bus."
+  },
+  {
+    "id": "katakana04-094",
+    "kana": "バンド は テニス を します。",
+    "romaji": [
+      "bando wa tenisu o shimasu"
+    ],
+    "kanji": "バンドはテニスをします。",
+    "translation": "The band plays tennis."
+  },
+  {
+    "id": "katakana04-095",
+    "kana": "バンド は ピアノ を ひきます。",
+    "romaji": [
+      "bando wa piano o hikimasu"
+    ],
+    "kanji": "バンドはピアノを弾きます。",
+    "translation": "The band plays the piano."
+  },
+  {
+    "id": "katakana04-096",
+    "kana": "バンド は レストラン で たべます。",
+    "romaji": [
+      "bando wa resutoran de tabemasu"
+    ],
+    "kanji": "バンドはレストランで食べます。",
+    "translation": "The band eats at a restaurant."
+  },
+  {
+    "id": "katakana04-097",
+    "kana": "ロボット は コーヒー を のみます。",
+    "romaji": [
+      "robotto wa koohii o nomimasu",
+      "robotto wa kouhii o nomimasu",
+      "robotto wa kohi o nomimasu"
+    ],
+    "kanji": "ロボットはコーヒーを飲みます。",
+    "translation": "The robot drinks coffee."
+  },
+  {
+    "id": "katakana04-098",
+    "kana": "ロボット は テレビ を みます。",
+    "romaji": [
+      "robotto wa terebi o mimasu"
+    ],
+    "kanji": "ロボットはテレビを見ます。",
+    "translation": "The robot watches television."
+  },
+  {
+    "id": "katakana04-099",
+    "kana": "ロボット は メール を かきます。",
+    "romaji": [
+      "robotto wa meeru o kakimasu",
+      "robotto wa meru o kakimasu"
+    ],
+    "kanji": "ロボットはメールを書きます。",
+    "translation": "The robot writes an email."
+  },
+  {
+    "id": "katakana04-100",
+    "kana": "ロボット は ホテル へ いきます。",
+    "romaji": [
+      "robotto wa hoteru e ikimasu"
+    ],
+    "kanji": "ロボットはホテルへ行きます。",
+    "translation": "The robot goes to the hotel."
+  }
+]
