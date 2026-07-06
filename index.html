@@ -76,12 +76,22 @@
         <div class="menu-heading settings-heading"><p class="eyebrow">Settings</p></div>
         <div class="range-options two-options" id="courseOptions"><button type="button" data-course="hiragana">あ Hiragana</button><button type="button" data-course="katakana">ア Katakana</button></div>
       </section>
-      <section class="menu-section compact-section">
-        <div class="menu-heading"><h2>Word spaces</h2><label class="switch"><input id="spaceToggle" type="checkbox" checked><span aria-hidden="true"></span></label></div>
-      </section>
       <section class="menu-section">
-        <div class="menu-heading"><h2>Difficulty</h2><span id="currentLevel">Level 1</span></div>
+        <div class="setting-label"><strong>Difficulty</strong><span id="currentLevel">Level 1</span></div>
         <div class="range-options" id="levelOptions"><button type="button" data-level="1">🥚 1</button><button type="button" data-level="2">🐣 2</button><button type="button" data-level="3">🐓 3</button><button type="button" data-level="4">🐉 4</button></div>
+
+        <label class="toggle-setting" for="spaceToggle">
+          <span><strong>Show spaces</strong><small>Separate words in the question</small></span>
+          <span class="toggle-control"><input id="spaceToggle" type="checkbox" checked><span aria-hidden="true"></span></span>
+        </label>
+
+        <div class="setting-block font-setting">
+          <div class="setting-label"><strong>Writing font</strong><span>Choose how Japanese text looks</span></div>
+          <div class="setting-options font-options" id="fontOptions" role="group" aria-label="Writing font">
+            <button type="button" data-font="print" aria-pressed="true">あ Print</button>
+            <button type="button" data-font="handwritten" aria-pressed="false">あ Handwritten</button>
+          </div>
+        </div>
       </section>
       <section class="menu-section" aria-labelledby="statsTitle">
         <div class="menu-heading"><div><p class="eyebrow">Today</p><h2 id="statsTitle">Your rhythm</h2></div><button class="text-button" id="resetStats" type="button">Reset</button></div>

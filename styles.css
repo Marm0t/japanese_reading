@@ -9,6 +9,8 @@
   --green: #28785c;
   --line: rgba(23, 33, 29, .12);
   --shadow: 0 20px 60px rgba(42, 38, 29, .10);
+  --font-print: "Noto Sans JP", "Hiragino Sans", "Yu Gothic", sans-serif;
+  --font-handwritten: Georgia, "Times New Roman", "Noto Serif JP", "Noto Sans JP", serif;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans JP", sans-serif;
 }
 
@@ -64,7 +66,8 @@ h1 { max-width: 600px; margin: 0; font-family: Georgia, "Times New Roman", serif
 .question-timer { color: var(--green); font-variant-numeric: tabular-nums; }
 .number-wrap { display: flex; min-height: 185px; flex-direction: column; align-items: center; justify-content: center; gap: 8px; text-align: center; }
 .number { font-family: Georgia, "Times New Roman", serif; font-size: clamp(80px, 20vw, 150px); line-height: 1; letter-spacing: -.08em; }
-.kana-question { max-width: 100%; font-family: "Noto Sans JP", "Hiragino Sans", "Yu Gothic", sans-serif; font-size: clamp(56px, 14vw, 112px); line-height: 1.25; letter-spacing: .04em; overflow-wrap: anywhere; }
+.kana-question { max-width: 100%; font-family: var(--font-print); font-size: clamp(56px, 14vw, 112px); line-height: 1.25; letter-spacing: .04em; overflow-wrap: anywhere; }
+.kana-question.handwritten { font-family: var(--font-handwritten); font-weight: 600; }
 .kana-question.is-sentence { font-size: clamp(31px, 7vw, 58px); line-height: 1.45; letter-spacing: .02em; }
 .question-word { display: inline-block; white-space: nowrap; }
 .question-word.with-space:not(:last-child) { margin-right: .42em; }
@@ -73,8 +76,8 @@ h1 { max-width: 600px; margin: 0; font-family: Georgia, "Times New Roman", serif
 .answer-row { display: grid; grid-template-columns: 1fr auto; gap: 10px; }
 input { min-width: 0; min-height: 52px; padding: 0 16px; border: 1.5px solid var(--line); border-radius: 15px; outline: none; color: var(--ink); background: white; font-size: 16px; transition: border-color .2s, box-shadow .2s; }
 input:focus { border-color: var(--green); box-shadow: 0 0 0 4px rgba(40,120,92,.12); }
-input.is-correct { border-color: var(--green); }
-input.is-wrong { border-color: var(--accent); }
+input.is-correct, input.is-correct:focus { border-width: 2px; border-color: #159463; background: #f3fff9; box-shadow: 0 0 0 6px rgba(21,148,99,.22), 0 8px 24px rgba(21,148,99,.26); }
+input.is-wrong, input.is-wrong:focus { border-width: 2px; border-color: #e43f32; background: #fff7f5; box-shadow: 0 0 0 6px rgba(228,63,50,.20), 0 8px 24px rgba(228,63,50,.24); }
 .primary-button { min-height: 52px; padding: 0 22px; border: 0; border-radius: 15px; color: white; background: var(--accent); font-weight: 800; cursor: pointer; box-shadow: 0 8px 18px rgba(219,79,63,.2); transition: transform .15s, background .15s; }
 .primary-button:active { transform: scale(.98); }
 .primary-button:hover { background: var(--accent-dark); }
@@ -122,17 +125,27 @@ dialog::backdrop { background: rgba(23,33,29,.42); backdrop-filter: blur(3px); }
 .range-options button { min-height: 42px; border: 1px solid var(--line); border-radius: 12px; color: var(--muted); background: white; font-size: 13px; font-weight: 750; cursor: pointer; }
 .range-options button.active { border-color: var(--ink); color: white; background: var(--ink); }
 .two-options { grid-template-columns: repeat(2, 1fr); }
-.compact-section { margin-top: 22px; padding-top: 22px; }
-.compact-section .menu-heading { align-items: center; margin-bottom: 0; }
 .settings-heading { margin-bottom: 10px; }
 .settings-heading .eyebrow { margin-bottom: 0; }
-.switch { position: relative; display: inline-block; width: 52px; height: 30px; }
-.switch input { position: absolute; width: 1px; height: 1px; opacity: 0; }
-.switch span { display: block; width: 100%; height: 100%; border-radius: 999px; background: rgba(23,33,29,.16); cursor: pointer; transition: background .2s; }
-.switch span::after { content: ""; position: absolute; top: 4px; left: 4px; width: 22px; height: 22px; border-radius: 50%; background: white; box-shadow: 0 2px 7px rgba(23,33,29,.2); transition: transform .2s; }
-.switch input:checked + span { background: var(--green); }
-.switch input:checked + span::after { transform: translateX(22px); }
-.switch input:focus-visible + span { outline: 3px solid rgba(40,120,92,.2); outline-offset: 2px; }
+.setting-block { margin-top: 22px; }
+.font-setting { margin-top: 18px; }
+.setting-label { display: flex; align-items: baseline; justify-content: space-between; gap: 14px; margin-bottom: 10px; }
+.setting-label strong, .toggle-setting strong { font-family: inherit; font-size: 16px; font-weight: 750; }
+.setting-label span, .toggle-setting small { color: var(--muted); font-size: 12px; }
+.setting-options { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; padding: 5px; border-radius: 14px; background: #f1eee7; }
+.setting-options button { min-height: 42px; padding: 0 12px; border: 0; border-radius: 10px; color: var(--muted); background: transparent; font-size: 13px; font-weight: 750; cursor: pointer; }
+.setting-options button.active { color: white; background: var(--ink); box-shadow: 0 4px 10px rgba(23,33,29,.14); }
+.font-options button[data-font="print"] { font-family: var(--font-print); }
+.font-options button[data-font="handwritten"] { font-family: var(--font-handwritten); font-size: 15px; }
+.toggle-setting { display: flex; align-items: center; justify-content: space-between; gap: 18px; margin-top: 18px; cursor: pointer; }
+.toggle-setting > span:first-child { display: grid; gap: 3px; }
+.toggle-control { position: relative; display: block; flex: 0 0 auto; width: 48px; height: 28px; }
+.toggle-control input { position: absolute; width: 1px; min-width: 0; height: 1px; min-height: 0; margin: -1px; padding: 0; opacity: 0; }
+.toggle-control > span { display: block; width: 100%; height: 100%; border-radius: 999px; background: #d9d7d0; transition: background .2s; }
+.toggle-control > span::after { content: ""; position: absolute; top: 3px; left: 3px; width: 22px; height: 22px; border-radius: 50%; background: white; box-shadow: 0 2px 5px rgba(23,33,29,.2); transition: transform .2s; }
+.toggle-control input:checked + span { background: var(--green); }
+.toggle-control input:checked + span::after { transform: translateX(20px); }
+.toggle-control input:focus-visible + span { outline: 3px solid rgba(40,120,92,.24); outline-offset: 2px; }
 .primary-button:disabled, input:disabled { opacity: .55; cursor: wait; }
 .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
 
@@ -150,6 +163,7 @@ dialog::backdrop { background: rgba(23,33,29,.42); backdrop-filter: blur(3px); }
   .stat-grid { grid-template-columns: repeat(2, 1fr); }
   .result-actions { grid-template-columns: 1fr; }
   .range-options { grid-template-columns: repeat(2, 1fr); }
+  .setting-label { display: grid; gap: 3px; }
   .name-editor { grid-template-columns: 1fr; }
   dialog { width: calc(100% - 18px); max-height: calc(100svh - 18px); }
 }

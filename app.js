@@ -5,7 +5,7 @@ const RECENT_COOLDOWN = 20;
 const LEVEL_ICONS = { 1: "🥚", 2: "🐣", 3: "🐓", 4: "🐉" };
 const STORAGE_KEY = "yomu:v1";
 const EMPTY_STATE = {
-  name: "", mode: "learning", course: "hiragana", level: null, showSpaces: true,
+  name: "", mode: "learning", course: "hiragana", level: null, showSpaces: true, writingFont: "print",
   total: 0, correct: 0, currentStreak: 0, bestStreak: 0,
   totalResponseMs: 0, timedAnswers: 0, daily: {}, exams: []
 };
@@ -21,10 +21,12 @@ const elements = {
   nameForm: qs("#nameForm"), nameInput: qs("#nameInput"), editName: qs("#editName"), profileName: qs("#profileName"),
   avatar: qs("#avatarLetter"), menuAvatar: qs("#menuAvatar"), currentLevel: qs("#currentLevel"),
   levelButtons: document.querySelectorAll("#levelOptions button"), courseButtons: document.querySelectorAll("#courseOptions button"), spaceToggle: qs("#spaceToggle"),
+  fontButtons: document.querySelectorAll("#fontOptions button"),
   correct: qs("#correctStat"), accuracy: qs("#accuracyStat"), streak: qs("#streakStat"), averageTime: qs("#averageTimeStat"), allTime: qs("#allTimeStat"), reset: qs("#resetStats")
 };
 
 let state = loadState();
+state.writingFont = state.writingFont === "handwritten" ? "handwritten" : "print";
 const FUNNY_NAMES = ["Sleepy Tanuki", "Mochi Ninja", "Capybara Sensei", "Rice Samurai", "Udon Fox", "Serious Penguin"];
 if (!state.name || /[\u0400-\u04ff]/i.test(state.name)) state.name = FUNNY_NAMES[Math.floor(Math.random() * FUNNY_NAMES.length)];
 let mode = state.mode === "exam" ? "exam" : "learning";
@@ -62,10 +64,15 @@ function normalize(value) {
 }
 function acceptedRomaji(value) {
   const normalized = normalize(value);
-  const answers = [normalized];
-  if (/(?:desu|masu)$/.test(normalized)) answers.push(normalized.slice(0, -1));
-  return answers;
+  const answers = new Set([normalized]);
+  // The final "u" is commonly devoiced and omitted when typing です/ます,
+  // including before the question particle か: desu ka -> deska.
+  if (/(?:desu|masu)(?:ka)?$/.test(normalized)) {
+    answers.add(normalized.replace(/(des|mas)u(?=ka$|$)/, "$1"));
+  }
+  return [...answers];
 }
+
 function answerLines(item, includeKana = false) {
   const lines = [item.romaji[0]];
   if (includeKana) lines.push(item.kana);
@@ -234,6 +241,12 @@ function renderStats() {
   elements.avatar.textContent = LEVEL_ICONS[level] || "☰"; elements.menuAvatar.textContent = initial;
   elements.currentLevel.textContent = level ? `Level ${level}` : "Not selected";
   elements.spaceToggle.checked = state.showSpaces;
+  elements.question.classList.toggle("handwritten", state.writingFont === "handwritten");
+  elements.fontButtons.forEach((button) => {
+    const active = button.dataset.font === state.writingFont;
+    button.classList.toggle("active", active);
+    button.setAttribute("aria-pressed", String(active));
+  });
   elements.levelButtons.forEach((button) => button.classList.toggle("active", Number(button.dataset.level) === level));
   elements.courseButtons.forEach((button) => button.classList.toggle("active", button.dataset.course === course));
 }
@@ -241,7 +254,6 @@ function selectLevel(value) {
   const next = Number(value); if (!LEVELS.includes(next)) return;
   level = next; state.level = level; state.currentStreak = 0;
   elements.difficultyScreen.hidden = true; elements.trainerScreen.hidden = false;
-  if (elements.menu.open) elements.menu.close();
   renderStats(); saveState(); loadQuestions();
 }
 function selectCourse(value) {
@@ -263,6 +275,10 @@ elements.difficultyButtons.forEach((button) => button.addEventListener("click", 
 elements.levelButtons.forEach((button) => button.addEventListener("click", () => selectLevel(button.dataset.level)));
 elements.courseButtons.forEach((button) => button.addEventListener("click", () => selectCourse(button.dataset.course)));
 elements.spaceToggle.addEventListener("change", () => { state.showSpaces = elements.spaceToggle.checked; saveState(); renderQuestion(); });
+elements.fontButtons.forEach((button) => button.addEventListener("click", () => {
+  state.writingFont = button.dataset.font === "handwritten" ? "handwritten" : "print";
+  saveState(); renderStats();
+}));
 elements.openMenu.addEventListener("click", () => { renderStats(); elements.nameForm.hidden = true; elements.menu.showModal(); });
 elements.closeMenu.addEventListener("click", () => elements.menu.close());
 elements.menu.addEventListener("click", (event) => { if (event.target === elements.menu) elements.menu.close(); });
@@ -270,7 +286,7 @@ elements.editName.addEventListener("click", () => { elements.nameInput.value = s
 elements.nameForm.addEventListener("submit", (event) => { event.preventDefault(); state.name = elements.nameInput.value.trim() || FUNNY_NAMES[Math.floor(Math.random() * FUNNY_NAMES.length)]; saveState(); renderStats(); elements.nameForm.hidden = true; });
 elements.reset.addEventListener("click", () => {
   if (!confirm("Reset all statistics? Your name and settings will be kept.")) return;
-  state = { ...EMPTY_STATE, name: state.name, mode, course, level, showSpaces: state.showSpaces, daily: {}, exams: [] };
+  state = { ...EMPTY_STATE, name: state.name, mode, course, level, showSpaces: state.showSpaces, writingFont: state.writingFont, daily: {}, exams: [] };
   saveState(); renderStats();
 });
 
