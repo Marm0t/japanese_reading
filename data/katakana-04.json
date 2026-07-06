@@ -58,7 +58,7 @@
     "id": "tatoeba-3698222",
     "kana": "トム は そんなこと いってなかった よ。",
     "romaji": [
-      "tomu wa sonnakoto itenakata yo"
+      "tomu wa sonnakoto ittenakatta yo"
     ],
     "kanji": "トムはそんなこと言ってなかったよ。",
     "translation": "Tom didn't say that.",
@@ -69,7 +69,7 @@
     "id": "tatoeba-11029558",
     "kana": "ドア を あけろ。 いるの は わかってるんだ。",
     "romaji": [
-      "doa o akero iruno wa wakaterunda"
+      "doa o akero iruno wa wakatterunda"
     ],
     "kanji": "ドアを開けろ。居るのは分かってるんだ。",
     "translation": "Open the door. I know you're in there.",
@@ -80,7 +80,7 @@
     "id": "tatoeba-9930579",
     "kana": "トム が ケーブル タイ を ワン パック かった よ。",
     "romaji": [
-      "tomu ga keeburu tai o wan pakku kata yo"
+      "tomu ga keeburu tai o wan pakku katta yo"
     ],
     "kanji": "トムがケーブルタイをワンパック買ったよ。",
     "translation": "Tom bought a pack of cable ties.",
@@ -146,8 +146,7 @@
     "id": "tatoeba-8657811",
     "kana": "けいさつ は したい を シート で おおった。",
     "romaji": [
-      "keisatsu wa shitai o shiito de oota",
-      "keisatsu wa shitai o shiito de outa"
+      "keisatsu wa shitai o shiito de ootta"
     ],
     "kanji": "警察は死体をシートで覆った。",
     "translation": "The police covered the body with a sheet.",
@@ -191,7 +190,7 @@
     "id": "tatoeba-9814321",
     "kana": "わたし のこと、 バカだ と おもってる わけ？",
     "romaji": [
-      "watashi nokoto bakada to omoteru wake"
+      "watashi nokoto bakada to omotteru wake"
     ],
     "kanji": "私のこと、バカだと思ってるわけ？",
     "translation": "Do you take me for a fool?",
@@ -202,7 +201,7 @@
     "id": "tatoeba-3362206",
     "kana": "トム が ドイツ に いったって、 ほんとう？",
     "romaji": [
-      "tomu ga doitsu ni itatte hontou"
+      "tomu ga doitsu ni ittatte hontou"
     ],
     "kanji": "トムがドイツに行ったって、本当？",
     "translation": "Is it true that Tom went to Germany?",
@@ -213,7 +212,7 @@
     "id": "tatoeba-11559029",
     "kana": "トム が サンドイッチ を つくってくれた よ。",
     "romaji": [
-      "tomu ga sandoitchi o tsukutekureta yo"
+      "tomu ga sandoitchi o tsukuttekureta yo"
     ],
     "kanji": "トムがサンドイッチを作ってくれたよ。",
     "translation": "Tom made some sandwiches for us.",
@@ -323,7 +322,7 @@
     "id": "tatoeba-9995083",
     "kana": "かれ ね、 ウサギ を かってる の よ。",
     "romaji": [
-      "kare ne usagi o kateru no yo"
+      "kare ne usagi o katteru no yo"
     ],
     "kanji": "彼ね、ウサギを飼ってるのよ。",
     "translation": "He has rabbits.",
@@ -526,8 +525,7 @@
     "id": "tatoeba-187526",
     "kana": "なんかい ヨーロッパ に いったこと が あるのです か？",
     "romaji": [
-      "nankai yooroppa ni itakoto ga arunodesu ka",
-      "nankai youroppa ni itakoto ga arunodesu ka"
+      "nankai yooroppa ni ittakoto ga arunodesu ka"
     ],
     "kanji": "何回ヨーロッパに行ったことがあるのですか？",
     "translation": "How many times have you been to Europe?",
@@ -615,7 +613,7 @@
     "id": "tatoeba-2772834",
     "kana": "ボストン で は なに を なさったんです か？",
     "romaji": [
-      "bosuton de wa nani o nasatandesu ka"
+      "bosuton de wa nani o nasattandesu ka"
     ],
     "kanji": "ボストンでは何をなさったんですか？",
     "translation": "What did you do in Boston?",
@@ -626,7 +624,7 @@
     "id": "tatoeba-2063413",
     "kana": "テレビ で いま なに が やってる か みたい。",
     "romaji": [
-      "terebi de ima nani ga yateru ka mitai"
+      "terebi de ima nani ga yatteru ka mitai"
     ],
     "kanji": "テレビで今何がやってるか見たい。",
     "translation": "I want to watch what's on TV right now.",
@@ -659,7 +657,7 @@
     "id": "tatoeba-2724969",
     "kana": "アメリカ に いったこと は あります か？",
     "romaji": [
-      "amerika ni itakoto wa arimasu ka"
+      "amerika ni ittakoto wa arimasu ka"
     ],
     "kanji": "アメリカに行ったことはありますか？",
     "translation": "Have you ever been to America?",
@@ -704,7 +702,7 @@
     "id": "tatoeba-91559",
     "kana": "かのじょ は ヘビ を とても こわがっている。",
     "romaji": [
-      "kanojo wa hebi o totemo kowagateiru"
+      "kanojo wa hebi o totemo kowagatteiru"
     ],
     "kanji": "彼女はヘビをとてもこわがっている。",
     "translation": "She has a great fear of snakes.",
@@ -737,7 +735,7 @@
     "id": "tatoeba-226215",
     "kana": "カメラ を もっていくの を わすれないでください。",
     "romaji": [
-      "kamera o moteikuno o wasurenaidekudasai"
+      "kamera o motteikuno o wasurenaidekudasai"
     ],
     "kanji": "カメラを持っていくのを忘れないでください。",
     "translation": "Don't forget to take a camera with you.",
@@ -859,7 +857,7 @@
     "id": "tatoeba-75019",
     "kana": "オフかい で は お あいできて うれしかったです。",
     "romaji": [
-      "ofukai de wa o aidekite ureshikatadesu"
+      "ofukai de wa o aidekite ureshikattadesu"
     ],
     "kanji": "オフ会ではお会いできて嬉しかったです。",
     "translation": "I was very happy to see you at the offline-party.",
@@ -870,7 +868,7 @@
     "id": "tatoeba-9808366",
     "kana": "いえ に ついたとき は、 クタクタだったんだ よ。",
     "romaji": [
-      "ie ni tsuitatoki wa kutakutadatanda yo"
+      "ie ni tsuitatoki wa kutakutadattanda yo"
     ],
     "kanji": "家に着いたときは、クタクタだったんだよ。",
     "translation": "When I got home, I was very tired.",
@@ -904,7 +902,7 @@
     "id": "tatoeba-3059318",
     "kana": "この ドレス、 ふとって みえる か な？",
     "romaji": [
-      "kono doresu futote mieru ka na"
+      "kono doresu futotte mieru ka na"
     ],
     "kanji": "このドレス、太って見えるかな？",
     "translation": "Does this dress make me look fat?",
@@ -915,7 +913,7 @@
     "id": "tatoeba-12883872",
     "kana": "なくした と おもってた クレカ、 あった よ。",
     "romaji": [
-      "nakushita to omoteta kureka ata yo"
+      "nakushita to omotteta kureka atta yo"
     ],
     "kanji": "なくしたと思ってたクレカ、あったよ。",
     "translation": "I found my credit card that I thought I'd lost.",
@@ -937,7 +935,7 @@
     "id": "tatoeba-10623165",
     "kana": "たべすぎると デブ に なっちゃう よ。",
     "romaji": [
-      "tabesugiruto debu ni nachau yo"
+      "tabesugiruto debu ni natchau yo"
     ],
     "kanji": "食べすぎるとデブになっちゃうよ。",
     "translation": "Don't eat so much, or you'll get really fat.",
@@ -981,7 +979,7 @@
     "id": "tatoeba-9965909",
     "kana": "ヤニー は スクーラー が すき じゃなかった の よ。",
     "romaji": [
-      "yanii wa sukuuraa ga suki janakata no yo"
+      "yanii wa sukuuraa ga suki janakatta no yo"
     ],
     "kanji": "ヤニーはスクーラーが好きじゃなかったのよ。",
     "translation": "Yanni didn't like Skura.",
@@ -1069,7 +1067,7 @@
     "id": "tatoeba-10550456",
     "kana": "この カップ、 すごく きにいってる の。",
     "romaji": [
-      "kono kappu sugoku kiniiteru no"
+      "kono kappu sugoku kiniitteru no"
     ],
     "kanji": "このカップ、すごく気に入ってるの。",
     "translation": "I love this cup.",
@@ -1326,7 +1324,7 @@
     "id": "tatoeba-9035208",
     "kana": "あんなに たくさん アイス たべちゃ だめだったんだ よ。",
     "romaji": [
-      "annani takusan aisu tabecha damedatanda yo"
+      "annani takusan aisu tabecha damedattanda yo"
     ],
     "kanji": "あんなにたくさんアイス食べちゃ駄目だったんだよ。",
     "translation": "You shouldn't have eaten so much ice cream.",
@@ -1348,7 +1346,7 @@
     "id": "tatoeba-170077",
     "kana": "きのう トラック が この へい に ぶつかった。",
     "romaji": [
-      "kinou torakku ga kono hei ni butsukata"
+      "kinou torakku ga kono hei ni butsukatta"
     ],
     "kanji": "昨日トラックがこの塀にぶつかった。",
     "translation": "Yesterday a truck hit this wall.",
@@ -1415,7 +1413,7 @@
     "id": "tatoeba-83956",
     "kana": "かぜ を ひかないよう に セーター を もっていきなさい。",
     "romaji": [
-      "kaze o hikanaiyou ni seetaa o moteikinasai"
+      "kaze o hikanaiyou ni seetaa o motteikinasai"
     ],
     "kanji": "風邪をひかないようにセーターを持って行きなさい。",
     "translation": "Take your sweater so that you may not catch cold.",
@@ -1426,8 +1424,8 @@
     "id": "tatoeba-11038988",
     "kana": "ちがう コンビニ に なったけど オーナー は おなじ。",
     "romaji": [
-      "chigau konbini ni natakedo oonaa wa onaji",
-      "chigau konbini ni natakedo ounaa wa onaji"
+      "chigau konbini ni nattakedo oonaa wa onaji",
+      "chigau konbini ni nattakedo ounaa wa onaji"
     ],
     "kanji": "違うコンビニになったけどオーナーは同じ。",
     "translation": "The convenience store changed but the owner is the same.",
@@ -1449,8 +1447,8 @@
     "id": "tatoeba-11331933",
     "kana": "ボール は フェンス に あたった。",
     "romaji": [
-      "booru wa fensu ni atata",
-      "bouru wa fensu ni atata"
+      "booru wa fensu ni atatta",
+      "bouru wa fensu ni atatta"
     ],
     "kanji": "ボールはフェンスに当たった。",
     "translation": "The ball hit the fence.",
@@ -1561,7 +1559,7 @@
     "id": "tatoeba-13681862",
     "kana": "サミ は とても ぼうりょくてきな ひとだった。",
     "romaji": [
-      "sami wa totemo bouryokutekina hitodata"
+      "sami wa totemo bouryokutekina hitodatta"
     ],
     "kanji": "サミはとても暴力的な人だった。",
     "translation": "Sami was a very violent person.",
@@ -1617,7 +1615,7 @@
     "id": "tatoeba-212590",
     "kana": "その ボトル に ワイン は はいってない よ。",
     "romaji": [
-      "sono botoru ni wain wa haitenai yo"
+      "sono botoru ni wain wa haittenai yo"
     ],
     "kanji": "そのボトルにワインは入ってないよ。",
     "translation": "There is no wine in that bottle.",
@@ -1639,7 +1637,7 @@
     "id": "tatoeba-8983468",
     "kana": "あれ、 ふらんすご へ やくすの てつだってくれません か？",
     "romaji": [
-      "are furansugo e yakusuno tetsudatekuremasen ka"
+      "are furansugo e yakusuno tetsudattekuremasen ka"
     ],
     "kanji": "あれ、フランス語へ訳すの手伝ってくれませんか？",
     "translation": "Can you help me translate that into French?",
@@ -1650,7 +1648,7 @@
     "id": "tatoeba-9116102",
     "kana": "サミ は かねもち に なったんだ。",
     "romaji": [
-      "sami wa kanemochi ni natanda"
+      "sami wa kanemochi ni nattanda"
     ],
     "kanji": "サミは金持ちになったんだ。",
     "translation": "Sami became rich.",
@@ -1706,7 +1704,7 @@
     "id": "tatoeba-198464",
     "kana": "パーティー の じゅんび を てつだってくれません か。",
     "romaji": [
-      "paatii no junbi o tetsudatekuremasen ka"
+      "paatii no junbi o tetsudattekuremasen ka"
     ],
     "kanji": "パーティーの準備を手伝ってくれませんか。",
     "translation": "Will you help me prepare for the party?",
@@ -1751,7 +1749,7 @@
     "id": "tatoeba-11809252",
     "kana": "たべたかったら、 のこってる ケーキ も たべていい よ。",
     "romaji": [
-      "tabetakatara nokoteru keeki mo tabeteii yo"
+      "tabetakattara nokotteru keeki mo tabeteii yo"
     ],
     "kanji": "食べたかったら、残ってるケーキも食べていいよ。",
     "translation": "You can eat the rest of the cake too, if you want.",
@@ -1784,8 +1782,7 @@
     "id": "tatoeba-192845",
     "kana": "ヨーロッパ へ たつ まえ に きみ に あいたいモノだ。",
     "romaji": [
-      "yooroppa e tatsu mae ni kimi ni aitaimonoda",
-      "youroppa e tatsu mae ni kimi ni aitaimonoda"
+      "yooroppa e tatsu mae ni kimi ni aitaimonoda"
     ],
     "kanji": "ヨーロッパへ発つ前に君に会いたいモノだ。",
     "translation": "I'd like to see you before I leave for Europe.",
@@ -1919,7 +1916,7 @@
     "id": "tatoeba-9065895",
     "kana": "ポルトガルご と えいご と ロシアご を しってる よ。",
     "romaji": [
-      "porutogarugo to eigo to roshiago o shiteru yo"
+      "porutogarugo to eigo to roshiago o shitteru yo"
     ],
     "kanji": "ポルトガル語と英語とロシア語を知ってるよ。",
     "translation": "I know Portuguese, English, and Russian.",
@@ -2085,7 +2082,7 @@
     "id": "tatoeba-3577254",
     "kana": "なんで ふらんすご やろう と おもった の？",
     "romaji": [
-      "nande furansugo yarou to omota no"
+      "nande furansugo yarou to omotta no"
     ],
     "kanji": "なんでフランス語やろうと思ったの？",
     "translation": "Why did you decide to study French?",
@@ -2118,7 +2115,7 @@
     "id": "tatoeba-11147289",
     "kana": "できるだけ ハッキリ しゃべったほう が いい よ。",
     "romaji": [
-      "dekirudake hakkiri shabetahou ga ii yo"
+      "dekirudake hakkiri shabettahou ga ii yo"
     ],
     "kanji": "できるだけハッキリしゃべった方がいいよ。",
     "translation": "You should speak as clearly as possible.",
@@ -2140,7 +2137,7 @@
     "id": "tatoeba-10899531",
     "kana": "こういう アイデア を まって たんだ よ。",
     "romaji": [
-      "kouiu aidea o mate tanda yo"
+      "kouiu aidea o matte tanda yo"
     ],
     "kanji": "こういうアイデアを待ってたんだよ。",
     "translation": "Just being hard-working and diligent is a blessing.",
@@ -2185,7 +2182,7 @@
     "id": "tatoeba-9183089",
     "kana": "サミ の いえ ん なか は、 もぬけのからだった。",
     "romaji": [
-      "sami no ie n naka wa monukenokaradata"
+      "sami no ie n naka wa monukenokaradatta"
     ],
     "kanji": "サミの家ん中は、もぬけの殻だった。",
     "translation": "Sami's house was completely empty.",
@@ -2275,7 +2272,7 @@
     "id": "tatoeba-9116104",
     "kana": "かれ は ホテル に とまった。",
     "romaji": [
-      "kare wa hoteru ni tomata"
+      "kare wa hoteru ni tomatta"
     ],
     "kanji": "彼はホテルに泊まった。",
     "translation": "He stayed at a hotel.",
@@ -2342,7 +2339,7 @@
     "id": "tatoeba-8384598",
     "kana": "バッテリー の でんあつ が ひくく なってきた。",
     "romaji": [
-      "batterii no denatsu ga hikuku natekita"
+      "batterii no denatsu ga hikuku nattekita"
     ],
     "kanji": "バッテリーの電圧が低くなってきた。",
     "translation": "The battery voltage is low.",
@@ -2386,7 +2383,7 @@
     "id": "tatoeba-9930573",
     "kana": "きのう は、 ぼくら の チーム が かった よ。",
     "romaji": [
-      "kinou wa bokura no chiimu ga kata yo"
+      "kinou wa bokura no chiimu ga katta yo"
     ],
     "kanji": "昨日は、僕らのチームが勝ったよ。",
     "translation": "Our team won yesterday.",
@@ -2397,7 +2394,7 @@
     "id": "tatoeba-10002352",
     "kana": "アスピリン を へや まで もってきてもらえません か？",
     "romaji": [
-      "asupirin o heya made motekitemoraemasen ka"
+      "asupirin o heya made mottekitemoraemasen ka"
     ],
     "kanji": "アスピリンを部屋まで持ってきてもらえませんか？",
     "translation": "Could you send up some aspirin?",
@@ -2452,7 +2449,7 @@
     "id": "tatoeba-10284653",
     "kana": "チェス で あいつ に かったんだ よ。",
     "romaji": [
-      "chesu de aitsu ni katanda yo"
+      "chesu de aitsu ni kattanda yo"
     ],
     "kanji": "チェスであいつに勝ったんだよ。",
     "translation": "I beat him at chess.",
@@ -2485,7 +2482,7 @@
     "id": "tatoeba-216671",
     "kana": "さらに さんにん の じょうきゃく が バス に のった。",
     "romaji": [
-      "sarani sannin no joukyaku ga basu ni nota"
+      "sarani sannin no joukyaku ga basu ni notta"
     ],
     "kanji": "さらに三人の乗客がバスに乗った。",
     "translation": "Three more passengers got on the bus.",
@@ -2618,7 +2615,7 @@
     "id": "tatoeba-210465",
     "kana": "その やま で なんにん か の ハイカー に あった。",
     "romaji": [
-      "sono yama de nannin ka no haikaa ni ata"
+      "sono yama de nannin ka no haikaa ni atta"
     ],
     "kanji": "その山で何人かのハイカーに会った。",
     "translation": "I met some hikers on the mountain.",
@@ -2629,7 +2626,7 @@
     "id": "tatoeba-10016987",
     "kana": "だれ が カップ を わっちゃった の？",
     "romaji": [
-      "dare ga kappu o wachata no"
+      "dare ga kappu o watchatta no"
     ],
     "kanji": "誰がカップを割っちゃったの？",
     "translation": "Who broke the cup?",
@@ -2651,7 +2648,7 @@
     "id": "tatoeba-203005",
     "kana": "チェックイン まで にもつ を あずかってもらえます か。",
     "romaji": [
-      "chekkuin made nimotsu o azukatemoraemasu ka"
+      "chekkuin made nimotsu o azukattemoraemasu ka"
     ],
     "kanji": "チェックインまで荷物を預かってもらえますか。",
     "translation": "Can I leave my bags with you until I come to check in?",
@@ -2662,7 +2659,7 @@
     "id": "tatoeba-9959544",
     "kana": "ヤニー は そこ に すわった。",
     "romaji": [
-      "yanii wa soko ni suwata"
+      "yanii wa soko ni suwatta"
     ],
     "kanji": "ヤニーはそこに座った。",
     "translation": "Yanni sat there.",
@@ -2695,7 +2692,7 @@
     "id": "tatoeba-201838",
     "kana": "ドア は おもった ほど わるく は ない ぞ。",
     "romaji": [
-      "doa wa omota hodo waruku wa nai zo"
+      "doa wa omotta hodo waruku wa nai zo"
     ],
     "kanji": "ドアは思ったほど悪くはないぞ。",
     "translation": "Doors ain't as bad as you think.",
@@ -2884,7 +2881,7 @@
     "id": "tatoeba-107504",
     "kana": "かれ は ごがつ の おわり に パリ へ いった。",
     "romaji": [
-      "kare wa gogatsu no owari ni pari e ita"
+      "kare wa gogatsu no owari ni pari e itta"
     ],
     "kanji": "彼は五月の終わりにパリへ行った。",
     "translation": "He went to Paris at the end of May.",
@@ -2928,7 +2925,7 @@
     "id": "tatoeba-9994295",
     "kana": "きょねん の なつ、 ディズニーランド に いった よ。",
     "romaji": [
-      "kyonen no natsu dizuniirando ni ita yo"
+      "kyonen no natsu dizuniirando ni itta yo"
     ],
     "kanji": "去年の夏、ディズニーランドに行ったよ。",
     "translation": "Last summer, we went to Disneyland.",
@@ -2961,7 +2958,7 @@
     "id": "tatoeba-2596682",
     "kana": "どう やって ふらんすご を まなんだ の？",
     "romaji": [
-      "dou yate furansugo o mananda no"
+      "dou yatte furansugo o mananda no"
     ],
     "kanji": "どうやってフランス語を学んだの？",
     "translation": "How did you learn French?",
@@ -2972,7 +2969,7 @@
     "id": "tatoeba-194863",
     "kana": "メアリー と は もう おわったんだ。",
     "romaji": [
-      "mearii to wa mou owatanda"
+      "mearii to wa mou owattanda"
     ],
     "kanji": "メアリーとはもう終わったんだ。",
     "translation": "I'm through with Mary.",
@@ -3072,7 +3069,7 @@
     "id": "tatoeba-7927718",
     "kana": "リスト に あなた の なまえ は なかったんです か？",
     "romaji": [
-      "risuto ni anata no namae wa nakatandesu ka"
+      "risuto ni anata no namae wa nakattandesu ka"
     ],
     "kanji": "リストにあなたの名前はなかったんですか？",
     "translation": "Wasn't your name on the list?",
@@ -3094,7 +3091,7 @@
     "id": "tatoeba-10183699",
     "kana": "ちょっと まえ に パパ、 かえってきた よ。",
     "romaji": [
-      "chotto mae ni papa kaetekita yo"
+      "chotto mae ni papa kaettekita yo"
     ],
     "kanji": "ちょっと前にパパ、帰ってきたよ。",
     "translation": "Dad came home a few minutes ago.",
@@ -3105,7 +3102,7 @@
     "id": "tatoeba-9529111",
     "kana": "その リンゴ、 ほんと おいしかった よ。",
     "romaji": [
-      "sono ringo honto oishikata yo"
+      "sono ringo honto oishikatta yo"
     ],
     "kanji": "そのリンゴ、ほんと美味しかったよ。",
     "translation": "That apple was really delicious.",
@@ -3127,8 +3124,8 @@
     "id": "tatoeba-141340",
     "kana": "たたかい は ローマじん の しょうり に おわった。",
     "romaji": [
-      "tatakai wa roomajin no shouri ni owata",
-      "tatakai wa roumajin no shouri ni owata"
+      "tatakai wa roomajin no shouri ni owatta",
+      "tatakai wa roumajin no shouri ni owatta"
     ],
     "kanji": "戦いはローマ人の勝利に終わった。",
     "translation": "The battle ended in a triumph for the Romans.",
@@ -3172,7 +3169,7 @@
     "id": "tatoeba-74688",
     "kana": "おれ は アームチェアー に もどって ほん を ひらいた。",
     "romaji": [
-      "ore wa aamucheaa ni modote hon o hiraita"
+      "ore wa aamucheaa ni modotte hon o hiraita"
     ],
     "kanji": "俺はアームチェアーに戻って本を開いた。",
     "translation": "I sat back in the armchair and opened the book.",
@@ -3315,7 +3312,7 @@
     "id": "tatoeba-225133",
     "kana": "ケン は わたし と ならんで はしった。",
     "romaji": [
-      "ken wa watashi to narande hashita"
+      "ken wa watashi to narande hashitta"
     ],
     "kanji": "ケンは私と並んで走った。",
     "translation": "Ken was running beside me.",
@@ -3337,7 +3334,7 @@
     "id": "tatoeba-4301767",
     "kana": "かげ の しはいしゃ は メアリーだった。",
     "romaji": [
-      "kage no shihaisha wa meariidata"
+      "kage no shihaisha wa meariidatta"
     ],
     "kanji": "影の支配者はメアリーだった。",
     "translation": "The person ruling from the shadows was Mary.",
@@ -3370,7 +3367,7 @@
     "id": "tatoeba-11686337",
     "kana": "だれ に ピアノ を おそわった の？",
     "romaji": [
-      "dare ni piano o osowata no"
+      "dare ni piano o osowatta no"
     ],
     "kanji": "誰にピアノを教わったの？",
     "translation": "Who taught you to play the piano?",
@@ -3425,7 +3422,7 @@
     "id": "tatoeba-10651785",
     "kana": "その くつ クリーム、 つかって もいい？",
     "romaji": [
-      "sono kutsu kuriimu tsukate moii"
+      "sono kutsu kuriimu tsukatte moii"
     ],
     "kanji": "その靴クリーム、使ってもいい？",
     "translation": "May I use the shoe polish?",
@@ -3458,8 +3455,7 @@
     "id": "tatoeba-177898",
     "kana": "きみ は ウオーミングアップ を はじめた な。",
     "romaji": [
-      "kimi wa uoominguappu o hajimeta na",
-      "kimi wa uouminguappu o hajimeta na"
+      "kimi wa uoominguappu o hajimeta na"
     ],
     "kanji": "君はウオーミングアップを始めたな。",
     "translation": "You've started warming up.",
@@ -3482,7 +3478,7 @@
     "id": "tatoeba-11451463",
     "kana": "ぼくたち、 よく がっこう を サボってます。",
     "romaji": [
-      "bokutachi yoku gakkou o sabotemasu"
+      "bokutachi yoku gakkou o sabottemasu"
     ],
     "kanji": "僕たち、よく学校をサボってます。",
     "translation": "We often bunk off school.",
@@ -3493,7 +3489,7 @@
     "id": "tatoeba-9171161",
     "kana": "バス のなか は とても あつかった よ。",
     "romaji": [
-      "basu nonaka wa totemo atsukata yo"
+      "basu nonaka wa totemo atsukatta yo"
     ],
     "kanji": "バスの中はとても暑かったよ。",
     "translation": "It was very hot inside the bus.",
@@ -3515,7 +3511,7 @@
     "id": "tatoeba-11527537",
     "kana": "なべ を すで で さわっちゃ ダメ よ。",
     "romaji": [
-      "nabe o sude de sawacha dame yo"
+      "nabe o sude de sawatcha dame yo"
     ],
     "kanji": "鍋を素手で触っちゃダメよ。",
     "translation": "Don't touch the pot with bare hands.",
@@ -3526,8 +3522,7 @@
     "id": "tatoeba-10066335",
     "kana": "あの ほん は ページすう が おおかった よ。",
     "romaji": [
-      "ano hon wa peejisuu ga ookata yo",
-      "ano hon wa peejisuu ga oukata yo"
+      "ano hon wa peejisuu ga ookatta yo"
     ],
     "kanji": "あの本はページ数が多かったよ。",
     "translation": "That book had a lot of pages.",
@@ -3615,7 +3610,7 @@
     "id": "tatoeba-2225526",
     "kana": "かれ は けいけん ほうふな ビジネスマンだった。",
     "romaji": [
-      "kare wa keiken houfuna bijinesumandata"
+      "kare wa keiken houfuna bijinesumandatta"
     ],
     "kanji": "彼は経験豊富なビジネスマンだった。",
     "translation": "He was experienced in business.",
@@ -3626,8 +3621,8 @@
     "id": "tatoeba-10924096",
     "kana": "かのじょ は ローブ を ぬいで ふろ に はいった。",
     "romaji": [
-      "kanojo wa roobu o nuide furo ni haita",
-      "kanojo wa roubu o nuide furo ni haita"
+      "kanojo wa roobu o nuide furo ni haitta",
+      "kanojo wa roubu o nuide furo ni haitta"
     ],
     "kanji": "彼女はローブを脱いで風呂に入った。",
     "translation": "She took off her robe and got in the tub.",
@@ -3704,7 +3699,7 @@
     "id": "tatoeba-10212649",
     "kana": "とうさん が ネクタイ を むすぶの てつだってくれたんだ。",
     "romaji": [
-      "tousan ga nekutai o musubuno tetsudatekuretanda"
+      "tousan ga nekutai o musubuno tetsudattekuretanda"
     ],
     "kanji": "父さんがネクタイを結ぶの手伝ってくれたんだ。",
     "translation": "My dad helped with my tie.",
@@ -3782,7 +3777,7 @@
     "id": "tatoeba-11453415",
     "kana": "はは は れいぞうこ に ケーキ を しまった。",
     "romaji": [
-      "haha wa reizouko ni keeki o shimata"
+      "haha wa reizouko ni keeki o shimatta"
     ],
     "kanji": "母は冷蔵庫にケーキをしまった。",
     "translation": "My mother put the cake in the refrigerator.",
@@ -3850,7 +3845,7 @@
     "id": "tatoeba-95581",
     "kana": "かのじょ が パリ に たったひ は あめだった。",
     "romaji": [
-      "kanojo ga pari ni tatahi wa amedata"
+      "kanojo ga pari ni tattahi wa amedatta"
     ],
     "kanji": "彼女がパリに発った日は雨だった。",
     "translation": "The day she started for Paris was rainy.",
@@ -3872,7 +3867,7 @@
     "id": "tatoeba-10288010",
     "kana": "おくってくれた え ハガキ、 すごく きれい ね。",
     "romaji": [
-      "okutekureta e hagaki sugoku kirei ne"
+      "okuttekureta e hagaki sugoku kirei ne"
     ],
     "kanji": "送ってくれた絵ハガキ、すごく綺麗ね。",
     "translation": "The postcard you sent is very beautiful.",
@@ -3883,7 +3878,7 @@
     "id": "tatoeba-192679",
     "kana": "ライオン は しんだ きりん の にく を くい ちぎった。",
     "romaji": [
-      "raion wa shinda kirin no niku o kui chigita"
+      "raion wa shinda kirin no niku o kui chigitta"
     ],
     "kanji": "ライオンは死んだきりんの肉を食いちぎった。",
     "translation": "The lion ripped the flesh from the dead giraffe.",
@@ -3982,7 +3977,7 @@
     "id": "tatoeba-11992680",
     "kana": "ベッド に は はいったものの、 ねれなかった。",
     "romaji": [
-      "beddo ni wa haitamonono nerenakata"
+      "beddo ni wa haittamonono nerenakatta"
     ],
     "kanji": "ベッドには入ったものの、寝れなかった。",
     "translation": "I went to bed, but I couldn't fall asleep.",
@@ -4070,7 +4065,7 @@
     "id": "tatoeba-9207510",
     "kana": "イス を あと ふたつ もってきて。",
     "romaji": [
-      "isu o ato futatsu motekite"
+      "isu o ato futatsu mottekite"
     ],
     "kanji": "イスをあと２つ持ってきて。",
     "translation": "Bring a couple more chairs.",
@@ -4092,8 +4087,8 @@
     "id": "tatoeba-113400",
     "kana": "かれ は すごい スポーツ せんしゅだったらしい。",
     "romaji": [
-      "kare wa sugoi supootsu senshudatarashii",
-      "kare wa sugoi supoutsu senshudatarashii"
+      "kare wa sugoi supootsu senshudattarashii",
+      "kare wa sugoi supoutsu senshudattarashii"
     ],
     "kanji": "彼はすごいスポーツ選手だったらしい。",
     "translation": "He seems to have been a great athlete.",
@@ -4182,7 +4177,7 @@
     "id": "tatoeba-84203",
     "kana": "へや に はいったら ドア を しめなさい。",
     "romaji": [
-      "heya ni haitara doa o shimenasai"
+      "heya ni haittara doa o shimenasai"
     ],
     "kanji": "部屋に入ったらドアを閉めなさい。",
     "translation": "You are to shut the door after you enter a room.",
@@ -4261,7 +4256,7 @@
     "id": "tatoeba-161447",
     "kana": "わたし は イギリス から もどったところです。",
     "romaji": [
-      "watashi wa igirisu kara modotatokorodesu"
+      "watashi wa igirisu kara modottatokorodesu"
     ],
     "kanji": "私はイギリスから戻ったところです。",
     "translation": "I have just returned from Britain.",
@@ -4328,8 +4323,8 @@
     "id": "tatoeba-159186",
     "kana": "ニューヨーク で みち に まよってしまった。",
     "romaji": [
-      "nyuuyooku de michi ni mayoteshimata",
-      "nyuuyouku de michi ni mayoteshimata"
+      "nyuuyooku de michi ni mayotteshimatta",
+      "nyuuyouku de michi ni mayotteshimatta"
     ],
     "kanji": "ニューヨークで道に迷ってしまった。",
     "translation": "I lost my way in New York.",
@@ -4340,7 +4335,7 @@
     "id": "tatoeba-12486152",
     "kana": "ふゆ に バイク に のったら、 さむい よ。",
     "romaji": [
-      "fuyu ni baiku ni notara samui yo"
+      "fuyu ni baiku ni nottara samui yo"
     ],
     "kanji": "冬にバイクに乗ったら、寒いよ。",
     "translation": "If you ride a motorbike in winter, you'll be cold.",
@@ -4463,7 +4458,7 @@
     "id": "tatoeba-126920",
     "kana": "じもと の チーム は かった。",
     "romaji": [
-      "jimoto no chiimu wa kata"
+      "jimoto no chiimu wa katta"
     ],
     "kanji": "地元のチームは勝った。",
     "translation": "The home team won.",
@@ -4496,7 +4491,7 @@
     "id": "tatoeba-225711",
     "kana": "くぎ が くるま の タイヤ に ささった。",
     "romaji": [
-      "kugi ga kuruma no taiya ni sasata"
+      "kugi ga kuruma no taiya ni sasatta"
     ],
     "kanji": "釘が車のタイヤに刺さった。",
     "translation": "A nail penetrated the car tyre.",
@@ -4573,7 +4568,7 @@
     "id": "tatoeba-10095666",
     "kana": "ボストン まで の おうふく チケット を もってます。",
     "romaji": [
-      "bosuton made no oufuku chiketto o motemasu"
+      "bosuton made no oufuku chiketto o mottemasu"
     ],
     "kanji": "ボストンまでの往復チケットを持ってます。",
     "translation": "I have a round trip ticket to Boston.",
@@ -4639,7 +4634,7 @@
     "id": "tatoeba-2243930",
     "kana": "きのう、 わたし が あったの は、 ヒルさんでした。",
     "romaji": [
-      "kinou watashi ga atano wa hirusandeshita"
+      "kinou watashi ga attano wa hirusandeshita"
     ],
     "kanji": "昨日、私が会ったのは、ヒルさんでした。",
     "translation": "The man I met yesterday was Mr. Hill.",
@@ -4672,7 +4667,7 @@
     "id": "tatoeba-11178888",
     "kana": "あお の スイッチ は さわっちゃ ダメ！",
     "romaji": [
-      "ao no suitchi wa sawacha dame"
+      "ao no suitchi wa sawatcha dame"
     ],
     "kanji": "青のスイッチは触っちゃダメ！",
     "translation": "Don't touch the blue switch!",
@@ -4694,7 +4689,7 @@
     "id": "tatoeba-8604591",
     "kana": "ビーチ は かんこう きゃく で いっぱいだった。",
     "romaji": [
-      "biichi wa kankou kyaku de ippaidata"
+      "biichi wa kankou kyaku de ippaidatta"
     ],
     "kanji": "ビーチは観光客でいっぱいだった。",
     "translation": "The beach was crowded with tourists.",
@@ -4883,7 +4878,7 @@
     "id": "tatoeba-1204082",
     "kana": "がっこう で タバコ を すって はいけません。",
     "romaji": [
-      "gakkou de tabako o sute waikemasen"
+      "gakkou de tabako o sutte waikemasen"
     ],
     "kanji": "学校でタバコを吸ってはいけません。",
     "translation": "You are not supposed to smoke at school.",
@@ -4971,7 +4966,7 @@
     "id": "tatoeba-3565421",
     "kana": "わたし の マグカップ を とってくれる？",
     "romaji": [
-      "watashi no magukappu o totekureru"
+      "watashi no magukappu o tottekureru"
     ],
     "kanji": "私のマグカップを取ってくれる？",
     "translation": "Hand me my mug.",
@@ -5114,7 +5109,7 @@
     "id": "tatoeba-201580",
     "kana": "どうして、 パーティー に こなかったのです か。",
     "romaji": [
-      "doushite paatii ni konakatanodesu ka"
+      "doushite paatii ni konakattanodesu ka"
     ],
     "kanji": "どうして、パーティーに来なかったのですか。",
     "translation": "How come you didn't come to the party?",
@@ -5147,7 +5142,7 @@
     "id": "tatoeba-141704",
     "kana": "せんせい は クラス が さわがしいので しかった。",
     "romaji": [
-      "sensei wa kurasu ga sawagashiinode shikata"
+      "sensei wa kurasu ga sawagashiinode shikatta"
     ],
     "kanji": "先生はクラスが騒がしいのでしかった。",
     "translation": "The teacher scolded her class for being noisy.",
@@ -5158,7 +5153,7 @@
     "id": "tatoeba-231275",
     "kana": "あの ハンバーガー は ほんとうに おいしかった。",
     "romaji": [
-      "ano hanbaagaa wa hontouni oishikata"
+      "ano hanbaagaa wa hontouni oishikatta"
     ],
     "kanji": "あのハンバーガーは本当においしかった。",
     "translation": "Boy, that hamburger really hit the spot.",
@@ -5302,7 +5297,7 @@
     "id": "tatoeba-13346908",
     "kana": "エプスタイン は じぶん を ころさなかった。",
     "romaji": [
-      "epusutain wa jibun o korosanakata"
+      "epusutain wa jibun o korosanakatta"
     ],
     "kanji": "エプスタインは自分を殺さなかった。",
     "translation": "Epstein didn't kill himself.",
@@ -5492,7 +5487,7 @@
     "id": "tatoeba-166230",
     "kana": "わたしたち は パンフレット を やすく つくった。",
     "romaji": [
-      "watashitachi wa panfuretto o yasuku tsukuta"
+      "watashitachi wa panfuretto o yasuku tsukutta"
     ],
     "kanji": "私たちはパンフレットを安く作った。",
     "translation": "We made brochures at small cost.",

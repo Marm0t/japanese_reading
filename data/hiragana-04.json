@@ -146,7 +146,7 @@
     "id": "tatoeba-9684513",
     "kana": "そういうわけ で ちこくしちゃった の よ。",
     "romaji": [
-      "souiuwake de chikokushichata no yo"
+      "souiuwake de chikokushichatta no yo"
     ],
     "kanji": "そういうわけで遅刻しちゃったのよ。",
     "translation": "That's why I came late.",
@@ -168,7 +168,7 @@
     "id": "tatoeba-92516",
     "kana": "かのじょ は その けっか を とても しりたがっている。",
     "romaji": [
-      "kanojo wa sono kekka o totemo shiritagateiru"
+      "kanojo wa sono kekka o totemo shiritagatteiru"
     ],
     "kanji": "彼女はその結果をとても知りたがっている。",
     "translation": "She's anxious to know the results.",
@@ -190,7 +190,7 @@
     "id": "tatoeba-8764360",
     "kana": "いぬ が しっぽ を ふっている。",
     "romaji": [
-      "inu ga shippo o futeiru"
+      "inu ga shippo o futteiru"
     ],
     "kanji": "犬が尻尾を振っている。",
     "translation": "The dog is wagging its tail.",
@@ -201,7 +201,7 @@
     "id": "tatoeba-211204",
     "kana": "その けいかん は、 そのひ は とうちょくであった。",
     "romaji": [
-      "sono keikan wa sonohi wa touchokudeata"
+      "sono keikan wa sonohi wa touchokudeatta"
     ],
     "kanji": "その警官は、その日は当直であった。",
     "translation": "The policeman was on duty on that day.",
@@ -256,7 +256,7 @@
     "id": "tatoeba-149116",
     "kana": "くるま が せいもん のところ へ きて とまった。",
     "romaji": [
-      "kuruma ga seimon notokoro e kite tomata"
+      "kuruma ga seimon notokoro e kite tomatta"
     ],
     "kanji": "車が正門のところへきて止まった。",
     "translation": "A car drew up at the main gate.",
@@ -267,7 +267,7 @@
     "id": "tatoeba-9336172",
     "kana": "かれ は あつさ に たえられなかった。",
     "romaji": [
-      "kare wa atsusa ni taerarenakata"
+      "kare wa atsusa ni taerarenakatta"
     ],
     "kanji": "彼は暑さに耐えられなかった。",
     "translation": "He couldn't bear the heat.",
@@ -311,7 +311,7 @@
     "id": "tatoeba-918042",
     "kana": "ほんとうに わるい と おもってる の？",
     "romaji": [
-      "hontouni warui to omoteru no"
+      "hontouni warui to omotteru no"
     ],
     "kanji": "本当に悪いと思ってるの？",
     "translation": "Do you really think that it's bad?",
@@ -333,7 +333,7 @@
     "id": "tatoeba-79057",
     "kana": "ゆうぐれ が たにま に せまっていた。",
     "romaji": [
-      "yuugure ga tanima ni semateita"
+      "yuugure ga tanima ni sematteita"
     ],
     "kanji": "夕暮れが谷間に迫っていた。",
     "translation": "Evening was closing in on the valley.",
@@ -377,7 +377,7 @@
     "id": "tatoeba-10133850",
     "kana": "その うた が みみ に のこってるんだ。",
     "romaji": [
-      "sono uta ga mimi ni nokoterunda"
+      "sono uta ga mimi ni nokotterunda"
     ],
     "kanji": "その歌が耳に残ってるんだ。",
     "translation": "I have that song stuck in my head.",
@@ -399,7 +399,7 @@
     "id": "tatoeba-11257839",
     "kana": "じゃま に ならないよう に うごかすの てつだって。",
     "romaji": [
-      "jama ni naranaiyou ni ugokasuno tetsudate"
+      "jama ni naranaiyou ni ugokasuno tetsudatte"
     ],
     "kanji": "邪魔にならないように動かすの手伝って。",
     "translation": "Help me move it out of the way.",
@@ -432,7 +432,7 @@
     "id": "tatoeba-10151455",
     "kana": "き のうえ で とり が さえずっている。",
     "romaji": [
-      "ki noue de tori ga saezuteiru"
+      "ki noue de tori ga saezutteiru"
     ],
     "kanji": "木の上で鳥が囀っている。",
     "translation": "A bird is singing in the tree.",
@@ -443,7 +443,7 @@
     "id": "tatoeba-86844",
     "kana": "かのじょ は ふく に こっている。",
     "romaji": [
-      "kanojo wa fuku ni koteiru"
+      "kanojo wa fuku ni kotteiru"
     ],
     "kanji": "彼女は服に凝っている。",
     "translation": "She is particular about her dress.",
@@ -509,7 +509,7 @@
     "id": "tatoeba-10107045",
     "kana": "なに も なかったような かお して。",
     "romaji": [
-      "nani mo nakatayouna kao shite"
+      "nani mo nakattayouna kao shite"
     ],
     "kanji": "何もなかったような顔して。",
     "translation": "You look as though nothing has happened to you.",
@@ -553,7 +553,7 @@
     "id": "tatoeba-110523",
     "kana": "かれ は もはや りょうしん に は たよっていなかった。",
     "romaji": [
-      "kare wa mohaya ryoushin ni wa tayoteinakata"
+      "kare wa mohaya ryoushin ni wa tayotteinakatta"
     ],
     "kanji": "彼はもはや両親には頼っていなかった。",
     "translation": "He was no longer dependent on his parents.",
@@ -630,7 +630,7 @@
     "id": "tatoeba-196881",
     "kana": "ふろ が ぬるくて はいったき が しなかった。",
     "romaji": [
-      "furo ga nurukute haitaki ga shinakata"
+      "furo ga nurukute haittaki ga shinakatta"
     ],
     "kanji": "風呂がぬるくて入った気がしなかった。",
     "translation": "The bath was not hot enough and I was unable to enjoy it.",
@@ -696,7 +696,7 @@
     "id": "tatoeba-11479807",
     "kana": "かれ の なまえ は わからずじまいだった な。",
     "romaji": [
-      "kare no namae wa wakarazujimaidata na"
+      "kare no namae wa wakarazujimaidatta na"
     ],
     "kanji": "彼の名前は分からずじまいだったな。",
     "translation": "I never knew his name.",
@@ -707,7 +707,7 @@
     "id": "tatoeba-166286",
     "kana": "わたしたち は どうして いい か わからなかった。",
     "romaji": [
-      "watashitachi wa doushite ii ka wakaranakata"
+      "watashitachi wa doushite ii ka wakaranakatta"
     ],
     "kanji": "私たちはどうしていいかわからなかった。",
     "translation": "We didn't know what to do.",
@@ -872,7 +872,7 @@
     "id": "tatoeba-9479977",
     "kana": "さくや その ほん ぜんぶ よみおわった よ。",
     "romaji": [
-      "sakuya sono hon zenbu yomiowata yo"
+      "sakuya sono hon zenbu yomiowatta yo"
     ],
     "kanji": "昨夜その本全部読み終わったよ。",
     "translation": "I finished reading the book last night.",
@@ -894,7 +894,7 @@
     "id": "tatoeba-9343451",
     "kana": "おまわりさん は なに か いってた？",
     "romaji": [
-      "omawarisan wa nani ka iteta"
+      "omawarisan wa nani ka itteta"
     ],
     "kanji": "お巡りさんは何か言ってた？",
     "translation": "Did the policeman say anything to you?",
@@ -927,7 +927,7 @@
     "id": "tatoeba-154902",
     "kana": "わたし は とちゅう で かのじょ に あった。",
     "romaji": [
-      "watashi wa tochuu de kanojo ni ata"
+      "watashi wa tochuu de kanojo ni atta"
     ],
     "kanji": "私は途中で彼女にあった。",
     "translation": "I met her along the way.",
@@ -1103,7 +1103,7 @@
     "id": "tatoeba-10367618",
     "kana": "わたし の ゆびわ が どっか いった。",
     "romaji": [
-      "watashi no yubiwa ga dokka ita"
+      "watashi no yubiwa ga dokka itta"
     ],
     "kanji": "私の指輪がどっかいった。",
     "translation": "My ring is gone.",
@@ -1213,7 +1213,7 @@
     "id": "tatoeba-11563644",
     "kana": "やってみる かち は ある よ ね？",
     "romaji": [
-      "yatemiru kachi wa aru yo ne"
+      "yattemiru kachi wa aru yo ne"
     ],
     "kanji": "やってみる価値はあるよね？",
     "translation": "It's worth a try, right?",
@@ -1224,7 +1224,7 @@
     "id": "tatoeba-11734162",
     "kana": "ちょっと まって。 ひとつ だけ ききたい の。",
     "romaji": [
-      "chotto mate hitotsu dake kikitai no"
+      "chotto matte hitotsu dake kikitai no"
     ],
     "kanji": "ちょっと待って。ひとつだけ聞きたいの。",
     "translation": "Wait a second. There's just one thing I want to ask.",
@@ -1345,7 +1345,7 @@
     "id": "tatoeba-12453517",
     "kana": "ここ で まってよう と おもったんだけど ね。",
     "romaji": [
-      "koko de mateyou to omotandakedo ne"
+      "koko de matteyou to omottandakedo ne"
     ],
     "kanji": "ここで待ってようと思ったんだけどね。",
     "translation": "I thought I'd wait for you here.",
@@ -1389,7 +1389,7 @@
     "id": "tatoeba-11101408",
     "kana": "なに が あったの か、 さっぱり わからないんだ よ。",
     "romaji": [
-      "nani ga atano ka sappari wakaranainda yo"
+      "nani ga attano ka sappari wakaranainda yo"
     ],
     "kanji": "何があったのか、さっぱり分からないんだよ。",
     "translation": "I don't know anything about what happened.",
@@ -1422,7 +1422,7 @@
     "id": "tatoeba-1771128",
     "kana": "いつ しけん に とおった の？",
     "romaji": [
-      "itsu shiken ni toota no"
+      "itsu shiken ni tootta no"
     ],
     "kanji": "いつ試験に通ったの？",
     "translation": "When did you pass the exam?",
@@ -1554,7 +1554,7 @@
     "id": "tatoeba-137828",
     "kana": "だいどころ に は ほとんど なに も なかった。",
     "romaji": [
-      "daidokoro ni wa hotondo nani mo nakata"
+      "daidokoro ni wa hotondo nani mo nakatta"
     ],
     "kanji": "台所にはほとんど何もなかった。",
     "translation": "We had next to nothing in the kitchen.",
@@ -1686,7 +1686,7 @@
     "id": "tatoeba-12164690",
     "kana": "なんで そんなこと に なったの か、 おぼえてません。",
     "romaji": [
-      "nande sonnakoto ni natano ka oboetemasen"
+      "nande sonnakoto ni nattano ka oboetemasen"
     ],
     "kanji": "なんでそんなことになったのか、覚えてません。",
     "translation": "I don't remember how it happened.",
@@ -1741,7 +1741,7 @@
     "id": "tatoeba-189832",
     "kana": "あめ が ほんぶり に なってきた。",
     "romaji": [
-      "ame ga honburi ni natekita"
+      "ame ga honburi ni nattekita"
     ],
     "kanji": "雨が本降りになってきた。",
     "translation": "It began to rain in earnest.",
@@ -1763,7 +1763,7 @@
     "id": "tatoeba-175798",
     "kana": "けっきょく かれ の けいかく は うまく いった。",
     "romaji": [
-      "kekkyoku kare no keikaku wa umaku ita"
+      "kekkyoku kare no keikaku wa umaku itta"
     ],
     "kanji": "結局彼の計画はうまく行った。",
     "translation": "His plan went well after all.",
@@ -1774,7 +1774,7 @@
     "id": "tatoeba-11360480",
     "kana": "なってたの って、 わたし の けいたい？",
     "romaji": [
-      "natetano tte watashi no keitai"
+      "nattetano tte watashi no keitai"
     ],
     "kanji": "鳴ってたのって、私の携帯？",
     "translation": "Was that my phone ringing?",
@@ -1796,7 +1796,7 @@
     "id": "tatoeba-145720",
     "kana": "しんごう が あお に かわった わ よ。",
     "romaji": [
-      "shingou ga ao ni kawata wa yo"
+      "shingou ga ao ni kawatta wa yo"
     ],
     "kanji": "信号が青に変わったわよ。",
     "translation": "The traffic light turned green.",
@@ -1818,7 +1818,7 @@
     "id": "tatoeba-125101",
     "kana": "てんき よほう が あたった よ。",
     "romaji": [
-      "tenki yohou ga atata yo"
+      "tenki yohou ga atatta yo"
     ],
     "kanji": "天気予報が当たったよ。",
     "translation": "The weather forecast was right.",
@@ -1873,7 +1873,7 @@
     "id": "tatoeba-188596",
     "kana": "しお を とって いただけます か。",
     "romaji": [
-      "shio o tote itadakemasu ka"
+      "shio o totte itadakemasu ka"
     ],
     "kanji": "塩をとっていただけますか。",
     "translation": "Could you pass me the salt, please?",
@@ -1895,7 +1895,7 @@
     "id": "tatoeba-12037979",
     "kana": "さとう の かわり に はちみつ を つかってます。",
     "romaji": [
-      "satou no kawari ni hachimitsu o tsukatemasu"
+      "satou no kawari ni hachimitsu o tsukattemasu"
     ],
     "kanji": "砂糖の代わりに蜂蜜を使ってます。",
     "translation": "I'm using honey instead of sugar.",
@@ -1939,7 +1939,7 @@
     "id": "tatoeba-2352798",
     "kana": "かのじょ は なんとか ていさい を つくろった。",
     "romaji": [
-      "kanojo wa nantoka teisai o tsukurota"
+      "kanojo wa nantoka teisai o tsukurotta"
     ],
     "kanji": "彼女はなんとか体裁を繕った。",
     "translation": "She managed to keep up appearances.",
@@ -1994,7 +1994,7 @@
     "id": "tatoeba-87556",
     "kana": "かのじょ は かいもの に いってしまいました。",
     "romaji": [
-      "kanojo wa kaimono ni iteshimaimashita"
+      "kanojo wa kaimono ni itteshimaimashita"
     ],
     "kanji": "彼女は買い物に行ってしまいました。",
     "translation": "She has gone shopping.",
@@ -2093,7 +2093,7 @@
     "id": "tatoeba-154889",
     "kana": "わたし は いかり を おさえること が できなかった。",
     "romaji": [
-      "watashi wa ikari o osaerukoto ga dekinakata"
+      "watashi wa ikari o osaerukoto ga dekinakatta"
     ],
     "kanji": "私は怒りを抑えることが出来なかった。",
     "translation": "I couldn't keep my anger down.",
@@ -2104,7 +2104,7 @@
     "id": "tatoeba-3624966",
     "kana": "そんなこと こども でも しってる よ。",
     "romaji": [
-      "sonnakoto kodomo demo shiteru yo"
+      "sonnakoto kodomo demo shitteru yo"
     ],
     "kanji": "そんなこと子供でも知ってるよ。",
     "translation": "Even children would know things like that.",
@@ -2137,7 +2137,7 @@
     "id": "tatoeba-78508",
     "kana": "らんぼうな ことば を つかって はいけない。",
     "romaji": [
-      "ranbouna kotoba o tsukate waikenai"
+      "ranbouna kotoba o tsukatte waikenai"
     ],
     "kanji": "乱暴な言葉を使ってはいけない。",
     "translation": "Don't be rough in speech.",
@@ -2214,7 +2214,7 @@
     "id": "tatoeba-152367",
     "kana": "わたし は りはつてん で かみのけ を きってもらった。",
     "romaji": [
-      "watashi wa rihatsuten de kaminoke o kitemorata"
+      "watashi wa rihatsuten de kaminoke o kittemoratta"
     ],
     "kanji": "私は理髪店で髪の毛を切ってもらった。",
     "translation": "I had my hair cut at a barber's shop.",
@@ -2269,7 +2269,7 @@
     "id": "tatoeba-10640293",
     "kana": "かみ ひこうき を おった よ。",
     "romaji": [
-      "kami hikouki o ota yo"
+      "kami hikouki o otta yo"
     ],
     "kanji": "紙飛行機を折ったよ。",
     "translation": "I made a paper plane.",
@@ -2302,7 +2302,7 @@
     "id": "tatoeba-7560867",
     "kana": "わたしたち は なに が なん でも かちたかった。",
     "romaji": [
-      "watashitachi wa nani ga nan demo kachitakata"
+      "watashitachi wa nani ga nan demo kachitakatta"
     ],
     "kanji": "私たちはなにがなんでも勝ちたかった。",
     "translation": "We wanted to win at all costs.",
@@ -2357,7 +2357,7 @@
     "id": "tatoeba-79344",
     "kana": "ゆうじん を みおくり に いってきたところです。",
     "romaji": [
-      "yuujin o miokuri ni itekitatokorodesu"
+      "yuujin o miokuri ni ittekitatokorodesu"
     ],
     "kanji": "友人を見送りに行ってきた所です。",
     "translation": "I have been to see my friend off.",
@@ -2379,7 +2379,7 @@
     "id": "tatoeba-1772327",
     "kana": "ほん と いうと、 き が つかなかったんです。",
     "romaji": [
-      "hon to iuto ki ga tsukanakatandesu"
+      "hon to iuto ki ga tsukanakattandesu"
     ],
     "kanji": "ほんと言うと、気が付かなかったんです。",
     "translation": "To tell the truth, I didn't notice it.",
@@ -2412,7 +2412,7 @@
     "id": "tatoeba-88425",
     "kana": "かのじょ は すうがく の てんさいだった。",
     "romaji": [
-      "kanojo wa suugaku no tensaidata"
+      "kanojo wa suugaku no tensaidatta"
     ],
     "kanji": "彼女は数学の天才だった。",
     "translation": "She was a genius in mathematics.",
@@ -2456,7 +2456,7 @@
     "id": "tatoeba-10557860",
     "kana": "あれ は おもしろかった よ ね？",
     "romaji": [
-      "are wa omoshirokata yo ne"
+      "are wa omoshirokatta yo ne"
     ],
     "kanji": "あれは面白かったよね？",
     "translation": "That was interesting, wasn't it?",
@@ -2467,7 +2467,7 @@
     "id": "tatoeba-1614579",
     "kana": "あめ は ゆき に なった。",
     "romaji": [
-      "ame wa yuki ni nata"
+      "ame wa yuki ni natta"
     ],
     "kanji": "雨は雪になった。",
     "translation": "The rain became snow.",
@@ -2511,7 +2511,7 @@
     "id": "tatoeba-9097018",
     "kana": "わたし は かれ が やった と おもうんだ。",
     "romaji": [
-      "watashi wa kare ga yata to omounda"
+      "watashi wa kare ga yatta to omounda"
     ],
     "kanji": "私は彼がやったと思うんだ。",
     "translation": "I think he did it.",
@@ -2522,7 +2522,7 @@
     "id": "tatoeba-161617",
     "kana": "がっこう の まえ で まってる よ。",
     "romaji": [
-      "gakkou no mae de materu yo"
+      "gakkou no mae de matteru yo"
     ],
     "kanji": "学校の前で待ってるよ。",
     "translation": "I will wait for you in front of the school.",
@@ -2632,7 +2632,7 @@
     "id": "tatoeba-11195150",
     "kana": "これいじょう の しあわせ は ない と おもった。",
     "romaji": [
-      "koreijou no shiawase wa nai to omota"
+      "koreijou no shiawase wa nai to omotta"
     ],
     "kanji": "これ以上の幸せはないと思った。",
     "translation": "I felt as though there were no higher bliss.",
@@ -2643,7 +2643,7 @@
     "id": "tatoeba-10502449",
     "kana": "はやく ねないと あさ に なっちゃう よ。",
     "romaji": [
-      "hayaku nenaito asa ni nachau yo"
+      "hayaku nenaito asa ni natchau yo"
     ],
     "kanji": "早く寝ないと朝になっちゃうよ。",
     "translation": "If you don't sleep soon, it'll be morning before you know it.",
@@ -2654,7 +2654,7 @@
     "id": "tatoeba-152303",
     "kana": "なみだ を おさえること が できなかった。",
     "romaji": [
-      "namida o osaerukoto ga dekinakata"
+      "namida o osaerukoto ga dekinakatta"
     ],
     "kanji": "涙を抑えることができなかった。",
     "translation": "I couldn't control my tears.",
@@ -2720,7 +2720,7 @@
     "id": "tatoeba-5777110",
     "kana": "かれ の くちびる は あたたかかった。",
     "romaji": [
-      "kare no kuchibiru wa atatakakata"
+      "kare no kuchibiru wa atatakakatta"
     ],
     "kanji": "彼の唇は温かかった。",
     "translation": "His lips were warm.",
@@ -2753,7 +2753,7 @@
     "id": "tatoeba-210990",
     "kana": "いぬ が そと に でたがってます よ。",
     "romaji": [
-      "inu ga soto ni detagatemasu yo"
+      "inu ga soto ni detagattemasu yo"
     ],
     "kanji": "犬が外に出たがってますよ。",
     "translation": "The dog wants to go outside.",
@@ -2830,7 +2830,7 @@
     "id": "tatoeba-10230336",
     "kana": "ぼくだったら、 すぐ に でも はじめる な。",
     "romaji": [
-      "bokudatara sugu ni demo hajimeru na"
+      "bokudattara sugu ni demo hajimeru na"
     ],
     "kanji": "僕だったら、すぐにでも始めるな。",
     "translation": "If I were you, I'd start immediately.",
@@ -2852,7 +2852,7 @@
     "id": "tatoeba-108308",
     "kana": "かれ は こうふん を おさえられなかった。",
     "romaji": [
-      "kare wa koufun o osaerarenakata"
+      "kare wa koufun o osaerarenakatta"
     ],
     "kanji": "彼は興奮を抑えられなかった。",
     "translation": "He could not restrain his excitement.",
@@ -2907,7 +2907,7 @@
     "id": "tatoeba-9868401",
     "kana": "ほんとう のこと しってたら いう って。",
     "romaji": [
-      "hontou nokoto shitetara iu tte"
+      "hontou nokoto shittetara iu tte"
     ],
     "kanji": "本当のこと知ってたら言うって。",
     "translation": "If I knew the truth, I would tell you.",
@@ -2951,7 +2951,7 @@
     "id": "tatoeba-10824411",
     "kana": "えき まで ともだち を むかえ に いってきたんだ。",
     "romaji": [
-      "eki made tomodachi o mukae ni itekitanda"
+      "eki made tomodachi o mukae ni ittekitanda"
     ],
     "kanji": "駅まで友達を迎えに行ってきたんだ。",
     "translation": "I've been to the station to meet a friend.",
@@ -2984,7 +2984,7 @@
     "id": "tatoeba-10588672",
     "kana": "なんか きもち わるい。 ふね に よった かも しれない。",
     "romaji": [
-      "nanka kimochi warui fune ni yota kamo shirenai"
+      "nanka kimochi warui fune ni yotta kamo shirenai"
     ],
     "kanji": "なんか気持ち悪い。船に酔ったかもしれない。",
     "translation": "I kind of feel queasy. I might've gotten seasick on the boat.",
@@ -3039,7 +3039,7 @@
     "id": "tatoeba-204102",
     "kana": "そんなこと いいだす と は おもわなかった よ。",
     "romaji": [
-      "sonnakoto iidasu to wa omowanakata yo"
+      "sonnakoto iidasu to wa omowanakatta yo"
     ],
     "kanji": "そんな事言い出すとは思わなかったよ。",
     "translation": "I didn't expect that to come from you.",
@@ -3138,7 +3138,7 @@
     "id": "tatoeba-11013848",
     "kana": "さいきんめ に みえて ちあん が わるく なった。",
     "romaji": [
-      "saikinme ni miete chian ga waruku nata"
+      "saikinme ni miete chian ga waruku natta"
     ],
     "kanji": "最近目に見えて治安が悪くなった。",
     "translation": "Recently, it's become clear that public order has deteriorated.",
@@ -3204,7 +3204,7 @@
     "id": "tatoeba-104854",
     "kana": "かれ は じぶん の へや に はいった。",
     "romaji": [
-      "kare wa jibun no heya ni haita"
+      "kare wa jibun no heya ni haitta"
     ],
     "kanji": "彼は自分の部屋に入った。",
     "translation": "He entered his room.",
@@ -3259,7 +3259,7 @@
     "id": "tatoeba-9640883",
     "kana": "でんわ、 かしてあげる って いった っけ？",
     "romaji": [
-      "denwa kashiteageru tte ita kke"
+      "denwa kashiteageru tte itta kke"
     ],
     "kanji": "電話、貸してあげるって言ったっけ？",
     "translation": "Did I say you could use my phone?",
@@ -3303,7 +3303,7 @@
     "id": "tatoeba-9700939",
     "kana": "かれ を さそったら、 たぶん くる よ。",
     "romaji": [
-      "kare o sasotara tabun kuru yo"
+      "kare o sasottara tabun kuru yo"
     ],
     "kanji": "彼を誘ったら、多分来るよ。",
     "translation": "If you invite him, he'll probably come.",
@@ -3369,7 +3369,7 @@
     "id": "tatoeba-10852230",
     "kana": "ぶたい は じかんどおり に はじまった。",
     "romaji": [
-      "butai wa jikandoori ni hajimata"
+      "butai wa jikandoori ni hajimatta"
     ],
     "kanji": "舞台は時間通りに始まった。",
     "translation": "The play began exactly on time.",
@@ -3391,7 +3391,7 @@
     "id": "tatoeba-10682601",
     "kana": "こども の せわ で ていっぱいだった。",
     "romaji": [
-      "kodomo no sewa de teippaidata"
+      "kodomo no sewa de teippaidatta"
     ],
     "kanji": "子供の世話で手いっぱいだった。",
     "translation": "I had my hands full taking care of my own children.",
@@ -3413,7 +3413,7 @@
     "id": "tatoeba-351852",
     "kana": "あなた に あえた、 それ だけでよかった。",
     "romaji": [
-      "anata ni aeta sore dakedeyokata"
+      "anata ni aeta sore dakedeyokatta"
     ],
     "kanji": "あなたに会えた、それだけでよかった。",
     "translation": "I met you; that is enough.",
@@ -3424,7 +3424,7 @@
     "id": "tatoeba-205230",
     "kana": "それ は みるから に ほほえましい ながめだった。",
     "romaji": [
-      "sore wa mirukara ni hohoemashii nagamedata"
+      "sore wa mirukara ni hohoemashii nagamedatta"
     ],
     "kanji": "それは見るからに微笑ましい眺めだった。",
     "translation": "It was a lovely sight to see.",
@@ -3545,7 +3545,7 @@
     "id": "tatoeba-10641535",
     "kana": "どちら の じしょ を つかって もいいです よ。",
     "romaji": [
-      "dochira no jisho o tsukate moiidesu yo"
+      "dochira no jisho o tsukatte moiidesu yo"
     ],
     "kanji": "どちらの辞書を使ってもいいですよ。",
     "translation": "You may use either of the dictionaries.",
@@ -3578,7 +3578,7 @@
     "id": "tatoeba-10006452",
     "kana": "くるま って いつ かった の？",
     "romaji": [
-      "kuruma tte itsu kata no"
+      "kuruma tte itsu katta no"
     ],
     "kanji": "車っていつ買ったの？",
     "translation": "When did you buy your car?",
@@ -3611,7 +3611,7 @@
     "id": "tatoeba-164166",
     "kana": "わたし は かれ の そば に すわった。",
     "romaji": [
-      "watashi wa kare no soba ni suwata"
+      "watashi wa kare no soba ni suwatta"
     ],
     "kanji": "私は彼のそばに座った。",
     "translation": "I sat by his side.",
@@ -3655,7 +3655,7 @@
     "id": "tatoeba-236806",
     "kana": "わたし は ほん を うった。",
     "romaji": [
-      "watashi wa hon o uta"
+      "watashi wa hon o utta"
     ],
     "kanji": "私は本を売った。",
     "translation": "I sold a book.",
@@ -3677,7 +3677,7 @@
     "id": "tatoeba-111395",
     "kana": "かれ は なんて いってよい か とほう に くれた。",
     "romaji": [
-      "kare wa nante iteyoi ka tohou ni kureta"
+      "kare wa nante itteyoi ka tohou ni kureta"
     ],
     "kanji": "彼はなんて言ってよいか途方にくれた。",
     "translation": "He was at a loss for a word.",
@@ -3787,7 +3787,7 @@
     "id": "tatoeba-172959",
     "kana": "ほね が のど に ひっかかった。",
     "romaji": [
-      "hone ga nodo ni hikkakata"
+      "hone ga nodo ni hikkakatta"
     ],
     "kanji": "骨が喉にひっかかった。",
     "translation": "A bone stuck in my throat.",
@@ -3798,7 +3798,7 @@
     "id": "tatoeba-194248",
     "kana": "もう いえ へ かえって もいいです か。",
     "romaji": [
-      "mou ie e kaete moiidesu ka"
+      "mou ie e kaette moiidesu ka"
     ],
     "kanji": "もう家へ帰ってもいいですか。",
     "translation": "Can I go home now?",
@@ -3831,7 +3831,7 @@
     "id": "tatoeba-9846726",
     "kana": "ぼく が へや の そうじ とうばんだったんだ。",
     "romaji": [
-      "boku ga heya no souji toubandatanda"
+      "boku ga heya no souji toubandattanda"
     ],
     "kanji": "僕が部屋の掃除当番だったんだ。",
     "translation": "It was my turn to clean the room.",
@@ -3842,7 +3842,7 @@
     "id": "tatoeba-10623192",
     "kana": "まいしゅう、 てがみ を かいて おくってくれるの よ。",
     "romaji": [
-      "maishuu tegami o kaite okutekureruno yo"
+      "maishuu tegami o kaite okuttekureruno yo"
     ],
     "kanji": "毎週、手紙を書いて送ってくれるのよ。",
     "translation": "He writes me a letter every week.",
@@ -3853,7 +3853,7 @@
     "id": "tatoeba-11013958",
     "kana": "ここ の まちなみ も すっかり かわってしまった。",
     "romaji": [
-      "koko no machinami mo sukkari kawateshimata"
+      "koko no machinami mo sukkari kawatteshimatta"
     ],
     "kanji": "ここの街並みもすっかり変わってしまった。",
     "translation": "Even the look of the streets here has completely changed.",
@@ -3919,7 +3919,7 @@
     "id": "tatoeba-154736",
     "kana": "わたし は にっぽん に もどった。",
     "romaji": [
-      "watashi wa nippon ni modota"
+      "watashi wa nippon ni modotta"
     ],
     "kanji": "私は日本に戻った。",
     "translation": "I returned to Japan.",
@@ -3974,7 +3974,7 @@
     "id": "tatoeba-10471580",
     "kana": "かれ は きたい に こたえられなかった。",
     "romaji": [
-      "kare wa kitai ni kotaerarenakata"
+      "kare wa kitai ni kotaerarenakatta"
     ],
     "kanji": "彼は期待に応えられなかった。",
     "translation": "He could not live up to expectations.",
@@ -4018,7 +4018,7 @@
     "id": "tatoeba-79891",
     "kana": "もくてき を はたすの は きつそうだった。",
     "romaji": [
-      "mokuteki o hatasuno wa kitsusoudata"
+      "mokuteki o hatasuno wa kitsusoudatta"
     ],
     "kanji": "目的を果たすのはきつそうだった。",
     "translation": "It looked tough to achieve his aim.",
@@ -4106,7 +4106,7 @@
     "id": "tatoeba-11906612",
     "kana": "わたし に は あかいの を かって。",
     "romaji": [
-      "watashi ni wa akaino o kate"
+      "watashi ni wa akaino o katte"
     ],
     "kanji": "私には赤いのを買って。",
     "translation": "Buy me the red one.",
@@ -4117,7 +4117,7 @@
     "id": "tatoeba-164404",
     "kana": "わたし に いってくれて も よかったのに。",
     "romaji": [
-      "watashi ni itekurete mo yokatanoni"
+      "watashi ni ittekurete mo yokattanoni"
     ],
     "kanji": "私に言ってくれてもよかったのに。",
     "translation": "You might have told me.",
@@ -4150,7 +4150,7 @@
     "id": "tatoeba-543046",
     "kana": "ぼく は うっかり でんちゅう に ぶつかった。",
     "romaji": [
-      "boku wa ukkari denchuu ni butsukata"
+      "boku wa ukkari denchuu ni butsukatta"
     ],
     "kanji": "ぼくはうっかり電柱にぶつかった。",
     "translation": "I carelessly ran into the telegraph pole.",
@@ -4282,7 +4282,7 @@
     "id": "tatoeba-10144930",
     "kana": "そんな とこ に つっ たってないで、 はいりなさい。",
     "romaji": [
-      "sonna toko ni tsu tatenaide hairinasai"
+      "sonna toko ni tsu tattenaide hairinasai"
     ],
     "kanji": "そんなとこに突っ立ってないで、入りなさい。",
     "translation": "Don't just stand there. Come in.",
@@ -4359,7 +4359,7 @@
     "id": "tatoeba-8597054",
     "kana": "きょう は がっこう が なかった！",
     "romaji": [
-      "kyou wa gakkou ga nakata"
+      "kyou wa gakkou ga nakatta"
     ],
     "kanji": "今日は学校がなかった！",
     "translation": "We had no school today!",
@@ -4381,7 +4381,7 @@
     "id": "tatoeba-8703653",
     "kana": "これ は きんこ に しまっておいてください。",
     "romaji": [
-      "kore wa kinko ni shimateoitekudasai"
+      "kore wa kinko ni shimatteoitekudasai"
     ],
     "kanji": "これは金庫にしまっておいてください。",
     "translation": "Please put this in the safe.",
@@ -4447,7 +4447,7 @@
     "id": "tatoeba-169625",
     "kana": "さくや、 いえ に どろぼう が はいった。",
     "romaji": [
-      "sakuya ie ni dorobou ga haita"
+      "sakuya ie ni dorobou ga haitta"
     ],
     "kanji": "昨夜、家に泥棒がはいった。",
     "translation": "My house was broken into last night.",
@@ -4469,7 +4469,7 @@
     "id": "tatoeba-1140535",
     "kana": "たびびと は たちどまって わたし に みち を たずねた。",
     "romaji": [
-      "tabibito wa tachidomate watashi ni michi o tazuneta"
+      "tabibito wa tachidomatte watashi ni michi o tazuneta"
     ],
     "kanji": "旅人は立ち止まってわたしに道を尋ねた。",
     "translation": "The traveler stopped to ask me the way.",
@@ -4491,7 +4491,7 @@
     "id": "tatoeba-12044494",
     "kana": "きっと だれ か が やってくれる よ。",
     "romaji": [
-      "kitto dare ka ga yatekureru yo"
+      "kitto dare ka ga yattekureru yo"
     ],
     "kanji": "きっと誰かがやってくれるよ。",
     "translation": "I'm sure someone will do that.",
@@ -4601,7 +4601,7 @@
     "id": "tatoeba-10217016",
     "kana": "かれら は せきゆ の さいくつ を おこなうつもりだった。",
     "romaji": [
-      "karera wa sekiyu no saikutsu o okonautsumoridata"
+      "karera wa sekiyu no saikutsu o okonautsumoridatta"
     ],
     "kanji": "彼らは石油の採掘を行うつもりだった。",
     "translation": "They intended to drill for oil.",
@@ -4634,7 +4634,7 @@
     "id": "tatoeba-10071284",
     "kana": "あなた の こえ が きにいってます。",
     "romaji": [
-      "anata no koe ga kiniitemasu"
+      "anata no koe ga kiniittemasu"
     ],
     "kanji": "あなたの声が気に入ってます。",
     "translation": "I like your voice.",
@@ -4667,7 +4667,7 @@
     "id": "tatoeba-100272",
     "kana": "かれ は ふうとう を きって あけた。",
     "romaji": [
-      "kare wa fuutou o kite aketa"
+      "kare wa fuutou o kitte aketa"
     ],
     "kanji": "彼は封筒を切って開けた。",
     "translation": "He cut the envelope open.",
@@ -4711,7 +4711,7 @@
     "id": "tatoeba-11136727",
     "kana": "さら は もう あらった よ。",
     "romaji": [
-      "sara wa mou arata yo"
+      "sara wa mou aratta yo"
     ],
     "kanji": "皿はもう洗ったよ。",
     "translation": "I've already washed the dishes.",
@@ -4777,7 +4777,7 @@
     "id": "tatoeba-11052225",
     "kana": "だれ も よみかた が わからなかった。",
     "romaji": [
-      "dare mo yomikata ga wakaranakata"
+      "dare mo yomikata ga wakaranakatta"
     ],
     "kanji": "誰も読み方が分からなかった。",
     "translation": "No one knew how to read.",
@@ -4788,7 +4788,7 @@
     "id": "tatoeba-3014646",
     "kana": "うま は たったまま ねる って ほんとうです か？",
     "romaji": [
-      "uma wa tatamama neru tte hontoudesu ka"
+      "uma wa tattamama neru tte hontoudesu ka"
     ],
     "kanji": "馬は立ったまま寝るって本当ですか？",
     "translation": "Is it true that horses sleep while standing up?",
@@ -4909,7 +4909,7 @@
     "id": "tatoeba-9158838",
     "kana": "かれ の ほお は まっかだった。",
     "romaji": [
-      "kare no hoo wa makkadata"
+      "kare no hoo wa makkadatta"
     ],
     "kanji": "彼の頬は真っ赤だった。",
     "translation": "His cheeks were bright red.",
@@ -4975,7 +4975,7 @@
     "id": "tatoeba-10900037",
     "kana": "くるま は、 わたし の め の まえ で とまった。",
     "romaji": [
-      "kuruma wa watashi no me no mae de tomata"
+      "kuruma wa watashi no me no mae de tomatta"
     ],
     "kanji": "車は、私の目の前で止まった。",
     "translation": "A car stopped in front of me.",
@@ -4997,7 +4997,7 @@
     "id": "tatoeba-9341519",
     "kana": "それぞれ の たんご を つかって ぶん を つくりなさい。",
     "romaji": [
-      "sorezore no tango o tsukate bun o tsukurinasai"
+      "sorezore no tango o tsukatte bun o tsukurinasai"
     ],
     "kanji": "それぞれの単語を使って文を作りなさい。",
     "translation": "Make a sentence with each of these words.",
@@ -5063,7 +5063,7 @@
     "id": "tatoeba-9672414",
     "kana": "なんで あさ ごはん を たべなかった の？",
     "romaji": [
-      "nande asa gohan o tabenakata no"
+      "nande asa gohan o tabenakatta no"
     ],
     "kanji": "なんで朝ごはんを食べなかったの？",
     "translation": "Why didn't you have breakfast?",
@@ -5085,7 +5085,7 @@
     "id": "tatoeba-11571957",
     "kana": "とうきょう の がっこう に かよってます。",
     "romaji": [
-      "toukyou no gakkou ni kayotemasu"
+      "toukyou no gakkou ni kayottemasu"
     ],
     "kanji": "東京の学校に通ってます。",
     "translation": "I go to school in Tokyo.",
@@ -5129,7 +5129,7 @@
     "id": "tatoeba-11496600",
     "kana": "はり で おやゆび を さしちゃった。",
     "romaji": [
-      "hari de oyayubi o sashichata"
+      "hari de oyayubi o sashichatta"
     ],
     "kanji": "針で親指を刺しちゃった。",
     "translation": "I pricked my thumb with a needle.",
@@ -5151,7 +5151,7 @@
     "id": "tatoeba-96727",
     "kana": "かれら は にし のほう へ むかった。",
     "romaji": [
-      "karera wa nishi nohou e mukata"
+      "karera wa nishi nohou e mukatta"
     ],
     "kanji": "彼らは西の方へ向かった。",
     "translation": "They headed westward.",
@@ -5162,7 +5162,7 @@
     "id": "tatoeba-182934",
     "kana": "ぎし が でんちゅう を のぼった。",
     "romaji": [
-      "gishi ga denchuu o nobota"
+      "gishi ga denchuu o nobotta"
     ],
     "kanji": "技師が電柱を上った。",
     "translation": "The engineer climbed the telephone pole.",
@@ -5217,7 +5217,7 @@
     "id": "tatoeba-98851",
     "kana": "かれ は はなすの を やめなかった。",
     "romaji": [
-      "kare wa hanasuno o yamenakata"
+      "kare wa hanasuno o yamenakatta"
     ],
     "kanji": "彼は話すのをやめなかった。",
     "translation": "He didn't stop talking.",
@@ -5250,7 +5250,7 @@
     "id": "tatoeba-80782",
     "kana": "なまえ の つづり を いってください。",
     "romaji": [
-      "namae no tsuzuri o itekudasai"
+      "namae no tsuzuri o ittekudasai"
     ],
     "kanji": "名前の綴りを言ってください。",
     "translation": "How do you spell your name?",
@@ -5261,7 +5261,7 @@
     "id": "tatoeba-3710327",
     "kana": "どう やったら そんな たかい こえ でるんです か？",
     "romaji": [
-      "dou yatara sonna takai koe derundesu ka"
+      "dou yattara sonna takai koe derundesu ka"
     ],
     "kanji": "どうやったらそんな高い声出るんですか？",
     "translation": "How do you make such a high voice?",
@@ -5349,7 +5349,7 @@
     "id": "tatoeba-105537",
     "kana": "かれ は わたし を おとな として あつかってくれる。",
     "romaji": [
-      "kare wa watashi o otona toshite atsukatekureru"
+      "kare wa watashi o otona toshite atsukattekureru"
     ],
     "kanji": "彼は私を大人として扱ってくれる。",
     "translation": "He treats me as an adult.",
@@ -5371,7 +5371,7 @@
     "id": "tatoeba-119439",
     "kana": "かれ が もどってきたら そう はなしましょう。",
     "romaji": [
-      "kare ga modotekitara sou hanashimashou"
+      "kare ga modottekitara sou hanashimashou"
     ],
     "kanji": "彼が戻ってきたらそう話しましょう。",
     "translation": "I will tell him so when he comes back.",

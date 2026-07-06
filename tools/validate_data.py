@@ -5,6 +5,8 @@ import json
 from pathlib import Path
 import re
 
+from generate_data import romaji
+
 ROOT = Path(__file__).resolve().parents[1]
 files = sorted((ROOT / "data").glob("*.json"))
 assert len(files) == 8, f"expected 8 datasets, found {len(files)}"
@@ -27,6 +29,14 @@ for path in files:
         seen_questions.add(row["kana"])
         assert isinstance(row.get("romaji"), list) and all(row["romaji"]), f"{where}: invalid romaji"
         assert all(re.fullmatch(r"[A-Za-z '\-]+", value) for value in row["romaji"]), f"{where}: romaji must be Latin"
+        kana_words = row["kana"].split()
+        for answer in row["romaji"]:
+            answer_words = answer.split()
+            if any("っ" in word or "ッ" in word for word in kana_words):
+                assert len(answer_words) == len(kana_words), f"{where}: kana/romaji word count mismatch"
+                for kana_word, answer_word in zip(kana_words, answer_words):
+                    if "っ" in kana_word or "ッ" in kana_word:
+                        assert answer_word == romaji(kana_word), f"{where}: missing or invalid small-tsu gemination"
         compact = row["kana"].replace(" ", "")
         if level == 1:
             assert "translation" not in row and "kanji" not in row, f"{where}: level 1 has hints"
