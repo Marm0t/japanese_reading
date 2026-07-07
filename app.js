@@ -40,6 +40,7 @@ let round = 0;
 let questionStartedAt = Date.now();
 let examSession = null;
 let loadToken = 0;
+let questionResizeObserver = null;
 saveState();
 
 function loadState() {
@@ -80,15 +81,47 @@ function answerLines(item, includeKana = false) {
   if (item.translation) lines.push(item.translation);
   return lines.join("\n");
 }
+function fitQuestionText() {
+  const questionEl = elements.question;
+  const wrapEl = questionEl?.parentElement;
+  if (!questionEl || !wrapEl || !current) return;
+
+  const maxWidth = Math.max(120, wrapEl.clientWidth - 12);
+  const initialSize = parseFloat(getComputedStyle(questionEl).fontSize) || 56;
+  const minSize = 24;
+
+  questionEl.style.maxWidth = `${maxWidth}px`;
+  questionEl.style.width = "100%";
+  questionEl.style.whiteSpace = "normal";
+  questionEl.style.lineHeight = "";
+
+  let size = initialSize;
+  while (size >= minSize) {
+    questionEl.style.fontSize = `${size}px`;
+    questionEl.style.lineHeight = `${Math.round(size * 1.08)}px`;
+    const lineHeight = parseFloat(getComputedStyle(questionEl).lineHeight) || Math.round(size * 1.08);
+    const lines = Math.round(questionEl.scrollHeight / lineHeight);
+    const fitsWidth = questionEl.scrollWidth <= maxWidth + 1;
+    const fitsHeight = lines <= 2 && questionEl.scrollHeight <= wrapEl.clientHeight + 1;
+    if (fitsWidth && fitsHeight) break;
+    size -= 1;
+  }
+
+  if (size < minSize) {
+    questionEl.style.fontSize = `${minSize}px`;
+    questionEl.style.lineHeight = `${Math.round(minSize * 1.08)}px`;
+  }
+
+  questionEl.classList.add("ready");
+}
 function renderQuestion() {
   if (!current) return;
-  elements.question.replaceChildren();
-  current.kana.split(/\s+/).forEach((word) => {
-    const span = document.createElement("span");
-    span.className = `question-word${state.showSpaces ? " with-space" : ""}`;
-    span.textContent = word;
-    elements.question.append(span);
-  });
+  const words = current.kana.split(/\s+/).filter(Boolean);
+  elements.question.textContent = words.join(state.showSpaces ? " " : "");
+  elements.question.style.fontSize = "";
+  elements.question.style.lineHeight = "";
+  elements.question.classList.remove("ready");
+  requestAnimationFrame(() => fitQuestionText());
 }
 
 async function loadQuestions() {
@@ -249,6 +282,7 @@ function renderStats() {
   });
   elements.levelButtons.forEach((button) => button.classList.toggle("active", Number(button.dataset.level) === level));
   elements.courseButtons.forEach((button) => button.classList.toggle("active", button.dataset.course === course));
+  requestAnimationFrame(() => fitQuestionText());
 }
 function selectLevel(value) {
   const next = Number(value); if (!LEVELS.includes(next)) return;
@@ -289,6 +323,14 @@ elements.reset.addEventListener("click", () => {
   state = { ...EMPTY_STATE, name: state.name, mode, course, level, showSpaces: state.showSpaces, writingFont: state.writingFont, daily: {}, exams: [] };
   saveState(); renderStats();
 });
+
+if (questionResizeObserver) questionResizeObserver.disconnect();
+const questionWrap = elements.question?.parentElement;
+if (questionWrap && "ResizeObserver" in window) {
+  questionResizeObserver = new ResizeObserver(() => fitQuestionText());
+  questionResizeObserver.observe(questionWrap);
+}
+window.addEventListener("resize", fitQuestionText);
 
 renderStats();
 if (level === null) { elements.difficultyScreen.hidden = false; elements.trainerScreen.hidden = true; }
